@@ -14,7 +14,7 @@ on:
 env:
   GCP_SA_EMAIL: ${{ secrets.GCP_SA_EMAIL }}
   GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
-  GCP_BUCKET: bobjiang.com
+  GCP_BUCKET: www.bobjiang.com
 
 jobs:
   setup-deploy:
