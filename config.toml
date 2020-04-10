@@ -21,7 +21,7 @@ paginate = 15
 
 [params]
     # 定义首页的description(在meta标签中，不宜太长，控制在100字以内)
-    description = "Bob Jiang个人博客，专注于敏捷时间、Scrum实战，组织级敏捷；个人成长"
+    description = "Bob Jiang 个人博客，专注于敏捷实践、Scrum实战，组织级敏捷；个人成长；财务自由"
 
     # 定义ICP备案信息
     icpLicense = ""
@@ -67,18 +67,18 @@ name = "所有文章"
 url = "/posts.html"
 weight = 2
 
-[[menu.main]]
-name = "工具推荐"
-url = "/tools.html"
-weight = 3
-
 # [[menu.main]]
-# name = "提供服务"
-# url = "/services.html"
+# name = "工具推荐"
+# url = "/tools.html"
 # weight = 3
 
 [[menu.main]]
-name = "关于我们"
+name = "提供服务"
+url = "/services.html"
+weight = 3
+
+[[menu.main]]
+name = "关于Bob"
 url = "/about.html"
 weight = 4
 
@@ -89,6 +89,26 @@ weight = 4
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
+[[params.social]]
+name = "Youtube"
+icon = "youtube"
+url = "https://www.youtube.com/channel/UCY6l_ASrqbDks31hMFrtkYA"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/xinbaojiang/"
+
+[[params.social]]
+name = "Facebook"
+icon = "facebook"
+url = "https://www.facebook.com/jiangxb"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/bobjiang123"
+
 [[params.social]]
 name = "Github"
 icon = "github"
