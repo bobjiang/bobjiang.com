@@ -1,5 +1,5 @@
 ---
-title: "关于我"
+title: "关于Bob Jiang"
 date: 2011-06-04T13:39:03+08:00
 type: "page"
 ---
