@@ -1,0 +1,27 @@
+---
+title: "产品列表梳理（需求梳理）--Scrum入门基础系列"
+date: "2015-02-23"
+---
+
+产品列表梳理会议是Scrum中非常重要，而很容易被忽略的一个会议。说它重要，是因为Scrum开始之前就需要有准备就绪的输入，这个输入就来自于产品列表梳理会议的结果，即初始的产品列表。而对于刚开始转型敏捷的团队，往往会忽略掉产品列表梳理会（需求梳理），从而造成迭代计划会时间过长，或者无法准时开始迭代等等问题。要想解决这个问题，需要首先明确为什么在迭代开始之前要进行梳理会议，以及谁需要参加这个会议，在这个会议都有哪些活动等。
+
+产品列表梳理会议，是迭代就绪的很好的指示，即只有产品列表准备好了，才可以进入迭代。另外，梳理会议是由产品负责人发起或负责，可以召集开发团队参与，也可以只有相关的开发团队成员或相关的利益干系人参与。
+
+产品列表梳理会议的内容可以总结为如下几个字：增删改。首先需要明确一点的是产品列表不是固定不变的，它是可以随着新需求的出现而变化的（即好的产品列表符合DEEP原则，参加博文[http://bobjiang.com/agile-coach/product\_backlog\_user\_story/](http://bobjiang.com/product_backlog_user_story/)）。
+
+1. 增：那么当出现新需求的时候，就需要增加一条产品列表条目，并且针对新的条目也需要符合良好用户故事的标准（INVEST）。
+2. 删：某条需求如果已经不再需要，或者市场条件变化后该需求就可以删除了。
+3. 改：产品列表的修改还可以分为以下几类：
+    - 重新估算用户故事大小、
+    - 重新排用户故事的顺序、
+    - 用户故事拆分等。
+    - 调整发布计划
+
+- Scrum入门基础系列：
+    - [Scrum入门基础系列之Scrum起源](http://bobjiang.com/scrum_history/)
+    - [Scrum入门基础系列之Scrum框架](http://bobjiang.com/scrum_framework/)
+    - [Scrum入门基础系列之Scrum角色](http://bobjiang.com/scrum_role/)
+    - [Scrum入门基础系列之Scrum会议](http://bobjiang.com/scrum_meeting/)
+    - [Scrum入门基础系列之Scrum工件](http://bobjiang.com/scrum_foundation_artifact/)
+    - [Scrum入门基础系列之Scrum需求梳理](http://bobjiang.com/scrum_product_backlog_refinement/)
+    - [Scrum入门基础系列之Scrum估算](http://bobjiang.com/estimation_in_scrum/)

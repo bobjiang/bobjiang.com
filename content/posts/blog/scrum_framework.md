@@ -1,0 +1,79 @@
+---
+title: "Scrum框架-Scrum入门基础系列"
+date: "2014-10-30"
+coverImage: "Scrum_Framework_low.jpg"
+---
+
+Scrum入门基础系列之Scrum框架
+
+读过几本Scrum书的人，想必对于Scrum框架都可以如数家珍，如Scrum的3个角色，5个会议，3个工件。在展开这些内容之前，我想先介绍一下Scrum的价值观以及敏捷宣言。
+
+### 敏捷宣言\[1\]
+
+> 个体与互动    胜于    流程与工具
+> 
+> 可工作的软件    胜于    详尽的文档
+> 
+> 客户协作    胜于    合同谈判
+> 
+> 响应变化    胜于    遵循计划
+> 
+> 也就是说，尽管右项有其价值，我们更看重左项。
+
+### Scrum价值观\[2\]
+
+专注：一段时间内只专注于少数几件事情。Stop Starting, Start Finishing。团队的能力（精力）是有限的，在有限能力和有限时间范围内，专注于最有价值的事情，以取得更好的成果。
+
+勇气：我们需要勇气去迎接各种挑战。
+
+公开：在团队中公开进展（Progress），即可视化、透明，这样可以很容易的暴露出风险问题和障碍。并且透明也是尊重、信任的基础。
+
+承诺：自组织团队开始的时候做出承诺，并在迭代期间尽全力完成履行承诺。
+
+尊重：团队是坐在一起的，长期稳定的，这有助于加深彼此的尊重和了解。
+
+### Scrum框架
+
+Scrum框架是不是银弹，也不是灵丹妙药。实行Scrum不需要团队成员都是精英。因为Scrum只是快速的把问题暴露出来，以至于我们无法忽视和忍受它。Scrum框架是一个团队的流程框架，由自组织的团队进行改进完善。该框架主要包含角色，会议和工件三大部分。
+
+#### 角色
+
+产品负责人（Product Owner） - Scrum中对产品负有全部责任的唯一人。产品负责人需要创建和维护产品Backlog，并需要参加必须的Scrum会议，如Sprint计划会、Sprint评审会等。详情可以期待下一篇博文（Scrum角色）。
+
+ScrumMaster - 这个角色是Scrum框架提出的新角色。他需要对整个Scrum框架非常熟悉，还需要是一个变革大师。在Scrum中，ScrumMaster没有授权，而还需要完成很多的工作，如移除风险等。
+
+开发团队 - 开发团队指的是跨职能的自组织团队。开发团队中可能包含开发人员、测试人员、用户体验工程师、数据库专家等。开发团队负责完成端到端的工作，从而在Sprint结束的时候可以完成产品增量。
+
+#### 会议
+
+Sprint计划会 - Sprint计划会主要分为2部分：做什么和如何做。Scrum团队一起决定他们要做什么，以及如何构建、测试承诺的工作。在计划会议过程中，产品负责人的重要职责之一是解释澄清模糊的需求。最后的产出为Sprint目标和Sprint Backlog。详情敬请期待后续博文。
+
+每日例会（Daily Scrum） - 每天的15分钟站立会议。Scrum团队一起回答三个问题：从上一次例会到现在我**完成**了什么（重点在于是否完成承诺，以及暴露风险）？从现在到下一次例会我计划完成什么（重点在于承诺）？有什么风险或障碍（尽早暴露问题风险）？
+
+Sprint评审会（Review） - 在Sprint评审会上，产品负责人接受或拒绝团队完成的用户故事。（注：产品负责人应该在平时的工作中进行评审，而不是只在评审会上进行这些工作）这是一个非正式的会议，准备时间不要超过1小时。（注：但必备的准备工作还是需要的）
+
+Sprint回顾会（Retrospective） - Scrum团队一起检视和调整他们的工作方法，以达到成熟高效的自组织团队。
+
+产品Backlog梳理会（Product Backlog Refinement） - 由产品负责人组织协调干系人或团队一起进行产品Backlog梳理，包含但不限于新增需求，删除需求，修改需求，拆分需求，改变需求顺序等等。
+
+#### 工件
+
+产品Backlog - Scrum中需求存放的清单，常见的格式为用户故事，也可以包含其他类型的内容，如缺陷、用例、史诗故事等。
+
+Sprint Backlog - 由Sprint中承诺的故事和相应的任务组成。在Sprint过程中，团队每天都会更新Sprint Backlog，在每日例会上讨论并同步有关Sprint Backlog的信息。
+
+产品增量 - 每个Sprint结束的时候，团队可以交付的产品增量。这应该是潜在可发布的，指的是产品质量达到发布的标准。是否发布由产品负责人做最后的决定。
+
+\[1\] 敏捷宣言 - http://agilemanifesto.org
+
+\[2\] Scrum价值观 - http://scrumalliance.org
+
+Scrum入门基础系列：
+
+- [Scrum入门基础系列之Scrum起源](http://bobjiang.com/scrum_history/)
+- [Scrum入门基础系列之Scrum框架](http://bobjiang.com/scrum_framework/)
+- [Scrum入门基础系列之Scrum角色](http://bobjiang.com/scrum_role/)
+- [Scrum入门基础系列之Scrum会议](http://bobjiang.com/scrum_meeting/)
+- [Scrum入门基础系列之Scrum工件](http://bobjiang.com/scrum_foundation_artifact/)
+- [Scrum入门基础系列之Scrum需求梳理](http://bobjiang.com/scrum_product_backlog_refinement/)
+- [Scrum入门基础系列之Scrum估算](http://bobjiang.com/estimation_in_scrum/)

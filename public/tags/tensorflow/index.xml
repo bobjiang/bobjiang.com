@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TensorFlow on DTeam 团队日志</title>
+    <link>https://blog.dteam.top/tags/tensorflow.html</link>
+    <description>Recent content in TensorFlow on DTeam 团队日志</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 13 Feb 2020 11:21:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.dteam.top/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>土法炮制：RNN 层是如何实现的？</title>
+      <link>https://blog.dteam.top/posts/2020-02/implement-myrnn-with-tensorflow.html</link>
+      <pubDate>Thu, 13 Feb 2020 11:21:35 +0800</pubDate>
+      
+      <guid>https://blog.dteam.top/posts/2020-02/implement-myrnn-with-tensorflow.html</guid>
+      <description>讲过前馈网络和卷积网络之后，那么就让我们来看看循环网络的实现。
+相比前面提到过的网络类型，循环网络存在“记忆”，即它内部会保留过去的状态，并作为下次处理的输入的一部分。因此，在循环网络中，节点的输出如下：
+output_t = activation(dot(W, input_t) + dot(U, state_t) + b) 其中，state_t = output_t，上一次的计算结果。将 RNN 概念图展开，得出下图（摘自《Deep.Learning.with.Python》）：
+本文同样以 imdb 评论为例来进行说明。
+使用 Keras 的做法 Keras 中提供了 RNN 的简单实现： SimpleRNN ，先看看如何用它来搭建模型。注意，这里面需要用到 Embedding 层。
+import tensorflow as tf from tensorflow.keras.datasets import imdb from tensorflow.keras import preprocessing max_features = 10000 maxlen = 500 # 加载数据 (x_train, y_train), (x_test, y_test) = imdb.load_data(num_words=max_features) # 预处理数据，将数据分割成相等长度 x_train = preprocessing.sequence.pad_sequences(x_train, maxlen=maxlen) x_test = preprocessing.sequence.pad_sequences(x_test, maxlen=maxlen) # 模型定义 model = tf.</description>
+    </item>
+    
+  </channel>
+</rss>

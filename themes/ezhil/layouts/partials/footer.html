@@ -1,0 +1,44 @@
+<div class="footer wrapper">
+    <p><img src="/images/mingpian.png"></p>
+    <nav class="nav">
+        <div>{{ with .Site.Copyright }} {{ . }} | {{ end }} 
+            {{- if isset .Site.Params "icplicense" -}}
+            <a href="http://www.beian.miit.gov.cn">{{ .Site.Params.icpLicense }}</a> | 
+            {{ end -}}
+            <a href="mailto:bob@bobjiang.com">联系我们</a> | <a href="https://github.com/vividvilla/ezhil">Ezhil theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
+        </div>
+    </nav>
+</div>
+
+{{- with .Site.Params.Social -}}
+<script>feather.replace();
+       (function () {
+               if (window.location.href.endsWith('about.html') ||
+                       window.location.href.endsWith('posts.html') ||
+                       window.location.href.endsWith('localhost:1313/')) {
+                       return false;
+               };
+
+               var httpRequest = new XMLHttpRequest();
+               if (!httpRequest) {
+                       alert('Giving up :( Cannot create an XMLHTTP instance');
+                       return false;
+               }
+
+               httpRequest.onreadystatechange = alertContents;
+               httpRequest.open('GET', 'https://bobjiang.com/');
+               httpRequest.send();
+
+               function alertContents() {
+                       if (httpRequest.readyState === XMLHttpRequest.DONE) {
+                               if (httpRequest.status === 200) {
+                                       var div = document.getElementsByTagName("div")[0];
+                                       div.innerHTML += '<hr><h3 class="page-title">其他文章</h3>' + httpRequest.responseText.replace('posts',
+                                               'post-header');
+                               }
+                       }
+               }
+       })();
+</script>
+{{- end -}}
+{{- partial "busuanzi.html" . -}}

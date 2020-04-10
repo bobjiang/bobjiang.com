@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ .Language }}">
+{{ partial "header.html" . }}
+
+<body>
+	<div class="container wrapper post">
+		{{ partial "head.html" . }}
+
+		<div class="post-header">
+			<h1 class="title">{{ .Title }}</h1>
+			<div class="meta">{{ if isset .Params "author" }}{{ .Params.author }} {{ end }}Posted at &mdash; {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span
+					class="draft-label">DRAFT</span> {{ end }}
+				<span class="meta" id="busuanzi_container_page_pv">阅读 <span id="busuanzi_value_page_pv"></span></span>
+			</div>
+		</div>
+
+		<div class="share-component" data-sites="qq,weibo,wechat,douban,twitter,facebook"
+			data-description="Share.js - 一键分享到微博，QQ空间，腾讯微博，人人，豆瓣"></div>
+
+		<!--  css & js -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/css/share.min.css">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/js/social-share.min.js"></script>
+
+		<div class="markdown">
+			{{ .Content }}
+		</div>
+
+		<div class="post-tags">
+			{{ if ne .Type "page" }}
+			{{ if gt .Params.tags 0 }}
+			<nav class="nav tags">
+				<ul class="flat">
+					{{ range .Params.tags }}
+					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}.html">{{ . }}</a></li>
+					{{ end }}
+				</ul>
+			</nav>
+			{{ end }}
+			{{ end }}
+		</div>
+
+		{{- $.Scratch.Set "isDisqus" false -}}
+
+		{{- if and (isset .Params "type") (in .Site.Params.disableDisqusTypes .Params.type) -}}
+		{{- $.Scratch.Set "isDisqus" false -}}
+		{{- end -}}
+
+		{{- if and (isset .Params "disqus") (eq .Params.disqus false) -}}
+		{{- $.Scratch.Set "isDisqus" false -}}
+		{{- else if and (isset .Params "disqus") (eq .Params.disqus true) -}}
+		{{- $.Scratch.Set "isDisqus" true -}}
+		{{- end -}}
+
+		{{- if eq ($.Scratch.Get "isDisqus") true -}}
+		{{- partial "disqus.html" . -}}
+		{{- end -}}
+	</div>
+	{{ partial "footer.html" . }}
+</body>
+
+</html>

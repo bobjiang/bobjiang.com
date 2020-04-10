@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scrum master on Bob Jiang Blog</title>
+    <link>https://bobjiang.com/tags/scrum-master.html</link>
+    <description>Recent content in scrum master on Bob Jiang Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 06 Feb 2020 16:05:38 +0800</lastBuildDate>
+    
+	<atom:link href="https://bobjiang.com/tags/scrum-master/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Certified ScrumMaster CSM年薪调查2019</title>
+      <link>https://bobjiang.com/posts/blog/scrummaster/certified-scrummaster-salary-2019.html</link>
+      <pubDate>Thu, 06 Feb 2020 16:05:38 +0800</pubDate>
+      
+      <guid>https://bobjiang.com/posts/blog/scrummaster/certified-scrummaster-salary-2019.html</guid>
+      <description>CSM Certified ScrumMaster 2019年薪水调查 先上图，看2019年CSM薪水调查结果
+Salary.com PayScale.com ziprecruiter.com 总结  什么是CSM 如何成为CSM  </description>
+    </item>
+    
+  </channel>
+</rss>
