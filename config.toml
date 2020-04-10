@@ -1,4 +1,4 @@
-baseURL = "https://bobjiang.com/"
+baseURL = "https://www.bobjiang.com/"
 languageCode = "zh-cn"
 DefaultContentLanguage = "zh-cn"
 title = "Bob Jiang Blog"
@@ -17,7 +17,10 @@ googleAnalytics = "UA-36175470-1"
 # disqusShortname = "localhost"
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
-paginate = 15
+paginate = 5
+
+# Number of characters to show in summary.
+summaryLength = 20
 
 [params]
     # 定义首页的description(在meta标签中，不宜太长，控制在100字以内)
