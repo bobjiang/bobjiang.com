@@ -1,7 +1,8 @@
 ---
-layout: blog_post
 title: 少即是多 - 组织简化的7个设计原则
-author: bas-vodde
+date: 2020-03-01
+url: /less-principles-less-is-more/
+tags: [less, less principles, agile case study, 敏捷案例, 规模化敏捷]
 ---
 
 作者：(Bas Vodde and Craig Larman)  

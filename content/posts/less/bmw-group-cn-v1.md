@@ -1,10 +1,9 @@
 ---
 title: 宝马集团 LeSS案例 （大规模敏捷案例分析）
-order: 250
-id: bwmgroup-unified-sales-platform
-owner: mark-bregenzer
+date: 2020-03-01
+url: /bmw-group-less-case-study/
+tags: [bmw group, 宝马集团, less, agile case study, 敏捷案例, 规模化敏捷]
 ---
-
 # 巴伐利亚汽车制造商的LeSS转型
 
 ## 背景

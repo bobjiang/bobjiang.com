@@ -122,11 +122,6 @@ name = "Mail"
 icon = "mail"
 url = "mailto:bob@bobjiang.com"
 
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
-
 # Enable tags.
 [taxonomies]
    tag = "tags"

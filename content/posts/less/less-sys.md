@@ -1,5 +1,8 @@
 ---
 title: LeSS案例 Sys商店（大规模敏捷案例分析）
+date: 2020-03-01
+url: /sys-store-less-case-study/
+tags: [sys, less, agile case study, 敏捷案例, 规模化敏捷]
 ---
 
 # 前言

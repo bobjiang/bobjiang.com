@@ -1,5 +1,8 @@
 ---
 title: 德国大保险公司（化名） LeSS案例 （大规模敏捷案例分析）
+date: 2020-03-01
+url: /insurance-less-case-study/
+tags: [less, agile case study, 敏捷案例, 规模化敏捷]
 ---
 
 # 德国大保险公司（化名）的巨型LeSS转型尝试

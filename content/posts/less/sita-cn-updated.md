@@ -1,7 +1,8 @@
 ---
 title: Sita - 边境安检 LeSS案例 （大规模敏捷案例分析）
-id: sita-border-security-system
-owner: dinesh-sharma
+date: 2020-03-01
+url: /sita-less-case-study/
+tags: [sita, less, agile case study, 敏捷案例, 规模化敏捷]
 ---
 
 # 边境安检系统：LeSS与离岸开发
