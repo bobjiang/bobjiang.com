@@ -31,9 +31,7 @@ jobs:
       with:
         hugo-version: '0.62.2'
         # extended: true
-
-     - name: Build
-       run: hugo --minify
+      run: hugo --minify
 
 # deploy to google storage
     - uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
@@ -44,7 +42,7 @@ jobs:
         service_account_key: ${{ secrets.GCP_SA_KEY }}
         export_default_credentials: true
     - run: gcloud info
-    
+
     - run: gsutil -m rsync -d -c -r public gs://$GCP_BUCKET
     - run: gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://$GCP_BUCKET/**/*.html
     - run: gsutil -m setmeta -h "Cache-Control:public, max-age=31536000" gs://$GCP_BUCKET/js/*.js
