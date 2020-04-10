@@ -1,33 +1,40 @@
-# This is a basic workflow to help you get started with Actions
+# https://www.mickaelvieira.com/blog/hugo-deployment-to-google-cloud-storage-with-github-actions.html
 
-name: CI
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
+name: Website - Production
 on:
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+    branches:
+      - master
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
+    name: Build & Deploy
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-
-    # Runs a single command using the runners shell
-    - name: Run a one-line script
-      run: echo Hello, world!
-
-    # Runs a set of commands using the runners shell
-    - name: Run a multi-line script
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
+      - uses: actions/checkout@v1
+        with:
+          ref: refs/heads/master
+          fetch-depth: 1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '13.x'
+      - uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+      - run: make deps
+      - run: make lint
+      - run: make test
+        env:
+          NODE_ENV: test
+      - run: make build
+        env:
+          NODE_ENV: production
+          HUGO_ENVIRONMENT: production
+      - uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+        with:
+          version: '276.0.0'
+          service_account_email: ${{ secrets.GCP_SA_EMAIL }}
+          service_account_key: ${{ secrets.GCP_SA_KEY }}
+      - run: gsutil -m rsync -d -c -r public gs://my-gcs-bucket
+      - run: gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://my-gcs-bucket/**/*.html
+      - run: gsutil -m setmeta -h "Cache-Control:public, max-age=31536000" gs://my-gcs-bucket/js/*.js
+      - run: gsutil -m setmeta -h "Cache-Control:public, max-age=31536000" gs://my-gcs-bucket/css/*.css
