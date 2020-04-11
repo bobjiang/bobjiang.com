@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^bobjiang\.com
+RewriteRule ^(.*)$ https://www.bobjiang.com/$1 [R=permanent,L]
