@@ -66,22 +66,22 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "所有文章"
+name = "文章"
 url = "/posts.html"
 weight = 2
 
 [[menu.main]]
-name = "敏捷分享"
+name = "分享"
 url = "/agile.html"
 weight = 3
 
 [[menu.main]]
-name = "提供服务"
+name = "服务"
 url = "/services.html"
 weight = 3
 
 [[menu.main]]
-name = "关于Bob"
+name = "关于"
 url = "/about.html"
 weight = 4
 

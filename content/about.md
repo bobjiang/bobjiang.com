@@ -4,10 +4,11 @@ date: 2011-06-04T13:39:03+08:00
 type: "page"
 ---
 
-## 我的座右铭
+## 座右铭
 > 授人以渔（Empower People）
 
-[订阅《Agile Daily 敏捷日报》](https://www.subscribepage.com/z4n9c4)
+## 价值观
+> 正直、乐观、高效、助人
 
 ## 姜信宝 （Bob Jiang）
 - 中国北方第一位CST（Certified Scrum Trainer）
@@ -15,19 +16,19 @@ type: "page"
 - [敏捷变革中心](https://www.c4at.cn/)合伙人
 - Agile1001联合创始人
 - 《Scrum精髓》的译者
-- [HiBlock区块链社区](https://hiblock.one/)发起人
+- [HiBlock区块链社区](https://hiblock.net/)发起人
 - [博客](https://www.bobjiang.com)
 - [Solidity中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
 
-![me](/wp-content/uploads/2013/12/11.png)
-BoB Jiang的专业证书
-![](/images/bob all certs.jpg)
+## BoB Jiang的专业证书
+![](/images/bob-all-certs.jpg)
 
 ## 关注我(我的社交媒体)
 - [订阅邮件列表 - BoB和他的朋友们](http://eepurl.com/dbNcz5)
-- [和BoB面对面学习Scrum](https://yihuode.io/brands/33) 
+- [和BoB面对面学习Scrum](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
 - [微博](https://www.weibo.com/310653666/)
 - [Github](https://github.com/bobjiang/)
+- [Youtube](https://www.youtube.com/channel/UCY6l_ASrqbDks31hMFrtkYA)
 - [Twitter](https://twitter.com/bobjiang123)
 - [Facebook](https://www.facebook.com/jiangxb)
 - [LinkedIn](https://www.linkedin.com/in/xinbaojiang/)
@@ -48,7 +49,7 @@ BoB Jiang的专业证书
 - [Scrum精髓中文网站](http://essentialscrum.cn/)
 - [影响地图中文网站](https://impactmapping.cn/)
 - [酷翻天 - 敏捷游戏大全](http://coolfunday.com/)
-- [AgileDaily](http://agiledaily.net/)
+- [敏捷日报](http://agiledaily.net/)
 
 ## 赞助
 有了你的赞助，Bob会继续更新本站，以及[敏捷问题集](/agile-faq-cn/)和[敏捷词汇表](/agile-glossaries-cn/)
