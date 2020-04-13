@@ -7,6 +7,8 @@ tags: [Edmund, Edmund Hillary, Edmund Hillary Fellowship, EHF]
 
 ![EHF banner](/images/ehf-banner.png)
 
+[EHF webinar 回放](https://www.bilibili.com/video/BV1Pz41187My/)
+
 # Edmund Hillary Fellowship (EHF) 介绍
 EHF是Edmund Hillary Fellowship （EHF）的缩写，即埃德蒙·希拉里伙伴计划，专注于影响力创新和企业家精神、独特的新西兰移民计划。EHF将世界级的企业家和投资者带到新西兰，一起为这个世界产生积极的变革。
 
@@ -117,6 +119,9 @@ EHF为经济困难的企业家提供了少数的助学金机会。
 官方网址：[https://www.ehf.org/](https://www.ehf.org/) （点击阅读原文查看详细介绍）
 
 想要申请 EHF，欢迎 给我写邮件（申请加入微信群）
+
+[EHF webinar 回放](https://www.bilibili.com/video/BV1Pz41187My/)
+
 邮件 -> jiangxb@gmail.com
 
 [更多信息请点击](https://mp.weixin.qq.com/s/55UVksnNrHJqdVtUaXaRmQ)
