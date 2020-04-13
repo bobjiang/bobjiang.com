@@ -1,7 +1,9 @@
+---
 Title: 服务型领导-Scrum Master能力说明-Scrum Master八个姿势白皮书
 Date: 2017-12-14
 URL: /8-stances-of-scrum-master-1/
 tags: [scrum master ,agile coach, servant leader, change agent, impediment remover]
+---
 
 # Scrum Master作为服务型领导
 服务型领导力和敏捷所提倡的勇气、开放、尊重、专注以及承诺的价值观相一致。它是Scrum Master角色的主干，因此成为我们首先要介绍的角色立场。在这一部分，将介绍什么是服务型领导、服务型领导和敏捷宣言的联系，以及Scrum Master要如何扮演一个服务型领导。

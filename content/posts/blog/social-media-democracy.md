@@ -1,7 +1,9 @@
+---
 Title: 社交网络的黑暗心理学
 Date: 2020-01-10
 URL: /social-media-democracy/
 tags: [social media, 社交媒体]
+---
 
 > 译者注：本文是google机器翻译，阅读原文请翻到最后。
 

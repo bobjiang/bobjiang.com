@@ -21,4 +21,4 @@ url: /scrumalliance/
 **Scrum联盟与其他机构对比**
 - [Scrum联盟介绍及与其他机构对比](/scrumalliance-vs-scrumorg)
 
-[关于BoB Jiang](/me)
+[关于BoB Jiang](/about.html)

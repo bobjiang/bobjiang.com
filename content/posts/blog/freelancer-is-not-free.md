@@ -1,7 +1,9 @@
+---
 Title: 自由职业者不自由
 Date: 2020-03-08
 URL: /freelancer-is-not-free/
 tags: [自由职业者, freelancer, 自由职业技能]
+---
 
 # 如何定义自由职业
 

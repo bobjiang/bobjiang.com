@@ -1,7 +1,9 @@
+---
 Title: 教师-Scrum Master能力说明-Scrum Master八个姿势白皮书
 Date: 2017-12-17
 URL: /8-stances-of-scrum-master-4/
 tags: [scrum master ,agile coach, servant leader, change agent, impediment remover]
+---
 
 # Scrum Master作为教师
 本章是关于Scrum Master作为一名教师。我将会描述一名教师的定义，理论的观点和一些实用的例子关于Scrum Master应该教什么。

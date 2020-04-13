@@ -1,7 +1,9 @@
+---
 Title: 引导师-Scrum Master能力说明-Scrum Master八个姿势白皮书
 Date: 2017-12-16
 URL: /8-stances-of-scrum-master-3/
 tags: [scrum master ,agile coach, servant leader, change agent, impediment remover]
+---
 
 # Scrum Master作为引导师
 本章描述Scrum Master如何作为一位引导师服务产品负责人和开发团队。我会从引导师的定义、常见误解以及一位优秀的引导师应该具备的特质三个方面来介绍。

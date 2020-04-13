@@ -1,7 +1,9 @@
+---
 Title: 管理者-Scrum Master能力说明-Scrum Master八个姿势白皮书
 Date: 2017-12-19
 URL: /8-stances-of-scrum-master-6/
 tags: [scrum master ,agile coach, servant leader, change agent, impediment remover]
+---
 
 # Scrum Master作为管理者
 本节是有关Scrum Master作为管理者的信息。将描述管理者和管理、垂直和水平管理的区别，以及Scrum Master作为管理者的职责

@@ -1,7 +1,9 @@
+---
 Title: 教练-Scrum Master能力说明-Scrum Master八个姿势白皮书
 Date: 2017-12-15
 URL: /8-stances-of-scrum-master-2/
 tags: [scrum master ,agile coach, servant leader, change agent, impediment remover]
+---
 
 # Scrum Master作为教练 
 本章是有关Scrum Master作为教练角色的。我们常常认为Scrum Master是团队的教练，帮助团队发挥出最好水平去达到冲刺目标。本章中，我将描述教练是什么，并分享Scrum Master作为教练时可采用的三个视角。

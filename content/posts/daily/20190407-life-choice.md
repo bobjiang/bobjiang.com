@@ -1,3 +1,12 @@
+---
+title: 一生的选择
+date: "2019-04-06T16:05:38+08:00"
+author: Bob Jiang
+url: /life-choice/
+description: ""
+tags: [人生选择]
+---
+
 # 一生的选择
 
 人的一生其实有很多很多的选择，或者用另一个说法，人的一生是选择组成的。

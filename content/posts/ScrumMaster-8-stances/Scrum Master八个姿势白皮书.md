@@ -1,7 +1,9 @@
+---
 Title: Scrum Master能力说明 - Scrum Master八个姿势白皮书
 Date: 2017-08-27 03:30:09
 URL: /8-stances-of-scrum-master/
 tags: [scrum master ,agile coach, servant leader, change agent, impediment remover]
+---
 
 # Scrum Master的8个姿势
 本文的[英文原文请点击](https://www.scrum.org/resources/8-stances-scrum-master)

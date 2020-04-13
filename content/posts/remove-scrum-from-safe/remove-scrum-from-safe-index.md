@@ -1,7 +1,9 @@
+---
 Title: SAFe请不要篡改Scrum！
 Date: 2020-01-13
 URL: /remove-scrum-from-safe-index/
 tags: [SAFe, Scrum, scrum guide]
+---
 
 [Index](/remove-scrum-from-safe-index/) | [Scrum Master](/remove-scrum-from-safe-sm/) | [Product Owner](/remove-scrum-from-safe-po/) | [Dev Team](/remove-scrum-from-safe-devteam/) | [Scrum](/remove-scrum-from-safe-scrum/)
 

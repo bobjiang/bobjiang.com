@@ -2,6 +2,7 @@
 title: "敏捷认证大全"
 date: "2019-11-20"
 url: /agile-certification/
+tags: [敏捷认证, csm, acp, scrum]
 ---
 今年年初，我曾经写过一篇[敏捷认证对比](/agile-certification-comparison/)的博客。后来有博友咨询是否有更新，今天特地抽出时间整理了一下最新情况。
 
@@ -162,4 +163,4 @@ SAFe并不安全。SAFe的创始人Dean Leffingwell，IBM出身，并且推广SA
 6. [EXIN](https://www.exin.com/certifications/exin-agile-scrum-master-exam)
 7. [PMI](https://www.pmi.org/certifications/types/agile-acp)
 
-[关于作者](/me)
+[关于作者](/about.html)

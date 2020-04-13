@@ -1,3 +1,12 @@
+---
+title: 西安奔驰事件我的想法
+date: "2019-04-06T16:05:38+08:00"
+author: Bob Jiang
+url: /benzi-xian/
+description: ""
+tags: [思考]
+---
+
 # 西安奔驰事件我的想法
 
 [西安奔驰漏油-腾讯新闻](https://view.inews.qq.com/k/20190411A0PSBS00?openid=o04IBAKqN1WKyrcUbPyuvXHuhvfo&key=4b5923b6483a5f4d61dce16f5839343eca2b7812ab7cb2cdd1491ed3273f1afc85526416f0576364fb1bd3142054340e14e7655840298cb9b65b5915136bf86467666c7c42722019e1f036ec0eebe352&version=2700033c&devicetype=android-26&wuid=oDdoCtxjCQfboO9zUqBOWmyJogZY&cv=0x2700033c&dt=2&lang=en&pass_ticket=Fjrnsa%2BiqXTfDktNsOFr2UNXavtSjJsBVdkvJ67hLIoXRH8z%2BsYSldrii49COCQF)

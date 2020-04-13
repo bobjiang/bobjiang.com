@@ -1,7 +1,9 @@
+---
 Title: 虚拟引导中的那些坑（陷阱）与小技巧
 Date: 2020-03-09
 URL: /virtual-facilitation-traps/
 tags: [虚拟引导,virtual facilitation, 自由职业]
+---
 
 # 什么是虚拟引导
 虚拟引导（virtual facilitation），顾名思义，不是线下面对面的引导，而是采用线上的方式进行的引导。

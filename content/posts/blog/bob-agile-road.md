@@ -1,3 +1,12 @@
+---
+title: Bob的敏捷之路
+date: "2019-04-06T16:05:38+08:00"
+author: Bob Jiang
+url: /bob-agile-road/
+description: ""
+tags: [bob jiang, agile, agile coach, 敏捷教练]
+---
+
 # Bob的敏捷之路
 
 本文是我在2019年3月23日杭州敏捷组织者聚会上的分享。主要包含以下内容：
@@ -13,7 +22,7 @@
 - Mentoring
 - Personal Coaching
 
-![](../images/Lyssa-Adkins-competent-coach.png)
+![](/images/Lyssa-Adkins-competent-coach.png)
 
 除了敏捷、精益知识的深度之外（本文不提这个方向，默认已经具备），还需要具备以上4项软技能。从我自身的经验来看，我着重于前两项技能，即 Teaching, Facilitation。
 
@@ -37,7 +46,7 @@
 
 作为个人，可以通过3种方式来赚钱：
 1. 卖自己的时间 - 如我现在的 [CSM/CSPO/CLB](https://yihuode.io/brands/33)。
-2. 可以重复的卖自己的时间 - 如我和伙伴在做的[HiBlock区块链的培训](http://hiblock.one)。
+2. 可以重复的卖自己的时间 - 如我和伙伴在做的[HiBlock区块链的培训](http://hiblock.net)。
 3. 可以用别人的时间来赚钱 - 如合作或成立公司等。
 
 #### 如何用好自己的爱好
@@ -46,7 +55,7 @@
 ## 如何快速进入一个行业
 进入一个行业的时候，往往会比较迷茫。比如一个Scrum新人，或者Tensor Flow新人，一开始并不知道学习什么，从哪里入手。我的经验是，先找一下这个行业中最权威的认证是什么，以及该认证体系中最高的认证的标准是什么。这个标准是这个行业顶尖专家汇总的结果。用这个标准作为行动的清单，检查自己有哪些缺少的地方。可以很快的搞起来。
 
-比如Scrum领域的权威认证就是 [Certified Scrum Master](https://bobjiang.com/what-is-csm)，该体系中最高的认证就是 Certified Scrum Trainer (CST)。我现在是一名CST，致力于在中国推广Scrum。
+比如Scrum领域的权威认证就是 [Certified Scrum Master](/what-is-csm)，该体系中最高的认证就是 Certified Scrum Trainer (CST)。我现在是一名CST，致力于在中国推广Scrum。
 
 ## 个人学习工具推荐
 

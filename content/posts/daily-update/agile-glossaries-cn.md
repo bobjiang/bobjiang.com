@@ -1,7 +1,9 @@
+---
 Title: 敏捷词汇表
 Date: 2019-12-09
 URL: /agile-glossaries-cn/
 tags: [agile, glossary, scrum, kanban]
+---
 
 [English Version](/agile-glossaries-en/)
 

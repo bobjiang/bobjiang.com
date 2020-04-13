@@ -1,7 +1,9 @@
+---
 Title: 如何用google cloud存储分区搭建网站 个人博客
 Date: 2019-12-27
 URL: /how-to-build-website-host-google-cloud/
 tags: [host website, google cloud, blog]
+---
 
 ## Step 1
 注册 google cloud - https://cloud.google.com/?hl=zh-cn

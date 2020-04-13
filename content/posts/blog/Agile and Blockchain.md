@@ -1,3 +1,12 @@
+---
+title: Agile and Blockchain
+date: "2019-04-06T16:05:38+08:00"
+author: Bob Jiang
+url: /agile-and-blockchain/
+description: ""
+tags: [agile, blockchain]
+---
+
 # Agile and Blockchain
 
 ## The origin

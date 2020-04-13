@@ -1,7 +1,12 @@
+---
 Title: CSM课程可以申请PDU
 Date: 2017-07-29 20:22:14
 URL: /apply-pdu-for-csm/
+tags: [csm, scrum training, pmp]
+---
+
 [什么是CSM课程](/what-is-csm)
+
 CSM的课程及证书已经赋予你16个SEU的学分，可以用于后续申请CSP认证。鼓励大家通过申请成为CSP来继续提升你的Scrum经验及技能。
 
 对于PMP，你可以参考下面的指引去申请获得PMI的16个PDU学分。我们本人都没有PMI网站访问的权限，

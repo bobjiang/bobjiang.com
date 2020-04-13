@@ -1,6 +1,15 @@
+---
+title: 开源软件的盈利模式思考
+date: "2019-04-06T16:05:38+08:00"
+author: Bob Jiang
+url: /open-source-introduction/
+description: ""
+tags: [开源软件, open source]
+---
+
 # 开源软件的盈利模式思考
 
-最近一年我进入了区块链行业，和伙伴们一起在运营区块链技术社区，即 [HiBlock.one](http://hiblock.one)。在这个过程中，对我影响最大的是接触到很多开源社区的伙伴。从而让我对于开源有了更多的认识。
+最近一年我进入了区块链行业，和伙伴们一起在运营区块链技术社区，即 [HiBlock.one](http://hiblock.net)。在这个过程中，对我影响最大的是接触到很多开源社区的伙伴。从而让我对于开源有了更多的认识。
 
 ## 开源软件
 首先明确一下开源软件，不代表免费，不代表开发者就是义务贡献。开源软件这个名词最早来源于自由软件（Free Software），由于Free这个词在英语中有免费的含义，后来人们就用了开源软件（open source software）。

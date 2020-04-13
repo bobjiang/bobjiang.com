@@ -1,7 +1,9 @@
+---
 Title: Scrum Master必读材料
 Date: 2019-05-05
 URL: /scrummaster/
 tags: [scrum master ,agile coach, servant leader, change agent, impediment remover]
+---
 
 ## Scrum Master八个姿势系列白皮书
 - [Scrum Master八个姿势系列白皮书](/8-stances-of-scrum-master/)

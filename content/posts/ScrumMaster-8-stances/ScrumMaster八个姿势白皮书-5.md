@@ -1,7 +1,9 @@
+---
 Title: 导师-Scrum Master能力说明-Scrum Master八个姿势白皮书
 Date: 2017-12-18
 URL: /8-stances-of-scrum-master-5/
 tags: [scrum master ,agile coach, servant leader, change agent, impediment remover]
+---
 
 # Scrum Master作为导师
 这一章是关于Scrum Master作为导师的。我将描述导师的定义，辅导与指导的关系，以及Shu-Ha-Ri的思维方式。

@@ -1,7 +1,9 @@
+---
 Title: 清道夫-Scrum Master能力说明-Scrum Master八个姿势白皮书
 Date: 2017-12-20
 URL: /8-stances-of-scrum-master-7/
 tags: [scrum master ,agile coach, servant leader, change agent, impediment remover]
+---
 
 # Scrum Master作为一个“清道夫”
 这一章节是关于Scrum Master要像清道夫一样去帮助开发团队移除障碍的。我会用最常见的定义和实例来阐述什么是“障碍”，并讲述作为清道夫的Scrum Master如何去处理障碍。

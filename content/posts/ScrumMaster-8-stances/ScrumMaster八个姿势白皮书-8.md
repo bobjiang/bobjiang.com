@@ -1,7 +1,9 @@
+---
 Title: 变革大师-Scrum Master能力说明-Scrum Master八个姿势白皮书
 Date: 2017-12-21
 URL: /8-stances-of-scrum-master-8/
 tags: [scrum master ,agile coach, servant leader, change agent, impediment remover]
+---
 
 # Scrum Master作为变革大师
 本章是关于Scrum Master作为变革大师的议题。将描述最常见的定义、Scrum友善文化的特征，以及Scrum Master如何扮演变革大师。

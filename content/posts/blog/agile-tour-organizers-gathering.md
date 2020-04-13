@@ -1,3 +1,12 @@
+---
+title: 杭州敏捷之旅组织者聚会（2019）
+date: "2019-04-06T16:05:38+08:00"
+author: Bob Jiang
+url: /agile-tour-organizaers-gathering/
+description: ""
+tags: [敏捷之旅, agile tour, 杭州]
+---
+
 # 杭州敏捷之旅组织者聚会（2019）
 
 Bob的分享（待整理）

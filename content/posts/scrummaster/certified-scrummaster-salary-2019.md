@@ -1,8 +1,9 @@
+---
 Title: Certified ScrumMaster CSM年薪调查2019
-
 Date: 2019-12-28
 URL: /csm-certified-scrummaster-salary-2019/
 tags: [scrum master, salary]
+---
 
 ## CSM Certified ScrumMaster 2019年薪水调查
 

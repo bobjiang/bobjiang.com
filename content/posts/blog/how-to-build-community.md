@@ -1,3 +1,12 @@
+---
+title: 打造技术社区123
+date: "2019-04-06T16:05:38+08:00"
+author: Bob Jiang
+url: /how-to-build-community/
+description: ""
+tags: [community, 社区建设]
+---
+
 # 打造技术社区123
 
 在开始讨论打造技术社区之前，先要搞清楚为什么打造技术社区，即明确目标（Why）。

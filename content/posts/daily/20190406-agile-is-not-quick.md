@@ -2,6 +2,7 @@
 title: "Agile is not quick"
 date: "2018-12-27"
 url: /agile-is-not-quick-en/
+tags: [agile, adaptive]
 ---
 
 # Agile is not agile

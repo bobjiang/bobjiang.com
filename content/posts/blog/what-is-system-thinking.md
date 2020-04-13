@@ -1,3 +1,12 @@
+---
+title: 什么是系统思维
+date: "2019-04-06T16:05:38+08:00"
+author: Bob Jiang
+url: /what-is-system-thinking/
+description: ""
+tags: [系统思考, 第五项修炼]
+---
+
 # 什么是系统思维
 系统思维（system thinking），也叫系统思考、[系统动力学](https://zh.wikipedia.org/zh/%E7%B3%BB%E7%BB%9F%E5%8A%A8%E5%8A%9B%E5%AD%A6)，是一种用整体思维来思考问题的方式。
 
