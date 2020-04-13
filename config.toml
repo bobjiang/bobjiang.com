@@ -70,10 +70,10 @@ name = "所有文章"
 url = "/posts.html"
 weight = 2
 
-# [[menu.main]]
-# name = "工具推荐"
-# url = "/tools.html"
-# weight = 3
+[[menu.main]]
+name = "敏捷分享"
+url = "/agile.html"
+weight = 3
 
 [[menu.main]]
 name = "提供服务"

@@ -217,6 +217,6 @@ If you’d like to provide input, my email is open at ronjeffries at acm dot org
 - 你身边有没有黑暗敏捷的例子，欢迎分享
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - [订阅邮件列表](https://tinyletter.com/bobjiang)
 

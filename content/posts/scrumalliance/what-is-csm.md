@@ -25,12 +25,12 @@ CSM认证通过后，您还将获得2年的Scrum联盟会员资格。会员可�
 
 # 如何获得CSM认证（Certified Scrum Master）
 
-- 为了获得CSM证书，您需要参加Scrum联盟授权培训师（即CST，[作者Bob就可以发证](http://yihuode.io/brands/33)）的线下面对面课程。
+- 为了获得CSM证书，您需要参加Scrum联盟授权培训师（即CST，[作者Bob就可以发证](https://appmopev1px9533.h5.xiaoeknow.com/homepage)）的线下面对面课程。
 - 课程后参加在线的CSM考试（考试链接发到注册邮箱）。60分钟内完成50道题，答对37道即通过。（单选题）
 - 通过考试后，需要接受CSM证书许可并完善你的Scrum联盟会员资料。
 
 CSM认证的第一步是开始了解Scrum。Scrum联盟也准备了一系列材料，您可以进一步学习。
-接着参加2天的[线下课程](http://yihuode.io/brands/33)。
+接着参加2天的[线下课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)。
 在成功完成课程后，紧接着是参加在线考试，考试通过后就可以获得CSM证书。
 
 [原文链接](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)

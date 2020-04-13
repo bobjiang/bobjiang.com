@@ -125,7 +125,7 @@ tags: [product management]
 - 最近你在读什么书？欢迎分享
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 
 ## 关于作者
 **BoB Jiang**

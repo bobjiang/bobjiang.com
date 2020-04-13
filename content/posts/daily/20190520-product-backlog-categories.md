@@ -20,7 +20,7 @@ tags: [product backlog, 产品列表]
 每日一问：你还知道有哪些类型的产品列表条目？
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - [订阅邮件列表](https://tinyletter.com/bobjiang)
 
 ## 关于作者

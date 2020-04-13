@@ -163,7 +163,7 @@ cucumber有助于在软件团队中的技术人员和非技术人员之间架起
 - 最近一周你看过的有意思的书是什么？
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 
 ## 关于作者
 **BoB Jiang**

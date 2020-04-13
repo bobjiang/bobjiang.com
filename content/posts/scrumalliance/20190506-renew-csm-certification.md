@@ -45,7 +45,7 @@ tags: [scrum, certification]
 - 你要更新CSM/CSPO/CSD证书吗，有什么问题吗？欢迎给我写信： bob@c4at.cn 
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - [订阅邮件列表](https://tinyletter.com/bobjiang)
 
 ## 关于作者

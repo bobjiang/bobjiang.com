@@ -126,6 +126,6 @@ SAFe可能会破坏真正的敏捷。 这是格雷西姆定律的一个例子：
 - 你身边有没有假敏捷的例子，欢迎分享
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - [订阅邮件列表](https://tinyletter.com/bobjiang)
 

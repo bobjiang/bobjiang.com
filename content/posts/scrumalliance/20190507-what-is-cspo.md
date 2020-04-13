@@ -20,7 +20,7 @@ CSPO认证的好处如下：
 除了履行产品负责人的角色外，所有新的Scrum Alliance认证持有者都可获得认证的免费两年会员资格。加入本地用户组和在线社交网络，获得对Gathering大会的大幅折扣等。
 
 ## 要求
-- 上两天的CSPO课程（只有CST才能授课），[最新排课计划](http://yihuode.io/brands/33)
+- 上两天的CSPO课程（只有CST才能授课），[最新排课计划](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - 完成课程后，登录Scrum联盟网站，接受并同意认证的协议，完善会员信息。
 
 维护CSPO需要获得Scrum Education Units® (SEUs)，每两年需要更新你的证书。
@@ -38,7 +38,7 @@ CSM/CSPO课程[如何申请PDU](/apply-pdu-for-csm/)
 - 你要更新CSM/CSPO/CSD证书吗，有什么问题吗？欢迎给我写信： bob@c4at.cn 
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - [订阅邮件列表](https://tinyletter.com/bobjiang)
 
 ## 关于作者

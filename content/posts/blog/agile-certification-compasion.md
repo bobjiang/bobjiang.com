@@ -81,7 +81,7 @@ CSM是非常专业的敏捷认证，尤其是CSM会员数以及历史悠久，�
 
 # 写在结尾
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - [订阅邮件列表](https://tinyletter.com/bobjiang)
 
 ## 关于作者

@@ -57,13 +57,13 @@ tags: [scrum, product development]
 3. 代理人需要一种合理的机制，与老板和员工利益绑定在一起。
 
 # 行动
-- [想了解更多的隐喻，点我查看BoB的课程](http://yihuode.io/brands/33)
+- [想了解更多的隐喻，点我查看BoB的课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 
 ## 每日问题
 - 隐喻是一种很好的思考方式，对于软件开发行业，你还知道哪些隐喻（比喻）呢？
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - [订阅邮件列表](https://tinyletter.com/bobjiang)
 
 ## 关于作者

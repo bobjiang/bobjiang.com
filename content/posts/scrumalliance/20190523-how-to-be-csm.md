@@ -8,7 +8,7 @@ tags: [scrum, csm, 敏捷认证]
 # 如何成为CSM
 
 ## 0. 参加CSM的课堂培训
-在这里你可以找到[Bob的CSM课堂培训](http://yihuode.io/brands/33)
+在这里你可以找到[Bob的CSM课堂培训](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 
 ## 1. 培训后的操作
 首先恭喜你完成了CSM课堂培训，开启一段敏捷之旅。
@@ -28,7 +28,7 @@ tags: [scrum, csm, 敏捷认证]
 - 证书只是一个证书，更重要的是学习能力。想要成为自由职业者，[可以看这里。](https://tinyletter.com/bobjiang)
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - [订阅邮件列表](https://tinyletter.com/bobjiang)
 
 ## 关于作者

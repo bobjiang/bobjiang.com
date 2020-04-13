@@ -79,5 +79,5 @@ Sahota文化模型[注5]通过识别塑造文化的内联元素提供对文化�
 - 你的组织文化是如何识别的，用了什么模型？
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - [订阅邮件列表](https://tinyletter.com/bobjiang)

@@ -26,7 +26,7 @@ Scrum指南尝试只保留最重要最基本的核心元素。那么燃尽图的
 - 你的团队还在用燃尽图吗（尤其是手绘的）？有没有其他可视化的方式来实现Sprint Backlog呢？
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - [订阅邮件列表](https://tinyletter.com/bobjiang)
 
 ## 关于作者

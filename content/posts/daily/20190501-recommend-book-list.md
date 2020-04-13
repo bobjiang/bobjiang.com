@@ -21,7 +21,7 @@ tags: [agile]
 - 你在读什么书呢？
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 
 ## 关于作者
 **BoB Jiang**

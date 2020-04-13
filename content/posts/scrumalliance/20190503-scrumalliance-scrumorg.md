@@ -49,7 +49,7 @@ Scrum联盟有教练计划（CTC，CEC和免费在线教练培训），scrum.org
 - 如果你来构建一个培训机构，你会从哪儿开始？
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - [订阅邮件列表](https://tinyletter.com/bobjiang)
 
 ## 关于作者

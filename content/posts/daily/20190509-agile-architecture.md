@@ -43,7 +43,7 @@ tags: [agile, architecture, 敏捷架构]
 - 在敏捷开发过程中，你们的软件架构是如何进行的？
 
 ## 与BoB面对面
-- [报名BoB的敏捷认证课程](http://yihuode.io/brands/33)
+- [报名BoB的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 - [订阅邮件列表](https://tinyletter.com/bobjiang)
 
 ## 关于作者
