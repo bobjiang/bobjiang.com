@@ -8,6 +8,9 @@ tags: [scrum, certification]
 # 更新（维护）Scrum联盟的证书
 
 ## 入门认证、高级认证及专家级认证
+
+**简言之， CSM证书的更新需要 $100 + 20 SEU**
+
 你为这个认证已经非常努力了。不要让它失效！立即更新并保持两年的认证。
 更新CSM®，CSPO®和/或CSD®认证可以：
 
@@ -31,11 +34,11 @@ tags: [scrum, certification]
  
 下面SEU的要求从2019年2月4日起生效（更新费用不变）：
 
-|两年期的证书	|需要的SEU	|每期的费用|
-|-----------|-----------|--------|
-|CSM®, CSPO®, or CSD®	|20 (**NEW!**)	|$100|
-|A-CSM ， A-CSPO	|30 (**NEW!**)	|$175|
-|CSP®-SM, CSP®-PO, or CSP®	|40	|$250|
+|两年期的证书							|需要的SEU		|每期的费用|
+|---------------------------		|-----------	|--------|
+|CSM®, CSPO®, or CSD®				|  **20** 	|$100|
+|A-CSM ， A-CSPO						|  30 	|$175|
+|CSP®-SM, CSP®-PO					|  40	|$250|
 
 [原文链接](https://www.scrumalliance.org/get-certified/renewing-certifications)
 
