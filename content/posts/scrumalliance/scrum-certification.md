@@ -163,4 +163,4 @@ SAFe并不安全。SAFe的创始人Dean Leffingwell，IBM出身，并且推广SA
 6. [EXIN](https://www.exin.com/certifications/exin-agile-scrum-master-exam)
 7. [PMI](https://www.pmi.org/certifications/types/agile-acp)
 
-[关于作者](/about.html)
+[关于作者](/me)

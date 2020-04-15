@@ -34,4 +34,4 @@ CSM认证的第一步是开始了解Scrum。Scrum联盟也准备了一系列材�
 在成功完成课程后，紧接着是参加在线考试，考试通过后就可以获得CSM证书。
 
 [原文链接](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)
-[了解BoB Jiang](/about.html)
+[了解BoB Jiang](/me)

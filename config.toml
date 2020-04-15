@@ -82,7 +82,7 @@ weight = 3
 
 [[menu.main]]
 name = "关于"
-url = "/about.html"
+url = "/me/"
 weight = 4
 
 [[menu.main]]

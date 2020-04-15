@@ -2,6 +2,7 @@
 title: "企业敏捷实践分享（真实案例）"
 date: 2020-02-16T11:23:03+08:00
 type: "page"
+url: /agile.html
 description: "来自各大企业公司的敏捷实践分享，一线的敏捷案例。"
 ---
 

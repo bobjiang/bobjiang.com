@@ -1,6 +1,7 @@
 ---
 title: "关于Bob Jiang"
 date: 2011-06-04T13:39:03+08:00
+url: /me/
 type: "page"
 ---
 
@@ -11,10 +12,9 @@ type: "page"
 > 正直、乐观、高效、助人
 
 ## 姜信宝 （Bob Jiang）
-- 中国北方第一位CST（Certified Scrum Trainer）
+- 中国北方第一位[CST（Certified Scrum Trainer）]((https://www.scrumalliance.org/community/profile/bjiang))
 - 全球首批LeSS Friendly Scrum Trainer（LFST）
 - [敏捷变革中心](https://www.c4at.cn/)合伙人
-- Agile1001联合创始人
 - 《Scrum精髓》的译者
 - [HiBlock区块链社区](https://hiblock.net/)发起人
 - [博客](https://www.bobjiang.com)
@@ -24,15 +24,15 @@ type: "page"
 ![](/images/bob-all-certs.jpg)
 
 ## 关注我(我的社交媒体)
-- [订阅邮件列表 - BoB和他的朋友们](http://eepurl.com/dbNcz5)
-- [和BoB面对面学习Scrum](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
-- [微博](https://www.weibo.com/310653666/)
+- [Telegram Group](https://t.me/bobjiang123)
 - [Github](https://github.com/bobjiang/)
 - [Youtube](https://www.youtube.com/channel/UCY6l_ASrqbDks31hMFrtkYA)
 - [Twitter](https://twitter.com/bobjiang123)
 - [Facebook](https://www.facebook.com/jiangxb)
 - [LinkedIn](https://www.linkedin.com/in/xinbaojiang/)
 - [ScrumAlliance](https://www.scrumalliance.org/community/profile/bjiang)
+- [和BoB面对面学习Scrum](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
+- [微博](https://www.weibo.com/310653666/)
 
 ## 作品集
 - 《[Scrum精髓](https://item.jd.com/11462889.html)》
