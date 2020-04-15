@@ -24,12 +24,12 @@ In 2014, I got to know CST and the business model, and then I had a goal to be a
 
 There is a minimal requirement for applying CST, like a measurement for me, or my north star. Finally I got CST in the late of 2016.
 
-想要学习 [CSM敏捷认证](https://yihuode.io/brands/33)，一起来报名吧！
+想要学习 [CSM敏捷认证](https://appmopev1px9533.h5.xiaoeknow.com/homepage)，一起来报名吧！
 
 ## About Bob Jiang
 **BoB Jiang**
 
-- HiBlock区块链社区（hiblock.one）发起人  
+- HiBlock区块链社区（hiblock.net）发起人  
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - 国内的敏捷（Agile）大咖  
 - 敏捷变革中心（Center for Agile Transformation）合伙人  

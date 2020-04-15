@@ -45,7 +45,7 @@ tags: [bob jiang, agile, agile coach, 敏捷教练]
 3. 可以采取哪些方式方法？
 
 作为个人，可以通过3种方式来赚钱：
-1. 卖自己的时间 - 如我现在的 [CSM/CSPO/CLB](https://yihuode.io/brands/33)。
+1. 卖自己的时间 - 如我现在的 [CSM/CSPO/CLB](https://appmopev1px9533.h5.xiaoeknow.com/homepage)。
 2. 可以重复的卖自己的时间 - 如我和伙伴在做的[HiBlock区块链的培训](http://hiblock.net)。
 3. 可以用别人的时间来赚钱 - 如合作或成立公司等。
 
@@ -79,9 +79,9 @@ tags: [bob jiang, agile, agile coach, 敏捷教练]
 
 **BoB Jiang**
 
-[和BoB面对面学习Scrum](https://yihuode.io/brands/33) 
+[和BoB面对面学习Scrum](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
 
-- HiBlock区块链社区（[hiblock.one](https://hiblock.one)）发起人  
+- HiBlock区块链社区（[hiblock.net](https://hiblock.net)）发起人  
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
 - 敏捷一千零一夜社区合伙人  

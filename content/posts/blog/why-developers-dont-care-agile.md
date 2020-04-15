@@ -11,7 +11,7 @@ tags: [敏捷, agile]
 
 日期：2019年3月27日
 
-今天和朋友聊天的时候，提到了一个问题（也是我在[CSM敏捷认证课程](https://yihuode.io/brands/33)中碰到的问题）。
+今天和朋友聊天的时候，提到了一个问题（也是我在[CSM敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)中碰到的问题）。
 
 通常我会在课程上做几个简单的调查：
 
@@ -43,9 +43,9 @@ tags: [敏捷, agile]
 
 **BoB Jiang**
 
-[和BoB面对面学习Scrum](https://yihuode.io/brands/33) 
+[和BoB面对面学习Scrum](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
 
-- HiBlock区块链社区（[hiblock.one](https://hiblock.one)）发起人  
+- HiBlock区块链社区（[hiblock.net](https://hiblock.net)）发起人  
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
 - 敏捷一千零一夜社区合伙人  

@@ -50,9 +50,9 @@ tags: []
 
 **BoB Jiang**
 
-[和BoB面对面学习Scrum](https://yihuode.io/brands/33) 
+[和BoB面对面学习Scrum](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
 
-- HiBlock区块链社区（[hiblock.one](https://hiblock.one)）发起人  
+- HiBlock区块链社区（[hiblock.net](https://hiblock.net)）发起人  
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
 - 敏捷一千零一夜社区合伙人  

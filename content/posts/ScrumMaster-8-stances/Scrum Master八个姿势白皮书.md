@@ -24,7 +24,7 @@ Scrum Master可以作为一名：
 这篇文章包含了我作为Scrum Master的个人经验。在这些经验之外，我加上了在看书、读文章和观看视频时发现的内容。我同样加上了大家对Scrum Master角色最常见的误解，以及我为什么让自己从敏捷教练变成了100%的Scrum Master，这个改变背后的原因也是我写出这篇文章的动机，希望你能喜欢。
 
 ## 近期CSM敏捷认证培训  
-- 北京、上海 [点击报名](https://yihuode.io/brands/33)
+- 北京、上海 [点击报名](https://appmopev1px9533.h5.xiaoeknow.com/homepage)
 
 ## 对Scrum Master的8个误解
 尽管上面提到的Scrum Master的8个姿势也许看起来像是常识，但是它们并不是常见的实践。Scrum Master的角色经常会被误解，被认为是：

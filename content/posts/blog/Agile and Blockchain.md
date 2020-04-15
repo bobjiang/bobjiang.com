@@ -102,6 +102,6 @@ In the future, there are at least 2 kinds of organizations, company based and co
 
 ## HiBlock community
 
-Last, but not least, [hiblock community](https://hiblock.one) focuses on blockchain technology, could provide services like technology training, consulting, smart contract auditing, organizing hackthon etc.
+Last, but not least, [hiblock community](https://hiblock.net) focuses on blockchain technology, could provide services like technology training, consulting, smart contract auditing, organizing hackthon etc.
 
-If you have interest, please [Mail us](mailto:info@hiblock.one) . 
+If you have interest, please [Mail us](mailto:info@hiblock.net) . 

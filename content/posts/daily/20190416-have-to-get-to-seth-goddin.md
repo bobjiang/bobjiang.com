@@ -62,7 +62,7 @@ And yes, I’ll point out that you can even do that with your taxes. It’s some
 ## 广告时间
 
 - [订阅邮件列表 - 我有一个梦想](https://tinyletter.com/bobjiang)
-- [和BoB面对面学习Scrum](https://yihuode.io/brands/33) 
+- [和BoB面对面学习Scrum](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
 
 ## 版权声明
 

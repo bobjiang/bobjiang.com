@@ -27,7 +27,7 @@ tags: []
 
 其次，管理层（决策层）要行动起来。公司的前进是需要火车头的带动，这个火车头就是公司的管理层。如果公司管理层只是口头上支持敏捷转型，而行为不发生任何变化，依然不会有什么太好的结果。例如，组织结构不发生任何变化，老板仍然是随时打断开发团队，或者老板随意插入需求等等。（总之，老板或管理层是需要做出表率）
 
-最后，团队需要了解Scrum的框架。（我指的是真正的Scrum，而不是伪造的）因为很多宣讲敏捷的老师，都在把团队往火坑里面推。想要了解真正的Scrum，欢迎关注[Bob的敏捷认证课程](https://yihuode.io/brands/33)。
+最后，团队需要了解Scrum的框架。（我指的是真正的Scrum，而不是伪造的）因为很多宣讲敏捷的老师，都在把团队往火坑里面推。想要了解真正的Scrum，欢迎关注[Bob的敏捷认证课程](https://appmopev1px9533.h5.xiaoeknow.com/homepage)。
 
 ## 写在最后
 
@@ -48,9 +48,9 @@ tags: []
 
 **BoB Jiang**
 
-[和BoB面对面学习Scrum](https://yihuode.io/brands/33) 
+[和BoB面对面学习Scrum](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
 
-- HiBlock区块链社区（[hiblock.one](https://hiblock.one)）发起人  
+- HiBlock区块链社区（[hiblock.net](https://hiblock.net)）发起人  
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
 - 敏捷一千零一夜社区合伙人  

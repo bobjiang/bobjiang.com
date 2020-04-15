@@ -58,7 +58,7 @@ tags: [community, 社区建设]
 我亲身经历的社区有：
 
 - [敏捷社区](https://github.com/agiletour-china)
-- [HiBlock区块链技术社区](http://hiblock.one)
+- [HiBlock区块链技术社区](http://hiblock.net)
 
 那么社区从本质上来讲，就像一个集市，人群来来往往。有需求的人自然会选择加入，强烈需求就可能会加入组织者，一起贡献力量。作为发起人，更多需要考虑的是如何组织好社区。
 
@@ -71,9 +71,9 @@ tags: [community, 社区建设]
 
 **BoB Jiang**
 
-[和BoB面对面学习Scrum](https://yihuode.io/brands/33) 
+[和BoB面对面学习Scrum](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
 
-- HiBlock区块链社区（[hiblock.one](https://hiblock.one)）发起人  
+- HiBlock区块链社区（[hiblock.net](https://hiblock.net)）发起人  
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
 - 敏捷一千零一夜社区合伙人  

@@ -43,12 +43,12 @@ tags: [agile, scrum, delivery, discovery]
 
 赶快扔下那些交代，一起来专注于交付吧！
 
-想要学习 [CSM敏捷认证](https://yihuode.io/brands/33)，一起来报名吧！
+想要学习 [CSM敏捷认证](https://appmopev1px9533.h5.xiaoeknow.com/homepage)，一起来报名吧！
 
 ## 关于Bob Jiang
 **BoB Jiang**
 
-- HiBlock区块链社区（hiblock.one）发起人  
+- HiBlock区块链社区（hiblock.net）发起人  
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - 国内的敏捷（Agile）大咖  
 - 敏捷变革中心（Center for Agile Transformation）合伙人  

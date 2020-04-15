@@ -32,7 +32,7 @@ tags: []
 
 ## 为什么暴徒式编程有用
 
-我经常在[课程上](https://yihuode.io/brands/33)问学员这样一个问题：
+我经常在[课程上](https://appmopev1px9533.h5.xiaoeknow.com/homepage)问学员这样一个问题：
 
 **软件开发的目的是什么？**
 
@@ -76,9 +76,9 @@ bob at c4at.cn
 
 **BoB Jiang**
 
-[和BoB面对面学习Scrum](https://yihuode.io/brands/33) 
+[和BoB面对面学习Scrum](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
 
-- HiBlock区块链社区（[hiblock.one](https://hiblock.one)）发起人  
+- HiBlock区块链社区（[hiblock.net](https://hiblock.net)）发起人  
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
 - 敏捷一千零一夜社区合伙人  

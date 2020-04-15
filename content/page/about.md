@@ -43,7 +43,7 @@ type: "page"
 ## 我的网站
 - [Bob Jiang个人博客](https://www.bobjiang.com)
 - [敏捷变革中心](https://www.c4at.cn/)
-- [HiBlock区块链社区](https://hiblock.one/)
+- [HiBlock区块链社区](https://hiblock.net/)
 - [Regional ScrumGathering](http://scrumgatheringchina.com/)
 - [Scrum培训](http://scrumtraining.cn/)
 - [Scrum精髓中文网站](http://essentialscrum.cn/)
