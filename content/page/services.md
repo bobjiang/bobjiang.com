@@ -5,17 +5,17 @@ type: "page"
 url: /services.html
 description: "专业敏捷培训 | 高质量敏捷咨询辅导"
 ---
+## Certified Scrum Master 国际权威敏捷认证
 
-## Scrum联盟敏捷认证
-### 敏捷认证的对比
-- [敏捷认证的对比(更新版)](/agile-certification)
-- [敏捷认证的对比](/agile-certification-comparison)
+- [CSM信息大全](/csm/)
+- [CSPO课程大纲](/cspo-intro.html)
 
-### 近期敏捷认证公开课程安排
-- [敏捷认证课程安排](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
+## 近期CSM敏捷认证公开课程安排
 
-### [什么是CSM](/what-is-csm)
-### 敏捷辅导以及专家团队
+- [CSM敏捷认证课程安排](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
+
+## 敏捷辅导以及专家团队
+
 - [姜信宝BoB Jiang](/me)
 - 胡家闳Remington Hu
 - [侯伯薇](https://cn.linkedin.com/in/houbowei)
