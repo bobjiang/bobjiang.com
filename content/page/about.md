@@ -12,7 +12,7 @@ type: "page"
 > 正直、乐观、高效、助人
 
 ## 姜信宝 （Bob Jiang）
-- 中国北方第一位[CST（Certified Scrum Trainer）]((https://www.scrumalliance.org/community/profile/bjiang))
+- 中国北方第一位 [CST - Certified Scrum Trainer](https://www.scrumalliance.org/community/profile/bjiang)
 - 全球首批LeSS Friendly Scrum Trainer（LFST）
 - [敏捷变革中心](https://www.c4at.cn/)合伙人
 - 《Scrum精髓》的译者
