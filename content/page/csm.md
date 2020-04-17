@@ -8,13 +8,14 @@ description: "CSM, Scrum联盟的权威敏捷认证"
 
 ![csm banner](/images/csm-banner.png)
 
-# 认证前
+# A. 认证前
 
 在学习Certified Scrum Master (CSM)之前，你需要了解：
 
 1. 什么是CSM
 2. CSM认证与其他敏捷认证有什么区别
-3. CSM培训课程大纲
+3. 常见问题
+4. CSM培训课程大纲
 
 ## 1. 什么是CSM
 
@@ -22,18 +23,22 @@ description: "CSM, Scrum联盟的权威敏捷认证"
 
 ## 2. Scrum国际敏捷认证
 
-### 2.1 敏捷认证的对比
+### 敏捷认证的对比
 - [敏捷认证的对比(更新版)](/agile-certification)
 - [敏捷认证的对比](/agile-certification-comparison)
 
-## CSM培训课程大纲
+## 3. CSM认证的常见问题
+
+- [常见问题列表](/csm-faq/)
+
+## 4. CSM培训课程大纲
 
 - [CSM课程大纲](/csm-intro.html)
 
 # CSM敏捷认证课程安排
 - [CSM认证课程报名链接](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
 
-# 认证中
+# B. 认证中
 
 如果你已经决定参加 [CSM认证](https://appmopev1px9533.h5.xiaoeknow.com/homepage)，那么你需要注意以下事项：
 
@@ -45,7 +50,7 @@ description: "CSM, Scrum联盟的权威敏捷认证"
 
 - [CSM考试流程](/csm-exam.html)
 
-# 认证后
+# C. 认证后
 
 ## 后续服务
 
