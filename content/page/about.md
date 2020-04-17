@@ -11,6 +11,10 @@ type: "page"
 ## 价值观
 > 正直、乐观、高效、助人
 
+## 加入我的知识星球，探讨敏捷实践、组织转型、个人成长
+
+![](/images/zhishixingqiu.png)
+
 ## 姜信宝 （Bob Jiang）
 - 中国北方第一位 [CST - Certified Scrum Trainer](https://www.scrumalliance.org/community/profile/bjiang)
 - 全球首批LeSS Friendly Scrum Trainer（LFST）

@@ -14,6 +14,10 @@ description: "专业敏捷培训 | 高质量敏捷咨询辅导"
 
 - [CSM敏捷认证课程安排](https://appmopev1px9533.h5.xiaoeknow.com/homepage) 
 
+## 加入我的知识星球，探讨敏捷实践、组织转型、个人成长
+
+![](/images/zhishixingqiu.png)
+
 ## 敏捷辅导以及专家团队
 
 - [姜信宝BoB Jiang](/me)

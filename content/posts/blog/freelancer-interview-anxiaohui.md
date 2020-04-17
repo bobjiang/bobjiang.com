@@ -1,6 +1,6 @@
 ---
 Title: 自由职业者访谈录：对话图书出版达人/职业规划师/程序员安晓辉
-Date: 2020-04-09
+Date: 2020-04-17
 URL: /freelancer-interview-anxiaohui/
 tags: [freelancer, 自由职业, 安晓辉, 知乎live]
 ---
