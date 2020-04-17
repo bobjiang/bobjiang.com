@@ -5,6 +5,8 @@ URL: /freelancer-interview-anxiaohui/
 tags: [freelancer, 自由职业, 安晓辉, 知乎live]
 ---
 
+- 采访回放 - [B站](https://www.bilibili.com/video/BV1zA411b7gM/) | [Youtube](https://www.youtube.com/watch?v=wN72O7QxZaM)
+
 ### Bob：大家好，很高兴本期访谈邀请到了安晓辉。晓辉，先跟大家做个简单的自我介绍。
 
 **安晓辉**：大家好，我是安晓辉，我用三个标签介绍一下自己：
