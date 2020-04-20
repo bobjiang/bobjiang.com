@@ -65,4 +65,4 @@ Bob Jiang
 
 最后附上《如何阅读一本书》的思维导图
 
-[![如何阅读一本书](http://bobjiang.com/wp-content/uploads/2014/11/如何阅读一本书-1024x552.png)](http://bobjiang.com/wp-content/uploads/2014/11/如何阅读一本书.png)
+[![如何阅读一本书](/wp-content/uploads/2014/11/如何阅读一本书-1024x552.png)](/wp-content/uploads/2014/11/如何阅读一本书.png)

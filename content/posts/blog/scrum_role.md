@@ -68,7 +68,7 @@ Scrum中定义有三个角色
 
 ### 职责
 
-开发团队的职责可以参考下图 [![development team low1](http://bobjiang.com/wp-content/uploads/2014/11/development-team-low1.jpg)](http://bobjiang.com/wp-content/uploads/2014/11/development-team-low1.jpg)
+开发团队的职责可以参考下图 [![development team low1](/wp-content/uploads/2014/11/development-team-low1.jpg)](/wp-content/uploads/2014/11/development-team-low1.jpg)
 
 开发团队在Sprint中主要负责以下工作：
 
@@ -101,7 +101,7 @@ Scrum中定义有三个角色
 
 传统的项目经理职责，可以参考PMI给出的定义，主要包含了9大活动：集成、范围、时间、成本、质量、人力资源、沟通、风险和采购。而在Scrum中，项目经理的这些职责可以由产品负责人、开发团队、ScrumMaster以及经理来担任。如下图：
 
-[![project manager2](http://bobjiang.com/wp-content/uploads/2014/11/project-manager2.jpg)](http://bobjiang.com/wp-content/uploads/2014/11/project-manager2.jpg)
+[![project manager2](/wp-content/uploads/2014/11/project-manager2.jpg)](/wp-content/uploads/2014/11/project-manager2.jpg)
 
 那么问题来了，是否还有必要保留单独的项目经理角色呢？
 

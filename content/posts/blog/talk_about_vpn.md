@@ -7,7 +7,7 @@ date: "2015-02-16"
 
 # 申请linode账号
 
-第一步，申请Linode账号，根据自己的需要选择资费方案。 [![linode1](http://bobjiang.com/wp-content/uploads/2015/02/linode1.png)](https://www.linode.com/?r=0e6ffbe8fe1ed05af48108740db6a22632325d99)
+第一步，申请Linode账号，根据自己的需要选择资费方案。 [![linode1](/wp-content/uploads/2015/02/linode1.png)](https://www.linode.com/?r=0e6ffbe8fe1ed05af48108740db6a22632325d99)
 
 第二步，根据向导一步一步注册就好，在选择机房的时候可以根据自己的需要。我选择的是东京的机房，考虑到博客的读者主要都在国内。
 

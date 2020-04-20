@@ -56,4 +56,4 @@ Scrum一开始会让人感到不自在。情况不会马上好转：团队的开
 
 注：认真理解并做好上述的方法后，你也可以成为一个认证的ScrumMaster （CSM）
 
-[![SCR20146-Seals-Final-CSM](http://bobjiang.com/wp-content/uploads/2014/01/SCR20146-Seals-Final-CSM.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/SCR20146-Seals-Final-CSM.jpg)
+[![SCR20146-Seals-Final-CSM](/wp-content/uploads/2014/01/SCR20146-Seals-Final-CSM.jpg)](/wp-content/uploads/2014/01/SCR20146-Seals-Final-CSM.jpg)

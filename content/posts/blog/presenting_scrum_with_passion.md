@@ -3,7 +3,7 @@ title: "激情演讲Scrum"
 date: "2013-12-10"
 ---
 
-[![Barack Obama](http://bobjiang.com/wp-content/uploads/2013/12/Obama-300x195.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/Obama.jpg)
+[![Barack Obama](/wp-content/uploads/2013/12/Obama-300x195.jpg)](/wp-content/uploads/2013/12/Obama.jpg)
 
 作为Scrum教练和培训师，我们经常做展示和演讲。我知道有些人经常修改演讲内容。但是他们忽视了演讲最重要的部分：交付。一周后，大多数人只记得听到的10% —— 猜猜是哪10%呢？德克尔通讯喜欢引用SHARP原则：
 

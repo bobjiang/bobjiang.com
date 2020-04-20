@@ -25,7 +25,7 @@ date: "2015-11-15"
 
 4每支团队都有一名兼职的SM。由于同时兼职开发工作，所以这位SM的工作基本以引导各种Scrum会议为主。没有更多的精力去帮助团队改进和成长。
 
-[![Screen Shot 2015-11-16 at 10.34.16 AM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.16-AM-1024x679.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.16-AM.png)
+[![Screen Shot 2015-11-16 at 10.34.16 AM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.16-AM-1024x679.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.16-AM.png)
 
 在敏捷教练团队（Daniel Teng和他的同事们）进入GE Surgery SW团队并进行了评估后，他们提出了两种启动敏捷转型的方法：一种是变革式的，而另一种是渐进式的。他们和Surgery SW经理高剑宏进行了一次深入的探讨，并决定对组织文化和组织结构进行一次由内向外的变革。随后Daniel设计并引导团队进行了团队自设计的工作坊。这次里程碑式的工作坊在Surgery SW内部也被称为“团队成年礼”。通过这次成年礼，团队完成如下转变：
 
@@ -37,7 +37,7 @@ date: "2015-11-15"
 
 **4**设置两名专职的SM，每位SM负责两支团队。SM可以更深入的引导团队进行持续改进。
 
-[![Screen Shot 2015-11-16 at 10.34.24 AM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.24-AM-1024x731.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.24-AM.png)
+[![Screen Shot 2015-11-16 at 10.34.24 AM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.24-AM-1024x731.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.24-AM.png)
 
 **接下来让我们来看看团队评估和成年礼的具体过程。**
 
@@ -45,13 +45,13 @@ date: "2015-11-15"
 
 在Coach进入团队进行了为期3天的评估后，Daniel向Surgery软件经理高剑宏提出需要对团队进行一场由内到外的变革。这意味着两个方面。首先，要将团队的组织文化转变为“自组织”型的文化，让团队成员成为“成年人”。其次，需要对团队的组织结构进行调整。建立功能团队，合并PO和PB，设置专职的SM。
 
-[![Screen Shot 2015-11-16 at 10.34.31 AM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.31-AM-1024x925.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.31-AM.png)
+[![Screen Shot 2015-11-16 at 10.34.31 AM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.31-AM-1024x925.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.31-AM.png)
 
 这对于SurgerySW无疑是一场深入而巨大的变革。作为经理的高剑宏需要考虑变革所带来的好处及其可能引发的后果。团队是否可以适应新的组织文化？团队结构的调整势必会造成一部分已有工作的浪费并对项目造成一定的影响，这样的影响是否可以接受？在这种转型中，经理的角色应该发生怎样的转变？种种问题并非短时间 可以考虑清楚。所以在提出建议后，Daniel请剑宏仔细的考虑三天的时间。最终，三天后剑宏给出的答复是“Goahead!”。一场由内而外的变 革也随之拉开了帷幕。
 
 转型前的Surgery SW团队的管理水平大致位于“Manager-led team”与“Self-Managing team”之间（见图4）。团队可以管理Sprint内部的工作，但团队的工作流程、DOD以及每个Sprint所做的Feature都是被管理层（经理、PO以及SM）所指派的。而这次转型的目标是要让团队达到“Self-Designing team”的水平。这就需要将认领任务、制定工作流程、定义DOD以及团队设计的权利移交给团队。受到Craig Larman和Ahmad Fahmy的“How to Form Teams in Large-Scale Scrum? A Storyof Self-Designing Teams”的文章的启发，Daniel建议引导团队进行一次自设计的工作坊。在这次工作坊上Coach会引导团队进行自设计，选举他们认可的SM，并定义团队自己的流程和DOD，以此完成权利的移交，从而带动组织文化朝“自组织”方向转型。这项建议随后也得到了高的同意。
 
-[![Screen Shot 2015-11-16 at 10.34.40 AM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.40-AM-1024x689.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.40-AM.png)
+[![Screen Shot 2015-11-16 at 10.34.40 AM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.40-AM-1024x689.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.34.40-AM.png)
 
 作为前期准备的一项重要活动，在自设计工作坊前一周，教练还通过微信群将相关的消息提前发布给了团队。并告知如果希望竞选SM的同学需要提前准备一个2-3分钟的竞选演讲。这一提前准备活动为团队提供了一个“转型”的信号，同时也让团队中的成员有较充分的时间思考是否愿意竞选SM。
 
@@ -98,7 +98,7 @@ date: "2015-11-15"
 
 通过这个团队自己讨论的过程，让大家对团队组建的规则更加理解并认可。
 
-[![Screen Shot 2015-11-16 at 10.31.46 AM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.31.46-AM-1024x571.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.31.46-AM.png)
+[![Screen Shot 2015-11-16 at 10.31.46 AM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.31.46-AM-1024x571.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.31.46-AM.png)
 
 **\- 第一个团队组建迭代**
 
@@ -110,7 +110,7 @@ date: "2015-11-15"
 
 在第一个迭代结束时，我们可以看到四支跨职能、跨模块的团队已经初步形成了。而这个过程只用了20分钟。
 
-[![Screen Shot 2015-11-16 at 10.31.53 AM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.31.53-AM-1024x390.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.31.53-AM.png)
+[![Screen Shot 2015-11-16 at 10.31.53 AM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.31.53-AM-1024x390.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.31.53-AM.png)
 
 **\- 第一个团队组建迭代的Review**
 
@@ -118,7 +118,7 @@ date: "2015-11-15"
 
 如果发现这支团队还有哪些问题，就贴一个Bug（红色报事贴）在该团队的海报上。这其中比较典型的问题“团队的跨模块能力不均衡，有些团队在某个模块上能力较弱”以及“老人和新人搭配不均衡，导致团队间能力差距较大”。收获了满满的Bug后，团队进入了下一个自组建迭代。
 
-[![Screen Shot 2015-11-16 at 10.31.59 AM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.31.59-AM-1024x618.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.31.59-AM.png)
+[![Screen Shot 2015-11-16 at 10.31.59 AM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.31.59-AM-1024x618.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.31.59-AM.png)
 
 **\- 第二个团队组建迭代**
 
@@ -138,19 +138,19 @@ date: "2015-11-15"
 
 形成后，要做的第一件事情就是选举各自团队的SM。之前经理和Coach讨论后，根据目前的敏捷转型状态，既定为两位专职的SM，每位SM负责两个团队。在8位竞选者中，每个团队可以投两位SM作为意向。团队做了5分钟的讨论，给出了投票结果。投票的结果比较集中，出现相同票数后，收敛的也很快。很快团队就在8名候选人中确定了两位SM，分别为黄喆和方建国，即我们两位笔者。在确认了两位SM后，团队又对人员组成进行了调整。至此，经历了大概1个小时的两轮迭代，4支自组建的团队以及两位SM最终确定了下来。
 
-[![Screen Shot 2015-11-16 at 10.23.22 AM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.23.22-AM-1024x573.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.23.22-AM.png)
+[![Screen Shot 2015-11-16 at 10.23.22 AM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.23.22-AM-1024x573.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.23.22-AM.png)
 
 - **规则制定**
 
 接下来，团队各自定义自己的队名，DOD以及Working Agreement。值得一提的是DOD，由于我们所工作的GE Surgery部门生产的是医疗设备。这些医疗设备的研发过程都有严格法规和监管机制。所以经理以及团队核心成员给入了一个基本的DOD，这其中包括了所有法规要求的必要活动。团队在此基础上，可以根据团队的自身情况制定特有的DOD。这种方式，既满足了监管要求，同时也给了团队自管理的权利。
 
-[![Screen Shot 2015-11-16 at 10.23.40 AM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.23.40-AM-981x1024.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.23.40-AM.png)
+[![Screen Shot 2015-11-16 at 10.23.40 AM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.23.40-AM-981x1024.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.23.40-AM.png)
 
 - **组建虚拟团队**
 
 纵向的建立了4只跨职能、跨模块的团队后，接下来就是横向的建立虚拟团队，让之前模块和职能团队所要完成的目标仍然可以实现。建立虚拟团队的过程仍然是团队自组织的，具体采用的是Open Space的形式。首先，向大家征集虚拟团队的主题。每个人都可以提议主题。之后，提出主题的同事轮流上台向大家做出介绍，并将各自的主题贴在墙上。每轮可以并行讨论四个4主题，共进行两轮。大家自愿选择想要加入的虚拟团队。整个过程持续了大概2个小时。收获是8支虚拟团队，其方向即囊括了之前的模块方向，同时还涉及很多敏捷工程实践领域，比如TDD、BDD等。令人惊喜的是，这其中还包含一些技术兴趣小组，展示出了大家对技术的兴趣，这是之前没有发现的。
 
-[![Screen Shot 2015-11-16 at 10.23.47 AM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.23.47-AM-1024x774.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.23.47-AM.png)
+[![Screen Shot 2015-11-16 at 10.23.47 AM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.23.47-AM-1024x774.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-16-at-10.23.47-AM.png)
 
 ## **总结：自设计工作坊的成果**
 

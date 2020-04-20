@@ -3,7 +3,7 @@ title: "ORID和敏捷回顾会议的结合"
 date: "2013-11-12"
 ---
 
-[![orid](http://bobjiang.com/wp-content/uploads/2013/11/orid1.jpg)](http://bobjiang.com/wp-content/uploads/2013/11/orid1.jpg)
+[![orid](/wp-content/uploads/2013/11/orid1.jpg)](/wp-content/uploads/2013/11/orid1.jpg)
 
 最近看了一下ORID，有所感悟，是否可以把ORID应用到平时Scrum的回顾会议（Retrospective）呢？答案是肯定的。
 
@@ -47,7 +47,7 @@ _注明：\[\]__里面代表Agile Retrospective__的过程。_
 
 最后非常感谢张树金同学做的一个关于ORID打油诗总结：
 
-[![orid](http://bobjiang.com/wp-content/uploads/2013/11/orid-300x150.jpg)](http://bobjiang.com/wp-content/uploads/2013/11/orid.jpg)
+[![orid](/wp-content/uploads/2013/11/orid-300x150.jpg)](/wp-content/uploads/2013/11/orid.jpg)
 
 用好ORID最关键之处在于明确团队**讨论的理性和体验目标**，设计出**好的问题**，选出**对的问题**，并安排好**对的问题的顺序**。
 

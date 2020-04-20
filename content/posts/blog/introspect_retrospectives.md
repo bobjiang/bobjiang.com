@@ -3,7 +3,7 @@ title: "回顾会议的反思 - Retrospectives（译）"
 date: "2013-12-02"
 ---
 
-[![retrospective-infoq](http://bobjiang.com/wp-content/uploads/2013/12/retrospective-infoq-300x208.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/retrospective-infoq.jpg)
+[![retrospective-infoq](/wp-content/uploads/2013/12/retrospective-infoq-300x208.jpg)](/wp-content/uploads/2013/12/retrospective-infoq.jpg)
 
 回顾会议是Scrum的一部分，用来反思完成的工作，从而帮助团队提高（自组织和定期调整）。然而，我目睹了许多团队的回顾会议，他们会议变得单调地重复或者变成“形同虚设的会议cribbing sessions。”回顾会议往往就得到扩展（不是在限定时间内完成），并且通常不产生任何实际的改变（业务价值），也不识别和解决问题。
 

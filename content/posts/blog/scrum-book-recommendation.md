@@ -7,7 +7,7 @@ date: "2015-09-23"
 
 说一下为什么这里推荐Scrum书籍推荐而不推荐敏捷书籍。因为采用敏捷方法当中，有95%的人实际采用的是Scrum框架。这也就是说，很多人都在说敏捷，其实就是特指Scrum框架。（信息来源是2015年ScrumAlliance发布的[Scrum状态报告](https://www.scrumalliance.org/why-scrum/state-of-scrum-report/2015-state-of-scrum)）见下图：
 
-[![Scrum-Framework-from-state-of-scrum-2015](http://bobjiang.com/wp-content/uploads/2015/09/Scrum-Framework-from-state-of-scrum-2015.png)](http://bobjiang.com/wp-content/uploads/2015/09/Scrum-Framework-from-state-of-scrum-2015.png)
+[![Scrum-Framework-from-state-of-scrum-2015](/wp-content/uploads/2015/09/Scrum-Framework-from-state-of-scrum-2015.png)](/wp-content/uploads/2015/09/Scrum-Framework-from-state-of-scrum-2015.png)
 
 ## Scrum书籍必读
 

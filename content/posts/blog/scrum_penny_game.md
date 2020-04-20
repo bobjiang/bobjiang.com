@@ -3,7 +3,7 @@ title: "翻硬币游戏（Scrum游戏）"
 date: "2013-12-07"
 ---
 
-[![pennies-021](http://bobjiang.com/wp-content/uploads/2013/12/pennies-021-300x225.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/pennies-021.jpg)
+[![pennies-021](/wp-content/uploads/2013/12/pennies-021-300x225.jpg)](/wp-content/uploads/2013/12/pennies-021.jpg)
 
 翻硬币游戏在Scrum培训中很常用，因为它是一个很简单，但能揭示很多道理的游戏。下面我会介绍一下这个游戏的规则和所揭示的一些道理。
 
@@ -13,7 +13,7 @@ date: "2013-12-07"
 
 **游戏概述** 翻硬币游戏，在网上查到最早是由Joe Little提出来的，后来Jeff Sutherland还有Crisp公司的咨询师都大力推广。我在学习这个游戏后，深入发掘发现它不仅可以用于Scrum培训，还可以用于Lean、Kanban等。 现在大多数公司都重视效率，重视时间线，而忽视了队列和批量的大小。在这个游戏中，正是通过改变批量的大小，从而改善了排队情况，进而大大提高了效率，也加快了进入市场的时间。
 
-**具体描述** [![penny_layout](http://bobjiang.com/wp-content/uploads/2013/12/penny_layout-300x234.png)](http://bobjiang.com/wp-content/uploads/2013/12/penny_layout.png) 游戏每组需要8-12人，每组的布局如上图。游戏里一共有5个角色：
+**具体描述** [![penny_layout](/wp-content/uploads/2013/12/penny_layout-300x234.png)](/wp-content/uploads/2013/12/penny_layout.png) 游戏每组需要8-12人，每组的布局如上图。游戏里一共有5个角色：
 
 - 游戏引导师
 - 工程师（实际干活，翻硬币的人）

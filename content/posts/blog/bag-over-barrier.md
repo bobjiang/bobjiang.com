@@ -3,7 +3,7 @@ title: "把书包扔过栅栏"
 date: "2014-01-02"
 ---
 
-[![zhalan](http://bobjiang.com/wp-content/uploads/2014/01/zhalan-300x300.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/zhalan.jpg)
+[![zhalan](/wp-content/uploads/2014/01/zhalan-300x300.jpg)](/wp-content/uploads/2014/01/zhalan.jpg)
 
 前几天听到一个故事，“把书包扔过栅栏”。意思是说，把你的书包扔过高高的栅栏后，你就会想尽一切办法翻过栅栏，去把书包找回来。
 

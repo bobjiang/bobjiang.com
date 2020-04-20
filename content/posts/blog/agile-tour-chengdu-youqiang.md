@@ -10,7 +10,7 @@ coverImage: "Screen-Shot-2015-12-23-at-11.30.44-PM.png"
 
  
 
-[![Screen Shot 2015-12-23 at 11.30.55 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.30.55-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.30.55-PM.png)截图时已经达到414阅读量！
+[![Screen Shot 2015-12-23 at 11.30.55 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.30.55-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.30.55-PM.png)截图时已经达到414阅读量！
 
 美国作家Malcolm Gladwell在《The Tipping Point》（译为《引爆点》）一书解释了许多难以理解的流行潮背后的原因，发现其中的因素，如果能够掌握这些因素，就可以轻易地推动起一个流行潮...
 
@@ -20,19 +20,19 @@ coverImage: "Screen-Shot-2015-12-23-at-11.30.44-PM.png"
     
      
     
-    [![Screen Shot 2015-12-23 at 11.31.37 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.37-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.37-PM.png) [![Screen Shot 2015-12-23 at 11.31.21 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.21-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.21-PM.png) [![Screen Shot 2015-12-23 at 11.31.14 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.14-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.14-PM.png)
+    [![Screen Shot 2015-12-23 at 11.31.37 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.37-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.37-PM.png) [![Screen Shot 2015-12-23 at 11.31.21 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.21-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.21-PM.png) [![Screen Shot 2015-12-23 at 11.31.14 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.14-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.14-PM.png)
     
-    CEC/CSC，Agile Coaches，Architects等专家是业界权威，TA们的辅助分享能够大范围的引爆话题！这是**内行**效应 [![Screen Shot 2015-12-23 at 11.31.48 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.48-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.48-PM.png)[![Screen Shot 2015-12-23 at 11.31.57 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.57-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.57-PM.png)
+    CEC/CSC，Agile Coaches，Architects等专家是业界权威，TA们的辅助分享能够大范围的引爆话题！这是**内行**效应 [![Screen Shot 2015-12-23 at 11.31.48 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.48-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.48-PM.png)[![Screen Shot 2015-12-23 at 11.31.57 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.57-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.31.57-PM.png)
     
      
     
     前方高能预警：大卫张林的评论在后面
     
-    [![Screen Shot 2015-12-23 at 11.32.04 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.04-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.04-PM.png)[![Screen Shot 2015-12-23 at 11.32.10 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.10-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.10-PM.png)
+    [![Screen Shot 2015-12-23 at 11.32.04 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.04-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.04-PM.png)[![Screen Shot 2015-12-23 at 11.32.10 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.10-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.10-PM.png)
     
     GM，CTO最善于推销企业价值文化，技术风向等，他们的特殊能力就是在短时间交付信任！这是伟大的**推销员**
     
-    **[![Screen Shot 2015-12-23 at 11.32.20 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.20-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.20-PM.png)**
+    **[![Screen Shot 2015-12-23 at 11.32.20 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.20-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.20-PM.png)**
     
     点赞的有同学，华人世界仅有的两位CSC（现为CEC），敏捷教练，Boss，同事，社区组织者，朋友和家人，感谢你们:) 注意头像上的外框
     
@@ -46,10 +46,10 @@ coverImage: "Screen-Shot-2015-12-23-at-11.30.44-PM.png"
     
      
     
-    [![Screen Shot 2015-12-23 at 11.32.42 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.42-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.42-PM.png)[![Screen Shot 2015-12-23 at 11.32.53 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.53-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.53-PM.png)
+    [![Screen Shot 2015-12-23 at 11.32.42 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.42-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.42-PM.png)[![Screen Shot 2015-12-23 at 11.32.53 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.53-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.32.53-PM.png)
     
      
     
      
     
-    **持续的信息流和后续互动服务[![Screen Shot 2015-12-23 at 11.33.03 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.33.03-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.33.03-PM.png)**
+    **持续的信息流和后续互动服务[![Screen Shot 2015-12-23 at 11.33.03 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.33.03-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-11.33.03-PM.png)**

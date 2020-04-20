@@ -3,7 +3,7 @@ title: "敏捷软件开发中的版本规划"
 date: "2014-01-19"
 ---
 
-[![IMG_1627_副本](http://bobjiang.com/wp-content/uploads/2014/01/IMG_1627_副本.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/IMG_1627_副本.jpg)
+[![IMG_1627_副本](/wp-content/uploads/2014/01/IMG_1627_副本.jpg)](/wp-content/uploads/2014/01/IMG_1627_副本.jpg)
 
 如上图，开始之前我们假设产品backlog做过第一次梳理，并且总的故事点为127.
 
@@ -43,4 +43,4 @@ date: "2014-01-19"
 
 \-----------------------------------------------------------------------
 
-[![qrcode_for_gh_1a45f645cae5_258 (1)](http://bobjiang.com/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg) **微信公众号**: 敏捷那些事儿（agileplus） Agile1001公开课，每月一次，旨在推广和传播敏捷开发思想和Scrum，希望更多的开发者受益。欢迎关注。课程信息会定期发布，敬请关注。[公开课汇总链接](http://bobjiang.com/agile1001-open-course/)。
+[![qrcode_for_gh_1a45f645cae5_258 (1)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg) **微信公众号**: 敏捷那些事儿（agileplus） Agile1001公开课，每月一次，旨在推广和传播敏捷开发思想和Scrum，希望更多的开发者受益。欢迎关注。课程信息会定期发布，敬请关注。[公开课汇总链接](http://bobjiang.com/agile1001-open-course/)。

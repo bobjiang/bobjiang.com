@@ -53,10 +53,10 @@ Scrum中有产品列表（Product Backlog）以及条目（Item）来管理需�
 
 用户故事地图是一个创建产品列表很好的方式。这是因为产品列表是一维的，排序的，这样很难找出相互有业务关联的条目。通过用户故事地图这种方式，可以很好的组织需求条目。如果你的组织需要这样的工作坊，也可以单独和我联系（jiangxb@gmail.com）。如下图：
 
-[![user-story-mapping-example](http://bobjiang.com/wp-content/uploads/2016/04/user-story-mapping-example.png)](http://bobjiang.com/index.php/2016/04/28/user-story-is-not-requirement/user-story-mapping-example/#main)
+[![user-story-mapping-example](/wp-content/uploads/2016/04/user-story-mapping-example.png)](http://bobjiang.com/index.php/2016/04/28/user-story-is-not-requirement/user-story-mapping-example/#main)
 
 #### 如何把业务目标和需求条目进行关联
 
 常常在平时的开发中，开发人员不清楚为什么要开发一个功能，或者是不了解背景，或者是不清楚业务目标。有一个非常有用的工具（影响地图）可以帮助团队。如果你的组织需要这样的工作坊，也可以单独和我联系（jiangxb@gmail.com）。例子如下图：
 
-[![impact-mapping-example](http://bobjiang.com/wp-content/uploads/2016/04/impact-mapping-example.jpg)](http://bobjiang.com/index.php/2016/04/28/user-story-is-not-requirement/impact-mapping-example/#main)
+[![impact-mapping-example](/wp-content/uploads/2016/04/impact-mapping-example.jpg)](http://bobjiang.com/index.php/2016/04/28/user-story-is-not-requirement/impact-mapping-example/#main)

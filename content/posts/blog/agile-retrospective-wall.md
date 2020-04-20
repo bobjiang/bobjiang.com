@@ -3,7 +3,7 @@ title: "回顾会议墙——改进回顾会议结果的一种工具"
 date: "2014-01-13"
 ---
 
-[![retrospective-infoq](http://bobjiang.com/wp-content/uploads/2013/12/retrospective-infoq.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/retrospective-infoq.jpg)
+[![retrospective-infoq](/wp-content/uploads/2013/12/retrospective-infoq.jpg)](/wp-content/uploads/2013/12/retrospective-infoq.jpg)
 
 _译者注：回顾会议是敏捷的核心，在[敏捷原则](http://agilemanifesto.org/iso/zhchs/principles.html)最后一条中提到“团队定期地反思如何能提高成效，并依此调整自身的举止表现。” 对于团队如此，个人何尝不是呢。作为一个上进的人，需要时刻反思如何改进自己，调整自己的行为，向着自己的目标前进_。
 
@@ -17,7 +17,7 @@ _译者注：回顾会议是敏捷的核心，在[敏捷原则](http://agilemani
 - 有些人不愿意当面提出问题。因此回顾会议上他们压根不说话。
 - 团队创建的行动计划，但是如何跟踪，以及团队如何能想起来这些行动？
 
-为了解决这3个问题，我们创建了一个回顾会议墙。墙上有3列：正面（Positive），负面（Negative）和行动（Actions）。如下图所示。 [![retrospective-wall-board](http://bobjiang.com/wp-content/uploads/2014/01/retrospective-wall-board.png)](http://bobjiang.com/wp-content/uploads/2014/01/retrospective-wall-board.png)
+为了解决这3个问题，我们创建了一个回顾会议墙。墙上有3列：正面（Positive），负面（Negative）和行动（Actions）。如下图所示。 [![retrospective-wall-board](/wp-content/uploads/2014/01/retrospective-wall-board.png)](/wp-content/uploads/2014/01/retrospective-wall-board.png)
 
 在正面（positive）一列，团队成员可以在任何时间粘贴他认为好的事情。不一定要署名。类似的，在负面（negative）一列，团队成员说明从他的角度看哪些做的不好。行动（actions）一列贴着所有未完成的行动。行动卡片包含描述、何时创建的、以及谁负责跟进。一旦行动完成了，负责人在卡片上写明完成日期。
 

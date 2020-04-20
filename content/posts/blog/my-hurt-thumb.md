@@ -21,4 +21,4 @@ date: "2014-02-18"
 
 最后附上我受伤的大拇指留念（拦截摩的时所伤）。
 
-[![IMG_1811_副本](http://bobjiang.com/wp-content/uploads/2014/02/IMG_1811_副本.jpg)](http://bobjiang.com/wp-content/uploads/2014/02/IMG_1811_副本.jpg)
+[![IMG_1811_副本](/wp-content/uploads/2014/02/IMG_1811_副本.jpg)](/wp-content/uploads/2014/02/IMG_1811_副本.jpg)

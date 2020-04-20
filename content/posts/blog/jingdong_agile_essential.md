@@ -36,15 +36,15 @@ coverImage: "agile_essential_core.png"
 
 这是他们第一版的任务板
 
-[![kanban1.jpg](http://bobjiang.com/wp-content/uploads/2015/09/kanban1.jpg.png)](http://bobjiang.com/wp-content/uploads/2015/09/kanban1.jpg.png)
+[![kanban1.jpg](/wp-content/uploads/2015/09/kanban1.jpg.png)](/wp-content/uploads/2015/09/kanban1.jpg.png)
 
 第二版
 
-[![kanban2](http://bobjiang.com/wp-content/uploads/2015/09/kanban2.png)](http://bobjiang.com/wp-content/uploads/2015/09/kanban2.png)
+[![kanban2](/wp-content/uploads/2015/09/kanban2.png)](/wp-content/uploads/2015/09/kanban2.png)
 
 第三版
 
-[![kanban3](http://bobjiang.com/wp-content/uploads/2015/09/kanban3.png)](http://bobjiang.com/wp-content/uploads/2015/09/kanban3.png)
+[![kanban3](/wp-content/uploads/2015/09/kanban3.png)](/wp-content/uploads/2015/09/kanban3.png)
 
 最后在京麦团队的带动下，整个POP团队都已经开始了敏捷转型之旅，非常感谢京麦团队不懈的坚持。以上是第一个案例的分享。
 
@@ -66,11 +66,11 @@ coverImage: "agile_essential_core.png"
 
 在部门领导和公司管理层的支持下，我们敏捷团队鸟枪换炮，从以前传统的墙面看板，上升为触摸电视屏幕的电子看板。怀着激动和感激的心情，我们几个小伙伴瞬时间将高大上的触摸电视和支架组装完毕。
 
-[![e-kanban](http://bobjiang.com/wp-content/uploads/2015/09/e-kanban.png)](http://bobjiang.com/wp-content/uploads/2015/09/e-kanban.png)
+[![e-kanban](/wp-content/uploads/2015/09/e-kanban.png)](/wp-content/uploads/2015/09/e-kanban.png)
 
 在团队敏捷转型的一开始，为了让大家对Scrum有更全面的了解，团队还自发组织了读书行动。每天固定时间固定地点，团队花30分钟共同阅读同一本书，并且大家会就这一个主题进行讨论。
 
-[![reading](http://bobjiang.com/wp-content/uploads/2015/09/reading.png)](http://bobjiang.com/wp-content/uploads/2015/09/reading.png)
+[![reading](/wp-content/uploads/2015/09/reading.png)](/wp-content/uploads/2015/09/reading.png)
 
 可视化的读书结果
 
@@ -88,7 +88,7 @@ coverImage: "agile_essential_core.png"
 
 第四，团队坚持Scrum的会议。并不断改进产品和团队一起的工作方法。
 
-[![266958343874433578](http://bobjiang.com/wp-content/uploads/2015/09/266958343874433578-760x1024.jpg)](http://bobjiang.com/wp-content/uploads/2015/09/266958343874433578.jpg)
+[![266958343874433578](/wp-content/uploads/2015/09/266958343874433578-760x1024.jpg)](/wp-content/uploads/2015/09/266958343874433578.jpg)
 
 以上就是京东途牛融合项目的案例分享。3个案例已经全部分享完了。
 
@@ -96,7 +96,7 @@ coverImage: "agile_essential_core.png"
 
 下面重点来了，当当当当！**来说一下京东的敏捷软件开发的精髓。这就是一个核心，四个基本点。**
 
-[![agile_essential_core](http://bobjiang.com/wp-content/uploads/2015/09/agile_essential_core.png)](http://bobjiang.com/wp-content/uploads/2015/09/agile_essential_core.png)
+[![agile_essential_core](/wp-content/uploads/2015/09/agile_essential_core.png)](/wp-content/uploads/2015/09/agile_essential_core.png)
 
 一个核心：价值驱动 四个基本点：透明、迭代、持续改进、教练
 
@@ -185,7 +185,7 @@ coverImage: "agile_essential_core.png"
 
 好了，这些就是京东敏捷软件开发的精髓。那就是一个核心，四个基本点。一个核心是价值驱动。四个基本点是透明、迭代、持续改进和教练。
 
-[![agile_essential_core](http://bobjiang.com/wp-content/uploads/2015/09/agile_essential_core.png)](http://bobjiang.com/wp-content/uploads/2015/09/agile_essential_core.png)
+[![agile_essential_core](/wp-content/uploads/2015/09/agile_essential_core.png)](/wp-content/uploads/2015/09/agile_essential_core.png)
 
 **重要的事情说三遍： 一**个核心是价值驱动。四个基本点是透明、迭代、持续改进和教练。 一个核心是价值驱动。四个基本点是透明、迭代、持续改进和教练。 一个核心是价值驱动。四个基本点是透明、迭代、持续改进和教练。
 

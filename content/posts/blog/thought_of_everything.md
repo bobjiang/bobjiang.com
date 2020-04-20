@@ -5,7 +5,7 @@ date: "2013-11-20"
 
 通常有人会问，在编写产品backlog的时候产品负责人（或者团队）如何确保他们想到每件事情。这个问题对于采用合同制开发的团队尤其常见，这种开发仍然需要前期需求规范。但是我也从有些组织的团队中得到一些问题，他们喜欢不必预先锁定所有的事情。![](file:///C:/Users/exinbji/AppData/Local/Temp/enhtmlclip/Image(2).jpg)
 
-[![thought-of-everything-mike-cohn](http://bobjiang.com/wp-content/uploads/2013/11/thought-of-everything-mike-cohn-300x225.jpg)](http://bobjiang.com/wp-content/uploads/2013/11/thought-of-everything-mike-cohn.jpg)
+[![thought-of-everything-mike-cohn](/wp-content/uploads/2013/11/thought-of-everything-mike-cohn-300x225.jpg)](/wp-content/uploads/2013/11/thought-of-everything-mike-cohn.jpg)
 
 关于这个问题我想了很多，最后我终于弄清楚了答案。当编写产品backlog的时候如何确保想到每件事情，答案就是：
 

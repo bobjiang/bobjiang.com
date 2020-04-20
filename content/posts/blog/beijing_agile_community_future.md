@@ -36,4 +36,4 @@ coverImage: "Screen-Shot-2015-09-04-at-9.49.19-AM.png"
 - 积极开放的心态
 - 勇敢的坚持
 
-## 关键事项 [![Screen Shot 2015-09-04 at 9.48.04 AM](http://bobjiang.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-04-at-9.48.04-AM.png)](http://bobjiang.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-04-at-9.48.04-AM.png)![Screen Shot 2015-09-04 at 9.48.16 AM](http://bobjiang.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-04-at-9.48.16-AM.png)
+## 关键事项 [![Screen Shot 2015-09-04 at 9.48.04 AM](/wp-content/uploads/2015/09/Screen-Shot-2015-09-04-at-9.48.04-AM.png)](/wp-content/uploads/2015/09/Screen-Shot-2015-09-04-at-9.48.04-AM.png)![Screen Shot 2015-09-04 at 9.48.16 AM](/wp-content/uploads/2015/09/Screen-Shot-2015-09-04-at-9.48.16-AM.png)

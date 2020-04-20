@@ -3,7 +3,7 @@ title: "敏捷回顾的“大船”"
 date: "2013-12-11"
 ---
 
-[![agileretroship](http://bobjiang.com/wp-content/uploads/2013/12/agileretroship-300x225.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/agileretroship.jpg)
+[![agileretroship](/wp-content/uploads/2013/12/agileretroship-300x225.jpg)](/wp-content/uploads/2013/12/agileretroship.jpg)
 
 昨天我尝试了一种新的回顾会议方法，用来收集参与者数据。用一艘船从传统的回顾工具中摆脱出来。
 

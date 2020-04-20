@@ -3,7 +3,7 @@ title: "Sprint评审会议而不是Sprint演示会议"
 date: "2014-01-09"
 ---
 
-[![sprint-review](http://bobjiang.com/wp-content/uploads/2014/01/sprint-review.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/sprint-review.jpg)
+[![sprint-review](/wp-content/uploads/2014/01/sprint-review.jpg)](/wp-content/uploads/2014/01/sprint-review.jpg)
 
 _译者注：本文虽然是在辩解“sprint评审会议”和“sprint演示会议”的字面含义，但需要更深入了解其背后的原因，这其实才是作者的初衷。_ _（sprint评审会议=sprint review；sprint演示会议=sprint demo）_
 

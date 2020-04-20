@@ -3,7 +3,7 @@ title: "认同和确定性矩阵（Ralph Stacey's Agreement and Certainty Matrix
 date: "2013-12-01"
 ---
 
-**基本概念:** 这是一个在复杂的、自适应系统中选择恰当管理行为的方法，该系统是基于所涉及问题的确定性程度和认同级别的。 **潜在使用场景:[![empty](http://bobjiang.com/wp-content/uploads/2013/12/empty.png)](http://bobjiang.com/wp-content/uploads/2013/12/empty.png)** • 为特定的问题或决策选择管理或领导方法。 • 制定一组决策（或大家的日程）的意识。 • 与人沟通，为什么特定的方法是合适的。 • 当需要创新和创造性选择时，这个矩阵可以用来有意地增加不确定性和不认同，从而把系统轻推到混乱的边缘。 **描述:** 管理和领导的艺术是拥有一组方法，并且知道什么时候用哪个方法。Ralph Stacey 提议了一个对管理艺术有帮助的矩阵，这个矩阵在两个维度上识别管理决策：确定性程度和认同级别。
+**基本概念:** 这是一个在复杂的、自适应系统中选择恰当管理行为的方法，该系统是基于所涉及问题的确定性程度和认同级别的。 **潜在使用场景:[![empty](/wp-content/uploads/2013/12/empty.png)](/wp-content/uploads/2013/12/empty.png)** • 为特定的问题或决策选择管理或领导方法。 • 制定一组决策（或大家的日程）的意识。 • 与人沟通，为什么特定的方法是合适的。 • 当需要创新和创造性选择时，这个矩阵可以用来有意地增加不确定性和不认同，从而把系统轻推到混乱的边缘。 **描述:** 管理和领导的艺术是拥有一组方法，并且知道什么时候用哪个方法。Ralph Stacey 提议了一个对管理艺术有帮助的矩阵，这个矩阵在两个维度上识别管理决策：确定性程度和认同级别。
 
 我们来仔细看一下这两个维度。
 
@@ -13,31 +13,31 @@ date: "2013-12-01"
 
 **1) 接近认同，接近确定性 （Close To Agreement, Close To Certainty）**
 
-**[![rs1](http://bobjiang.com/wp-content/uploads/2013/12/rs1-300x297.png)](http://bobjiang.com/wp-content/uploads/2013/12/rs1.png)**
+**[![rs1](/wp-content/uploads/2013/12/rs1-300x297.png)](/wp-content/uploads/2013/12/rs1.png)**
 
 许多管理文献和理论都是解决这个区域的问题。在该区域里，我们使用从过去收集数据的技术并用之来预测将来。我们规划实现成果的具体行动路径，并且监控实际行为和计划之间的不同。在这个区域里，对问题和决策的管理实践是正常的。它的目标是重复工作，提高效率和效益。
 
 **2) 远离认同，接近确定性 （Far From Agreement, Close To Certainty）**
 
-**[![rs2](http://bobjiang.com/wp-content/uploads/2013/12/rs2-300x297.png)](http://bobjiang.com/wp-content/uploads/2013/12/rs2.png)**
+**[![rs2](/wp-content/uploads/2013/12/rs2-300x297.png)](/wp-content/uploads/2013/12/rs2.png)**
 
 有些问题非常确定，但有很大的不认同级别。计划或共同的使命在这种场景下可能没有用。相反，策略变得很重要。联盟的成立，谈判和妥协，这些方法用于创建组织的议题和方向。
 
 **3) 接近认同，远离确定性 （Close To Agreement, Far From Certainty）**
 
-[![rs3](http://bobjiang.com/wp-content/uploads/2013/12/rs3-300x297.png)](http://bobjiang.com/wp-content/uploads/2013/12/rs3.png)
+[![rs3](/wp-content/uploads/2013/12/rs3-300x297.png)](/wp-content/uploads/2013/12/rs3.png)
 
 有些问题有很高的认同级别，但因果关系不是很确定。这种情况下，根据预定义的计划进行监控将不会工作。共同使命或愿景的强烈意识可以替代计划。我们不是和计划进行比较，而是和组织的使命与目标。在该区域里，尽管无法提前定义具体的道路，我们的目标是朝着商定的未来前进。
 
 **4) 混乱：远离认同，远离确定性 （Anarchy: Far From Agreement, Far From Certainty）**
 
-[![rs4](http://bobjiang.com/wp-content/uploads/2013/12/rs4-300x297.png)](http://bobjiang.com/wp-content/uploads/2013/12/rs4.png)
+[![rs4](/wp-content/uploads/2013/12/rs4-300x297.png)](/wp-content/uploads/2013/12/rs4.png)
 
 高度的不确定和不认同，常常的结果是故障或混乱。在这个场景下传统的计划、愿景和谈判是不够的。应付这样场景的个人策略是尽量躲开——避免高度不确定性和不认同。然而短期来看这可以是保护性策略，长期来看将是灾难性的。组织应该尽可能的避免进入这个区域。
 
 **5) 混乱的边缘（复杂的区域） The Edge of Chaos (The Zone of Complexity**
 
-[![rs5](http://bobjiang.com/wp-content/uploads/2013/12/rs5-300x297.png)](http://bobjiang.com/wp-content/uploads/2013/12/rs5.png)
+[![rs5](/wp-content/uploads/2013/12/rs5-300x297.png)](/wp-content/uploads/2013/12/rs5.png)
 
 这个图上在混乱和传统管理方法之间有大块的区域。Stacey把这个区域称之为复杂区域——其他人称之为混乱的边缘。在这个复杂的区域，传统的管理方法不是很有效，然而这是一个高度的创造性，创新以及打破过去创造新颖运营模式的区域。 作为学校的教授，我意识到我们花了大量的时间传授如何管理区域 (1) (2) 和 (3)。在这些区域里，我们介绍这样的模型，从过去的经验推断以及用之预测未来。在传统模式下这是良好科学的特点。当我们传授方法、技术甚至区域(4)里的角度的时候，这些模型好像是“柔软的Soft”并且缺乏预测性也是个问题。 我们需要强调的是，组织的经理和领导需要有不同的方法来应付不用的场景。Stacey's 矩阵不仅认可我们已经学会的知识，而且促使我们更加自信地进入某些直观理解的区域，但这些区域我们还在犹豫是否进入，因为它们看起来不像那么“坚实的solid”。
 

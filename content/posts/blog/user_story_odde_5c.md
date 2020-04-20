@@ -9,7 +9,7 @@ date: "2013-11-24"
 
 **ODDE**
 
-[![odde](http://bobjiang.com/wp-content/uploads/2013/11/odde.jpg)](http://bobjiang.com/blog/wp-content/uploads/2013/11/odde.jpg)
+[![odde](/wp-content/uploads/2013/11/odde.jpg)](http://bobjiang.com/blog/wp-content/uploads/2013/11/odde.jpg)
 
 - Ordered(排序的)
 

@@ -5,7 +5,7 @@ date: "2014-08-12"
 
 最近设计思维（Design Thinking）越来越多的出现在我的视线中，因此在网络中搜索了一些有关设计思维的材料。总体上我的理解为：设计思维是一个设计的过程，分为洞察-构思-原型三部分；另外这三部分不是按顺序执行的，且是迭代进行的。
 
-[![design_thinking_洞察_构思_原型.001](http://bobjiang.com/wp-content/uploads/2014/08/design_thinking_洞察_构思_原型.001.jpg)](http://bobjiang.com/wp-content/uploads/2014/08/design_thinking_洞察_构思_原型.001.jpg)
+[![design_thinking_洞察_构思_原型.001](/wp-content/uploads/2014/08/design_thinking_洞察_构思_原型.001.jpg)](/wp-content/uploads/2014/08/design_thinking_洞察_构思_原型.001.jpg)
 
 \=============================================================================
 
@@ -21,7 +21,7 @@ date: "2014-08-12"
 
 - 用户来决定一个产品或服务是否应该存在或开始。
 
-[![human-centered1](http://bobjiang.com/wp-content/uploads/2014/08/human-centered1.png)](http://bobjiang.com/wp-content/uploads/2014/08/human-centered1.png)
+[![human-centered1](/wp-content/uploads/2014/08/human-centered1.png)](/wp-content/uploads/2014/08/human-centered1.png)
 
 ## 设计思维是重复的学习过程
 
@@ -29,7 +29,7 @@ date: "2014-08-12"
 
 - 迭代的方式实现了人文领域较高的专业知识，且支撑着多种结果。
 
-[![Bild1-1024x285](http://bobjiang.com/wp-content/uploads/2014/08/Bild1-1024x285.png)](http://bobjiang.com/wp-content/uploads/2014/08/Bild1-1024x285.png)
+[![Bild1-1024x285](/wp-content/uploads/2014/08/Bild1-1024x285.png)](/wp-content/uploads/2014/08/Bild1-1024x285.png)
 
 ## 设计思维项目包含发散和收敛阶段
 
@@ -41,7 +41,7 @@ date: "2014-08-12"
 
 - 一开始项目建立于定义好的明确目标。换句话说，设计思维项目有很不确定性，因为在最后阶段之前结果都是开放的。
 
-[![abductive-1024x605](http://bobjiang.com/wp-content/uploads/2014/08/abductive-1024x605.png)](http://bobjiang.com/wp-content/uploads/2014/08/abductive-1024x605.png)
+[![abductive-1024x605](/wp-content/uploads/2014/08/abductive-1024x605.png)](/wp-content/uploads/2014/08/abductive-1024x605.png)
 
 ## 设计思维是原型设计
 
@@ -51,7 +51,7 @@ date: "2014-08-12"
 
 - 直观感觉给予复杂挑战的最初期理解。
 
-[![prototyping2-1024x721](http://bobjiang.com/wp-content/uploads/2014/08/prototyping2-1024x721.png)](http://bobjiang.com/wp-content/uploads/2014/08/prototyping2-1024x721.png)
+[![prototyping2-1024x721](/wp-content/uploads/2014/08/prototyping2-1024x721.png)](/wp-content/uploads/2014/08/prototyping2-1024x721.png)
 
  
 

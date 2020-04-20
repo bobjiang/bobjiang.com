@@ -3,7 +3,7 @@ title: "Agile1001公益课#1——敏捷和Scrum角色介绍"
 date: "2013-12-31"
 ---
 
-[![公益课介绍](http://bobjiang.com/wp-content/uploads/2014/01/公益课介绍.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/公益课介绍.jpg)
+[![公益课介绍](/wp-content/uploads/2014/01/公益课介绍.jpg)](/wp-content/uploads/2014/01/公益课介绍.jpg)
 
 自从2001年敏捷宣言以来，全球各地都在传播和推广敏捷。但为什么使用敏捷，具体在什么场景下可以使用敏捷，以及敏捷到底能解决什么问题，诸如此类的各种问题仍然在困扰着很多开发人员。而Scrum又是什么，它能否解决软件开发中的问题，也同样令人头疼。
 
@@ -21,4 +21,4 @@ date: "2013-12-31"
 
 敏捷公益课，每月一次，旨在推广和传播敏捷开发思想，希望更多的开发者受益。欢迎报名。课程信息会定期发布，敬请关注。
 
-[![qrcode_for_gh_1a45f645cae5_258 (1)](http://bobjiang.com/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)
+[![qrcode_for_gh_1a45f645cae5_258 (1)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)

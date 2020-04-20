@@ -3,15 +3,15 @@ title: "敏捷之旅2013北京站 - Bob Jiang的总结"
 date: "2013-12-22"
 ---
 
-[![1](http://bobjiang.com/wp-content/uploads/2013/12/1-300x132.png)](http://bobjiang.com/wp-content/uploads/2013/12/1.png)
+[![1](/wp-content/uploads/2013/12/1-300x132.png)](/wp-content/uploads/2013/12/1.png)
 
 敏捷之旅2013北京站在经过3个月的精心准备与筹划后，终于结束了。 2013年12月21日，早7点，天还没有亮，我已经出发去往敏捷之旅的地点，创新工场。（题外话，上班都没走过这么早）
 
-[![IMG_1555](http://bobjiang.com/wp-content/uploads/2013/12/IMG_1555-300x225.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/IMG_1555.jpg)
+[![IMG_1555](/wp-content/uploads/2013/12/IMG_1555-300x225.jpg)](/wp-content/uploads/2013/12/IMG_1555.jpg)
 
 赶在7:30到了工场，开始最后的布置和工作安排。最关键和重要的一环，就是早上的签到。
 
-[![IMG_1557](http://bobjiang.com/wp-content/uploads/2013/12/IMG_1557-300x225.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/IMG_1557.jpg)
+[![IMG_1557](/wp-content/uploads/2013/12/IMG_1557-300x225.jpg)](/wp-content/uploads/2013/12/IMG_1557.jpg)
 
 敏捷之旅和创新工场在一起，会是一个什么结果呢？
 
@@ -19,7 +19,7 @@ date: "2013-12-22"
 
 今天到会的参会者真的可以用人山人海来形容:) 把希望树彻底挤满了，后面还有一些朋友站着听。
 
-[![IMG_1563](http://bobjiang.com/wp-content/uploads/2013/12/IMG_1563-300x225.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/IMG_1563.jpg) 介绍一下敏捷之旅是什么，再介绍一下志愿者（小伙伴们），接下来是主办方，赞助商和合作伙伴。然后就介绍第一场的演讲嘉宾王立杰。 下面说一下几个话题我的感受： 蔡德辉：[![9](http://bobjiang.com/wp-content/uploads/2013/12/9-150x150.png)](http://bobjiang.com/wp-content/uploads/2013/12/9.png)
+[![IMG_1563](/wp-content/uploads/2013/12/IMG_1563-300x225.jpg)](/wp-content/uploads/2013/12/IMG_1563.jpg) 介绍一下敏捷之旅是什么，再介绍一下志愿者（小伙伴们），接下来是主办方，赞助商和合作伙伴。然后就介绍第一场的演讲嘉宾王立杰。 下面说一下几个话题我的感受： 蔡德辉：[![9](/wp-content/uploads/2013/12/9-150x150.png)](/wp-content/uploads/2013/12/9.png)
 
  
 
@@ -30,7 +30,7 @@ date: "2013-12-22"
 - 然后用NFL来说明团队的环境对于团队的影响。这里提到了万恶的KPI（绩效考核），这个问题接下来引发了热烈的讨论。几个演讲嘉宾都对KPI做了描述。
 - 最后提到的是规则，在敏捷开发中团队需要遵守什么样的规则。给出腾讯和化为的敏捷开发模型。也把Scrum，XP，TSP，RUP以及瀑布式开发做了详细的对比（数据来源于Caper Jones）。
 
-最后蔡总的演讲风格也是风趣幽默，大开大合，不仅有实例，也有数据，引发听众的思考。 李忠利：[![8](http://bobjiang.com/wp-content/uploads/2013/12/8-150x150.png)](http://bobjiang.com/wp-content/uploads/2013/12/8.png)
+最后蔡总的演讲风格也是风趣幽默，大开大合，不仅有实例，也有数据，引发听众的思考。 李忠利：[![8](/wp-content/uploads/2013/12/8-150x150.png)](/wp-content/uploads/2013/12/8.png)
 
  
 

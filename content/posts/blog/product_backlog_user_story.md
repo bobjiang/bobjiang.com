@@ -5,7 +5,7 @@ date: "2013-11-23"
 
 **产品Backlog**
 
-[![user_story](http://bobjiang.com/wp-content/uploads/2013/11/user_story.jpg)](http://bobjiang.com/wp-content/uploads/2013/11/user_story.jpg)
+[![user_story](/wp-content/uploads/2013/11/user_story.jpg)](/wp-content/uploads/2013/11/user_story.jpg)
 
 首先在[Mike Cohn](http://www.mountaingoatsoftware.com/)《Succeeding with Agile》中提到，关于产品Backlog的DEEP原则
 

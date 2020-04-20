@@ -22,7 +22,7 @@ coverImage: "estimation_all.jpg"
 
 计划扑克是由斐波那契数列组成的一串数字扑克，如下图：
 
-[![crispdeck](http://bobjiang.com/wp-content/uploads/2015/05/crispdeck.jpg)](http://bobjiang.com/wp-content/uploads/2015/05/crispdeck.jpg)
+[![crispdeck](/wp-content/uploads/2015/05/crispdeck.jpg)](/wp-content/uploads/2015/05/crispdeck.jpg)
 
 对产品列表条目（product backlog item）进行估算的步骤，简单描述如下：
 
@@ -42,7 +42,7 @@ coverImage: "estimation_all.jpg"
 5. 比较一下A左边的产品列表条目，估算值为2还是1，把左边的所有条目估算值设置为2或1.同样的把A右边的条目，按列标明估算值。
 6. 最后的结果如下图：
 
-[![123](http://bobjiang.com/wp-content/uploads/2015/05/123.jpg)](http://bobjiang.com/wp-content/uploads/2015/05/123.jpg)
+[![123](/wp-content/uploads/2015/05/123.jpg)](/wp-content/uploads/2015/05/123.jpg)
 
 Scrum入门基础系列：
 

@@ -17,4 +17,4 @@ date: "2013-08-29"
 
 下面是本书的思维导图：
 
-[![game storming by Bob Jiang @2013](http://bobjiang.com/wp-content/uploads/2013/08/game-storming-by-Bob-Jiang-@2013-296x300.png)](http://bobjiang.com/wp-content/uploads/2013/08/game-storming-by-Bob-Jiang-@2013.png)
+[![game storming by Bob Jiang @2013](/wp-content/uploads/2013/08/game-storming-by-Bob-Jiang-@2013-296x300.png)](/wp-content/uploads/2013/08/game-storming-by-Bob-Jiang-@2013.png)

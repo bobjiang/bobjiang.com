@@ -5,7 +5,7 @@ date: "2013-11-17"
 
 “The unexamined life is not worth living.” Socrates said. It is true as individual, however, for a team it is also applied. If a team has no inspection, they could not know where they are, and how to achieve great success.
 
-[![Team-Work-240x240](http://bobjiang.com/wp-content/uploads/2013/11/Team-Work-240x240.jpg)](http://bobjiang.com/wp-content/uploads/2013/11/Team-Work-240x240.jpg)
+[![Team-Work-240x240](/wp-content/uploads/2013/11/Team-Work-240x240.jpg)](/wp-content/uploads/2013/11/Team-Work-240x240.jpg)
 
 Recently I read a book named <Agile Retrospective>, written by Esther Derby and Diana Larsen. In this book they mention a specific structure for a team’s reflection and adaptation:
 
@@ -47,7 +47,7 @@ Here is the picture from <Agile Retrospectives>, but I believe it is not only ap
 
 At the last, I would like to refer Linda Rising’s praising for this book.
 
-[![AgileRetrospectiveStructureStep](http://bobjiang.com/wp-content/uploads/2013/11/AgileRetrospectiveStructureStep-300x139.jpg)](http://bobjiang.com/wp-content/uploads/2013/11/AgileRetrospectiveStructureStep.jpg)
+[![AgileRetrospectiveStructureStep](/wp-content/uploads/2013/11/AgileRetrospectiveStructureStep-300x139.jpg)](/wp-content/uploads/2013/11/AgileRetrospectiveStructureStep.jpg)
 
 Whatever you call it: retrospective, post-mortem, post-partum, post-project review. Your work can be better by stopping at regular intervals and asking, “What worked well that we don’t want to forget? What should be done differently?” It’s almost like free consulting with two of the best: Esther Derby and Diana Larsen. I facilitate retrospectives for a living and, believe me. I’m going to read my copy cover to cover-more than once!
 

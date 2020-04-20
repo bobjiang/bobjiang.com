@@ -16,4 +16,4 @@ date: "2015-11-10"
 5. 获奖用户我会发送邮件确认
 6. 活动的最终解释权归Bob Jiang所有
 
-[![bobjiang_wechat](http://bobjiang.com/wp-content/uploads/2015/11/bobjiang_wechat-300x300.jpg)](http://bobjiang.com/wp-content/uploads/2015/11/bobjiang_wechat.jpg)
+[![bobjiang_wechat](/wp-content/uploads/2015/11/bobjiang_wechat-300x300.jpg)](/wp-content/uploads/2015/11/bobjiang_wechat.jpg)

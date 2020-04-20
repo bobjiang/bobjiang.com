@@ -17,7 +17,7 @@ date: "2015-09-07"
 
 在线的编辑器，允许增加协作者共同修改图书，支持markdown语法。可以为图书新建一个html的页面进行描述。英文界面。
 
-[![gitbook](http://bobjiang.com/wp-content/uploads/2015/09/gitbook-300x100.png)](http://bobjiang.com/wp-content/uploads/2015/09/gitbook.png)
+[![gitbook](/wp-content/uploads/2015/09/gitbook-300x100.png)](/wp-content/uploads/2015/09/gitbook.png)
 
 ### leanpub
 
@@ -31,7 +31,7 @@ date: "2015-09-07"
 
 处于测试阶段。支持在线编辑，支持git版本管理。中文界面。
 
-[![zhibimo](http://bobjiang.com/wp-content/uploads/2015/09/zhibimo-300x56.png)](http://bobjiang.com/wp-content/uploads/2015/09/zhibimo.png)
+[![zhibimo](/wp-content/uploads/2015/09/zhibimo-300x56.png)](/wp-content/uploads/2015/09/zhibimo.png)
 
 ## 版本管理
 

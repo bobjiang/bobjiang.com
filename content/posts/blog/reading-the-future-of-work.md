@@ -3,7 +3,7 @@ title: "读书笔记《重新定义工作》"
 date: "2016-10-14"
 ---
 
-[![the-future-of-work](http://bobjiang.com/wp-content/uploads/2016/10/download.jpeg)](http://bobjiang.com/reading-the-future-of-work/download/#main)
+[![the-future-of-work](/wp-content/uploads/2016/10/download.jpeg)](http://bobjiang.com/reading-the-future-of-work/download/#main)
 
 作者: [【美】Jacob Morgan](https://book.douban.com/search/Jacob%20Morgan) 出版社: 人民邮电出版社 出版年: 2015-11-1 页数: 228 定价: CNY 49.00 装帧: 平装 ISBN: 9787115406446
 

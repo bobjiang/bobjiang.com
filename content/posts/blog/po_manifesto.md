@@ -17,7 +17,7 @@ date: "2013-11-22"
 
 相应的，PO宣言（偷师于[Daniel Teng](http://danielteng.com)）
 
-[![PO_Manifesto](http://bobjiang.com/wp-content/uploads/2013/11/PO_Manifesto-300x208.jpg)](http://bobjiang.com/wp-content/uploads/2013/11/PO_Manifesto.jpg)
+[![PO_Manifesto](/wp-content/uploads/2013/11/PO_Manifesto-300x208.jpg)](/wp-content/uploads/2013/11/PO_Manifesto.jpg)
 
 **Why over What**
 

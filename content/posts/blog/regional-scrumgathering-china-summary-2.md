@@ -16,7 +16,7 @@ Ken Rubin的主题演讲，我跟的时间最长，并且PPT是我来负责翻�
 
 写到这里，我想起来在Jim Highsmith的《敏捷项目管理》中提到敏捷项目管理的铁三角中，价值是一个核心的维度，即Scrum是以价值为核心的。在产品开发中，我们需要时刻记得初心是什么。
 
-[![agile_management](http://bobjiang.com/wp-content/uploads/2014/06/agile_management.jpg)](http://bobjiang.com/wp-content/uploads/2014/06/agile_management.jpg)
+[![agile_management](/wp-content/uploads/2014/06/agile_management.jpg)](/wp-content/uploads/2014/06/agile_management.jpg)
 
 开发过程中忽视或误用敏捷核心原则：
 
@@ -32,4 +32,4 @@ Ken Rubin的主题演讲，我跟的时间最长，并且PPT是我来负责翻�
 
 《Scrum精髓》[我要购买](http://item.jd.com/11462889.html)
 
-[![Screen Shot 2014-06-07 at 10.17.28 AM](http://bobjiang.com/wp-content/uploads/2013/11/Screen-Shot-2014-06-07-at-10.17.28-AM.png)](http://bobjiang.com/wp-content/uploads/2013/11/Screen-Shot-2014-06-07-at-10.17.28-AM.png)
+[![Screen Shot 2014-06-07 at 10.17.28 AM](/wp-content/uploads/2013/11/Screen-Shot-2014-06-07-at-10.17.28-AM.png)](/wp-content/uploads/2013/11/Screen-Shot-2014-06-07-at-10.17.28-AM.png)

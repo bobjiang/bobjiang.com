@@ -3,7 +3,7 @@ title: "企业的主管领导们，你们准备好敏捷了吗？"
 date: "2014-01-16"
 ---
 
-[![Executives1](http://bobjiang.com/wp-content/uploads/2014/01/Executives1.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/Executives1.jpg)
+[![Executives1](/wp-content/uploads/2014/01/Executives1.jpg)](/wp-content/uploads/2014/01/Executives1.jpg)
 
 主管领导经常宣扬敏捷，但他们真正了解什么是敏捷吗？当然，敏捷增加了协作，提高了透明度和响应变化的能力。谁不喜欢呢？主管们所了解的是，敏捷转型只影响Scrum团队。下面让我们看看对于组织而言敏捷是什么：
 

@@ -5,7 +5,7 @@ date: "2013-12-02"
 
 沟通当中最重要的是**倾听**，而不是说。
 
-[![listen](http://bobjiang.com/wp-content/uploads/2013/12/listen-300x263.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/listen.jpg) 还记得有这样一个故事：
+[![listen](/wp-content/uploads/2013/12/listen-300x263.jpg)](/wp-content/uploads/2013/12/listen.jpg) 还记得有这样一个故事：
 
 > 有一天，一个说话连篇、滔滔不绝的人来找苏格拉底。他问到，我如何学会沟通。我认为我很会说，但是为什么没有人愿意听我讲。苏格拉底回应道，我应该收你两份钱，因为我要先教会你闭嘴，然后才是如何说。
 

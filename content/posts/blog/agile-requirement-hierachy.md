@@ -10,7 +10,7 @@ coverImage: "Screen-Shot-2015-11-13-at-10.36.34-AM.png"
 
 介绍详略得当之前，我们先看一张图
 
-[![Screen Shot 2015-11-13 at 10.38.22 AM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-13-at-10.38.22-AM-1024x772.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-13-at-10.38.22-AM.png)
+[![Screen Shot 2015-11-13 at 10.38.22 AM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-13-at-10.38.22-AM-1024x772.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-13-at-10.38.22-AM.png)
 
 在上图的产品列表（Product Backlog）中，最左边分为几个部分：已完成，细粒度，粗粒度，下一版本。已完成无需介绍，下面分别介绍一下细粒度，粗粒度，下一版本。
 
@@ -156,7 +156,7 @@ coverImage: "Screen-Shot-2015-11-13-at-10.36.34-AM.png"
 
 **JinKenny 19:03**
 
-[![_storage_emulated_0_tencent_MicroMsg_7c43dde32e64665faf6a0b49a1271811_image2_69_46_6946838bab02a6c229f5f7e4b6cba6b7](http://bobjiang.com/wp-content/uploads/2015/11/storage_emulated_0_tencent_MicroMsg_7c43dde32e64665faf6a0b49a1271811_image2_69_46_6946838bab02a6c229f5f7e4b6cba6b7-1024x628.jpg)](http://bobjiang.com/wp-content/uploads/2015/11/storage_emulated_0_tencent_MicroMsg_7c43dde32e64665faf6a0b49a1271811_image2_69_46_6946838bab02a6c229f5f7e4b6cba6b7.jpg)
+[![_storage_emulated_0_tencent_MicroMsg_7c43dde32e64665faf6a0b49a1271811_image2_69_46_6946838bab02a6c229f5f7e4b6cba6b7](/wp-content/uploads/2015/11/storage_emulated_0_tencent_MicroMsg_7c43dde32e64665faf6a0b49a1271811_image2_69_46_6946838bab02a6c229f5f7e4b6cba6b7-1024x628.jpg)](/wp-content/uploads/2015/11/storage_emulated_0_tencent_MicroMsg_7c43dde32e64665faf6a0b49a1271811_image2_69_46_6946838bab02a6c229f5f7e4b6cba6b7.jpg)
 
 **JinKenny 19:03**
 
@@ -196,7 +196,7 @@ CIDRA＝Create Index Details Reject Approve
 
 **火星人 19:11**
 
-呵呵，我也觉得有点诧异。Jira文化还是很好的，应该不会吧。 [![2_storage_emulated_0_tencent_MicroMsg_7c43dde32e64665faf6a0b49a1271811_image2_69_46_6946838bab02a6c229f5f7e4b6cba6b7](http://bobjiang.com/wp-content/uploads/2015/11/2_storage_emulated_0_tencent_MicroMsg_7c43dde32e64665faf6a0b49a1271811_image2_69_46_6946838bab02a6c229f5f7e4b6cba6b7-1024x628.jpg)](http://bobjiang.com/wp-content/uploads/2015/11/2_storage_emulated_0_tencent_MicroMsg_7c43dde32e64665faf6a0b49a1271811_image2_69_46_6946838bab02a6c229f5f7e4b6cba6b7.jpg)
+呵呵，我也觉得有点诧异。Jira文化还是很好的，应该不会吧。 [![2_storage_emulated_0_tencent_MicroMsg_7c43dde32e64665faf6a0b49a1271811_image2_69_46_6946838bab02a6c229f5f7e4b6cba6b7](/wp-content/uploads/2015/11/2_storage_emulated_0_tencent_MicroMsg_7c43dde32e64665faf6a0b49a1271811_image2_69_46_6946838bab02a6c229f5f7e4b6cba6b7-1024x628.jpg)](/wp-content/uploads/2015/11/2_storage_emulated_0_tencent_MicroMsg_7c43dde32e64665faf6a0b49a1271811_image2_69_46_6946838bab02a6c229f5f7e4b6cba6b7.jpg)
 
 **火星人 19:13**
 
@@ -406,10 +406,10 @@ WORD写出来的结构更是五花八门，新手完全不知道怎么弄。
 
 分了3层：风筝，大海，鱼。风筝就是Theme, 大海就是Epic, 鱼就是Story
 
-[![Screen Shot 2015-11-13 at 11.16.59 AM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-13-at-11.16.59-AM-1024x774.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-13-at-11.16.59-AM.png)
+[![Screen Shot 2015-11-13 at 11.16.59 AM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-13-at-11.16.59-AM-1024x774.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-13-at-11.16.59-AM.png)
 
 **姜信宝Agile Bob～京东敏捷教练 21:42**
 
 Jeff Patton的故事地图中，也有3层，Backbone, walking skeleton, task(未列出)
 
-[![user-story-mapping](http://bobjiang.com/wp-content/uploads/2015/11/user-story-mapping.jpg)](http://bobjiang.com/wp-content/uploads/2015/11/user-story-mapping.jpg)
+[![user-story-mapping](/wp-content/uploads/2015/11/user-story-mapping.jpg)](/wp-content/uploads/2015/11/user-story-mapping.jpg)

@@ -34,7 +34,7 @@ date: "2015-12-18"
 
 作为500Startups的联合创始人和投资人，Dave见过太多的创业公司，他认为作为创业公司的CEO，其实只要关注这5个指标就可以了。这五个指标呈漏斗状。
 
-[![Dave-McClures-Pirate-Metrics](http://bobjiang.com/wp-content/uploads/2015/12/Dave-McClures-Pirate-Metrics.png)](http://bobjiang.com/wp-content/uploads/2015/12/Dave-McClures-Pirate-Metrics.png)
+[![Dave-McClures-Pirate-Metrics](/wp-content/uploads/2015/12/Dave-McClures-Pirate-Metrics.png)](/wp-content/uploads/2015/12/Dave-McClures-Pirate-Metrics.png)
 
 1.获取(Acquisition)
 
@@ -98,7 +98,7 @@ date: "2015-12-18"
 
 如果要购买护照，可以微信转账【应大家强烈要求，本次新增10个护照名额 - 可以参加2016年全部Agile1001线下活动】。支付成功后请微信联系Bob: bob\_jiang\_xinbao
 
-[![Screen Shot 2015-12-18 at 3.15.06 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-18-at-3.15.06-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-18-at-3.15.06-PM.png)
+[![Screen Shot 2015-12-18 at 3.15.06 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-18-at-3.15.06-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-18-at-3.15.06-PM.png)
 
 4.推荐(Referral)
 
@@ -120,6 +120,6 @@ date: "2015-12-18"
 
 为了支付便捷，我们支持微信转账。微信转账二维码如下【应大家强烈要求，本次新增10个护照名额 - 可以参加2016年全部Agile1001线下活动】支付成功后请微信联系Bob: bob\_jiang\_xinbao
 
-[![Screen Shot 2015-12-18 at 3.15.06 PM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-18-at-3.15.06-PM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-18-at-3.15.06-PM.png)
+[![Screen Shot 2015-12-18 at 3.15.06 PM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-18-at-3.15.06-PM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-18-at-3.15.06-PM.png)
 
 海盗指标参考链接： [http://innolauncher.com/pirate-metrics-start-aarrr/](http://innolauncher.com/pirate-metrics-start-aarrr/)

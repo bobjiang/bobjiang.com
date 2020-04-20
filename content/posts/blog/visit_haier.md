@@ -10,11 +10,11 @@ coverImage: "haier.jpg"
 
 最近微信上流传着很多有关海尔的评论，本人也随波逐流，上周末去了一趟海尔实地考察。下面我将细细道来我的一些观察和体验。
 
-[![IMG_2952](http://bobjiang.com/wp-content/uploads/2014/07/IMG_2952-1024x768.jpg)](http://bobjiang.com/wp-content/uploads/2014/07/IMG_2952.jpg)
+[![IMG_2952](/wp-content/uploads/2014/07/IMG_2952-1024x768.jpg)](/wp-content/uploads/2014/07/IMG_2952.jpg)
 
 在海尔，听到最多的词汇是创新，并且是从海尔成立之初（1984年），创新就被植入了海尔的基因中。并且海尔非常会使用精神激励来鼓励创新，如在海尔文化展过程中，可以看到典型的启明焊枪（以个人名字命名的创新产品）。
 
-[![IMG_2968](http://bobjiang.com/wp-content/uploads/2014/07/IMG_2968-1024x768.jpg)](http://bobjiang.com/wp-content/uploads/2014/07/IMG_2968.jpg)
+[![IMG_2968](/wp-content/uploads/2014/07/IMG_2968-1024x768.jpg)](/wp-content/uploads/2014/07/IMG_2968.jpg)
 
 这点让我非常震惊，没有想到一个传统的生产制造商会如此看中且鼓励创新。在海尔，每个员工都可以把创新想法发布出来，每周会有评审会审核想法。一旦创新想法通过，就可能会被载入海尔的史册。当然更重要的是他可以成为自主经营体的负责人，领导并负责这个新想法的实现。
 
@@ -24,7 +24,7 @@ coverImage: "haier.jpg"
 
 **6S（整理 整顿 清扫 清洁 素养 安全）** - 进入海尔大门后，第一眼就看到了非常熟悉的6S（原来为5S，增加一个安全Safe）宣传牌。后来听海尔的朋友介绍，在海尔，6S已经融入到了每天的工作当中，每天班组都要站在大脚印上进行自省。
 
-[![IMG_2953](http://bobjiang.com/wp-content/uploads/2014/07/IMG_2953-1024x768.jpg)](http://bobjiang.com/wp-content/uploads/2014/07/IMG_2953.jpg)
+[![IMG_2953](/wp-content/uploads/2014/07/IMG_2953-1024x768.jpg)](/wp-content/uploads/2014/07/IMG_2953.jpg)
 
 参观海尔文化展过程中，记录了几句张首席非常经典的话：
 

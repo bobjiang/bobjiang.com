@@ -3,7 +3,7 @@ title: "《Essential Scrum》作者Kenny Rubin采访录-亚马逊最畅销敏捷
 date: "2013-11-13"
 ---
 
-[![Essential Scrum](http://bobjiang.com/wp-content/uploads/2013/11/Essential-Scrum-229x300.jpg)](http://www.innolution.com/essential-scrum)
+[![Essential Scrum](/wp-content/uploads/2013/11/Essential-Scrum-229x300.jpg)](http://www.innolution.com/essential-scrum)
 
 **1. 最想问不同的企业文化和价值观，以及商业定位对于敏捷的适用性有什么具体的影响？**
 

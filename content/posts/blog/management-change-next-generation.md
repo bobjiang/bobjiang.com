@@ -14,7 +14,7 @@ coverImage: "doing-agile-vs-being-agile.jpg"
 
 泰勒对于管理的最大贡献在于把组织内的计划功能和执行功能分开。泰勒认为计划属于管理者的工作，应该由管理者来制定计划，把任务安排给执行者；而执行者只需要负责执行计划就可以。这在当时的环境下是一个巨大的进步，因为当时正是二战结束，工厂需要大量工人恢复生产，而大量的工人来自于农村或妇女（受教育的程度低）。因此计划工作需要由那些大学毕业的人来承担（即管理工作），而具体工作由执行者完成（即流水线工作）。
 
-[![mgt1.pic](http://bobjiang.com/wp-content/uploads/2016/08/mgt1.pic_.jpg)](http://bobjiang.com/management-change-next-generation/mgt1-pic/#main)
+[![mgt1.pic](/wp-content/uploads/2016/08/mgt1.pic_.jpg)](http://bobjiang.com/management-change-next-generation/mgt1-pic/#main)
 
 ### 优势
 
@@ -28,7 +28,7 @@ coverImage: "doing-agile-vs-being-agile.jpg"
 
 1950年后，在管理领域陆续提出了如[TQM（全面质量管理）](http://wiki.mbalib.com/wiki/%E5%85%A8%E9%9D%A2%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86)、[TOC（约束理论）](http://baike.baidu.com/view/80054.htm)以及[6 Sigma](http://baike.baidu.com/view/185047.htm)等实践。这些实践的目的是为了提高组织的质量与绩效（效率），组织存在的目的就是取得第一名（某领域内）。
 
-[![mgt2.pic](http://bobjiang.com/wp-content/uploads/2016/08/mgt2.pic_.jpg)](http://bobjiang.com/management-change-next-generation/mgt2-pic/#main)
+[![mgt2.pic](/wp-content/uploads/2016/08/mgt2.pic_.jpg)](http://bobjiang.com/management-change-next-generation/mgt2-pic/#main)
 
 ### 优势
 
@@ -46,7 +46,7 @@ coverImage: "doing-agile-vs-being-agile.jpg"
 
 此时的组织更像是一个社区，每个人在其中都发挥最大的潜能。
 
-[![mgt3.pic](http://bobjiang.com/wp-content/uploads/2016/08/mgt3.pic_.jpg)](http://bobjiang.com/management-change-next-generation/mgt3-pic/#main)
+[![mgt3.pic](/wp-content/uploads/2016/08/mgt3.pic_.jpg)](http://bobjiang.com/management-change-next-generation/mgt3-pic/#main)
 
 ### 优势
 
@@ -60,7 +60,7 @@ coverImage: "doing-agile-vs-being-agile.jpg"
 
 下一代管理，是以敏捷为基础，除了认识到人的重要性之外，还要识别出整个生态系统。从全局出发，整体优化。
 
-[![mgt4.pic](http://bobjiang.com/wp-content/uploads/2016/08/mgt4.pic_.jpg)](http://bobjiang.com/management-change-next-generation/mgt4-pic/#main)
+[![mgt4.pic](/wp-content/uploads/2016/08/mgt4.pic_.jpg)](http://bobjiang.com/management-change-next-generation/mgt4-pic/#main)
 
 ### 优势
 

@@ -16,7 +16,7 @@ coverImage: "TheTippingPoint.jpg"
 
 我对于书中的观点进行了精炼，流行的三要素是：人、信息和环境。请参考下面的思维导图：
 
-[![TheTippingPointMindMap](http://bobjiang.com/wp-content/uploads/2015/06/TheTippingPointMindMap-1024x759.jpg)](http://bobjiang.com/wp-content/uploads/2015/06/TheTippingPointMindMap.jpg)
+[![TheTippingPointMindMap](/wp-content/uploads/2015/06/TheTippingPointMindMap-1024x759.jpg)](/wp-content/uploads/2015/06/TheTippingPointMindMap.jpg)
 
 ## 个别人物法则（人）（Law of the Few）
 

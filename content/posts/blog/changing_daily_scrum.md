@@ -5,7 +5,7 @@ date: "2013-11-26"
 
 本文讲述了改变Scrum每日站会的一个小故事。我们从典型的以人为中心转变到以Sprint Backlog里的故事为中心。这个想法来自于Jeff Sutherland的一篇论文。
 
-本文的目的是简要描述我们为什么和怎样进行每日站会的变化，它的优缺点，以及我们得到的反馈。在开始之前，先介绍一下背景。 [![daily_scrum_small](http://bobjiang.com/wp-content/uploads/2013/11/daily_scrum_small-300x175.jpg)](http://bobjiang.com/wp-content/uploads/2013/11/daily_scrum_small.jpg)
+本文的目的是简要描述我们为什么和怎样进行每日站会的变化，它的优缺点，以及我们得到的反馈。在开始之前，先介绍一下背景。 [![daily_scrum_small](/wp-content/uploads/2013/11/daily_scrum_small-300x175.jpg)](/wp-content/uploads/2013/11/daily_scrum_small.jpg)
 
 ### 背景
 

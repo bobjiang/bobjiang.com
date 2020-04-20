@@ -3,7 +3,7 @@ title: "说说2013年我读过的那些书"
 date: "2013-12-29"
 ---
 
-**[![book](http://bobjiang.com/wp-content/uploads/2013/12/book-300x280.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/book.jpg)**
+**[![book](/wp-content/uploads/2013/12/book-300x280.jpg)](/wp-content/uploads/2013/12/book.jpg)**
 
 **2013年读书汇总（基本保证每月一本书，并记录读书笔记）：** 有部分的读书笔记没有发布在博客上，只在印象笔记中有。2014年会每篇笔记都发布在博客上。
 
@@ -11,6 +11,6 @@ date: "2013-12-29"
 
 \-----------------------------------------------------------------------
 
-微信公众号：敏捷那些事儿[![qrcode_for_gh_1a45f645cae5_258 (1)](http://bobjiang.com/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)
+微信公众号：敏捷那些事儿[![qrcode_for_gh_1a45f645cae5_258 (1)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)
 
 Scrum和敏捷公益课，每月一次，旨在推广和传播敏捷开发思想，希望更多的开发者受益。欢迎报名。课程信息会定期发布，敬请关注。

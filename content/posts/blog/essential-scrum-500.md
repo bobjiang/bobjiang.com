@@ -8,6 +8,6 @@ coverImage: "EssentialScrumBottle.pic_.jpg"
 
 Rubin Kenneth：“Really jazzed, my Essential ‪#‎Scrum‬ book was in top 500 (out of 8 million) books on ‪#‎amazon‬ last week! Highest ranked the book has ever been.
 
-[![Screen Shot 2015-11-10 at 10.33.14 PM](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-10-at-10.33.14-PM-300x209.png)](http://bobjiang.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-10-at-10.33.14-PM.png)
+[![Screen Shot 2015-11-10 at 10.33.14 PM](/wp-content/uploads/2015/11/Screen-Shot-2015-11-10-at-10.33.14-PM-300x209.png)](/wp-content/uploads/2015/11/Screen-Shot-2015-11-10-at-10.33.14-PM.png)
 
 最后也欢迎购买中文版《[Scrum精髓](http://item.jd.com/11462889.html)》

@@ -3,7 +3,7 @@ title: "有趣方式的回顾会议（Retrospective）"
 date: "2013-12-23"
 ---
 
-[![retrospective-infoq](http://bobjiang.com/wp-content/uploads/2013/12/retrospective-infoq.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/retrospective-infoq.jpg)Retrospective是最有价值和重要的Scrum会议。这是一个改进会议，通过该会议团队回顾什么地方可以改进，以及讨论如何确保阻碍团队达到目标的问题，在以后的迭代中不会再次发生。
+[![retrospective-infoq](/wp-content/uploads/2013/12/retrospective-infoq.jpg)](/wp-content/uploads/2013/12/retrospective-infoq.jpg)Retrospective是最有价值和重要的Scrum会议。这是一个改进会议，通过该会议团队回顾什么地方可以改进，以及讨论如何确保阻碍团队达到目标的问题，在以后的迭代中不会再次发生。
 
 不幸的是，回顾会议经常被忽略，并可能变成单调无趣的会议。然而，回顾会议也可以组织得令人愉快和有趣。为了保持团队的参与和兴趣，最近我采用了[Mark Summers](http://exploringagility.com/2012/01/19/sailboat-retrospective/)博客中推荐的帆船回顾会议(Sailboat retrospective)。（也可以参考之前我翻译的[敏捷回顾的大船](http://bobjiang.com/2013/12/11/agile_retrospective_ship/)）
 

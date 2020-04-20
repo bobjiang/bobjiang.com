@@ -3,7 +3,7 @@ title: "Scrum团队和直线组织兼容吗？"
 date: "2013-12-08"
 ---
 
-[![organization_google_microsoft_apple_facebook](http://bobjiang.com/wp-content/uploads/2013/12/organization_google_microsoft_apple_facebook.png)](http://bobjiang.com/2013/12/08/scrum_compitable_org/organization_google_microsoft_apple_facebook/)Scrum改变了团队成员之间的工作文化，就像Henrik Kniberg (在 [Spotify](http://www.spotify.com/)) 说过, "Scrum 团队看起来更像mini创业团队。"但是这和传统的直线组织兼容吗？ 我知道所有采用Scrum的公司仍然有直线组织。直线组织的理念是为了链接组织单元，帮忙管理组织系统中的上下级关系。换句话说，所有的ScrumMasters是ScrumMaster直线组织的一部分，开发人员是其直线组织的一部分，等等。但是现在有许多已知的组织类型，混合也是有可能的。开篇的图不要太认真，但他们展示出“现代”的直线组织。
+[![organization_google_microsoft_apple_facebook](/wp-content/uploads/2013/12/organization_google_microsoft_apple_facebook.png)](http://bobjiang.com/2013/12/08/scrum_compitable_org/organization_google_microsoft_apple_facebook/)Scrum改变了团队成员之间的工作文化，就像Henrik Kniberg (在 [Spotify](http://www.spotify.com/)) 说过, "Scrum 团队看起来更像mini创业团队。"但是这和传统的直线组织兼容吗？ 我知道所有采用Scrum的公司仍然有直线组织。直线组织的理念是为了链接组织单元，帮忙管理组织系统中的上下级关系。换句话说，所有的ScrumMasters是ScrumMaster直线组织的一部分，开发人员是其直线组织的一部分，等等。但是现在有许多已知的组织类型，混合也是有可能的。开篇的图不要太认真，但他们展示出“现代”的直线组织。
 
 但是上下级的思想和自组织、跨职能的Scrum不兼容吗？我们真的需要一个管理角色，具有对策略和薪水等的一言否决权吗？
 

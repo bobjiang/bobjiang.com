@@ -3,7 +3,7 @@ title: "读书笔记：《驱动力》 丹尼尔平克"
 date: "2013-09-25"
 ---
 
-[![drive](http://bobjiang.com/wp-content/uploads/2013/09/drive-247x300.jpg)](http://bobjiang.com/wp-content/uploads/2013/09/drive.jpg)
+[![drive](/wp-content/uploads/2013/09/drive-247x300.jpg)](/wp-content/uploads/2013/09/drive.jpg)
 
 《驱动力》 丹尼尔 平克
 

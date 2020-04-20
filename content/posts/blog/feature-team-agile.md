@@ -42,4 +42,4 @@ coverImage: "feature-team.jpg"
 
 最后我们一起来看一下组件团队和特性团队的对比图。（来自Craig Larmen和Bas Vodde）
 
-[![Screen Shot 2015-12-21 at 11.32.07 AM](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-21-at-11.32.07-AM.png)](http://bobjiang.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-21-at-11.32.07-AM.png)
+[![Screen Shot 2015-12-21 at 11.32.07 AM](/wp-content/uploads/2015/12/Screen-Shot-2015-12-21-at-11.32.07-AM.png)](/wp-content/uploads/2015/12/Screen-Shot-2015-12-21-at-11.32.07-AM.png)

@@ -25,13 +25,13 @@ date: "2015-05-31"
 
 第一步，估算需求规模需要邀请开发团队参与。需求的规模用故事点来描述。具体的操作方法可以参考[敏捷估算](http://bobjiang.com/2015/05/14/estimation_in_scrum/)中三角估算法。最后的结果是所有的需求从左到右排成一条线，左边是最小的，右边是最大的。如下图：
 
-[![user_story_by_size](http://bobjiang.com/wp-content/uploads/2015/05/user_story_by_size.jpg)](http://bobjiang.com/wp-content/uploads/2015/05/user_story_by_size.jpg)
+[![user_story_by_size](/wp-content/uploads/2015/05/user_story_by_size.jpg)](/wp-content/uploads/2015/05/user_story_by_size.jpg)
 
 ## 2\. 估算需求价值
 
 第二步估算价值的时候，需要邀请客户来参与。要先对客户解释这面墙的作用，客户只需要根据每个需求的价值来上下移动卡片，最上面是价值最大的，最下面是价值最小的。如下图：
 
-[![user_story_by_value](http://bobjiang.com/wp-content/uploads/2015/05/user_story_by_value.jpg)](http://bobjiang.com/wp-content/uploads/2015/05/user_story_by_value.jpg)
+[![user_story_by_value](/wp-content/uploads/2015/05/user_story_by_value.jpg)](/wp-content/uploads/2015/05/user_story_by_value.jpg)
 
 ## 最后的结果
 

@@ -59,7 +59,7 @@ coverImage: "happy_face.jpg"
 
 做好的笑脸例子如下：
 
-[![IMG_2675](http://bobjiang.com/wp-content/uploads/2015/06/IMG_2675-800x1024.jpg)](http://bobjiang.com/wp-content/uploads/2015/06/IMG_2675.jpg)
+[![IMG_2675](/wp-content/uploads/2015/06/IMG_2675-800x1024.jpg)](/wp-content/uploads/2015/06/IMG_2675.jpg)
 
 ### **第二轮——拉动模式**
 
@@ -78,7 +78,7 @@ coverImage: "happy_face.jpg"
 
 队列举例：
 
-[![IMG_2673](http://bobjiang.com/wp-content/uploads/2015/06/IMG_2673-771x1024.jpg)](http://bobjiang.com/wp-content/uploads/2015/06/IMG_2673.jpg)
+[![IMG_2673](/wp-content/uploads/2015/06/IMG_2673-771x1024.jpg)](/wp-content/uploads/2015/06/IMG_2673.jpg)
 
 ## **你将学会**
 

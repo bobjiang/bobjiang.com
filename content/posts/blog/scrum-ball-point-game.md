@@ -30,7 +30,7 @@ coverImage: "ball_point_game_qcon.jpg"
 
 **计分用的表格**
 
-[![ball-point-game](http://bobjiang.com/wp-content/uploads/2014/01/ball-point-game-300x121.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/ball-point-game.jpg)
+[![ball-point-game](/wp-content/uploads/2014/01/ball-point-game-300x121.jpg)](/wp-content/uploads/2014/01/ball-point-game.jpg)
 
  
 
@@ -48,17 +48,17 @@ coverImage: "ball_point_game_qcon.jpg"
 
 **游戏规则的例子**
 
-[![ballpointgame-rules](http://bobjiang.com/wp-content/uploads/2014/01/ballpointgame-rules-228x300.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/ballpointgame-rules.jpg)
+[![ballpointgame-rules](/wp-content/uploads/2014/01/ballpointgame-rules-228x300.jpg)](/wp-content/uploads/2014/01/ballpointgame-rules.jpg)
 
  
 
 **游戏手册的例子**
 
-[![ballpointgame-playbooks](http://bobjiang.com/wp-content/uploads/2014/01/ballpointgame-playbooks-209x300.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/ballpointgame-playbooks.jpg)
+[![ballpointgame-playbooks](/wp-content/uploads/2014/01/ballpointgame-playbooks-209x300.jpg)](/wp-content/uploads/2014/01/ballpointgame-playbooks.jpg)
 
 **戴明环**
 
-[![deming](http://bobjiang.com/wp-content/uploads/2014/01/deming-300x262.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/deming.jpg)
+[![deming](/wp-content/uploads/2014/01/deming-300x262.jpg)](/wp-content/uploads/2014/01/deming.jpg)
 
  
 

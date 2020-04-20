@@ -3,11 +3,11 @@ title: "《谁说我们不能一起做决定？参与式决策引导宝典》读
 date: "2013-12-28"
 ---
 
-[![参与式决策](http://bobjiang.com/wp-content/uploads/2013/12/参与式决策.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/参与式决策.jpg)
+[![参与式决策](/wp-content/uploads/2013/12/参与式决策.jpg)](/wp-content/uploads/2013/12/参与式决策.jpg)
 
 本书作者是山姆 肯纳（Sam Kaner），由洪慧芳翻译（繁体中文版）。这本书是Ripley赠送给我的，仔细阅读后发现是一本关于群体引导（或者说针对工作坊或会议）非常棒的书。
 
-**本书的核心**是参与式决策的钻石模型。 [![20131228220736894](http://bobjiang.com/wp-content/uploads/2013/12/20131228220736894.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/20131228220736894.jpg)
+**本书的核心**是参与式决策的钻石模型。 [![20131228220736894](/wp-content/uploads/2013/12/20131228220736894.jpg)](/wp-content/uploads/2013/12/20131228220736894.jpg)
 
 **我们为什么需要参与式决策**（Participatory decision making）？本书也解释了其核心价值：
 
@@ -16,7 +16,7 @@ date: "2013-12-28"
 - 具包容性的解决方案
 - 责任共享
 
-参与的价值所带来的益处： [![20131228220752759](http://bobjiang.com/wp-content/uploads/2013/12/20131228220752759.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/20131228220752759.jpg)
+参与的价值所带来的益处： [![20131228220752759](/wp-content/uploads/2013/12/20131228220752759.jpg)](/wp-content/uploads/2013/12/20131228220752759.jpg)
 
 **引导式的倾听技能有哪些？**
 
@@ -45,10 +45,10 @@ date: "2013-12-28"
 
 头脑风暴的基本原则： 1. 每个贡献出来的想法都是有价值的。（即使是荒诞不经、超出常理的想法；即使是令人困惑的想法；即使是愚蠢可笑的想法）。 2. 悬挂判断（我们不会批判彼此的想法；我们不会审查自己的想法；我们会将这些想法留待后续的讨论）。 3. 在这个过程开始前或结束后，我们可以修改它的流程，但是不会再进行时修改。
 
-引导者进行头脑风暴的要诀： [![20131228220827498_副本](http://bobjiang.com/wp-content/uploads/2013/12/20131228220827498_副本.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/20131228220827498_副本.jpg)
+引导者进行头脑风暴的要诀： [![20131228220827498_副本](/wp-content/uploads/2013/12/20131228220827498_副本.jpg)](/wp-content/uploads/2013/12/20131228220827498_副本.jpg)
 
-在长清单中挑选优先项目的方法、做法、以及优缺点 [![20131228220850031_副本](http://bobjiang.com/wp-content/uploads/2013/12/20131228220850031_副本.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/20131228220850031_副本.jpg)
+在长清单中挑选优先项目的方法、做法、以及优缺点 [![20131228220850031_副本](/wp-content/uploads/2013/12/20131228220850031_副本.jpg)](/wp-content/uploads/2013/12/20131228220850031_副本.jpg)
 
-展现支持的态度 [![20131228220912533_副本](http://bobjiang.com/wp-content/uploads/2013/12/20131228220912533_副本.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/20131228220912533_副本.jpg)
+展现支持的态度 [![20131228220912533_副本](/wp-content/uploads/2013/12/20131228220912533_副本.jpg)](/wp-content/uploads/2013/12/20131228220912533_副本.jpg)
 
-同意的阶梯 [![20131228220938466](http://bobjiang.com/wp-content/uploads/2013/12/20131228220938466.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/20131228220938466.jpg)![20131228221001551_副本](http://bobjiang.com/wp-content/uploads/2013/12/20131228221001551_副本.jpg)
+同意的阶梯 [![20131228220938466](/wp-content/uploads/2013/12/20131228220938466.jpg)](/wp-content/uploads/2013/12/20131228220938466.jpg)![20131228221001551_副本](/wp-content/uploads/2013/12/20131228221001551_副本.jpg)

@@ -10,7 +10,7 @@ coverImage: "Screen-Shot-2014-05-12-at-7.33.14-PM.png"
 
 影响地图，它可以很好得把战略目标（不论是公司级的或产品、项目级的）和工程师的日常工作有机结合起来。并且以可视化的方式呈现在所有人面前。这样一来，当有新任务涌现出来的时候，我们只需要对照影响地图，看看它是否满足某个角色对于目标的影响。如果不是的话，那么这个任务就需要以后处理或抛弃掉。
 
-[![Screen Shot 2014-05-12 at 7.03.10 PM](http://bobjiang.com/wp-content/uploads/2014/05/Screen-Shot-2014-05-12-at-7.03.10-PM.png)](http://bobjiang.com/wp-content/uploads/2014/05/Screen-Shot-2014-05-12-at-7.03.10-PM.png)
+[![Screen Shot 2014-05-12 at 7.03.10 PM](/wp-content/uploads/2014/05/Screen-Shot-2014-05-12-at-7.03.10-PM.png)](/wp-content/uploads/2014/05/Screen-Shot-2014-05-12-at-7.03.10-PM.png)
 
 另外，影响地图也是战略和发布、迭代之间的良好润滑剂。它可以使团队更清楚地做正确的事情，而不是正确地做事。
 

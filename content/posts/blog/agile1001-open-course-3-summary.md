@@ -5,11 +5,11 @@ date: "2014-01-19"
 
 2014.1.19 王立杰老师为大家带来了一场敏捷需求的公开课（蛇年的最后一场）。这次非常感谢联众游戏为我们提供场地赞助。（如有企业或个人能提供场地赞助，请[联系我](http://bobjiang.com/about_bob_jiang/)或王立杰老师）
 
-[![IMG_1636_副本](http://bobjiang.com/wp-content/uploads/2014/01/IMG_1636_副本-296x300.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/IMG_1636_副本.jpg)
+[![IMG_1636_副本](/wp-content/uploads/2014/01/IMG_1636_副本-296x300.jpg)](/wp-content/uploads/2014/01/IMG_1636_副本.jpg)
 
 会后的合影：
 
-[![IMG_1649_副本](http://bobjiang.com/wp-content/uploads/2014/01/IMG_1649_副本-300x187.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/IMG_1649_副本.jpg)
+[![IMG_1649_副本](/wp-content/uploads/2014/01/IMG_1649_副本-300x187.jpg)](/wp-content/uploads/2014/01/IMG_1649_副本.jpg)
 
 关于用户故事的3C【DanielTeng扩充为5C】和INVEST原则，也可以参考我之前[总结的一篇博文](http://bobjiang.com/2013/11/24/product_backlog_user_story/)。
 
@@ -57,4 +57,4 @@ date: "2014-01-19"
 
 \-----------------------------------------------------------------------
 
-[![qrcode_for_gh_1a45f645cae5_258 (1)](http://bobjiang.com/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg) **微信公众号**: 敏捷那些事儿（agileplus） Agile1001公开课，每月一次，旨在推广和传播敏捷开发思想和Scrum，希望更多的开发者受益。欢迎关注。课程信息会定期发布，敬请关注。[公开课汇总链接](http://bobjiang.com/agile1001-open-course/)。
+[![qrcode_for_gh_1a45f645cae5_258 (1)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg) **微信公众号**: 敏捷那些事儿（agileplus） Agile1001公开课，每月一次，旨在推广和传播敏捷开发思想和Scrum，希望更多的开发者受益。欢迎关注。课程信息会定期发布，敬请关注。[公开课汇总链接](http://bobjiang.com/agile1001-open-course/)。

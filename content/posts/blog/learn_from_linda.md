@@ -3,7 +3,7 @@ title: "我从Linda Rising身上学到的"
 date: "2013-12-26"
 ---
 
-[![small-business-retirement](http://bobjiang.com/wp-content/uploads/2013/12/small-business-retirement.jpeg)](http://bobjiang.com/wp-content/uploads/2013/12/small-business-retirement.jpeg)
+[![small-business-retirement](/wp-content/uploads/2013/12/small-business-retirement.jpeg)](/wp-content/uploads/2013/12/small-business-retirement.jpeg)
 
 2013年，最兴奋的一件事情就是认识了Linda，并有幸和Linda近距离接触，交流。从而在Linda Rising身上学到的很多，下面就分享其中最重要的两点：
 

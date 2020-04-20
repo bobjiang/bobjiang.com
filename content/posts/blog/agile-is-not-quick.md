@@ -19,7 +19,7 @@ url: /agile-is-not-quick/
 
 敏捷的本质是**反馈快**！
 
-[![IMG_20150614_160214](http://bobjiang.com/wp-content/uploads/2015/12/IMG_20150614_160214-759x1024.jpg)](http://bobjiang.com/wp-content/uploads/2015/12/IMG_20150614_160214.jpg)
+[![IMG_20150614_160214](/wp-content/uploads/2015/12/IMG_20150614_160214-759x1024.jpg)](/wp-content/uploads/2015/12/IMG_20150614_160214.jpg)
 
 我们还用上述的例子，如果是采用了传统软件开发方式，最终用户什么时间第一次看到我们开发出来的软件呢，基本上就是3个月后。而如果是采用了敏捷软件开发方法，最终用户最早可能是2周后（假设迭代周期是2周）就看到了软件。在用户看到软件并真正使用之后，他极有可能提出更多的反馈意见，也可能在使用过程中暴露出不同的问题。这些都是非常好的反馈，为后续迭代提供了方向（将会放入到[产品待办列表](http://bobjiang.com/agile-coach/product_backlog_user_story.html)中）。
 
@@ -27,6 +27,6 @@ url: /agile-is-not-quick/
 
 如果您对本文有不同观点，欢迎和我微信交流：
 
-[![bobjiang_wechat](http://bobjiang.com/wp-content/uploads/2015/11/bobjiang_wechat-300x300.jpg)](http://bobjiang.com/wp-content/uploads/2015/11/bobjiang_wechat.jpg)
+[![bobjiang_wechat](/wp-content/uploads/2015/11/bobjiang_wechat-300x300.jpg)](/wp-content/uploads/2015/11/bobjiang_wechat.jpg)
 
 如果您想要了解[Scrum入门资料](http://bobjiang.com/scrum/scrum-introduction)，可以[点这里](http://bobjiang.com/scrum/scrum-introduction)；如果您需要敏捷培训，可以[参考这里](http://bobjiang.com/trainings)。

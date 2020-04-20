@@ -3,7 +3,7 @@ title: "读书笔记《把时间当做朋友》"
 date: "2016-09-13"
 ---
 
-[![%e6%8a%8a%e6%97%b6%e9%97%b4%e5%bd%93%e5%81%9a%e6%9c%8b%e5%8f%8b](http://bobjiang.com/wp-content/uploads/2016/09/把时间当做朋友.jpg)](http://bobjiang.com/reading-make-friends-with-time/%e6%8a%8a%e6%97%b6%e9%97%b4%e5%bd%93%e5%81%9a%e6%9c%8b%e5%8f%8b/#main)
+[![%e6%8a%8a%e6%97%b6%e9%97%b4%e5%bd%93%e5%81%9a%e6%9c%8b%e5%8f%8b](/wp-content/uploads/2016/09/把时间当做朋友.jpg)](http://bobjiang.com/reading-make-friends-with-time/%e6%8a%8a%e6%97%b6%e9%97%b4%e5%bd%93%e5%81%9a%e6%9c%8b%e5%8f%8b/#main)
 
 作者: [李笑来](https://book.douban.com/search/%E6%9D%8E%E7%AC%91%E6%9D%A5) 出版社: 电子工业出版社 副标题: 运用心智获得解放 出版年: 2009-6 页数: 248 定价: 32.00元 装帧: 平装 ISBN: 9787121087097
 

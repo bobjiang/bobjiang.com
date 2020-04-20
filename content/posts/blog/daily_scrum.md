@@ -7,7 +7,7 @@ date: "2014-06-19"
 
 在冲刺期间的每一天，理想的做法是在每天同一时间，开发团队举行一定时间范围内（不超过15分钟）的**每日例会**（Daily Scrum，参见下图）。这个检视与调整活动有时也称为“**每日站会**”（Daily Stand-up），因为大家站着开会可以使会议简明扼要。
 
-[![02fig11](http://bobjiang.com/wp-content/uploads/2014/06/02fig11.jpg)](http://bobjiang.com/wp-content/uploads/2014/06/02fig11.jpg)
+[![02fig11](/wp-content/uploads/2014/06/02fig11.jpg)](/wp-content/uploads/2014/06/02fig11.jpg)
 
 举行每日例会的一个常见做法是ScrumMaster负责确保会议更顺畅，每个团队成员都要轮流回答3个问题，让其他团队成员了解情况：
 

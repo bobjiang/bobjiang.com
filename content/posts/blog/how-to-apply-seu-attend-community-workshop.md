@@ -68,8 +68,8 @@ SEU一共分为以下几个类别：
 
 敏捷社区活动，可以申请如上的类别C的SEU。登录[Scrum联盟网站](http://scrumalliance.org)后，找到添加SEU的链接，然后如下图：
 
-[![Screen Shot 2016-08-24 at 1.20.14 PM](http://bobjiang.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-24-at-1.20.14-PM.png)](http://bobjiang.com/how-to-apply-seu-attend-community-workshop/screen-shot-2016-08-24-at-1-20-14-pm/#main)
+[![Screen Shot 2016-08-24 at 1.20.14 PM](/wp-content/uploads/2016/08/Screen-Shot-2016-08-24-at-1.20.14-PM.png)](http://bobjiang.com/how-to-apply-seu-attend-community-workshop/screen-shot-2016-08-24-at-1-20-14-pm/#main)
 
 正文内容示例如下：
 
-[![Screen Shot 2016-08-24 at 1.48.25 PM](http://bobjiang.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-24-at-1.48.25-PM.png)](http://bobjiang.com/how-to-apply-seu-attend-community-workshop/screen-shot-2016-08-24-at-1-48-25-pm/#main)
+[![Screen Shot 2016-08-24 at 1.48.25 PM](/wp-content/uploads/2016/08/Screen-Shot-2016-08-24-at-1.48.25-PM.png)](http://bobjiang.com/how-to-apply-seu-attend-community-workshop/screen-shot-2016-08-24-at-1-48-25-pm/#main)

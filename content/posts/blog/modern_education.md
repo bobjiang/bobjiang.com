@@ -25,7 +25,7 @@ date: "2014-04-09"
 
 第一课 职 业
 
-[![0](http://bobjiang.com/wp-content/uploads/2014/04/0.jpg)](http://bobjiang.com/wp-content/uploads/2014/04/0.jpg)
+[![0](/wp-content/uploads/2014/04/0.jpg)](/wp-content/uploads/2014/04/0.jpg)
 
 【课文原文】猫捕鼠，犬守门，人无职业，不如猫犬。
 
@@ -41,7 +41,7 @@ date: "2014-04-09"
 
 第六课 整 洁
 
-[![0 (1)](http://bobjiang.com/wp-content/uploads/2014/04/0-1.jpg)](http://bobjiang.com/wp-content/uploads/2014/04/0-1.jpg) 【课文原文】屠羲时曰：凡盥面，必以巾遮护衣领，卷束两袖，勿令沾湿，栉发必使光整，勿令散乱。
+[![0 (1)](/wp-content/uploads/2014/04/0-1.jpg)](/wp-content/uploads/2014/04/0-1.jpg) 【课文原文】屠羲时曰：凡盥面，必以巾遮护衣领，卷束两袖，勿令沾湿，栉发必使光整，勿令散乱。
 
 教一件事，先教方法。道理在事体里，厚积薄发。据称联合国一份文件用五种官方文字打印，中文最薄。
 
@@ -57,7 +57,7 @@ date: "2014-04-09"
 
 第十一课 友 爱
 
-[![0 (2)](http://bobjiang.com/wp-content/uploads/2014/04/0-2.jpg)](http://bobjiang.com/wp-content/uploads/2014/04/0-2.jpg) 【课文原文】徐湛之出行，与弟同车。车轮忽折，路人来救。湛之令先抱弟，然后自下。
+[![0 (2)](/wp-content/uploads/2014/04/0-2.jpg)](/wp-content/uploads/2014/04/0-2.jpg) 【课文原文】徐湛之出行，与弟同车。车轮忽折，路人来救。湛之令先抱弟，然后自下。
 
 寥寥数语，淡淡白描，人、事、观点都有了。
 
@@ -73,7 +73,7 @@ date: "2014-04-09"
 
 第十五课 投 报
 
-[![0 (3)](http://bobjiang.com/wp-content/uploads/2014/04/0-3.jpg)](http://bobjiang.com/wp-content/uploads/2014/04/0-3.jpg) 【课文原文】孙赵二女，同校读书。孙女得新书，持赠赵女。赵女取纸笔报之。
+[![0 (3)](/wp-content/uploads/2014/04/0-3.jpg)](/wp-content/uploads/2014/04/0-3.jpg) 【课文原文】孙赵二女，同校读书。孙女得新书，持赠赵女。赵女取纸笔报之。
 
 此册封三印有商务印书馆一段话：“教科书所言事实以家庭教育为主，兼及社会，皆日常习见习闻者。取材颇合儿童心理，书中间涉女子事，尤便男女共校之用……”
 
@@ -87,7 +87,7 @@ date: "2014-04-09"
 
 第十六课 不 拾 遗
 
-[![0 (4)](http://bobjiang.com/wp-content/uploads/2014/04/0-4.jpg)](http://bobjiang.com/wp-content/uploads/2014/04/0-4.jpg) 【课文原文】王华行池畔，见地有遗金，华置金于水边，守其旁，待遗金者至，指还之。
+[![0 (4)](/wp-content/uploads/2014/04/0-4.jpg)](/wp-content/uploads/2014/04/0-4.jpg) 【课文原文】王华行池畔，见地有遗金，华置金于水边，守其旁，待遗金者至，指还之。
 
 夜不闭户，路不拾遗，是俗世温度计上的一个温暖时刻。在川流不息的路上，在更深人静的夜里，站着人世的荣耀。
 
@@ -97,7 +97,7 @@ date: "2014-04-09"
 
 第十七课 御 侮
 
-[![0 (5)](http://bobjiang.com/wp-content/uploads/2014/04/0-5.jpg)](http://bobjiang.com/wp-content/uploads/2014/04/0-5.jpg) 【课文原文】鸠乘鹊出，占居巢中，鹊归不得入，招其群至，共逐鸠去。
+[![0 (5)](/wp-content/uploads/2014/04/0-5.jpg)](/wp-content/uploads/2014/04/0-5.jpg) 【课文原文】鸠乘鹊出，占居巢中，鹊归不得入，招其群至，共逐鸠去。
 
 鸠占鹊巢，一课藏谶。
 

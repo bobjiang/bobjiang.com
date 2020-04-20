@@ -3,7 +3,7 @@ title: "《Scrum敏捷产品管理》读书笔记"
 date: "2014-01-03"
 ---
 
-[![51rM6OzIWRL._SL500_AA300_](http://bobjiang.com/wp-content/uploads/2014/01/51rM6OzIWRL._SL500_AA300_.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/51rM6OzIWRL._SL500_AA300_.jpg)
+[![51rM6OzIWRL._SL500_AA300_](/wp-content/uploads/2014/01/51rM6OzIWRL._SL500_AA300_.jpg)](/wp-content/uploads/2014/01/51rM6OzIWRL._SL500_AA300_.jpg)
 
 提到产品管理，在Scrum中，首先就想到的角色是产品负责人。因此我们先来看看产品负责人（Product Owner），以及这个角色的特征：
 
@@ -18,7 +18,7 @@ date: "2014-01-03"
 1. 首席产品负责人
 2. 产品负责人的层级结构：
 
-[![20140104153113092_副本](http://bobjiang.com/wp-content/uploads/2014/01/20140104153113092_副本-300x192.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/20140104153113092_副本.jpg)![20140104153113114_副本](http://bobjiang.com/wp-content/uploads/2014/01/20140104153113114_副本-266x300.jpg)
+[![20140104153113092_副本](/wp-content/uploads/2014/01/20140104153113092_副本-300x192.jpg)](/wp-content/uploads/2014/01/20140104153113092_副本.jpg)![20140104153113114_副本](/wp-content/uploads/2014/01/20140104153113114_副本-266x300.jpg)
 
 对于产品负责人，常见的问题有：
 
@@ -43,4 +43,4 @@ Kano model （卡诺模型）可以帮助我们选择合适的功能，开发出
 
 产品负责人的六大罪与责：
 
-[![20140104155524664_副本](http://bobjiang.com/wp-content/uploads/2014/01/20140104155524664_副本-300x173.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/20140104155524664_副本.jpg)
+[![20140104155524664_副本](/wp-content/uploads/2014/01/20140104155524664_副本-300x173.jpg)](/wp-content/uploads/2014/01/20140104155524664_副本.jpg)

@@ -3,7 +3,7 @@ title: "总结 - Agile1001 公开课 第一期 Scrum中的角色"
 date: "2014-01-12"
 ---
 
-[![IMG_1626](http://bobjiang.com/wp-content/uploads/2014/01/IMG_1626.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/IMG_1626.jpg)
+[![IMG_1626](/wp-content/uploads/2014/01/IMG_1626.jpg)](/wp-content/uploads/2014/01/IMG_1626.jpg)
 
  
 
@@ -37,8 +37,8 @@ date: "2014-01-12"
 
 **合影**
 
-[![IMG_1622](http://bobjiang.com/wp-content/uploads/2014/01/IMG_1622.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/IMG_1622.jpg) [![IMG_1623](http://bobjiang.com/wp-content/uploads/2014/01/IMG_1623.jpg)](http://bobjiang.com/wp-content/uploads/2014/01/IMG_1623.jpg)
+[![IMG_1622](/wp-content/uploads/2014/01/IMG_1622.jpg)](/wp-content/uploads/2014/01/IMG_1622.jpg) [![IMG_1623](/wp-content/uploads/2014/01/IMG_1623.jpg)](/wp-content/uploads/2014/01/IMG_1623.jpg)
 
 \-----------------------------------------------------------------------
 
-[![qrcode_for_gh_1a45f645cae5_258 (1)](http://bobjiang.com/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg) **微信公众号**: 敏捷那些事儿（agileplus） Agile1001公开课，每月一次，旨在推广和传播敏捷开发思想和Scrum，希望更多的开发者受益。欢迎关注。课程信息会定期发布，敬请关注。[公开课汇总链接](http://bobjiang.com/agile1001-open-course/)。
+[![qrcode_for_gh_1a45f645cae5_258 (1)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg) **微信公众号**: 敏捷那些事儿（agileplus） Agile1001公开课，每月一次，旨在推广和传播敏捷开发思想和Scrum，希望更多的开发者受益。欢迎关注。课程信息会定期发布，敬请关注。[公开课汇总链接](http://bobjiang.com/agile1001-open-course/)。

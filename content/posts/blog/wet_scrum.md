@@ -3,7 +3,7 @@ title: "“潮湿的”Scrum——Wet Scrum （译）"
 date: "2013-12-05"
 ---
 
-[![rain](http://bobjiang.com/wp-content/uploads/2013/12/rain-300x225.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/rain.jpg)
+[![rain](/wp-content/uploads/2013/12/rain-300x225.jpg)](/wp-content/uploads/2013/12/rain.jpg)
 
 许多公司标榜自己在做“敏捷”。敏捷是执行软件开发的最新的框架。这个框架下有不同的方法，如Scrum，极限编程（XP），RUP等。Scrum目前是最热门的。一般来说，组织会使用一个混合的版本来适合他们的需求，也受到组织的环境限制（EEF、OPA；指的是企业环境因素，组织流程资产）(EEF/OPA, or enterprise environmental factors/organizational process assets).
 

@@ -28,4 +28,4 @@ coverImage: "spec-writing-game.jpg"
 
 原文：[http://www.bigvisible.com/2010/11/spec-writing-game/](http://www.bigvisible.com/2010/11/spec-writing-game/)
 
-游戏中用到的图形可以参考附件：[SpecificationExercise\_oppgaveomkravformidling1](http://bobjiang.com/wp-content/uploads/2015/06/SpecificationExercise_oppgaveomkravformidling1.pdf)
+游戏中用到的图形可以参考附件：[SpecificationExercise\_oppgaveomkravformidling1](/wp-content/uploads/2015/06/SpecificationExercise_oppgaveomkravformidling1.pdf)

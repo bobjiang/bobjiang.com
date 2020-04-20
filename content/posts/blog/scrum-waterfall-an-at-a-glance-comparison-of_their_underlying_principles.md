@@ -3,7 +3,7 @@ title: "Scrum和瀑布式开发基本原则的对比"
 date: "2013-12-11"
 ---
 
-[![agile vs waterfall](http://bobjiang.com/wp-content/uploads/2013/12/agile-vs-waterfall-300x222.jpg)](http://bobjiang.com/wp-content/uploads/2013/12/agile-vs-waterfall.jpg)
+[![agile vs waterfall](/wp-content/uploads/2013/12/agile-vs-waterfall-300x222.jpg)](/wp-content/uploads/2013/12/agile-vs-waterfall.jpg)
 
 在《Essential Scrum》一书第3章（敏捷原则）中，描述了Scrum的基本原则，以及和传统的、计划驱动的、顺序式产品开发方式的对比。许多人要求分享一下本章最后的对比表格。请看下面：请提宝贵意见！
 

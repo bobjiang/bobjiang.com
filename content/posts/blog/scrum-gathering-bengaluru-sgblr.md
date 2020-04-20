@@ -14,4 +14,4 @@ coverImage: "BobJiang_ScrumGatheringBengaluru.jpg"
 
 想知道细节，可以和我约起来哦，扫我微信聊哦~
 
-[![bobjiang_wechat](http://bobjiang.com/wp-content/uploads/2015/11/bobjiang_wechat-300x300.jpg)](http://bobjiang.com/index.php/2015/11/10/essential-scrum-gift/bobjiang_wechat/#main)
+[![bobjiang_wechat](/wp-content/uploads/2015/11/bobjiang_wechat-300x300.jpg)](http://bobjiang.com/index.php/2015/11/10/essential-scrum-gift/bobjiang_wechat/#main)
