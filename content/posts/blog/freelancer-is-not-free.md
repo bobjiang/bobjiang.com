@@ -1,5 +1,5 @@
 ---
-Title: 自由职业者不自由
+Title: 自由职业者6项生存技能 -- 我的自由职业者之路
 Date: 2020-03-08
 URL: /freelancer-is-not-free/
 tags: [自由职业者, freelancer, 自由职业技能]
