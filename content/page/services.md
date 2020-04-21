@@ -26,9 +26,9 @@ description: "专业敏捷培训 | 高质量敏捷咨询辅导"
 ## 敏捷辅导以及专家团队
 
 - [姜信宝BoB Jiang](/me)
-- 胡家闳Remington Hu
+- [胡家闳Remington Hu](/remington.html)
 - [侯伯薇](https://cn.linkedin.com/in/houbowei)
-- 更多敏捷教练...
+- [马林胜](/linsheng.html)
 
 ## BoB Jiang的专业证书
 ![](/images/bob-all-certs.jpg)
