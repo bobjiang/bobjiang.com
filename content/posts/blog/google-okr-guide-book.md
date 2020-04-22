@@ -5,6 +5,9 @@ URL: /google-okr-guide-book/
 tags: [okr, google, guide book]
 ---
 
+译者：乔梁
+来源：《持续交付2.0》公众号
+
 这是一本关于 OKR 迷你小册子，名为《google OKR playbook》，由 www.whatMatters.com 网站发布。 该网站由John Doerr 团队经营， 而John Doerr 正是 1999年将 OKR 引入 谷歌的那个人。
 
 本文仅供大家学习参考，虽然文章较长，但值得一读，欢迎收藏。
@@ -77,6 +80,10 @@ OKR是有野心的，它不是逐步增量式的，我们并没有希望一次�
 与之相反，挑战性 OKR 则意味着即便在我们对未来一无所知，或者在无法获得必要资源支持的情况下，也依然应该去探索的那些事。挑战性 OKR 承载的是我们改变世界的梦想。
 
 挑战性 OKR 的目标分数是 0.7 分，因为它存在高度的不确定性。
+
+关注《持续交付2.0》 
+
+![](/images/wx_cd2-qiaoliang.png)
 
 ## OKR写作常见错误与陷阱
 
