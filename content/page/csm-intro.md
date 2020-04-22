@@ -43,6 +43,10 @@ description: "专业敏捷培训 | 高质量敏捷咨询辅导"
 - 通过互动的学习方式，真正掌握如何在公司内进行Scrum转型
 - 学习并理解Scrum Master的工具箱，为在团队内进行的Scrum实践打下坚实的基础
 
+## 学员反馈
+
+![](/images/csm-feedback.png)
+
 ## 主要收益
 
 - Certified ScrumMaster证书
