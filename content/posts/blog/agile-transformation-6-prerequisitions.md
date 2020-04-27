@@ -1,7 +1,7 @@
 ---
 Title: 敏捷（组织）转型的6个准备条件
 Date: 2020-04-26
-URL: /agile-transformation-6-prerequisitions/
+URL: /agile-transformation-6/
 tags: [敏捷转型, 组织转型]
 ---
 
