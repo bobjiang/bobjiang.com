@@ -310,6 +310,18 @@ NPS从29％增加至31％
 -   迁移期间将可用性保持在99.99％。
 -   保持$ X的收入。
 
+你可能还想看：
+
+- [敏捷与OKR实践（如何让OKR与敏捷计划共存）](/okr-forcast-alive-together/)
+- [Google OKR指导手册](/google-okr-guide-book/)
+- [有赞商城的OKR实践分享](https://mp.weixin.qq.com/s/9SbnDAXbvaBjCI9aoEnkew)
+
+**OKR新手入门指南系列**
+- [OKR新手入门指南 第一部分](/okr-beginner-guide-1/)
+- [OKR新手入门指南 第二部分](/okr-beginner-guide-2/)
+- [OKR新手入门指南 第三部分](/okr-beginner-guide-3/)
+- [OKR新手入门指南 第四部分](/okr-beginner-guide-4/)
+
 作者： Felipe Castro  
 译者： Bob Jiang    
 [原文链接](https://felipecastro.com/en/okr/what-is-okr/)

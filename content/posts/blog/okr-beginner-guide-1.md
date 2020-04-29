@@ -189,6 +189,18 @@ OKR不是新年决议。没有定期的跟进，您将永远无法实现。
 -   将指标与计划分开
 -   设置一些。通常每个目标2到5。
 
+你可能还想看：
+
+- [敏捷与OKR实践（如何让OKR与敏捷计划共存）](/okr-forcast-alive-together/)
+- [Google OKR指导手册](/google-okr-guide-book/)
+- [有赞商城的OKR实践分享](https://mp.weixin.qq.com/s/9SbnDAXbvaBjCI9aoEnkew)
+
+**OKR新手入门指南系列**
+- [OKR新手入门指南 第一部分](/okr-beginner-guide-1/)
+- [OKR新手入门指南 第二部分](/okr-beginner-guide-2/)
+- [OKR新手入门指南 第三部分](/okr-beginner-guide-3/)
+- [OKR新手入门指南 第四部分](/okr-beginner-guide-4/)
+
 作者： Felipe Castro  
 译者： Bob Jiang    
 [原文链接](https://felipecastro.com/en/okr/what-is-okr/)
