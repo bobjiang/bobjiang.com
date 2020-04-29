@@ -1,7 +1,8 @@
 ---
 title: "Scrum角色-Scrum入门基础系列"
 date: "2014-11-12"
-coverImage: "scrum-team.png"
+url: /scrum_role/
+tags: [Scrum, Scrum入门]
 ---
 
 Scrum中定义有三个角色
@@ -56,7 +57,7 @@ Scrum中定义有三个角色
 - 善于提问 - ScrumMaster不一定是所有问题（尤其是技术上的）的大师，但他一定要能善于启发团队思考并行动。这往往是通过提问来实现的。好的问题可以让团队清晰的认识到自己。
 - 耐心 - 对于变革要有耐心，可以容忍团队犯错误。让团队在错误中学习并成长。
 - 协作沟通 - ScrumMaster需要和团队沟通，了解个人障碍和团队障碍。也需要和团队外的干系人沟通，来排除障碍或了解他们的期望。总体说，ScrumMaster需要较强的沟通能力（和产品负责人类似）。
-- 公开透明 - Scrum的三大支柱之一就是透明。因此作为ScrumMaster也需要公开透明，不仅仅是团队的进展要透明，所有的沟通交流也需要是透明的。只有信息透明，才能产生信任与尊重。详情可以参考《[克服团队协作的五种障碍](http://bobjiang.com/five-dysfunctions-of-team/)》
+- 公开透明 - Scrum的三大支柱之一就是透明。因此作为ScrumMaster也需要公开透明，不仅仅是团队的进展要透明，所有的沟通交流也需要是透明的。只有信息透明，才能产生信任与尊重。详情可以参考《[克服团队协作的五种障碍](/five-dysfunctions-of-team/)》
 
 ### 谁来担任
 
@@ -105,14 +106,14 @@ Scrum中定义有三个角色
 
 那么问题来了，是否还有必要保留单独的项目经理角色呢？
 
-答案是肯定的。如公司有较复杂的项目，涉及的部门或后勤工作多且复杂，那么保留单独的项目经理还是必要的。不过要保持警觉，不要误认为“有项目经理负责协调，我们（团队）不用管了。” 另外还有几个复杂的场景，可以参考《[Scrum精髓](http://bobjiang.com/essential-scrum/)》一书第274页。
+答案是肯定的。如公司有较复杂的项目，涉及的部门或后勤工作多且复杂，那么保留单独的项目经理还是必要的。不过要保持警觉，不要误认为“有项目经理负责协调，我们（团队）不用管了。” 另外还有几个复杂的场景，可以参考《[Scrum精髓](/essential-scrum/)》一书第274页。
 
 Scrum入门基础系列：
 
-- [Scrum入门基础系列之Scrum起源](http://bobjiang.com/scrum_history/)
-- [Scrum入门基础系列之Scrum框架](http://bobjiang.com/scrum_framework/)
-- [Scrum入门基础系列之Scrum角色](http://bobjiang.com/scrum_role/)
-- [Scrum入门基础系列之Scrum会议](http://bobjiang.com/scrum_meeting/)
-- [Scrum入门基础系列之Scrum工件](http://bobjiang.com/scrum_foundation_artifact/)
-- [Scrum入门基础系列之Scrum需求梳理](http://bobjiang.com/scrum_product_backlog_refinement/)
-- [Scrum入门基础系列之Scrum估算](http://bobjiang.com/estimation_in_scrum/)
+- [Scrum入门基础系列之Scrum起源](/scrum_history/)
+- [Scrum入门基础系列之Scrum框架](/scrum_framework/)
+- [Scrum入门基础系列之Scrum角色](/scrum_role/)
+- [Scrum入门基础系列之Scrum会议](/scrum_meeting/)
+- [Scrum入门基础系列之Scrum工件](/scrum_foundation_artifact/)
+- [Scrum入门基础系列之Scrum需求梳理](/scrum_product_backlog_refinement/)
+- [Scrum入门基础系列之Scrum估算](/estimation_in_scrum/)

@@ -1,6 +1,8 @@
 ---
 title: "敏捷会议-Scrum会议-Scrum入门基础系列"
 date: "2015-01-03"
+url: /scrum_meeting/
+tags: [Scrum]
 ---
 
 Scrum会议包含Sprint计划会、每日例会、Sprint评审会、Sprint回顾会。下面分别介绍这几个会议，按照一个简单模板进行介绍：
@@ -97,14 +99,20 @@ Sprint结束前，一般在Sprint评审会之后。
 
 #### HOW
 
-1\. 设置环境 2. 收集数据 3. 产生洞察 4. 确定行动 5. 结束会议 具体细节请参考《敏捷回顾》一书（Agile Retrospectives）
+1. 设置环境 
+2. 收集数据 
+3. 产生洞察 
+4. 确定行动 
+5. 结束会议 
+
+具体细节请参考《敏捷回顾》一书（Agile Retrospectives）
 
 Scrum入门基础系列：
 
-- [Scrum入门基础系列之Scrum起源](http://bobjiang.com/scrum_history/)
-- [Scrum入门基础系列之Scrum框架](http://bobjiang.com/scrum_framework/)
-- [Scrum入门基础系列之Scrum角色](http://bobjiang.com/scrum_role/)
-- [Scrum入门基础系列之Scrum会议](http://bobjiang.com/scrum_meeting/)
-- [Scrum入门基础系列之Scrum工件](http://bobjiang.com/scrum_foundation_artifact/)
-- [Scrum入门基础系列之Scrum需求梳理](http://bobjiang.com/scrum_product_backlog_refinement/)
-- [Scrum入门基础系列之Scrum估算](http://bobjiang.com/estimation_in_scrum/)
+- [Scrum入门基础系列之Scrum起源](/scrum_history/)
+- [Scrum入门基础系列之Scrum框架](/scrum_framework/)
+- [Scrum入门基础系列之Scrum角色](/scrum_role/)
+- [Scrum入门基础系列之Scrum会议](/scrum_meeting/)
+- [Scrum入门基础系列之Scrum工件](/scrum_foundation_artifact/)
+- [Scrum入门基础系列之Scrum需求梳理](/scrum_product_backlog_refinement/)
+- [Scrum入门基础系列之Scrum估算](/estimation_in_scrum/)

@@ -1,9 +1,10 @@
 ---
 title: "询问的力量（ScrumMasters与敏捷教练系列）：敏捷教练小提示-第三部分"
 date: "2013-08-27"
+url: /scrummaster-and-coaching-part3/
 ---
 
-![](http://bobjiang.github.io/images/sm_and_coaching-p3.jpg)
+![](/images/sm_and_coaching-p3.jpg)
 
 当问问题的时候，我们透露了范围。每个问题都有一个背景，有一个隐式的或者显式的范围。为什么问题的范围重要？范围确实很重要因为它可以使问题适应背景，它澄清了目的，从而给问题增加更多的能量或者分量。下面做三个测试。
 
@@ -50,7 +51,13 @@ date: "2013-08-27"
 
 * * *
 
-[Scrummasters与敏捷教练系列（开篇）](http://bobjiang.com/blog/2013/02/10/scrummaster-and-coach-opening/) [询问的力量： 敏捷教练小提示 - 第一部分](http://bobjiang.com/blog/2013/02/11/scrummaster-and-coaching-part1/) [询问的力量： 敏捷教练小提示 - 第二部分](http://bobjiang.com/blog/2013/02/12/scrummaster-and-coaching-part2/) [询问的力量： 敏捷教练小提示 - 第三部分](http://bobjiang.com/blog/2013/02/13/scrummaster-and-coaching-part3/) [询问的力量： 敏捷教练小提示 - 第四部分](http://bobjiang.com/blog/2013/02/14/scrummaster-and-coaching-part4/)
+**Scrummasters与敏捷教练系列**
+
+- [Scrummasters与敏捷教练系列（开篇）](/scrummaster-and-coach-opening/) 
+- [询问的力量： 敏捷教练小提示 - 第一部分](/scrummaster-and-coaching-part1/) 
+- [询问的力量： 敏捷教练小提示 - 第二部分](/scrummaster-and-coaching-part2/) 
+- [询问的力量： 敏捷教练小提示 - 第三部分](/scrummaster-and-coaching-part3/) 
+- [询问的力量： 敏捷教练小提示 - 第四部分](/scrummaster-and-coaching-part4/)
 
 * * *
 

@@ -11,4 +11,4 @@ tags: [scrum master ,agile coach, servant leader, change agent, impediment remov
 ## Scrummaster必读书单
 - [敏捷书单大全](https://bobjiang.com/recommend-book-list-agile)
 
-如果好的材料推荐，欢迎给Bob发邮件： bob@c4at.cn
+如果好的材料推荐，欢迎给Bob发邮件： bob@bobjiang.com

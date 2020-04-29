@@ -1,7 +1,8 @@
 ---
-title: "敏捷估算--Scrum入门基础系列"
+title: "敏捷估算--Scrum系列"
 date: "2015-05-14"
-coverImage: "estimation_all.jpg"
+url: /estimation_in_scrum/
+tags: [Scrum]
 ---
 
 本文谈及的均为Scrum中的估算行为，这些方法不是Scrum原创的。
@@ -44,12 +45,12 @@ coverImage: "estimation_all.jpg"
 
 [![123](/wp-content/uploads/2015/05/123.jpg)](/wp-content/uploads/2015/05/123.jpg)
 
-Scrum入门基础系列：
+Scrum系列：
 
-- [Scrum入门基础系列之Scrum起源](http://bobjiang.com/scrum_history/)
-- [Scrum入门基础系列之Scrum框架](http://bobjiang.com/scrum_framework/)
-- [Scrum入门基础系列之Scrum角色](http://bobjiang.com/scrum_role/)
-- [Scrum入门基础系列之Scrum会议](http://bobjiang.com/scrum_meeting/)
-- [Scrum入门基础系列之Scrum工件](http://bobjiang.com/scrum_foundation_artifact/)
-- [Scrum入门基础系列之Scrum需求梳理](http://bobjiang.com/scrum_product_backlog_refinement/)
-- [Scrum入门基础系列之Scrum估算](http://bobjiang.com/estimation_in_scrum/)
+- [Scrum系列之Scrum起源](/scrum_history/)
+- [Scrum系列之Scrum框架](/scrum_framework/)
+- [Scrum系列之Scrum角色](/scrum_role/)
+- [Scrum系列之Scrum会议](/scrum_meeting/)
+- [Scrum系列之Scrum工件](/scrum_foundation_artifact/)
+- [Scrum系列之Scrum需求梳理](/scrum_product_backlog_refinement/)
+- [Scrum系列之Scrum估算](/estimation_in_scrum/)

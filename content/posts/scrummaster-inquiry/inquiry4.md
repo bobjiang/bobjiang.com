@@ -1,9 +1,10 @@
 ---
 title: "询问的力量（ScrumMasters与敏捷教练）：敏捷教练小提示-第四部分"
 date: "2013-08-27"
+url: /scrummaster-and-coaching-part4/
 ---
 
-![](http://bobjiang.github.io/images/sm_and_coaching-p4.jpg)
+![](/images/sm_and_coaching-p4.jpg)
 
 问有力问题的小提示：下面有几个提示关于开始并掌握问有力问题的艺术。
 
@@ -14,7 +15,7 @@ date: "2013-08-27"
 5. 应用
 6. 体验询问的过程并改进
 
-![](http://bobjiang.github.io/images/greatest_enemy.jpg)
+![](/images/greatest_enemy.jpg)
 
 最大的敌人：我们许多人用“我知道怎么做”的态度管理工作（也包含个人生活）。这个态度很好，也不好。当我们准备从多个来源学习时，这个态度是好的，检视并适应。当我们充满幻想时，这个态度就不好。我们最大的敌人就是幻想。当我们停止学习，问题可能保持破坏。这个时候经理变成破坏专家。他们的问题直接、挑剔的、有攻击性的、尖刻的和恶意的。我们不能忍受生活在知识幻觉中。你不同意吗？
 
@@ -32,11 +33,17 @@ date: "2013-08-27"
 
 收尾：我们的行动计划是什么？我们的下一步是什么？什么时候你会和客户谈论这个？
 
-![](http://bobjiang.github.io/images/ipcrc.jpg)
+![](/images/ipcrc.jpg)
 
 * * *
 
-[Scrummasters与敏捷教练系列（开篇）](http://bobjiang.com/blog/2013/02/10/scrummaster-and-coach-opening/) [询问的力量： 敏捷教练小提示 - 第一部分](http://bobjiang.com/blog/2013/02/11/scrummaster-and-coaching-part1/) [询问的力量： 敏捷教练小提示 - 第二部分](http://bobjiang.com/blog/2013/02/12/scrummaster-and-coaching-part2/) [询问的力量： 敏捷教练小提示 - 第三部分](http://bobjiang.com/blog/2013/02/13/scrummaster-and-coaching-part3/) [询问的力量： 敏捷教练小提示 - 第四部分](http://bobjiang.com/blog/2013/02/14/scrummaster-and-coaching-part4/)
+**Scrummasters与敏捷教练系列**
+
+- [Scrummasters与敏捷教练系列（开篇）](/scrummaster-and-coach-opening/) 
+- [询问的力量： 敏捷教练小提示 - 第一部分](/scrummaster-and-coaching-part1/) 
+- [询问的力量： 敏捷教练小提示 - 第二部分](/scrummaster-and-coaching-part2/) 
+- [询问的力量： 敏捷教练小提示 - 第三部分](/scrummaster-and-coaching-part3/) 
+- [询问的力量： 敏捷教练小提示 - 第四部分](/scrummaster-and-coaching-part4/)
 
 * * *
 

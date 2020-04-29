@@ -6,19 +6,24 @@ tags: [scrum master ,agile coach, servant leader, change agent, impediment remov
 ---
 
 # Scrum Master作为教师
+
 本章是关于Scrum Master作为一名教师。我将会描述一名教师的定义，理论的观点和一些实用的例子关于Scrum Master应该教什么。
 
 ## 什么是教师？
+
 我可以找到最简单的定义是：“那些可以帮助其他人学习到新的东西的人。”教育是关于传授知识或者技能，或者指导一些人怎样去做某些事情。
 一些关于教育好的引用：
+
 - “教学艺术是辅助发现的艺术。” - 马克·范多伦
 - “我从来不教导学生，只为他们提供可以学习的条件。”-阿尔伯特·爱因斯坦
 - “一个好的教师可以鼓舞希望、点燃想象力以及灌输对学习的热爱。” - 布莱德·亨利
 
 ## Scrum Master作为一名教师：
+
 根据Scrum指南，Scrum Master有责任保证Scrum被理解和实施。Scrum Master通过保证Scrum团队遵守Scrum理论、实践和规则来保证Scrum被理解和实施。它们指导团队在迷失的时候重回到敏捷的实践和原则。对于Scrum Master的教导主要集中在开发团队和产品负责人。但Scrum Master也要保证涉及团队的其他所有人都能理解Scrum。
 
 ## 那么Scrum Master能教导什么？
+
 1. 当团队成立的时候就教导敏捷。与团队一起的第一周，我经常引导团队回到敏捷和Scrum的核心。我让他们学习“为什么”和“什么”是敏捷的观念，Scrum框架，极限编程和看板。尽管有一部分团队成员可能有丰富的敏捷经验，但这样做能让大家处在同一平面上。解释敏捷宣言和强调产品开发所基于的假设：客户知道需要什么，开发人员知道怎样去构建以及在过程中不会有改变。在现实中是，客户发现自己需要什么，开发人员发现怎样去构建以及在过程中不断的变化。
 2. 教导Scrum的核心。运用Scrum可以比作是玩国际象棋。你要么按规则玩，要么不按规则玩。Scrum和国际象棋都不会失败或者成功。他们要么玩，要么不玩。那些两者都玩并保持练习的人可能会变得非常精于游戏。如果是国际象棋，他们会成为大师。如果是Scrum，他们可能会成为非常好的开发组织，被客户所珍视，被用户所爱戴，被竞争对手所惧怕。一些团队开始使用Scrum时会去掉框架中的某些部分。例如，一两次的“每日”站会，混淆了多个角色，跳过回顾会议。如果团队认识这些时明智的，那是可以的，但Scrum Master应该教育他们这样做的后果和强调他们并不是在使用Scrum。
 3. 教导Scrum与良好的习惯做法不同处。现今，许多良好的习惯做法被强烈地与Scrum核心缠结在一起。教导团队这两者间的差异性是有用的。良好的习惯做法例子是运用故事点，做Scrum每日站会和使用燃尽图去跟踪过程。所有的良好的习惯做法，都不强制考虑Scrum的核心。
@@ -33,6 +38,7 @@ tags: [scrum master ,agile coach, servant leader, change agent, impediment remov
 12. 教育团队要“玩得高兴”。不要太严肃地对待所有事情。玩得高兴的心态帮助应付困难的条件，增强协助和建立一个健康的团队精神。因此，保证“玩得高兴”是团队日常常规的一部分。
 
 ## 结束
+
 本章包含了一些关于Scrum Master可以教导开发团队、产品负责人和组织的例子。我所学到的最重要的教训是：不要尝试教导团队所有重要的东西，让他们有机会失败并从自己的错误中学习。提醒：错误是发现的出入口。
 
 作者：Barry Overeem  
@@ -41,10 +47,10 @@ tags: [scrum master ,agile coach, servant leader, change agent, impediment remov
 审校：姜信宝（BoB Jiang）  
 
 本文如有翻译不恰当的地方
-联系 bob@c4at.cn   
-想要进一步进修Scrum Master的能力，欢迎关注课程[《ScrumMaster领导力进阶课》](https://yihuode.io/activities/579) - https://yihuode.io/activities/579
+联系 bob@bobjiang.com   
 
 ## Scrum Master八个姿势系列白皮书
+
 - [开篇](/8-stances-of-scrum-master/)
 - [服务型领导](/8-stances-of-scrum-master-1/)
 - [教练](/8-stances-of-scrum-master-2/)

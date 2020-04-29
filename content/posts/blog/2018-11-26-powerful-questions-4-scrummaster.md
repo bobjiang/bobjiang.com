@@ -30,7 +30,7 @@ Here is a ScrumMaster question list:
 - What are your (the team) thought?
 - How could we (team) do it in a different way?
 - to be continued.
-- if you have more powerful question examples, please email to bob@c4at.cn
+- if you have more powerful question examples, please email to bob@bobjiang.com
 
 
 ## About Bob Jiang

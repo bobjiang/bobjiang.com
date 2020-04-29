@@ -1,14 +1,17 @@
 ---
 title: "Scrum框架-Scrum入门基础系列"
 date: "2014-10-30"
-coverImage: "Scrum_Framework_low.jpg"
+url: /scrum_framework/
+tags: [Scrum, Scrum入门]
 ---
 
-Scrum入门基础系列之Scrum框架
+# Scrum入门基础系列之Scrum框架
 
 读过几本Scrum书的人，想必对于Scrum框架都可以如数家珍，如Scrum的3个角色，5个会议，3个工件。在展开这些内容之前，我想先介绍一下Scrum的价值观以及敏捷宣言。
 
 ### 敏捷宣言\[1\]
+
+> 我们一直在实践中探寻更好的软件开发方法，身体力行的同时也帮助他人。由此我们建立了如下价值观：
 
 > 个体与互动    胜于    流程与工具
 > 
@@ -70,10 +73,10 @@ Sprint Backlog - 由Sprint中承诺的故事和相应的任务组成。在Sprint
 
 Scrum入门基础系列：
 
-- [Scrum入门基础系列之Scrum起源](http://bobjiang.com/scrum_history/)
-- [Scrum入门基础系列之Scrum框架](http://bobjiang.com/scrum_framework/)
-- [Scrum入门基础系列之Scrum角色](http://bobjiang.com/scrum_role/)
-- [Scrum入门基础系列之Scrum会议](http://bobjiang.com/scrum_meeting/)
-- [Scrum入门基础系列之Scrum工件](http://bobjiang.com/scrum_foundation_artifact/)
-- [Scrum入门基础系列之Scrum需求梳理](http://bobjiang.com/scrum_product_backlog_refinement/)
-- [Scrum入门基础系列之Scrum估算](http://bobjiang.com/estimation_in_scrum/)
+- [Scrum入门基础系列之Scrum起源](/scrum_history/)
+- [Scrum入门基础系列之Scrum框架](/scrum_framework/)
+- [Scrum入门基础系列之Scrum角色](/scrum_role/)
+- [Scrum入门基础系列之Scrum会议](/scrum_meeting/)
+- [Scrum入门基础系列之Scrum工件](/scrum_foundation_artifact/)
+- [Scrum入门基础系列之Scrum需求梳理](/scrum_product_backlog_refinement/)
+- [Scrum入门基础系列之Scrum估算](/estimation_in_scrum/)

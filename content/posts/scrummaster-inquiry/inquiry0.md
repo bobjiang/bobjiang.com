@@ -1,9 +1,10 @@
 ---
 title: "ScrumMasters与敏捷教练系列（开篇）"
 date: "2013-08-27"
+url: /scrummaster-and-coach-opening/
 ---
 
-![](http://bobjiang.github.io/images/sm_and_coaching.jpg)
+![](/images/sm_and_coaching.jpg)
 
 很多天之前， 我复习了一遍Ken Schwaber和Jeff Sutherlan共同开发和维护的“Scrum指南”。 我集中于ScrumMaster角色涉及“教练”方面的内容，下面是我的一些发现：
 
@@ -54,7 +55,13 @@ Sailesh离开了会议室。Jim找我聊了一会儿。我们谈到两个选择�
 
 * * *
 
-[Scrummasters与敏捷教练系列（开篇）](http://bobjiang.com/blog/2013/02/10/scrummaster-and-coach-opening/) [询问的力量： 敏捷教练小提示 - 第一部分](http://bobjiang.com/blog/2013/02/11/scrummaster-and-coaching-part1/) [询问的力量： 敏捷教练小提示 - 第二部分](http://bobjiang.com/blog/2013/02/12/scrummaster-and-coaching-part2/) [询问的力量： 敏捷教练小提示 - 第三部分](http://bobjiang.com/blog/2013/02/13/scrummaster-and-coaching-part3/) [询问的力量： 敏捷教练小提示 - 第四部分](http://bobjiang.com/blog/2013/02/14/scrummaster-and-coaching-part4/)
+**Scrummasters与敏捷教练系列**
+
+- [Scrummasters与敏捷教练系列（开篇）](/scrummaster-and-coach-opening/) 
+- [询问的力量： 敏捷教练小提示 - 第一部分](/scrummaster-and-coaching-part1/) 
+- [询问的力量： 敏捷教练小提示 - 第二部分](/scrummaster-and-coaching-part2/) 
+- [询问的力量： 敏捷教练小提示 - 第三部分](/scrummaster-and-coaching-part3/) 
+- [询问的力量： 敏捷教练小提示 - 第四部分](/scrummaster-and-coaching-part4/)
 
 * * *
 

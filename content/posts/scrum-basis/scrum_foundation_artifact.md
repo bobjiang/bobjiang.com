@@ -1,6 +1,8 @@
 ---
 title: "Scrum工件-Scrum入门基础系列"
 date: "2015-02-20"
+url: /scrum_foundation_artifact/
+tags: [Scrum]
 ---
 
 Scrum工件主要包含一下3种：
@@ -11,7 +13,7 @@ Scrum工件主要包含一下3种：
 
 ## 产品Backlog
 
-在Scrum中，主要由产品负责人\[参见[Scrum入门基础系列之Scrum角色](http://bobjiang.com/scrum_role/)\]整理和维护产品Backlog。产品Backlog是Scrum中维护需求的主要工件，也是做好Scrum的第一步。一个好的产品Backlog，是要符合DEEP原则的，即，产品Backlog是详略得当的（Detailed Appropriate），涌现的（Emergent），估算的（Estimated）和排序的（Prioritised）。详情参考参考之前我发的博文“[产品Backlog和用户故事的原则](http://bobjiang.com/product_backlog_user_story/)”。
+在Scrum中，主要由产品负责人\[参见[Scrum入门基础系列之Scrum角色](/scrum_role/)\]整理和维护产品Backlog。产品Backlog是Scrum中维护需求的主要工件，也是做好Scrum的第一步。一个好的产品Backlog，是要符合DEEP原则的，即，产品Backlog是详略得当的（Detailed Appropriate），涌现的（Emergent），估算的（Estimated）和排序的（Prioritised）。详情参考参考之前我发的博文“[产品Backlog和用户故事的原则](/product_backlog_user_story/)”。
 
 一般来讲，产品Backlog里面都可能包含哪些内容呢？新特性、改进项、缺陷修复、文档需求等。
 
@@ -33,10 +35,10 @@ Sprint Backlog主要由挑选的当前Sprint要完成的产品Backlog条目，�
 
 Scrum入门基础系列：
 
-- [Scrum入门基础系列之Scrum起源](http://bobjiang.com/scrum_history/)
-- [Scrum入门基础系列之Scrum框架](http://bobjiang.com/scrum_framework/)
-- [Scrum入门基础系列之Scrum角色](http://bobjiang.com/scrum_role/)
-- [Scrum入门基础系列之Scrum会议](http://bobjiang.com/scrum_meeting/)
-- [Scrum入门基础系列之Scrum工件](http://bobjiang.com/scrum_foundation_artifact/)
-- [Scrum入门基础系列之Scrum需求梳理](http://bobjiang.com/scrum_product_backlog_refinement/)
-- [Scrum入门基础系列之Scrum估算](http://bobjiang.com/estimation_in_scrum/)
+- [Scrum入门基础系列之Scrum起源](/scrum_history/)
+- [Scrum入门基础系列之Scrum框架](/scrum_framework/)
+- [Scrum入门基础系列之Scrum角色](/scrum_role/)
+- [Scrum入门基础系列之Scrum会议](/scrum_meeting/)
+- [Scrum入门基础系列之Scrum工件](/scrum_foundation_artifact/)
+- [Scrum入门基础系列之Scrum需求梳理](/scrum_product_backlog_refinement/)
+- [Scrum入门基础系列之Scrum估算](/estimation_in_scrum/)

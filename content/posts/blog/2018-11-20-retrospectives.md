@@ -40,4 +40,4 @@ Scrum Master 鼓励 Scrum 团队在 Scrum 的过程框架内改进开发过程�
 行动2：每周日回顾总结一周内容
 
 欢迎想一起写的伙伴，我们一起每日写字。  
-联系BoB： bob@c4at.cn
+联系BoB： bob@bobjiang.com

@@ -1,6 +1,7 @@
 ---
 title: "产品待办事项（Product Backlog）与用户故事（User Story）的一些原则"
 date: "2013-11-23"
+url: /product_backlog_user_story/
 ---
 
 **产品Backlog**

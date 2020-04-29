@@ -1,9 +1,10 @@
 ---
 title: "询问的力量(ScrumMasters与敏捷教练)： 敏捷教练小提示 - 第二部分"
 date: "2013-08-27"
+url: /scrummaster-and-coaching-part2/
 ---
 
-![](http://bobjiang.github.io/images/sm_and_coaching-p2.jpg)
+![](/images/sm_and_coaching-p2.jpg)
 
 我们如何构造有力问题呢？我在读一篇Eric E. Vogt、 Juanita Brown 和 David Isaacs写的白皮书，有关“有力问题的艺术：催化深思，创新与行动”在2003年，这篇论文提到用“Which”开始的问题是无力的，封闭问题也是如此，或者答案为“是/否”的问题。Who, when, where比which有力一些，然而why how what帮助我们构造有力的问题！在所有一般情况下它们很有帮助。
 
@@ -35,7 +36,13 @@ date: "2013-08-27"
 
 * * *
 
-[Scrummasters与敏捷教练系列（开篇）](http://bobjiang.com/blog/2013/02/10/scrummaster-and-coach-opening/) [询问的力量： 敏捷教练小提示 - 第一部分](http://bobjiang.com/blog/2013/02/11/scrummaster-and-coaching-part1/) [询问的力量： 敏捷教练小提示 - 第二部分](http://bobjiang.com/blog/2013/02/12/scrummaster-and-coaching-part2/) [询问的力量： 敏捷教练小提示 - 第三部分](http://bobjiang.com/blog/2013/02/13/scrummaster-and-coaching-part3/) [询问的力量： 敏捷教练小提示 - 第四部分](http://bobjiang.com/blog/2013/02/14/scrummaster-and-coaching-part4/)
+**Scrummasters与敏捷教练系列**
+
+- [Scrummasters与敏捷教练系列（开篇）](/scrummaster-and-coach-opening/) 
+- [询问的力量： 敏捷教练小提示 - 第一部分](/scrummaster-and-coaching-part1/) 
+- [询问的力量： 敏捷教练小提示 - 第二部分](/scrummaster-and-coaching-part2/) 
+- [询问的力量： 敏捷教练小提示 - 第三部分](/scrummaster-and-coaching-part3/) 
+- [询问的力量： 敏捷教练小提示 - 第四部分](/scrummaster-and-coaching-part4/)
 
 * * *
 
