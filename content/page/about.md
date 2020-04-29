@@ -5,6 +5,10 @@ url: /me/
 type: "page"
 ---
 
+## Bob的系列文章
+
+- [系列文章](/agile-serials/)
+
 ## 座右铭
 > 授人以渔（Empower People）
 
