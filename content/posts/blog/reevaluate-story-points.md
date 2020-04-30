@@ -2,7 +2,7 @@
 Title: 重新审视故事点
 Date: 2020-04-23
 URL: /reevaluate-story-points/
-tags: [用户故事, 故事点, 估算]
+tags: [用户故事, 故事点, 估算, Ron Jeffries]
 ---
 
 > 我常说我可能发明了故事点，如果真是这样，现在我会感到很抱歉。让我们一起来探索我现在对故事点的思考。至少有一个人对我所想的很感兴趣。 
@@ -105,3 +105,5 @@ tags: [用户故事, 故事点, 估算]
 > 作者：Ron Jeffries  
 > 译者：谢谊丹  
 > 审校：Bob Jiang
+
+[原文链接](https://www.ronjeffries.com/articles/019-01ff/story-points/Index.html)

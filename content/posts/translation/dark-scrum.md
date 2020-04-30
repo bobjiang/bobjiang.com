@@ -2,7 +2,7 @@
 Title: 黑暗敏捷 Dark Scrum
 Date: 2019-06-20
 URL: /dark-scrum/
-tags: [dark scrum, anti-scrum, scrum-but]
+tags: [dark scrum, anti-scrum, scrum-but, Ron Jeffries]
 ---
 
 # 黑暗敏捷 Dark Scrum
