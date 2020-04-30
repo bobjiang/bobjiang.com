@@ -7,8 +7,7 @@ tags: [agile, glossary, scrum, kanban]
 
 [English Version](/agile-glossaries-en/)
 
-# 目录
-[TOC]
+# 敏捷词汇表
 
 ## A
 ### Acceptance Criteria (AC)接收标准（验收标准）
@@ -24,7 +23,7 @@ tags: [agile, glossary, scrum, kanban]
 一种技术，在开发过程开始之前，参与者使用实例讨论接收标准，然后将其分解成一组具体的接收测试。与“实例化需求(Specification By Example)”同义。
 
 ### Accountability 责任担当
-教练信任教练对象，并通过双方从开始就共同设计的架构和方法，以不带主观臆断和责备的态度，使教练对象在思考、学习或行动的过程中对自己的发展进程和目标负责。教练以“每个人都要对自己的发展负责”的心态来协助教练对象建立起对自己的责任担当系统。建立责任担当的问题包括：“你会怎么做？”“什么时候？”
+教练信任教练对象，并通过双方从开始就共同设计的架构和方法，以不带主观臆断和责备的态度，使教练对象在思考、学习或行动的过程中对自己的发展进程和目标负责。教练以“每个人都要对自己的发展b负责”的心态来协助教练对象建立起对自己的责任担当系统。建立责任担当的问题包括：“你会怎么做？”“什么时候？”
 
 ### Adaptation 适应（调整） 
 经验式过程（Empirical Process）的三个支柱之一；适应是一种反馈，用来对正在开发的产品或产品开发过程进行调整。另外可以参阅“经验式过程”、“检视”和“透明”。
@@ -68,7 +67,7 @@ tags: [agile, glossary, scrum, kanban]
 2. 为了能有足够的信心来决定是否投资继续进一步开发，这是决策者需要的信息。
 
 ### Continuous Integration 持续集成 
-持续集成是一种软件开发实践，即团队开发成员经常集成他们的工作，通常每个成员每天至少集成一次，也就意味着每天可能会发生多次集成。[持续集成](https://martinfowler.com/articles/continuousIntegration.html) from Martin Fowler
+持续集成是一种软件开发实践，即团队开发成员经常集成他们的工作，通常每个成员每天至少集成一次，也就意味着每天可能会发生多次集成。[持续集成](https://martinfowler.com/articles/continuousIntegration.html) from o Martin Fowler
 
 ### Cost of Delay (CoD) 延迟成本 
 与拖延工作或延误里程碑相关联的财务成本。延迟成本强调“时间有财务成本”的概念，而且为了能做到经济合理的权衡，了解这个成本很重要。
@@ -92,7 +91,39 @@ tags: [agile, glossary, scrum, kanban]
 2. 该术语有时用来描述应用与所有PBI的验收标准，即通用的验收标准。
 
 ### definition of ready 准备的定义
-一个包含条件的检查列表，在sprint计划过程中，认为一个产品待办列表已经准备好，可以放入冲刺（sprint），那么这个检查列表的条件需要满足。该术语不是所有的CST（Certified Scrum Trainer）都认可，因为存在过度准备的风险。
+一个包含条件的检查列表，在sprint计划过程中，认为一个产品待办列表已经准备好，可以b放入冲刺（sprint），那么这个检查列表的条件需要满足。该术语不是所有的CST（Certified Scrum Trainer）都认可，因为存在过度准备的风险。
+
+## E
+
+## F
+
+## G
+
+## H
+
+## I
+
+## J
+
+## K
+
+## L
+
+## M
+## N
+## O
+## P
+## Q
+## R
+## S
+## T
+## U
+## V
+## W
+## X
+## Y
+## Z
+
 
 ## 赞助
 有了你的赞助，Bob会继续更新本页面，以及[敏捷问题集](/agile-faq-cn/)

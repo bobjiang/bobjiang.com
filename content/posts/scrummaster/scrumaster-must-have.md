@@ -1,7 +1,7 @@
 ---
 Title: Scrum Master必读材料
 Date: 2019-05-05
-URL: /scrummaster/
+URL: /scrummaster-must-have/
 tags: [scrum master ,agile coach, servant leader, change agent, impediment remover]
 ---
 

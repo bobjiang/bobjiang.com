@@ -5,7 +5,6 @@ URL: /recommend-book-list-agile/
 tags: [agile]
 ---
 
-# 推荐敏捷书单大全
 最近推荐了一系列敏捷书单，总结如下：
 
 - [Scrum好书](https://bobjiang.com/top-scrum-book)
