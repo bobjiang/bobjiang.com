@@ -10,6 +10,7 @@ description: "来自各大企业公司的敏捷实践分享，一线的敏捷案
 
 # 视频回放
 
+- [005 - 我在哈啰的敏捷之旅 陈文博](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5eaec5c10f092_hQ1xxSzT?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://www.youtube.com/watch?v=n7MkPL2pdTg)
 - [004 - OKR与敏捷 有赞商城 费解](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5e9d0be78ada2_28QQjTtv?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://www.youtube.com/watch?v=8pIYbgthick)
 - [003 - 知行合一的敏捷实践 道富银行 杨贵](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5e94415c5c604_0jwImEuS?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://youtu.be/0sDubj_OYw4)
 - [002 - Scrum落地关键实践 网易云音乐 李岩](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5e7d3b11438c8_5I6vEGUX?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://youtu.be/7jUOYY9ykXA)
@@ -18,6 +19,7 @@ description: "来自各大企业公司的敏捷实践分享，一线的敏捷案
 
 # 文字版
 
+- [005 - 我在哈啰的敏捷之旅 陈文博](https://mp.weixin.qq.com/s/He72P4Xsf4aIYexcJ2sdyA)
 - [004 - OKR与敏捷-有赞商城 费解](https://mp.weixin.qq.com/s/9SbnDAXbvaBjCI9aoEnkew)
 - [003 - 道富银行 杨贵 知行合一的敏捷实践](https://mp.weixin.qq.com/s/UUodVrWHbG0sDd7N_rbTMw)
 - [002 - Scrum落地关键实践 网易云音乐 李岩](https://mp.weixin.qq.com/s/rcSvDohy2pkIHfDbz6AySQ)
