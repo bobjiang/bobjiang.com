@@ -8,6 +8,8 @@ description: "来自各大企业公司的敏捷实践分享，一线的敏捷案
 
 **如果你也想分享，或者有朋友推荐，请与我联系 bob@bobjiang.com**
 
+- [订阅敏捷家邮件](http://agileplus.plus/subscription/zKC_LCgUW)
+
 # 视频回放
 
 - [005 - 我在哈啰的敏捷之旅 陈文博](https://appmopev1px9533.h5.xiaoeknow.com/v1/course/video/v_5eaec5c10f092_hQ1xxSzT?type=2&pro_id=p_5e7cbe9bb1218_UCyN5rjz) | [Youtube](https://www.youtube.com/watch?v=n7MkPL2pdTg)
