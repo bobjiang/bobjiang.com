@@ -5,6 +5,11 @@ url: /blog-migration-4/
 tags: [博客搬家, hugo, github, github action, google cloud storage, cloudfare]
 ---
 
+**修订历史**
+
+- 2020.05.19 修订2个错误 - 1. 新域名需要绑定 Google Search; 2. Google Cloud Storage 权限设置。最近新搭建了[敏捷家的博客](https://www.agileplus.co/)，发现了前面的两个错误。
+- 2020.04.10 创建
+
 # 写在前面，搬迁记录
 
 记录我的博客这次搬家过程。我的博客之前经历过：
@@ -74,6 +79,16 @@ github上需要创建一个新的仓库 （假设你已经有了github账号）�
 
 ### 3.1 创建存储（bucket）
 
+这里由于我是博客迁移，之前 Google Search 上面已经验证过域名。
+
+**验证域名**
+
+a. 打开 [Google Search](https://search.google.com/search-console)  
+b. 点击左上角 `搜索资源` 的小三角，点击`添加资源`  
+c. 网域输入你的域名，点击继续  
+d. 域名提供商处，增加一条 TXT 记录，值为该页面提供的
+e. 一般在几分钟到48小时内生效，耐心等待。点击 `验证` 检查是否生效
+
 ![google cloud storage create bucket](/images/google-create-bucket.png)
 
 创建存储，注意：`名字必-须是 www.yourdomain.com` 不能设置为根域名（即这里需要是 CNAME 的名字设置bucket名字）。
@@ -96,6 +111,8 @@ github上需要创建一个新的仓库 （假设你已经有了github账号）�
 
 最后可以检查一下权限的设置，这里应该提示如下：“在互联网上公开”
 ![check bucket public](/images/google-storage-public.png)
+
+除了“修改存储分区权限”，还需要“修改网站配置”，增加索引页面后缀为 `index.html` （根据你的实际情况配置）。
 
 ### 3.3 权限设置
 这里主要设置 服务账号 （service account），为了给其他的第三方进行服务（如接下来我们用 github action 连接）授权。
