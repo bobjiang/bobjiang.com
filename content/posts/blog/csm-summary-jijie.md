@@ -102,5 +102,6 @@ Zoom 会议系统无疑是优秀的，虽然最近在国外受到一些质疑。
 -   [由 Bob 老师总结的虚拟引导经验](https://www.bobjiang.com/virtual-facilitation-traps/)
 -   [由 Bob 老师翻译的"9步打造优秀的远程敏捷团队"](https://mp.weixin.qq.com/s/TOvyeNSdox8i6DDvplwXqA)
 
-想要约 CSM 课程，扫码 --
+- [CSM信息大全](/csm/)
+- 想要约 CSM 课程，扫码 --
 ![CSM课程](/images/csm-qrcode.png)

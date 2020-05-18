@@ -21,5 +21,6 @@ tags: [csm, 敏捷认证, 课后总结, csm反馈]
 
 来自学员 Qihui
 
-想要约 CSM 课程，扫码 --
+- [CSM信息大全](/csm/)
+- 想要约 CSM 课程，扫码 --
 ![CSM课程](/images/csm-qrcode.png)

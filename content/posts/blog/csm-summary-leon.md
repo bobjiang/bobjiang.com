@@ -83,5 +83,6 @@ PBI（Product Back Item）：ODDE、3C、Refinement...
 
 来自学员 Leon
 
-想要约 CSM 课程，扫码 --
+- [CSM信息大全](/csm/)
+- 想要约 CSM 课程，扫码 --
 ![CSM课程](/images/csm-qrcode.png)

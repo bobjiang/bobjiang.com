@@ -29,5 +29,6 @@ BoB老师语言幽默，两天的课程内容知识量非常大，且包含大�
 
 来自学员 Tony Yue
 
-想要约 CSM 课程，扫码 --
+- [CSM信息大全](/csm/)
+- 想要约 CSM 课程，扫码 --
 ![CSM课程](/images/csm-qrcode.png)
