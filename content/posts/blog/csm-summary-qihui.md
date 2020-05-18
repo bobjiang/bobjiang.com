@@ -20,3 +20,6 @@ tags: [csm, 敏捷认证, 课后总结, csm反馈]
 课程的结束只是代表着对于Scrum的初步了解，距离真正的CSM还有很长的路要走，只有在项目中实际应用Scrum才能更加熟悉每个流程环节的作用和价值。Scrum未完待续。
 
 来自学员 Qihui
+
+想要约 CSM 课程，扫码 --
+![CSM课程](/images/csm-qrcode.png)
