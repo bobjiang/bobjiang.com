@@ -57,7 +57,7 @@ Scrum ≠ 快速交付，Scum 是快速获取反馈
 
 PBI（Product Back Item）：ODDE、3C、Refinement...
 
-> User Story 不属于 Scrum 框架的内容，即使我们 Sprint 每天都用到 User Story，而 PBI 的表达方式可以是：Epic、User Story、Technical Story、New Feature、Spike、Defact、Use Case...\
+> User Story 不属于 Scrum 框架的内容，即使我们 Sprint 每天都用到 User Story，而 PBI 的表达方式可以是：Epic、User Story、Technical Story、New Feature、Spike、Defect、Use Case...\
 > 同理，Scrum 可以且融入了很多东西，但是它们并不是 Scrum 的工件，例如：Kanban。
 
 在实战练习中，加深了 DoD 的用法与 Undone work 的理解
