@@ -9,7 +9,7 @@ description: "来自各大企业公司的敏捷实践分享，一线的敏捷案
 **如果你也想分享，或者有朋友推荐，请与我联系 bob@bobjiang.com**
 
 - [订阅敏捷家邮件](http://agileplus.plus/subscription/zKC_LCgUW)
-- [视频回放和文字实录](https://agileplus.co/agile/)
+- [视频回放和文字实录](https://www.agileplus.co/agile/)
 
 # 主办方
 
