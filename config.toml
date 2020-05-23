@@ -85,15 +85,10 @@ name = "关于"
 url = "/me/"
 weight = 5
 
-[[menu.main]]
-name = "标签"
-url = "/tags.html"
-weight = 6
-
-[[menu.main]]
-name = "订阅"
-url = "http://agileplus.plus/subscription/zKC_LCgUW"
-weight = 7
+# [[menu.main]]
+# name = "标签"
+# url = "/tags.html"
+# weight = 6
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
@@ -125,7 +120,7 @@ url = "https://github.com/bobjiang"
 [[params.social]]
 name = "Mail"
 icon = "mail"
-url = "mailto:bob@bobjiang.com"
+url = "http://agileplus.plus/subscription/zKC_LCgUW"
 
 # Enable tags.
 [taxonomies]
