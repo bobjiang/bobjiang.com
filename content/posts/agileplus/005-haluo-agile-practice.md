@@ -1,6 +1,6 @@
 ---
 Title: 我在哈啰的敏捷之旅 | 敏捷家分享005
-Date: 2020-05-01
+Date: 2020-04-19
 URL: /grow-in-agile-practice/
 tags: [agile, 敏捷家]
 ---
