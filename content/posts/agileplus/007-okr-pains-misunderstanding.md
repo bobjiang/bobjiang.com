@@ -1,8 +1,8 @@
 ---
-Title: OKR痛点与误区
+Title: OKR痛点与误区 | 敏捷家分享007
 Date: 2020-05-23
 URL: /okr-misunderstandings/
-tags: [okr]
+tags: [okr, 敏捷家]
 ---
 
 内容来源：敏捷+社区线上直播007期，《OKR中的误区和痛点》分享实录
