@@ -10,26 +10,18 @@ type: "page"
 - [系列文章](/agile-serials/)
 
 ## 座右铭
-> 授人以渔（Empower People）
+> 授人以渔（Empower People）；予人玫瑰，手有余香；
 
 ## 价值观
 > 正直、乐观、高效、助人
 
-## 知识星球
-
-- 探讨敏捷实践过程中的问题
-- 探索大规模敏捷（及组织设计）的可能性
-- 讨论个人成长（大龄程序员如何转型）问题
-- 对接海内外资源
-
-![](/images/zhishixingqiu.png)
-
 ## 姜信宝 （Bob Jiang）
-- 中国北方第一位 [CST - Certified Scrum Trainer](https://www.scrumalliance.org/community/profile/bjiang)
+
+- [CST - Certified Scrum Trainer](https://www.scrumalliance.org/community/profile/bjiang)
 - 全球首批LeSS Friendly Scrum Trainer（LFST）
-- [敏捷变革中心](https://www.c4at.cn/)合伙人
-- 《Scrum精髓》的译者
-- [HiBlock区块链社区](https://hiblock.net/)发起人
+- [敏捷家](https://www.agileplus.co/)创始人
+- 《[Scrum精髓](http://essentialscrum.cn/)》的译者
+- [HiBlock区块链社区](https://hiblock.net/)创始人人
 - [博客](https://www.bobjiang.com)
 - [Solidity中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
 
@@ -52,10 +44,10 @@ type: "page"
 - 《[ScrumMaster能力说明](https://bobjiang.com/8-stances-of-scrum-master/)》
 - 《[Spotify大规模敏捷之路](https://bobjiang.com/blog/scaling-agile-spotify-with-tribes-squads-chapters-guilds)》
 
-
 ## 我的网站
+
 - [Bob Jiang个人博客](https://www.bobjiang.com)
-- [敏捷变革中心](https://www.c4at.cn/)
+- [敏捷家](https://www.agileplus.co/)
 - [HiBlock区块链社区](https://hiblock.net/)
 - [Regional ScrumGathering](http://scrumgatheringchina.com/)
 - [Scrum培训](http://scrumtraining.cn/)
@@ -63,6 +55,7 @@ type: "page"
 - [影响地图中文网站](https://impactmapping.cn/)
 - [酷翻天 - 敏捷游戏大全](http://coolfunday.com/)
 - [敏捷日报](http://agiledaily.net/)
+- [敏捷变革中心](https://www.c4at.cn/)
 
 ## 赞助
 有了你的赞助，Bob会继续更新本站，以及[敏捷问题集](/agile-faq-cn/)和[敏捷词汇表](/agile-glossaries-cn/)
