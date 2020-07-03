@@ -19,4 +19,7 @@ tags: [敏捷漫画, comic agile]
 
 采用潜在的大量依赖关系作为可视化的输入，则随后的重点应该是，通过努力切分特性（垂直）和确保遵循团队的组成（注：特性团队），来最小化（以及理想地）消除这些依赖关系。
 
+参与讨论，请扫码加入"敏捷家"微信群
+![](/images/wechat-agileplus-ent.png)
+
 [原文链接](https://noe-nygaard.dk/comicagile/comic/the-program-board/)
