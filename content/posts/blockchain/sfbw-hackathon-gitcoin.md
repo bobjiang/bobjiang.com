@@ -9,17 +9,17 @@ tags: [hackathon, blockchain]
 
 ## 旧金山区块链周虚拟黑客马拉松
 
-我们很高兴能在Unitize虚拟黑客马拉松上与SF区块链周合作，它将把来自世界各地的黑客聚集在一起，以帮助在DeFi，游戏等领域建立长期的区块链采用。
+我们很高兴能在Unitize虚拟黑客马拉松上与[SF区块链周](https://sfblockchainweek.io/)合作，它将把来自世界各地的黑客聚集在一起，以帮助在DeFi，游戏等领域建立长期的区块链采用。
 
 Gitcoin从根本上相信，要获得真正的采用，我们需要为用户提供独特而引人注目的数字体验。为此，我们希望鼓励大家与业务中最好的人一起工作，以创建可扩展的，高度参与的，持久的平台。
 
 这项活动有很多奖项，赞助商研讨会以及来自整个区块链生态系统的出色导师。我们希望您不仅有机会建立一些很棒的东西，而且在学习和获得加密货币奖励的过程中结识一些很棒的潜在合作者。
 
-到目前为止，赞助商包括Tellor，Terra，NuCypher，Outplay，Nervos和Chainlink。
+到目前为止，赞助商包括[Tellor](https://tellor.io/)，[Terra](https://terra.money/)，[NuCypher](https://www.nucypher.com/)，[Outplay](https://outplay.games/)，[Nervos](https://www.nervos.org/)和[Chainlink](https://chain.link/)。
 
 研讨会时间表：
 
-Chainlink研讨会：美国东部时间7月6日，星期一，中午12点- 在此处回复
+Chainlink研讨会：美国东部时间7月6日，星期一，中午12点- [在此处回复](https://consensys.zoom.us/webinar/register/WN_Nv2XnGXQRdCljoObNSr1Bw)
 
 #### HACKATHON如何运作？
 
