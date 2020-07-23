@@ -1,9 +1,9 @@
 ---
-title: "专业敏捷培训 | 高质量敏捷咨询辅导"
+title: "专业敏捷培训 | 高质量敏捷咨询辅导 | Scrum培训"
 date: 2017-02-16T11:23:03+08:00
 type: "page"
 url: /services.html
-description: "专业敏捷培训 | 高质量敏捷咨询辅导"
+description: "专业敏捷培训 | 高质量敏捷咨询辅导 | Certified Scrum Master | CSM"
 ---
 
 ## 近期CSM敏捷认证公开课程安排

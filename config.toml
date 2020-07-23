@@ -1,7 +1,7 @@
 baseURL = "https://www.bobjiang.com/"
 languageCode = "zh-cn"
 DefaultContentLanguage = "zh-cn"
-title = "Bob Jiang Blog"
+title = "Bob Jiang | 敏捷教练 | Scrum Master"
 theme = "ezhil"
 uglyURLs = true
 enableRobotsTXT = true
@@ -24,13 +24,13 @@ summaryLength = 20
 
 [params]
     # 定义首页的description(在meta标签中，不宜太长，控制在100字以内)
-    description = "Bob Jiang 个人博客，专注于敏捷实践、Scrum实战，组织级敏捷；个人成长；财务自由"
+    description = "Bob Jiang 个人博客，敏捷教练，Certified Scrum Trainer，专注于敏捷培训、Scrum培训、敏捷实践、Scrum实战、组织级敏捷、系统思考、大规模敏捷、DevOps；个人成长；财务自由"
 
     # 定义ICP备案信息
     icpLicense = ""
 
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "正直、乐观、高效、助人"
+    subtitle = "敏捷培训 | Scrum培训 | 组织创新"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
@@ -85,10 +85,10 @@ name = "关于"
 url = "/me/"
 weight = 5
 
-# [[menu.main]]
-# name = "标签"
-# url = "/tags.html"
-# weight = 6
+[[menu.main]]
+name = "标签"
+url = "/tags.html"
+weight = 6
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
