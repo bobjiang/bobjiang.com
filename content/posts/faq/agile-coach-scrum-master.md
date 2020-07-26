@@ -2,8 +2,13 @@
 Title: 敏捷教练和Scrum Master - 敏捷转型中的两个重要角色的对比
 Date: 2020-07-20
 URL: /agile-coach-scrum-master/
-tags: [敏捷教练, Scrum Master, 敏捷角色]
+tags: [敏捷教练, Scrum Master, 敏捷角色, FAQ]
 ---
+
+这是一个系列博客文章，会尝试回答敏捷中常见问题。今天回答的问题是：
+
+- 什么是Scrum Master，什么是敏捷教练，他们之间有什么差别？
+- 如何转型成为敏捷教练？
 
 本文将重点描述**敏捷教练**和 **Scrum Master** 这两个角色，以及他们之间的关系和对比。
 
