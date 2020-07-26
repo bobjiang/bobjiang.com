@@ -2,7 +2,7 @@
 Title: Scrum Master是否需要懂技术
 Date: 2020-07-24
 URL: /scrummaster-is-technical-expert/
-tags: [敏捷教练, Scrum Master, 技术专家]
+tags: [敏捷教练, Scrum Master, 技术专家, FAQ]
 ---
 
 这是一个系列博客文章，会尝试回答敏捷中常见问题。今天回答的问题是：
