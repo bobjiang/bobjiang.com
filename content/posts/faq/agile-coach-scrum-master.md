@@ -5,7 +5,9 @@ URL: /agile-coach-scrum-master/
 tags: [敏捷教练, Scrum Master, 敏捷角色, FAQ]
 ---
 
-这是一个系列博客文章，会尝试回答敏捷中常见问题。今天回答的问题是：
+[我要提问](mailto:bob@bobjiang.com)
+
+这是一个系列博客文章，回答敏捷中常见问题。[查看所有常见问题](/tags/faq.html)。今天回答的问题是：
 
 - 什么是Scrum Master，什么是敏捷教练，他们之间有什么差别？
 - 如何转型成为敏捷教练？
