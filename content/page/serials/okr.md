@@ -8,6 +8,7 @@ description: "Bob Jiang整理的系列文章 - OKR系列"
 
 **如果你有好的材料推荐，请与我联系 bob@bobjiang.com**
 
+- [谷歌OKR指南：如何使用OKR制定目标（含OKR模板）](/okr-rework-withgoogle/)
 - [有赞商城的OKR实践](https://mp.weixin.qq.com/s/9SbnDAXbvaBjCI9aoEnkew)
 - [敏捷与OKR实践（如何让OKR与敏捷计划共存）](/okr-forcast-alive-together/)
 - [谷歌OKR指导手册 (译)](/google-okr-guide-book/)
