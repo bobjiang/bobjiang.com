@@ -18,6 +18,7 @@ Agiletour（以下称为敏捷之旅）是一个国际非盈利性组织，于20
 - [12.6  沈阳敏捷之旅](https://mp.weixin.qq.com/s/b9d-8snolWiv_JvfqIwg4w)
 - [12.13 上海敏捷之旅](https://mp.weixin.qq.com/s/AUth9rMHY1-cwWCRQHdC1Q)
 - [12.13 天津敏捷之旅]()
+- [12.27 广州敏捷之旅]()
 
 ## 英文官方网站
 
