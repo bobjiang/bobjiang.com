@@ -61,6 +61,6 @@ tags: [okr, 超越预算, beyond budgeting]
 
 这是敏捷联盟社区博客文章。所代表的观点是个人观点，仅属于作者。它们不代表敏捷联盟的观点或政策。
 
-
+[原文链接](https://www.agilealliance.org/okrs-from-a-beyond-budgeting-perspective/)  
 作者：[Bjarte Bogsnes](https://www.agilealliance.org/author/8095488)  
 译者：[Bob Jiang](https://www.bobjiang.com)

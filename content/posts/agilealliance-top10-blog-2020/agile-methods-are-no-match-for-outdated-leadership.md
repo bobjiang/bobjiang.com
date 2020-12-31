@@ -150,5 +150,6 @@ tags: [Agile, 敏捷领导力]
 
 这是敏捷联盟社区博客文章。所代表的观点是个人观点，仅属于作者。它们不代表敏捷联盟的观点或政策。
 
+[原文链接](https://www.agilealliance.org/agile-methods-are-no-match-for-outdated-leadership/)  
 作者：[Lejla Cizmic](https://www.agilealliance.org/author/8028505)  
 译者：[Bob Jiang](https://www.bobjiang.com)
