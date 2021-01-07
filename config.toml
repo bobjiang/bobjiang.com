@@ -22,6 +22,10 @@ paginate = 5
 # Number of characters to show in summary.
 summaryLength = 20
 
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
 [params]
     # 定义首页的description(在meta标签中，不宜太长，控制在100字以内)
     description = "Bob Jiang 个人博客，敏捷教练，Certified Scrum Trainer，专注于敏捷培训、Scrum培训、敏捷实践、Scrum实战、组织级敏捷、系统思考、大规模敏捷、DevOps；个人成长；财务自由"
