@@ -2,6 +2,7 @@
 title: "《父母效能训练手册》读后感"
 date: "2015-11-19"
 coverImage: "51HKhwbrnKL._SX363_BO1204203200_.jpg"
+URL: /pet-reading-parent-effective-2015/
 ---
 
 这本书很早之前就买过一本，大致看过目录，感觉是一本不错的书。不过一直没有详细阅读。

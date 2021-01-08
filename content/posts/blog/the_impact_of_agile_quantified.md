@@ -2,6 +2,7 @@
 title: "敏捷影响的量化"
 date: "2014-09-28"
 coverImage: "Screen-Shot-2014-09-28-at-4.32.57-PM.png"
+URL: /impact-agile-measurement/
 ---
 
 本文是Rally公司2013年从**9629**个使用Rally软件的团队中总结抽取的报告，（所有的报告是基于数据的，所以）非常有参考价值。
@@ -81,4 +82,4 @@ coverImage: "Screen-Shot-2014-09-28-at-4.32.57-PM.png"
 
 - 根据沟通路径复杂度，当团队成员增加时，沟通路径成指数增长。所以当团队规模超过15人时，团队内往往会形成信息孤岛，不利于团队的效能。
 
-最后贴个小广告，如果您需要敏捷培训--请联系我：jiangxb@gmail.com。有关我的个人介绍，[请看这里](http://bobjiang.com/about_bob_jiang/)。
+最后贴个小广告，如果您需要敏捷培训--请联系我：jiangxb@gmail.com。有关我的个人介绍，[请看这里](/me/)。

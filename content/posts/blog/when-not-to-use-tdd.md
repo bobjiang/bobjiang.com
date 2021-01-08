@@ -1,7 +1,7 @@
 ---
 Title: 什么时候不用测试驱动开发（TDD）
 Date: 2020-04-24
-URL: /when-not-to-use-tdd/
+URL: /when-not-to-use-tdd-2020/
 tags: [tdd, xp, Ron Jeffries, 测试驱动开发, 敏捷]
 ---
 

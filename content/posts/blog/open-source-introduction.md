@@ -1,13 +1,11 @@
 ---
 title: 开源软件的盈利模式思考
-date: "2019-04-06T16:05:38+08:00"
+date: "2019-04-06"
 author: Bob Jiang
 url: /open-source-introduction/
 description: ""
 tags: [开源软件, open source]
 ---
-
-# 开源软件的盈利模式思考
 
 最近一年我进入了区块链行业，和伙伴们一起在运营区块链技术社区，即 [hiblock.net](http://hiblock.net)。在这个过程中，对我影响最大的是接触到很多开源社区的伙伴。从而让我对于开源有了更多的认识。
 

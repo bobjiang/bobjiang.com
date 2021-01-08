@@ -1,13 +1,11 @@
 ---
 title: 为什么开发者不关心敏捷
-date: "2019-04-06T16:05:38+08:00"
+date: "2019-04-06"
 author: Bob Jiang
-url: /why-developers-dont-care-agile
+url: /why-developers-dont-care-agile-2019/
 description: ""
 tags: [敏捷, agile]
 ---
-
-# 为什么开发者不关心敏捷
 
 日期：2019年3月27日
 

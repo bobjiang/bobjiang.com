@@ -2,9 +2,8 @@
 title: "如何通过敏捷提高IT业务整合的效率(转载自InfoQ)"
 date: "2014-09-30"
 coverImage: "IT业务整合.jpg"
+URL: /it-mgmt-2014/
 ---
-
-# 如何通过敏捷提高IT业务整合的效率
 
 作者 [Ben Linders](http://www.infoq.com/cn/author/Ben-Linders) ，译者 **[姜信宝](http://www.infoq.com/cn/author/%E5%A7%9C%E4%BF%A1%E5%AE%9D)** 发布于 2014年9月30日 _|_ [讨论](http://www.infoq.com/cn/news/2014/09/agile-business-alignment#theCommentsSection)
 

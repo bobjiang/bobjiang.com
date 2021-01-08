@@ -1,6 +1,7 @@
 ---
 title: "读书笔记《重新定义工作》"
 date: "2016-10-14"
+URL: /reading-the-future-of-work/
 ---
 
 [![the-future-of-work](/wp-content/uploads/2016/10/download.jpeg)](http://bobjiang.com/reading-the-future-of-work/download/#main)

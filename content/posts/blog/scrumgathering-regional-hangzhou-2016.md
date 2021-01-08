@@ -1,6 +1,8 @@
 ---
 title: "ScrumGathering杭州记录"
 date: "2016-10-24"
+URL: /scrumgathering-hangzhou-2016/
+tags: [大会, 杭州, RSG]
 ---
 
 流水账和反思记录一篇。

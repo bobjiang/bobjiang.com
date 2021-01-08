@@ -2,6 +2,8 @@
 title: "Spotify的大规模敏捷之路—使用一种新型的矩阵组织：部落、分队、分会和协会"
 date: "2014-02-06"
 coverImage: "scaling-agile-spotify.png"
+URL: /scaling-agile-spotify-with-tribes-squads-chapters-guilds/
+tags: [Spotify, 规模敏捷]
 ---
 
 作者：Henrik Kniberg, Anders Ivarsson 翻译：姜信宝([Bob Jiang](http://bobjiang.com/))，程嘉利

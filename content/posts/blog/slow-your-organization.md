@@ -1,6 +1,6 @@
 ---
 Title: 当心陷阱会拖慢您的组织敏捷性
-Date: 2017-08-20 03:30:09
+Date: 2017-08-20
 URL: /pitfall-of-agile-slow-down-organization/
 tags: [agile pitfall, organization transformation,LeSS,SAFe,大规模敏捷]
 ---

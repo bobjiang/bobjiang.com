@@ -1,6 +1,6 @@
 ---
 title: 京东敏捷软件开发套路
-date: "2019-04-06T16:05:38+08:00"
+date: "2019-04-06"
 author: Bob Jiang
 url: /jd-agile-transformation/
 description: ""

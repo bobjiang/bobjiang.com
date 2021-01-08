@@ -1,6 +1,7 @@
 ---
 title: "《Scrum精髓》作者Ken Rubin访谈录——2014年ScrumGathering中国大会主题演讲者"
 date: "2014-10-20"
+URL: /interview-ken-rubin-2/
 ---
 
 原文链接：http://www.infoq.com/cn/news/2014/10/scrum-interview-ken-rubin

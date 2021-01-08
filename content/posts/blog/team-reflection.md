@@ -1,6 +1,8 @@
 ---
 title: "Team Reflection"
 date: "2013-11-17"
+URL: /team-reflection-2013/
+tags: [team reflection, reflection]
 ---
 
 “The unexamined life is not worth living.” Socrates said. It is true as individual, however, for a team it is also applied. If a team has no inspection, they could not know where they are, and how to achieve great success.

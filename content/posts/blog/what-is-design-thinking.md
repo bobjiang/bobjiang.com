@@ -1,13 +1,14 @@
 ---
-title: "什么是设计思维（Design Thinking）"
-date: "2014-08-12"
+Title: "什么是设计思维（Design Thinking）"
+Date: "2014-08-12"
+URL: /what-is-design-thinking/
+description: ""
+tags: []
 ---
 
 最近设计思维（Design Thinking）越来越多的出现在我的视线中，因此在网络中搜索了一些有关设计思维的材料。总体上我的理解为：设计思维是一个设计的过程，分为洞察-构思-原型三部分；另外这三部分不是按顺序执行的，且是迭代进行的。
 
 [![design_thinking_洞察_构思_原型.001](/wp-content/uploads/2014/08/design_thinking_洞察_构思_原型.001.jpg)](/wp-content/uploads/2014/08/design_thinking_洞察_构思_原型.001.jpg)
-
-\=============================================================================
 
 本文译自http://dthsg.com/what-is-design-thinking/
 

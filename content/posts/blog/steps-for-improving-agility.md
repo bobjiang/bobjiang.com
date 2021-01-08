@@ -1,10 +1,10 @@
 ---
 title: 提升敏捷力的3个步骤
-date: "2019-04-06T16:05:38+08:00"
+date: "2019-04-06"
 author: Bob Jiang
 url: /improve-agility-in-3-steps/
 description: ""
-tags: [agility, 敏捷力]
+tags: [敏捷, agility, 敏捷力]
 ---
 
 # 提升敏捷力的3个步骤

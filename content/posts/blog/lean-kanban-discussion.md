@@ -2,6 +2,7 @@
 title: "精益看板研讨会总结－2014.02.22"
 date: "2014-02-22"
 coverImage: "Screen-Shot-2014-02-23-at-3.13.08-PM.png"
+URL: /lean-kanban-discussion/
 ---
 
 2014年2月22日下午，在中关村创新研修学院迎来了第一次“精益看板”活动。本次活动的发起链接请[点击这里](http://www.headin.cn/Themes/Activity/Details/?activityId=52c39448c3378f07ccebd8d9)。

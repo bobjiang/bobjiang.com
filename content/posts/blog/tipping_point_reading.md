@@ -2,6 +2,7 @@
 title: "《引爆点》读后感 - 格拉德威尔系列"
 date: "2015-06-28"
 coverImage: "TheTippingPoint.jpg"
+URL: /tipping-point-reading/
 ---
 
 ## 简介

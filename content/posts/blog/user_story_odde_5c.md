@@ -1,6 +1,7 @@
 ---
 title: "产品Backlog的ODDE原则与用户故事的5C原则"
 date: "2013-11-24"
+URL: /user-story-5C-lifecycle/
 ---
 
 在写完[产品Backlog与用户故事的一些原则](http://bobjiang.com/agile-coach/product_backlog_user_story.html)之后，Daniel Teng同学建议补充

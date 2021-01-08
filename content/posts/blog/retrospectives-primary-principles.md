@@ -1,6 +1,8 @@
 ---
 title: "敏捷回顾最高指导原则--敏捷回顾工具箱"
 date: "2017-03-22"
+URL: /retrospectives-primary-principles/
+tags: [敏捷回顾]
 ---
 
 Norman Kerth 在《Project Retrospectives》一书中曾提到回顾会议的primary directive principles:

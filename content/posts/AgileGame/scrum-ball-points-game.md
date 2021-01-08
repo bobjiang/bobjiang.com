@@ -1,6 +1,6 @@
 ---
 Title: Scrum抛球游戏介绍
-Date: 2014-01-20 03:30:09
+Date: 2014-01-20
 URL: /scrum-ball-point-game/
 tags: [ball point game , game , scrum , 抛球游戏]
 ---

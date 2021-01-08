@@ -1,6 +1,7 @@
 ---
 title: "回顾会议的反思 - Retrospectives（译）"
 date: "2013-12-02"
+URL: /introspec-retrospective-2013/
 ---
 
 [![retrospective-infoq](/wp-content/uploads/2013/12/retrospective-infoq-300x208.jpg)](/wp-content/uploads/2013/12/retrospective-infoq.jpg)

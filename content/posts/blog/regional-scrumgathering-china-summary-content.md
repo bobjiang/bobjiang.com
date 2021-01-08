@@ -2,6 +2,7 @@
 title: "Regional ScrumGathering China总结-内容篇1"
 date: "2014-06-10"
 coverImage: "Screen-Shot-2014-06-11-at-6.03.05-AM.png"
+URL: /regional-scrumgathering-china-summary-content/
 ---
 
 每年的ScrumGathering大会都听不了几个演讲，今年略有一些改善，认认真真地听了几个，而且还非常非常不错的演讲。我也愿意分享给各位未能参会的朋友。

@@ -1,6 +1,9 @@
+---
 Title: Scrum的本质与看板方法的本质
-Date: 2017-04-09 22:02:22
+Date: 2017-04-09
 URL: /essential-scrum-and-kanban/
+tags: [Scrum, 看板]
+---
 
 自[敏捷宣言](http://agilemanifesto.org/)以来，随着敏捷软件开发方法的普及，很多企业踏上了敏捷转型的道路。这里宝宝将跟大家一起说一下敏捷当前最流行的两个框架（Scrum和看板方法）——从它们的起源来分析各自的本质。
 
@@ -80,6 +83,3 @@ Scrum更加适合产品开发，比如一个全新产品或原有系统的增强
 
 基于以上的Scrum和看板方法本质和特点，你会怎么选择呢？是否可以结合Scrum和看板方法呢？
 欢迎回复留言进行探讨。
-
----广告---
-2017年4月16日17日 上海CSM敏捷认证课程 [http://yihuode.io/activities/444](http://yihuode.io/activities/444)

@@ -1,6 +1,9 @@
 ---
-title: "“潮湿的”Scrum——Wet Scrum （译）"
-date: "2013-12-05"
+Title: "“潮湿的”Scrum——Wet Scrum （译）"
+Date: "2013-12-05"
+URL: /wet-scrum-2013/
+description: ""
+tags: []
 ---
 
 [![rain](/wp-content/uploads/2013/12/rain-300x225.jpg)](/wp-content/uploads/2013/12/rain.jpg)

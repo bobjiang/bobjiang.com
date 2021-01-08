@@ -1,6 +1,7 @@
 ---
 title: "理想与现实"
 date: "2017-03-27"
+URL: /ideality-vs-reality/
 ---
 
 ## 题目的由来

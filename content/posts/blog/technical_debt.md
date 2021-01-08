@@ -2,6 +2,8 @@
 title: "谈谈技术债"
 date: "2014-04-04"
 coverImage: "W020140305463526649626.jpg"
+URL: /technical-debt/
+tags: [technical debt, 技术债]
 ---
 
 首先可以把技术债分3类：低级技术债、不可避免的技术债和策略技术债。

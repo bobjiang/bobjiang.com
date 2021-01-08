@@ -1,6 +1,7 @@
 ---
 title: "通用PMBOK概念转化为敏捷概念"
 date: "2013-08-27"
+URL: /agile-pmbok-2013/
 ---
 
 ## PMBOK基本过程组和它们对应的敏捷概念

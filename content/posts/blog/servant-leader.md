@@ -2,6 +2,8 @@
 title: "读《仆人领导时大鲲》有感"
 date: "2014-01-26"
 coverImage: "20082261423797060.jpg"
+URL: /servant-leader-2014/
+tags: [服务型领导, 领导力]
 ---
 
 **人生的5F**

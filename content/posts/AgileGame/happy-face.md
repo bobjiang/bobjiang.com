@@ -1,6 +1,6 @@
 ---
 Title: 幸福的笑脸
-Date: 2015-06-30 08:39:21
+Date: 2015-06-30
 URL: /happy_face_agile_game/
 tags: [敏捷游戏 , 精益游戏]
 ---

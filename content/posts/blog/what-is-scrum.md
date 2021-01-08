@@ -96,4 +96,4 @@ Scrum的核心内容都来自于 [Scrum指南](http://scrumguides.org/) ，这�
 按照产品开发（软件为例）的生命周期解读了整个Scrum框架。
 
 - [Youtube视频](https://youtu.be/-wTRU-LKgEY)
-- [B站视频]()
+- [B站视频](https://www.bilibili.com/video/BV1r7411o7zJ/)

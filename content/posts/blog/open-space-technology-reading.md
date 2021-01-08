@@ -1,6 +1,7 @@
 ---
 title: "开放空间技术-读书笔记"
 date: "2016-11-23"
+URL: /open-space-technology-reading/
 ---
 
 ![](https://img1.doubanio.com/lpic/s28047957.jpg)

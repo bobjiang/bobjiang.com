@@ -2,6 +2,7 @@
 title: "My Working Guide inspired from Scrum"
 date: "2016-01-17"
 coverImage: "guide.jpg"
+URL: /my-working-guide-inspired-from-scrum/
 ---
 
 During teaching Scrum and coaching on Scrum, I summarized following working guide as a reference:

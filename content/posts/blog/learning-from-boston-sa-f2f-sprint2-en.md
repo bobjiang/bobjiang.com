@@ -1,6 +1,7 @@
 ---
 title: "Learning from Boston SA F2F sprint2 (EN)"
 date: "2017-03-05"
+URL: /learning-from-boston-sa-f2f-sprint2-en/
 ---
 
 Keywords: "double loop learning", "retrospective", "Scrum"

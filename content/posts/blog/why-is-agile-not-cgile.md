@@ -1,6 +1,9 @@
 ---
-title: "为什么敏捷是Agile，而不是Cgile或其他词"
-date: "2017-03-24"
+Title: "为什么敏捷是Agile，而不是Cgile或其他词"
+Date: "2017-03-24"
+URL: /why-is-agile-not-cgile-2017/
+description: ""
+tags: []
 ---
 
 很多人都知道敏捷，即Agile，也知道这个词是来自2001年的[敏捷宣言](http://agilemanifesto.org/)。但你们知道为什么是Agile，而不是Cgile或其他的词吗？

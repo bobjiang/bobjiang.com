@@ -2,6 +2,7 @@
 Title: 超越预算角度的OKR | 敏捷联盟2020年十大博客
 Date: 2020-12-28
 URL: /okr-beyond-budgeting/
+description: "本文从超越预算来分析OKR（目标与关键成果），主要从三个角度来分析和质疑OKR（但并不是否定OKR）。相比国内一味的追捧OKR，这是一篇不可多得的文章。"
 tags: [okr, 超越预算, beyond budgeting]
 ---
 

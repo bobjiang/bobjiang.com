@@ -2,6 +2,7 @@
 title: "卡诺模型-产品需求的认识"
 date: "2014-01-21"
 coverImage: "Kano-Model.jpg"
+URL: /kano-model/
 ---
 
 卡诺模型是有关需求认知的一个很重要的模型。1984年日本人Noriaki Kano博士提出的。在这个模型里把需求分为4类。
@@ -29,4 +30,4 @@ coverImage: "Kano-Model.jpg"
 
 - 无差异需求
 
-无差异需求可以看做是可有可无。根据注明的[二八法则](http://bobjiang.com/2013/12/04/pareto_backlog/)，可以先不实现这类需求。
+无差异需求可以看做是可有可无。根据注明的[二八法则](/product-backlog-pareto-2013/)，可以先不实现这类需求。

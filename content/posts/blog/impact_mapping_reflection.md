@@ -2,6 +2,7 @@
 title: "影响地图工作坊的反思"
 date: "2014-05-12"
 coverImage: "Screen-Shot-2014-05-12-at-7.33.14-PM.png"
+URL: /impact-mapping-reflection-2014/
 ---
 
 2014年5月11日下午在汽车之家敏捷1001公开课第六次分享内容为“影响地图实战工作坊”。非常感谢谢钊帮忙整理的[会后记录回顾](http://agile1001.org/?p=246)。不过对于影响地图（Impact Mapping）我还想再补充几点：

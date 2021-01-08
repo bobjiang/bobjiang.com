@@ -2,6 +2,7 @@
 title: "京东敏捷软件开发精髓"
 date: "2015-09-02"
 coverImage: "agile_essential_core.png"
+URL: /jingdong_agile_essential/
 ---
 
 大家好，我是今天的分享老师：姜信宝，Bob Jiang。我来自京东商城-技术研发管理部，是京东的敏捷教练。

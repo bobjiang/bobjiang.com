@@ -2,6 +2,7 @@
 Title: 敏捷方法是过时的领导力所不及的 | 敏捷联盟2020年十大博客
 Date: 2020-12-29
 URL: /agile-methods-are-no-match-for-outdated-leadership/
+description: "敏捷是老套领导力无法比拟的。过时的领导力注重的是管理和工人的分离；如何更好的把敏捷明道理实施落地，1. 专注于集体智慧；2.  创造创新的心理和职业安全；3.  KPI和奖励基于价值创造而不是利用价值"
 tags: [Agile, 敏捷领导力]
 ---
 

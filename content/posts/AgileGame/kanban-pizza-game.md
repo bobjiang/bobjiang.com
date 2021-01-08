@@ -1,6 +1,6 @@
 ---
 Title: 看板披萨游戏（Kanban Pizza Game）- 译
-Date: 2013-12-05 01:24:36
+Date: 2013-12-05
 URL: /kanban_pizza_game/
 tags: [agile42 , kanban , lean , pizza game , wip , working in progress , 披萨游戏 , 看板]
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Scrum书籍推荐"
 date: "2015-09-23"
+URL: /scrum-book-recommendation/
+tags: [推荐图书, Scrum]
 ---
 
 ## 为什么是Scrum书籍推荐

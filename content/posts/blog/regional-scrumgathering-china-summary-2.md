@@ -2,6 +2,7 @@
 title: "Regional ScrumGathering China总结-内容篇2"
 date: "2014-06-14"
 coverImage: "Screen-Shot-2014-06-15-at-6.17.59-AM.png"
+URL: /regional-scrumgathering-china-summary-2/
 ---
 
 上篇总结了大会[第一天的内容](http://bobjiang.com/2014/06/11/regional-scrumgathering-china-summary-content/)，接下来总结一下大会第二天的内容。

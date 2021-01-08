@@ -1,6 +1,9 @@
 ---
-title: "我们反驳的是什么"
-date: "2017-03-29"
+Title: "我们反驳的是什么"
+Date: "2017-03-29"
+URL: /what-we-debate-from-community-2017/
+description: ""
+tags: []
 ---
 
 开始今天的话题之前，先讲一点题外话。用面向对象的方法和大家介绍一下类的设计。

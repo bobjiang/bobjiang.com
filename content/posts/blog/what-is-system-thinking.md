@@ -1,6 +1,6 @@
 ---
 title: 什么是系统思维
-date: "2019-04-06T16:05:38+08:00"
+date: "2019-04-06"
 author: Bob Jiang
 url: /what-is-system-thinking/
 description: ""

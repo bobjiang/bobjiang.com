@@ -1,6 +1,7 @@
 ---
 title: "读书笔记《把时间当做朋友》"
 date: "2016-09-13"
+URL: /reading-make-friends-with-time/
 ---
 
 [![%e6%8a%8a%e6%97%b6%e9%97%b4%e5%bd%93%e5%81%9a%e6%9c%8b%e5%8f%8b](/wp-content/uploads/2016/09/把时间当做朋友.jpg)](http://bobjiang.com/reading-make-friends-with-time/%e6%8a%8a%e6%97%b6%e9%97%b4%e5%bd%93%e5%81%9a%e6%9c%8b%e5%8f%8b/#main)

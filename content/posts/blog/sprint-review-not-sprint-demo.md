@@ -1,6 +1,8 @@
 ---
 title: "Sprint评审会议而不是Sprint演示会议"
 date: "2014-01-09"
+URL: /sprint-review-not-demo-show/
+tags: [评审会议, 演示会议, Sprint, Scrum]
 ---
 
 [![sprint-review](/wp-content/uploads/2014/01/sprint-review.jpg)](/wp-content/uploads/2014/01/sprint-review.jpg)

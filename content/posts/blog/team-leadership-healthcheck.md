@@ -2,7 +2,7 @@
 Title: 团队与领导力健康检查 | 体检表
 Date: 2020-05-20
 URL: /team-leadership-healthcheck-list/
-tags: [团队工具]
+tags: [团队工具, 敏捷领导力, 团队检查]
 ---
 
 [查看原文](https://mp.weixin.qq.com/s/KlMiptvoBFjIatHnuzOkqQ)

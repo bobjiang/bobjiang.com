@@ -2,6 +2,7 @@
 title: "三个关键的敏捷风险管理活动"
 date: "2014-06-03"
 coverImage: "Risk-Management.jpg"
+URL: /agile-risk-management-activities/
 ---
 
 我们都知道软件开发有风险。我们在用不确定的一套需求并在非常紧密的时间表内创造着新事物。在这之上，我们还不得不担忧未知的依赖性、突发的市场变化以及人员的轮换！We all know that software development is risky. We’re creating something new, with an uncertain set of requirements, in an often-tight timeframe. On top of that, we have to worry about unknown dependencies, sudden market changes, and personnel shifts!
@@ -32,4 +33,6 @@ coverImage: "Risk-Management.jpg"
 
 很好的讨论这三个方法对一篇博客来讲太长了，那么我会写一个系列博客来说明不确定性以及这三个方法。下一篇博客会定义不确定性的心智模型，这为其他话题的讨论提供了基础。Since a good discussion of all three approaches would be unreasonably long for a single blog posting, I will create a series of blog postings to address the topic of uncertainty and to detail these three approaches. The next blog in this series will define a mental model for uncertainty that will provide a foundation for discussing the other topics.
 
-英文链接：[Three Key Agile Risk Management Activities ](http://www.innolution.com/blog/three-key-agile-risk-management-activities) 原文作者：[Ken Rubin](http://innolution.com/about-us/kenneth-s.-rubin) 译者：[姜信宝Bob Jiang](http://bobjiang.com/about_bob_jiang/ "About Bob Jiang")
+英文链接：[Three Key Agile Risk Management Activities ](http://www.innolution.com/blog/three-key-agile-risk-management-activities)   
+原文作者：[Ken Rubin](http://innolution.com/about-us/kenneth-s.-rubin)   
+译者：[姜信宝Bob Jiang](/me/)

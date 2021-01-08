@@ -1,6 +1,9 @@
 ---
-title: "在线写书工具大比拼-gitbook selfstore 知笔墨"
-date: "2015-09-07"
+Title: "在线写书工具大比拼-gitbook selfstore 知笔墨"
+Date: "2015-09-07"
+URL: "/online-writing-tools-comparision-2015/"
+description: ""
+tags: [在线写作工具]
 ---
 
 # 在线写书工具大比拼

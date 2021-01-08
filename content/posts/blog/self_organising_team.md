@@ -2,9 +2,9 @@
 title: "为什么我们需要自组织团队"
 date: "2014-09-30"
 coverImage: "自组织.gif"
+URL: /why-we-need-self-organizing-team/
+tags: [自组织]
 ---
-
-# 为什么我们需要自组织团队![](http://www.infoq.com/resource/articles/why-need-self-organizing-teams/zh/smallimage/logo.jpg)
 
 作者 [Sigi Kaltenecker and Peter Hundermark](http://www.infoq.com/cn/author/Sigi-Kaltenecker-and-Peter-Hundermark) ，译者 **[曹知渊](http://www.infoq.com/cn/author/%E6%9B%B9%E7%9F%A5%E6%B8%8A)** 发布于 2014年9月19日 _|_ [1 讨论](http://www.infoq.com/cn/articles/why-need-self-organizing-teams?from=timeline&isappinstalled=0#theCommentsSection)
 

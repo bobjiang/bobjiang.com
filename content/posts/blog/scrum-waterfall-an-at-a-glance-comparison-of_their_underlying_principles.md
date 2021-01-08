@@ -1,6 +1,8 @@
 ---
 title: "Scrum和瀑布式开发基本原则的对比"
 date: "2013-12-11"
+URL: /scrum-vs-waterfall-principles/
+tags: [Scrum, 瀑布开发]
 ---
 
 [![agile vs waterfall](/wp-content/uploads/2013/12/agile-vs-waterfall-300x222.jpg)](/wp-content/uploads/2013/12/agile-vs-waterfall.jpg)

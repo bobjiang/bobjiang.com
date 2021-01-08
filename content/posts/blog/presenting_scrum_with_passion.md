@@ -1,6 +1,7 @@
 ---
 title: "激情演讲Scrum"
 date: "2013-12-10"
+URL: /scrum-with-passion-presenting/
 ---
 
 [![Barack Obama](/wp-content/uploads/2013/12/Obama-300x195.jpg)](/wp-content/uploads/2013/12/Obama.jpg)

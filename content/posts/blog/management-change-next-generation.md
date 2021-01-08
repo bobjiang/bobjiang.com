@@ -2,6 +2,7 @@
 title: "管理的变革--互联网时代的管理入门"
 date: "2016-08-19"
 coverImage: "doing-agile-vs-being-agile.jpg"
+URL: /management-change-next-generation/
 ---
 
 ## 管理1.0

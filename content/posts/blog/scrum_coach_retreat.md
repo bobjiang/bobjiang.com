@@ -2,6 +2,8 @@
 title: "Scrum教练静修报名接近尾声啦--Scrum联盟赞助主办"
 date: "2015-07-03"
 coverImage: "retreat.jpg"
+URL: /scrum-coach-retreat-2015/
+tags: [敏捷教练, 静修]
 ---
 
 2015年9月更新

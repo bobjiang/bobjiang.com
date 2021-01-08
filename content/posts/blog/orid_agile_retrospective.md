@@ -1,6 +1,8 @@
 ---
 title: "ORID和敏捷回顾会议的结合"
 date: "2013-11-12"
+URL: /agile-retrospective-orid-2013/
+tags: [敏捷回顾, ORID]
 ---
 
 [![orid](/wp-content/uploads/2013/11/orid1.jpg)](/wp-content/uploads/2013/11/orid1.jpg)

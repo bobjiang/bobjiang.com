@@ -1,6 +1,6 @@
 ---
 Title: 老板和走路人的游戏（boss walker）- 敏捷自组织团队游戏
-Date: 2015-06-19 08:47:21
+Date: 2015-06-19
 URL: /boss_walker_agile_game/
 tags: [敏捷游戏 , 自组织]
 ---

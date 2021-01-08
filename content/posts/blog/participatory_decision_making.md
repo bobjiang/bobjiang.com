@@ -1,6 +1,7 @@
 ---
 title: "《谁说我们不能一起做决定？参与式决策引导宝典》读书笔记"
 date: "2013-12-28"
+URL: /sam-kaner-participatory-decision-making/
 ---
 
 [![参与式决策](/wp-content/uploads/2013/12/参与式决策.jpg)](/wp-content/uploads/2013/12/参与式决策.jpg)

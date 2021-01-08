@@ -1,6 +1,6 @@
 ---
 Title: 敏捷嘉年华：抛球游戏
-Date: 2013-08-27 18:51:25
+Date: 2013-08-27
 URL: /ball-point-game/
 tags: [ball point game]
 ---

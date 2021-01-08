@@ -2,6 +2,7 @@
 title: "《即兴的智慧》读书笔记"
 date: "2016-01-04"
 coverImage: "improv-wisdm.jpg"
+URL: /improv-wisdm-2015/
 ---
 
 即兴的智慧

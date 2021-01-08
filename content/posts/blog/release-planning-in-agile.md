@@ -1,6 +1,8 @@
 ---
 title: "敏捷软件开发中的版本规划"
 date: "2014-01-19"
+URL: /release-planning-in-agile/
+tags: [版本规划, 敏捷计划]
 ---
 
 [![IMG_1627_副本](/wp-content/uploads/2014/01/IMG_1627_副本.jpg)](/wp-content/uploads/2014/01/IMG_1627_副本.jpg)

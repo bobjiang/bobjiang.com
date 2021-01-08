@@ -1,6 +1,7 @@
 ---
 title: "《精益创业》读书笔记"
 date: "2013-08-27"
+URL: /lean-startup-reading-2013/
 ---
 
 ![](http://bobjiang.github.io/images/lean_startup.png)

@@ -2,6 +2,7 @@
 title: "创新牛人榜-伊隆马斯克"
 date: "2015-12-17"
 coverImage: "ElonMusk.jpg"
+URL: /innovation-specialist-elon-musk/
 ---
 
 创新牛人榜是一系列博客，在这一系列博客中，小编将介绍在创新史上很牛逼的那些人，以及他们的伟大事迹。

@@ -1,6 +1,7 @@
 ---
 title: "用帕累托法则管理Backlog - Pareto Your Backlog （译）"
 date: "2013-12-03"
+URL: /product-backlog-pareto-2013/
 ---
 
 ![Pareto.gif](http://www.scrumalliance.org/getattachment/7f4c2c00-8910-4ba6-9419-7db46961c8ac/Pareto.gif.aspx "Pareto.gif")

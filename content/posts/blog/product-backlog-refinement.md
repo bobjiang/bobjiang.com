@@ -2,6 +2,7 @@
 title: "Product Backlog Refinement"
 date: "2015-01-05"
 coverImage: "productbacklogrefinement1.jpg"
+URL: /product-backlog-refinement/
 ---
 
 Here I would like to talk about product backlog refinement meeting, including what activities should be in this meeting, who should join this meeting and why we need refinement meeting.

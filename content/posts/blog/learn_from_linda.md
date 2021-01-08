@@ -1,6 +1,7 @@
 ---
 title: "我从Linda Rising身上学到的"
 date: "2013-12-26"
+URL: /learning-from-linda-rising/
 ---
 
 [![small-business-retirement](/wp-content/uploads/2013/12/small-business-retirement.jpeg)](/wp-content/uploads/2013/12/small-business-retirement.jpeg)

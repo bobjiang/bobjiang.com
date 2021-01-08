@@ -1,6 +1,6 @@
 ---
 Title: 翻硬币游戏（Scrum游戏）
-Date: 2013-12-07 12:31:33
+Date: 2013-12-07
 URL: /scrum_penny_game/
 tags: [batch size , lean , penny game , scrum , 批量 , 硬币游戏]
 ---

@@ -2,6 +2,7 @@
 title: "知识的诅咒Curse of Knowledge"
 date: "2014-04-27"
 coverImage: "curse-of-knowledgeb.png"
+URL: /knowledge-curse/
 ---
 
 4月22日23日24日听了滕振宇的CSM课程，课上他提到一个词——知识的诅咒（The Curse of Knowledge），听上去蛮有趣的一个词汇。回来做做功课深入学习一下。

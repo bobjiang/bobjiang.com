@@ -1,6 +1,7 @@
 ---
 title: "《Essential Scrum》作者Kenny Rubin采访录-亚马逊最畅销敏捷项目管理书"
 date: "2013-11-13"
+URL: /interview-ken-rubin-2013/
 ---
 
 [![Essential Scrum](/wp-content/uploads/2013/11/Essential-Scrum-229x300.jpg)](http://www.innolution.com/essential-scrum)

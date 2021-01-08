@@ -2,6 +2,7 @@
 title: "谈谈SAFe大规模敏捷框架（Scale Agile Framework）"
 date: "2014-04-07"
 coverImage: "safe.jpg"
+URL: /scale-agile-framework-2014/
 ---
 
 这几天Ron Jeffries写了两篇《SAFe good but not good enough》和《Issues with SAFe》，引爆了敏捷社区关于大规模敏捷框架（SAFe）的讨论。

@@ -1,6 +1,6 @@
 ---
 Title: 敏捷需求游戏
-Date: 2015-06-23 09:25:17
+Date: 2015-06-23
 URL: /spec_writing_agile_game/
 tags: [敏捷需求]
 ---

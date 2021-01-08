@@ -1,5 +1,6 @@
 ---
 title: "海尔为什么能成为白电老大"
+URL: /why-haier-2014/
 date: "2014-07-08"
 coverImage: "haier.jpg"
 ---

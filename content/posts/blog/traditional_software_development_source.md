@@ -2,6 +2,7 @@
 title: "探秘瀑布式软件开发的“错误起源”"
 date: "2015-01-04"
 coverImage: "Screen-Shot-2015-01-04-at-9.32.25-PM.png"
+URL: /traditional-software-development-source/
 ---
 
 最近一直在反思一个问题，那就是瀑布式软件开发的问题究竟出在哪儿了？这个问题首先要先问问瀑布式开发的鼻祖--Winston Royce，而看了Royce当年的论文之后，有不小的发现。其实他当时提出瀑布式软件开发就已经指出这个过程存在很大的问题，在论文中他提出，瀑布式开发中测试在很靠后的阶段才第一次介入（接触到软件），如果发现设计中（或需求上）的问题结果很严重。 论文的原文如下： [![Screen Shot 2015-01-04 at 9.48.47 PM](/wp-content/uploads/2015/01/Screen-Shot-2015-01-04-at-9.48.47-PM.png)](/wp-content/uploads/2015/01/Screen-Shot-2015-01-04-at-9.48.47-PM.png) 结果不言而喻，提出者已经质疑的一个理论，被无限放大了。

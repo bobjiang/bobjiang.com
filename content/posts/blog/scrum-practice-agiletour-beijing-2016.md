@@ -1,6 +1,8 @@
 ---
 title: "Scrum点滴--敏捷之旅2016北京后记"
 date: "2017-02-10"
+URL: /scrum-practice-agiletour-beijing-2016/
+tags: [敏捷之旅, 敏捷实践]
 ---
 
 作者：安宝平 微信ID: abp0616

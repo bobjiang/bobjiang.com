@@ -2,6 +2,7 @@
 title: "敏捷转型中管理层的认同和支持"
 date: "2014-02-11"
 coverImage: "agile-adoption1.jpg"
+URL: /management-buy-in-support-in-agile-adoption/
 ---
 
 敏捷转型是一种涉及管理层的组织级变革。我们常说管理层的认同对于敏捷是否能取得成功很关键，缺少管理层的支持，敏捷转型就可能会遇到巨大障碍。公司中管理层支持敏捷有很多不同的方法。
