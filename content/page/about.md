@@ -20,7 +20,7 @@ type: "page"
 - [CST - Certified Scrum Trainer](https://www.scrumalliance.org/community/profile/bjiang)
 - 全球首批LeSS Friendly Scrum Trainer（LFST）
 - [敏捷家](https://www.agileplus.co/)创始人
-- 《[Scrum精髓](http://essentialscrum.cn/)》的译者
+- 《[Scrum精髓](https://essentialscrum.cn/)》的译者
 - [HiBlock区块链社区](https://hiblock.net/)创始人人
 - [博客](https://www.bobjiang.com)
 - [Solidity中文文档](https://solidity-cn.readthedocs.io/zh/develop/)
@@ -49,12 +49,12 @@ type: "page"
 - [Bob Jiang个人博客](https://www.bobjiang.com)
 - [敏捷家](https://www.agileplus.co/)
 - [HiBlock区块链社区](https://hiblock.net/)
-- [Regional ScrumGathering](http://scrumgatheringchina.com/)
-- [Scrum培训](http://scrumtraining.cn/)
-- [Scrum精髓中文网站](http://essentialscrum.cn/)
+- [Regional ScrumGathering](https://scrumgatheringchina.com/)
+- [Scrum培训](https://scrumtraining.cn/)
+- [Scrum精髓中文网站](https://essentialscrum.cn/)
 - [影响地图中文网站](https://impactmapping.cn/)
-- [酷翻天 - 敏捷游戏大全](http://coolfunday.com/)
-- [敏捷日报](http://agiledaily.net/)
+- [酷翻天 - 敏捷游戏大全](https://coolfunday.com/)
+- [敏捷日报](https://agiledaily.net/)
 - [敏捷变革中心](https://www.c4at.cn/)
 
 ## 赞助

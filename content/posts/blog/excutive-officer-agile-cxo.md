@@ -41,4 +41,4 @@ _**绩效评审**_流程也受到冲击，奖励的是团队成功而不是个�
 
 物业也会被团队坐一起的需求所影响。如果没有足够的协作空间，Scrum团队就会占用会议室。
 
-原文链接：http://www.scrumalliance.org/community/articles/2014/january/is-your-leadership-ready-for-agile
+原文链接：https://www.scrumalliance.org/community/articles/2014/january/is-your-leadership-ready-for-agile

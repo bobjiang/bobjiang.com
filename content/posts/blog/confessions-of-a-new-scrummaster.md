@@ -10,7 +10,7 @@ coverImage: "scrum-master.png"
 
 **1\. 缓慢开始。**
 
-敏捷（Scrum）对于多数团队、公司（尤其是大公司）和文化而言是一个巨大的挑战。仅仅因为你相信Scrum和敏捷的奇迹，这不能保证其他人也有同样的感觉。先尝试实现那些马上有结果的事情（先摘好摘的果实）。如果你所在的组织允许你挑选团队成员的话，那么太棒了。但如果不行的话，比如给你一个组建好的团队，来进行Scrum转型可能会困难一些。因此缓慢开始，先解决团队的问题，比如构建信任……参见《[克服团队协作的五种障碍](http://bobjiang.com/2014/01/15/five-dysfunctions-of-team/)》
+敏捷（Scrum）对于多数团队、公司（尤其是大公司）和文化而言是一个巨大的挑战。仅仅因为你相信Scrum和敏捷的奇迹，这不能保证其他人也有同样的感觉。先尝试实现那些马上有结果的事情（先摘好摘的果实）。如果你所在的组织允许你挑选团队成员的话，那么太棒了。但如果不行的话，比如给你一个组建好的团队，来进行Scrum转型可能会困难一些。因此缓慢开始，先解决团队的问题，比如构建信任……参见《[克服团队协作的五种障碍](https://bobjiang.com/2014/01/15/five-dysfunctions-of-team/)》
 
 **2\. 有耐心。**
 
@@ -52,7 +52,7 @@ Scrum一开始会让人感到不自在。情况不会马上好转：团队的开
 
 回头看看所有这些战胜不自在的方法。相信自己，相信Scrum实践，信任团队会持续在正确的方向上： 努力争取高效能并交付商业价值。
 
-原文链接：http://www.scrumalliance.org/community/articles/2013/january/confessions-of-a-new-scrummaster
+原文链接：https://www.scrumalliance.org/community/articles/2013/january/confessions-of-a-new-scrummaster
 
 注：认真理解并做好上述的方法后，你也可以成为一个认证的ScrumMaster （CSM）
 

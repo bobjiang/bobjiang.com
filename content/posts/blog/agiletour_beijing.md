@@ -19,11 +19,11 @@ Agile Tour（以下称为敏捷之旅）是一个**国际非盈利性组织**，
 
 自2008成立以来，每年的10月至12月，敏捷之旅都会在全球范围内举行活动，让更多的人了解敏捷。而每年参加的城市和人数也迅速的增长，已成为全球规模最大的敏捷大会。而截止目前已有84个城市申办敏捷之旅活动。
 
-![](http://mmbiz.qpic.cn/mmbiz/SqAkq7HWyVIX2P4Hyaic0EicctoPibTf44vOicVR9GaeghmQJQvmBoLPsE7p1r1CTYGWzRQT7KQgfulQdlDP3ia1kvw/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/SqAkq7HWyVIX2P4Hyaic0EicctoPibTf44vOicVR9GaeghmQJQvmBoLPsE7p1r1CTYGWzRQT7KQgfulQdlDP3ia1kvw/640?tp=webp)
 
 下面是申办城市的列表：
 
-![](http://mmbiz.qpic.cn/mmbiz/SqAkq7HWyVIX2P4Hyaic0EicctoPibTf44vPauIdX52O1klweNibq7G9W863OwHzP5Sa3lQqicUEwFrOLIvdBEHLo6Q/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/SqAkq7HWyVIX2P4Hyaic0EicctoPibTf44vPauIdX52O1klweNibq7G9W863OwHzP5Sa3lQqicUEwFrOLIvdBEHLo6Q/640?tp=webp)
 
 3\. 敏捷之旅—在中国
 

@@ -8,13 +8,13 @@ coverImage: "invisible-influence.jpg"
 
 想要说服别人，首先要和这个人建立链接。而快速建立链接的方法就是模仿对方，包含但不限于，模仿对方的肢体语言、行为、举止、甚至是说话的节奏等。
 
-我想起来在TiD大会上[古月的分享](http://bobjiang.com/psychology-coaching-behind-agile/)，分享中她放了一个视频（有关NLP心理学催眠），其中就有类似的一个模仿从而催眠的故事。
+我想起来在TiD大会上[古月的分享](https://bobjiang.com/psychology-coaching-behind-agile/)，分享中她放了一个视频（有关NLP心理学催眠），其中就有类似的一个模仿从而催眠的故事。
 
 所以下次想要影响对方的时候，尝试一下模仿对方，而不仅仅是被动的听。
 
 **1\. Invisible Influence: The Hidden Forces That Shape Behavior** 
 
-([Amazon](http://danpink.us2.list-manage.com/track/click?u=cd386f06403a9ef25ce755fbe&id=960124c44d&e=3eeb813f48), [BN.com](http://danpink.us2.list-manage.com/track/click?u=cd386f06403a9ef25ce755fbe&id=c2175fbdcc&e=3eeb813f48), [IndieBound](http://danpink.us2.list-manage.com/track/click?u=cd386f06403a9ef25ce755fbe&id=c4518d1971&e=3eeb813f48))
+([Amazon](https://danpink.us2.list-manage.com/track/click?u=cd386f06403a9ef25ce755fbe&id=960124c44d&e=3eeb813f48), [BN.com](https://danpink.us2.list-manage.com/track/click?u=cd386f06403a9ef25ce755fbe&id=c2175fbdcc&e=3eeb813f48), [IndieBound](https://danpink.us2.list-manage.com/track/click?u=cd386f06403a9ef25ce755fbe&id=c4518d1971&e=3eeb813f48))
 
 **by Jonah Berger **
 

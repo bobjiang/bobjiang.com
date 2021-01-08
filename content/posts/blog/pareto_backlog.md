@@ -4,7 +4,7 @@ date: "2013-12-03"
 URL: /product-backlog-pareto-2013/
 ---
 
-![Pareto.gif](http://www.scrumalliance.org/getattachment/7f4c2c00-8910-4ba6-9419-7db46961c8ac/Pareto.gif.aspx "Pareto.gif")
+![Pareto.gif](https://www.scrumalliance.org/getattachment/7f4c2c00-8910-4ba6-9419-7db46961c8ac/Pareto.gif.aspx "Pareto.gif")
 
 帕累托法则是根据它的发起人命名的（Vilfredo **Pareto**意大利经济学家）。这个概念非常简单：80%的结果来自20%的原因。 帕累托法则（也叫二八原则）可以应用到许多业务领域。比如：
 
@@ -15,7 +15,7 @@ URL: /product-backlog-pareto-2013/
 - 在客户服务领域，80%的抱怨来自20%的客户。
 - 在Backlog里，80%交付的价值来自20%的Backlog
 
-(如果你想了解这些数字是怎么产生的，可以参考维基百科关于帕累托分布的定义：[http://en.wikipedia.org/wiki/Pareto\_distribution](http://en.wikipedia.org/wiki/Pareto_distribution).)
+(如果你想了解这些数字是怎么产生的，可以参考维基百科关于帕累托分布的定义：[https://en.wikipedia.org/wiki/Pareto\_distribution](https://en.wikipedia.org/wiki/Pareto_distribution).)
 
 为了遵循以交付高价值和客户喜欢的功能的方式高效地管理Backlog的精神，我建议要毫不留情地清理现有Backlog中的待办事项列表。这意味着需要识别80%不能使客户高兴的特性并清除掉它们。找到20%让客户高兴的特性，交付并重复这个过程。
 
@@ -39,4 +39,4 @@ URL: /product-backlog-pareto-2013/
 - 另一个假设：或许PO通过愿景激励团队，移除障碍，并且团队开发速度提升了。
 - 最终，Backlog中应用帕累托法则（20%的backlog交付了80%的价值，并且PO依此组织backlog）并回答下面这个问题： "PO一年可能交付多少价值？"
 
-帕累托法则这个概念是非常高明的. 原文链接：http://www.scrumalliance.org/community/articles/2013/december/pareto-your-backlog
+帕累托法则这个概念是非常高明的. 原文链接：https://www.scrumalliance.org/community/articles/2013/december/pareto-your-backlog

@@ -7,7 +7,7 @@ tags: [Scrum, 敏捷入门]
 
 # Scrum入门基础系列之Scrum起源
 
-说起Scrum就不得不提Scrum之父 - Jeff Sutherland和Ken Schwaber，Jeff在1993年结合他的工作实践创建了Scrum框架，1995年Ken在OOPSLA会议上第一次发表Scrum的论文。此后Scrum之父的两位分别撰写过多篇文章，并联合发布了《Scrum Guide》（[Scrum指南](http://scrumguides.org/)）。有关具体的Scrum起源可以参考我之前的一篇博文 - [Scrum起源](scrum_history/)。
+说起Scrum就不得不提Scrum之父 - Jeff Sutherland和Ken Schwaber，Jeff在1993年结合他的工作实践创建了Scrum框架，1995年Ken在OOPSLA会议上第一次发表Scrum的论文。此后Scrum之父的两位分别撰写过多篇文章，并联合发布了《Scrum Guide》（[Scrum指南](https://scrumguides.org/)）。有关具体的Scrum起源可以参考我之前的一篇博文 - [Scrum起源](scrum_history/)。
 
 说到Scrum的起源，让我们再来看看Scrum的3大支柱：Inspect Adapt Transparent。
 

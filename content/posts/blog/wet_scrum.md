@@ -24,7 +24,7 @@ tags: []
 对于双方这是一种双赢的场景：
 
 - 客户实时得到项目、产品的更新状态，并且客户可以自由地改变需求。
-- 团队就像军队里的[阿尔法单元](http://en.wikipedia.org/wiki/Alpha_Group)（5-9个人），一起在短迭代内荣做。
+- 团队就像军队里的[阿尔法单元](https://en.wikipedia.org/wiki/Alpha_Group)（5-9个人），一起在短迭代内荣做。
 
 ### 不争的事实：
 
@@ -80,4 +80,4 @@ tags: []
 
 赶快醒醒吧！
 
-原文链接：[http://www.scrumalliance.org/community/articles/2013/december/wet-scrum](http://www.scrumalliance.org/community/articles/2013/december/wet-scrum)
+原文链接：[https://www.scrumalliance.org/community/articles/2013/december/wet-scrum](https://www.scrumalliance.org/community/articles/2013/december/wet-scrum)

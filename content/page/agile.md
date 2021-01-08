@@ -18,5 +18,5 @@ description: "来自CSM学员的总结感想，以及来自一线团队的敏捷
 
 **如果你在团队有敏捷的实践，想要分享，或者有朋友推荐，请与我联系 bob@bobjiang.com**
 
-- [订阅敏捷家邮件](http://agileplus.plus/subscription/zKC_LCgUW)
+- [订阅敏捷家邮件](https://agileplus.plus/subscription/zKC_LCgUW)
 - [视频回放和文字实录](https://www.agileplus.co/agile/)

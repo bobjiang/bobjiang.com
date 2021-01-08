@@ -68,4 +68,4 @@ Scrum的重要基础是特性团队（特性团队有两个阶段，后续可以
 
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
-- [Bob的博客](http://www.bobjiang.com)、《Scrum精髓》译者
+- [Bob的博客](https://www.bobjiang.com)、《Scrum精髓》译者

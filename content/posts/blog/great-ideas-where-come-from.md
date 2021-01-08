@@ -4,7 +4,7 @@ date: "2016-01-04"
 coverImage: "great-ideas.jpg"
 ---
 
-知道这本书是我先看过这哥们（Steven Johnson）的TED视频（[where good ideas come from](http://open.163.com/movie/2010/9/9/I/M77RM5PCH_M78B2899I.html)）。很棒的视频，推荐大家有空可以去看看。本书的重点介绍了7种创新模式：
+知道这本书是我先看过这哥们（Steven Johnson）的TED视频（[where good ideas come from](https://open.163.com/movie/2010/9/9/I/M77RM5PCH_M78B2899I.html)）。很棒的视频，推荐大家有空可以去看看。本书的重点介绍了7种创新模式：
 
 1. 相邻可能
 2. 液态网络

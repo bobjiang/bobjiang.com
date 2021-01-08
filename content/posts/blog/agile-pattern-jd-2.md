@@ -30,7 +30,7 @@ date: "2016-01-06"
 
 没有工具或实践的模型都是耍流氓！
 
-那么以价值为核心的实践就是[产品待办列表（Product Backlog）](http://bobjiang.com/agile-coach/product_backlog_user_story.html)。好的产品待办列表是[ODDE](http://bobjiang.com/agile-coach/user_story_odde_5c.html)的，参考我之前写的[博客](http://bobjiang.com/agile-coach/user_story_odde_5c.html)。
+那么以价值为核心的实践就是[产品待办列表（Product Backlog）](https://bobjiang.com/agile-coach/product_backlog_user_story.html)。好的产品待办列表是[ODDE](https://bobjiang.com/agile-coach/user_story_odde_5c.html)的，参考我之前写的[博客](https://bobjiang.com/agile-coach/user_story_odde_5c.html)。
 
 基本点1：透明
 
@@ -48,13 +48,13 @@ date: "2016-01-06"
 
 [![Scrum精髓之京东敏捷之旅v2.3.021](/wp-content/uploads/2016/01/Scrum精髓之京东敏捷之旅v2.3.021-300x225.jpeg)](/wp-content/uploads/2016/01/Scrum精髓之京东敏捷之旅v2.3.021.jpeg)
 
-[敏捷的核心不是快，而是反馈快](http://bobjiang.com/scrum/essential-scrum/agile-is-not-quick.html)，参考我的博客。针对反馈的实践，敏捷当中有很多的工具和实践。
+[敏捷的核心不是快，而是反馈快](https://bobjiang.com/scrum/essential-scrum/agile-is-not-quick.html)，参考我的博客。针对反馈的实践，敏捷当中有很多的工具和实践。
 
 每日站会
 
 采用最多的是每日站会，每天团队凑在一起，回答3个问题。这里的关键点不是汇报工作，而是团队作为一个整体同步信息，为了达成迭代目标而努力。
 
-[评审会议，而不是演示会议](http://bobjiang.com/translation/sprint-review-not-sprint-demo.html)，参看我之前的博客。
+[评审会议，而不是演示会议](https://bobjiang.com/translation/sprint-review-not-sprint-demo.html)，参看我之前的博客。
 
 基本点4：教练
 

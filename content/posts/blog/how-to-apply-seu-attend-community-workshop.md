@@ -10,7 +10,7 @@ date: "2016-08-24"
 
 ## 什么是SEU（Scrum Educational Units）
 
-SEU是Scrum联盟推出的教育单元，为了表明完成某个教育培训或者符合特定学习目标的线下活动。SEU和实际花费的小时数是1：1的关系。SEU可以用来申请或更新CSP认证、CEC认证、[CST认证](http://bobjiang.com/cst-certified-scrum-trainer-bob-jiang/)。
+SEU是Scrum联盟推出的教育单元，为了表明完成某个教育培训或者符合特定学习目标的线下活动。SEU和实际花费的小时数是1：1的关系。SEU可以用来申请或更新CSP认证、CEC认证、[CST认证](https://bobjiang.com/cst-certified-scrum-trainer-bob-jiang/)。
 
 SEU是持续学习的体现，是ScrumMaster在Scrum之旅上的写照。
 
@@ -66,10 +66,10 @@ SEU一共分为以下几个类别：
 
 ## 如何为参加敏捷社区活动申请SEU
 
-敏捷社区活动，可以申请如上的类别C的SEU。登录[Scrum联盟网站](http://scrumalliance.org)后，找到添加SEU的链接，然后如下图：
+敏捷社区活动，可以申请如上的类别C的SEU。登录[Scrum联盟网站](https://scrumalliance.org)后，找到添加SEU的链接，然后如下图：
 
-[![Screen Shot 2016-08-24 at 1.20.14 PM](/wp-content/uploads/2016/08/Screen-Shot-2016-08-24-at-1.20.14-PM.png)](http://bobjiang.com/how-to-apply-seu-attend-community-workshop/screen-shot-2016-08-24-at-1-20-14-pm/#main)
+[![Screen Shot 2016-08-24 at 1.20.14 PM](/wp-content/uploads/2016/08/Screen-Shot-2016-08-24-at-1.20.14-PM.png)](https://bobjiang.com/how-to-apply-seu-attend-community-workshop/screen-shot-2016-08-24-at-1-20-14-pm/#main)
 
 正文内容示例如下：
 
-[![Screen Shot 2016-08-24 at 1.48.25 PM](/wp-content/uploads/2016/08/Screen-Shot-2016-08-24-at-1.48.25-PM.png)](http://bobjiang.com/how-to-apply-seu-attend-community-workshop/screen-shot-2016-08-24-at-1-48-25-pm/#main)
+[![Screen Shot 2016-08-24 at 1.48.25 PM](/wp-content/uploads/2016/08/Screen-Shot-2016-08-24-at-1.48.25-PM.png)](https://bobjiang.com/how-to-apply-seu-attend-community-workshop/screen-shot-2016-08-24-at-1-48-25-pm/#main)

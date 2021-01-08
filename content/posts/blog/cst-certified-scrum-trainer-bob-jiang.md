@@ -23,7 +23,7 @@ coverImage: "SCR20146-Seals-Final-CST.png"
 
 CST，即Certified Scrum Trainer，是Scrum联盟（https://www.scrumalliance.org）颁发的认证培训师。具体的认证路径如下图：
 
-[![SA_Cert_Website-01](/wp-content/uploads/2016/07/SA_Cert_Website-01.jpg)](http://bobjiang.com/index.php/2016/07/01/cst-certified-scrum-trainer-bob-jiang/sa_cert_website-01/#main)
+[![SA_Cert_Website-01](/wp-content/uploads/2016/07/SA_Cert_Website-01.jpg)](https://bobjiang.com/index.php/2016/07/01/cst-certified-scrum-trainer-bob-jiang/sa_cert_website-01/#main)
 
 要成为一名CST，首先要拿到以下三个认证（CSPO、CSM、CSD）中的一个，然后需要申请成为CSP，有了CSP之后才能申请CST。
 

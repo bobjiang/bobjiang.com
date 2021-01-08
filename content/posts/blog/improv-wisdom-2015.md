@@ -7,13 +7,13 @@ URL: /improv-wisdm-2015/
 
 即兴的智慧
 
-作者: [Patricia Ryan Madson](http://book.douban.com/search/Patricia%20Ryan%20Madson)
+作者: [Patricia Ryan Madson](https://book.douban.com/search/Patricia%20Ryan%20Madson)
 
 出版社: 华中科技大学出版社
 
 原作名: Improv Wisdom
 
-译者: [七印部落](http://book.douban.com/search/%E4%B8%83%E5%8D%B0%E9%83%A8%E8%90%BD)
+译者: [七印部落](https://book.douban.com/search/%E4%B8%83%E5%8D%B0%E9%83%A8%E8%90%BD)
 
 出版年: 2014-1-1
 
@@ -23,7 +23,7 @@ URL: /improv-wisdm-2015/
 
 装帧: 精装
 
-丛书: [七印部落翻译系列](http://book.douban.com/series/13289)
+丛书: [七印部落翻译系列](https://book.douban.com/series/13289)
 
 ISBN: 9787560994635
 

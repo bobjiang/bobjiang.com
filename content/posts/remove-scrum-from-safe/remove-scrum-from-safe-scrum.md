@@ -44,8 +44,8 @@ Scrum是一个框架 - 如果缺少任何元素，对于具有特定上下文的
 
 这意味着，根据其描述在SAFe中实施的任何内容，**都不能与Scrum框架相关联**。
 
-[本文链接](http://remove-scrum-from-safe.tilda.ws/Scrum)
+[本文链接](https://remove-scrum-from-safe.tilda.ws/Scrum)
 
 本文翻译自如下网站，如果译文和原稿有任何差异，请参考原文。
 in case of any discrepancies between the translation and the original, the original version should be considered as the correct one
-[Remove References To Scrum From SAFe!原文链接](http://remove-scrum-from-safe.tilda.ws/)
+[Remove References To Scrum From SAFe!原文链接](https://remove-scrum-from-safe.tilda.ws/)

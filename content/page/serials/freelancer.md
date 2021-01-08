@@ -6,7 +6,7 @@ url: /freelancer/
 description: "Bob Jiang整理的系列文章 - 自由职业系列"
 ---
 
-- [订阅自由职业者俱乐部邮件列表](http://agileplus.plus/subscription/ebsyvtB10)
+- [订阅自由职业者俱乐部邮件列表](https://agileplus.plus/subscription/ebsyvtB10)
 
 - [自由职业者访谈录：对话图书出版达人/职业规划师/程序员安晓辉](/freelancer-interview-anxiaohui/)
 - [百万年薪之间的对话（自由职业者访谈录）](/freelancer-interview-xiaobo/)

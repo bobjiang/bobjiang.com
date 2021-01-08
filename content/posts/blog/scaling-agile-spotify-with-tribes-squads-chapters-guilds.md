@@ -6,7 +6,7 @@ URL: /scaling-agile-spotify-with-tribes-squads-chapters-guilds/
 tags: [Spotify, 规模敏捷]
 ---
 
-作者：Henrik Kniberg, Anders Ivarsson 翻译：姜信宝([Bob Jiang](http://bobjiang.com/))，程嘉利
+作者：Henrik Kniberg, Anders Ivarsson 翻译：姜信宝([Bob Jiang](https://bobjiang.com/))，程嘉利
 
 正文如下： -------------------------------------------------------------------------
 

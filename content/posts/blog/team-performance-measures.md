@@ -10,25 +10,25 @@ tags: [团队绩效, 团队考核, 敏捷考核]
 
 有时候我也想知道开发团队做得怎么样，所以我会在本文阐述这个问题。但是，对我来说这个问题和下面两个问题几乎不相关：“作为敏捷组织我们做的怎么样？”或“Scrum团队做的怎么样？”。这些问题的答案可以使我们在经济相关性和可操作性层面有更深入的理解。在组织层面我想了解我们是否高效地交付客户期望的价值。为了理解这一点，我会采用如下指标：
 
-- [无用功](http://www.innolution.com/resources/glossary/idle-work)（[Idle work](http://www.innolution.com/resources/glossary/idle-work)） 和[闲散员工](http://www.innolution.com/resources/glossary/idle-workers)（[idle workers](http://www.innolution.com/resources/glossary/idle-workers)） — 衡量工作流受阻的时间和频率（而不是衡量员工有多忙）。
+- [无用功](https://www.innolution.com/resources/glossary/idle-work)（[Idle work](https://www.innolution.com/resources/glossary/idle-work)） 和[闲散员工](https://www.innolution.com/resources/glossary/idle-workers)（[idle workers](https://www.innolution.com/resources/glossary/idle-workers)） — 衡量工作流受阻的时间和频率（而不是衡量员工有多忙）。
 - 交付可工作和验证过的产品—如果我们交付的产品客户不用的话，那么按时及在预算内交付就没有任何意义。
-- 作为组织我们的学习速度—采用如[innovation accounting](http://www.innolution.com/resources/glossary/innovation-accounting) （精益创业的概念）的指标来评估我们学习的速度，该速度可以作为汇聚业务价值结果的进度指标。
+- 作为组织我们的学习速度—采用如[innovation accounting](https://www.innolution.com/resources/glossary/innovation-accounting) （精益创业的概念）的指标来评估我们学习的速度，该速度可以作为汇聚业务价值结果的进度指标。
 
-在组织层面之下我会关注整个Scrum团队。3个角色一起交付正确的客户价值并快速较好的完成。所以我更喜欢下面这个指标“每个迭代Scrum团队都在交付较好的价值吗？”(more on this shortly)。但是如果我们只想衡量开发团队怎么办（以下简称“团队”）？或许我们想知道给团队分配某人是否是正确的选择。如果开发团队会长久在一起，那么我们就想知道团队的绩效。下面我推荐几个指标（排除使用[开发速率](http://www.innolution.com/resources/glossary/velocity)）：
+在组织层面之下我会关注整个Scrum团队。3个角色一起交付正确的客户价值并快速较好的完成。所以我更喜欢下面这个指标“每个迭代Scrum团队都在交付较好的价值吗？”(more on this shortly)。但是如果我们只想衡量开发团队怎么办（以下简称“团队”）？或许我们想知道给团队分配某人是否是正确的选择。如果开发团队会长久在一起，那么我们就想知道团队的绩效。下面我推荐几个指标（排除使用[开发速率](https://www.innolution.com/resources/glossary/velocity)）：
 
-- 几乎每次团队都能完成[迭代目标](http://www.innolution.com/resources/glossary/sprint-goal)
+- 几乎每次团队都能完成[迭代目标](https://www.innolution.com/resources/glossary/sprint-goal)
 - 产品负责人相信团队交付较好的经济价值
-- 团队以[可持续的节奏](http://www.innolution.com/resources/glossary/sustainable-pace)工作
-- 团队的[T型技能](http://www.innolution.com/resources/glossary/t-shaped-skills)（一专多能）
+- 团队以[可持续的节奏](https://www.innolution.com/resources/glossary/sustainable-pace)工作
+- 团队的[T型技能](https://www.innolution.com/resources/glossary/t-shaped-skills)（一专多能）
 - 团队的学习速度
 
 ## 开发速率（不建议使用这个指标）
 
-许多人认为，[开发速率](http://www.innolution.com/resources/glossary/velocity)是一种衡量团队绩效显而易见的方法。不幸的是，开发速率应该只是一种计划工具（如[发布计划](http://www.innolution.com/resources/glossary/release-planning)）和团队诊断指标（如流程改进工作）。速率不应该作为一个绩效指标来判断生产效率。因为速率太容易做假了。如果团队成员知道速率作为绩效指标的话，他们就会在每个迭代随意增大产品backlog条目的大小（[故事点通胀](http://www.innolution.com/resources/glossary/point-inflation)），或者为了完成更多的故事而偷工减料（注：即牺牲质量或增加技术债）。在《[Essential Scrum](http://www.innolution.com/essential-scrum)》一书中，详细描述了什么是速率，应该如何使用速率以及应用速率的误区。在本文中，我不会把速率作为团队绩效的指标。
+许多人认为，[开发速率](https://www.innolution.com/resources/glossary/velocity)是一种衡量团队绩效显而易见的方法。不幸的是，开发速率应该只是一种计划工具（如[发布计划](https://www.innolution.com/resources/glossary/release-planning)）和团队诊断指标（如流程改进工作）。速率不应该作为一个绩效指标来判断生产效率。因为速率太容易做假了。如果团队成员知道速率作为绩效指标的话，他们就会在每个迭代随意增大产品backlog条目的大小（[故事点通胀](https://www.innolution.com/resources/glossary/point-inflation)），或者为了完成更多的故事而偷工减料（注：即牺牲质量或增加技术债）。在《[Essential Scrum](https://www.innolution.com/essential-scrum)》一书中，详细描述了什么是速率，应该如何使用速率以及应用速率的误区。在本文中，我不会把速率作为团队绩效的指标。
 
 ## 实现迭代目标
 
-排除了开发速率，我们应该用什么来衡量团队绩效呢？一个指标是团队以什么频率实现[迭代目标](http://www.innolution.com/resources/glossary/sprint-goal)。作为Scrum原则，每个迭代应该有一个目标（就像可执行的汇总说明），这个目标是团队一起承诺要实现的。每个迭代团队尽最大努力实现目标。我宁愿每个迭代团队没有完成目标，因为这可能是团队习惯性无法完成承诺的迹象。有时候，团队为了达到目标做出了相当的努力，但最终由于正当的原因（比如目标的弹性比较大）而没能完成。这个现象更好地表明了团队应该在合理的限度内进行工作。
+排除了开发速率，我们应该用什么来衡量团队绩效呢？一个指标是团队以什么频率实现[迭代目标](https://www.innolution.com/resources/glossary/sprint-goal)。作为Scrum原则，每个迭代应该有一个目标（就像可执行的汇总说明），这个目标是团队一起承诺要实现的。每个迭代团队尽最大努力实现目标。我宁愿每个迭代团队没有完成目标，因为这可能是团队习惯性无法完成承诺的迹象。有时候，团队为了达到目标做出了相当的努力，但最终由于正当的原因（比如目标的弹性比较大）而没能完成。这个现象更好地表明了团队应该在合理的限度内进行工作。
 
 ## 交付价值
 
@@ -36,18 +36,18 @@ tags: [团队绩效, 团队考核, 敏捷考核]
 
 ## 可持续的节奏工作
 
-我还想要知道是否每个迭代团队都能以[可持续地节奏](http://www.innolution.com/resources/glossary/sustainable-pace)交付良好的价值。我们都见过为了交付迭代目标而一周工作80小时的情况。对于这个情况的第一个反应可能是，“看看，多么棒的团队，他们为了完成工作愿意加班！” 常常一个迭代中为了完成目标，工作更长时间切更努力一点是必须的。因为总是有一些难以预料的事情。然而，人们不能长时间以这种节奏工作，所以一周工作80小时的团队不会长久的成为“优秀团队”，很快他们就变成“疲惫不堪的团队”了。因此，第三个衡量高绩效团队的指标是，每个迭代都以可持续的节奏交付良好的价值。
+我还想要知道是否每个迭代团队都能以[可持续地节奏](https://www.innolution.com/resources/glossary/sustainable-pace)交付良好的价值。我们都见过为了交付迭代目标而一周工作80小时的情况。对于这个情况的第一个反应可能是，“看看，多么棒的团队，他们为了完成工作愿意加班！” 常常一个迭代中为了完成目标，工作更长时间切更努力一点是必须的。因为总是有一些难以预料的事情。然而，人们不能长时间以这种节奏工作，所以一周工作80小时的团队不会长久的成为“优秀团队”，很快他们就变成“疲惫不堪的团队”了。因此，第三个衡量高绩效团队的指标是，每个迭代都以可持续的节奏交付良好的价值。
 
 ## 扩展T型技能
 
-另一个高绩效团队的指标是：“团队成员有没有更进一步扩展[T型技能？](http://www.innolution.com/resources/glossary/t-shaped-skills)”T型技能职这样一个比喻，用来描述一个人在专业领域有深入的垂直技能，同时其它相关领域拥有广泛的（没必要那么深入）水平技能。由T型技能的人组成的团队更不易受到工作变化的影响，因为可能多个团队成员都可以工作在该领域上，所以在有大量工作时团队可以蜂拥式的集中工作。我认为团队成员的T型技能是团队健康和高效能的重要指标。
+另一个高绩效团队的指标是：“团队成员有没有更进一步扩展[T型技能？](https://www.innolution.com/resources/glossary/t-shaped-skills)”T型技能职这样一个比喻，用来描述一个人在专业领域有深入的垂直技能，同时其它相关领域拥有广泛的（没必要那么深入）水平技能。由T型技能的人组成的团队更不易受到工作变化的影响，因为可能多个团队成员都可以工作在该领域上，所以在有大量工作时团队可以蜂拥式的集中工作。我认为团队成员的T型技能是团队健康和高效能的重要指标。
 
 ## 快速频繁地学习能力
 
-最后，需要评估团队的学习能力。尤其是，我想评估团队完成[学习循环的能力](http://www.innolution.com/resources/glossary/learning-loop)：假设、构建、反馈、检视和调整。高效能团队总是快速验证重要的假设，并根据结果而采取行动。高效能团队以最大化学习重要细节能力的方式组织工作，因此他们可以根据学习进行调整。考虑到快速而频繁学习的重要性，我会在组织层面和团队层面都采用这个指标。快速学习重要信息并尽最大的努力工作，超越那些学习慢的团队，就像团队那样，学习最快的组织常常痛击他们的对手。
+最后，需要评估团队的学习能力。尤其是，我想评估团队完成[学习循环的能力](https://www.innolution.com/resources/glossary/learning-loop)：假设、构建、反馈、检视和调整。高效能团队总是快速验证重要的假设，并根据结果而采取行动。高效能团队以最大化学习重要细节能力的方式组织工作，因此他们可以根据学习进行调整。考虑到快速而频繁学习的重要性，我会在组织层面和团队层面都采用这个指标。快速学习重要信息并尽最大的努力工作，超越那些学习慢的团队，就像团队那样，学习最快的组织常常痛击他们的对手。
 
 ## 总结
 
 总结一下，当衡量绩效的时候，首先考虑的是较高层面如组织、Scrum团队级别的。当评估开发团队的时候，不要采用速率。相反，考虑之前我提到的一套多维的指标会获得团队绩效的全面情况。最后一点意见。以我的经验，组织里好的经理实际上不需要任何官方团队绩效的指标。这样的经理和团队保持紧密联系，细心观察发生的一切。咨询一个好的经理关于团队绩效，包含强项和弱点，这个经理都会马上给出全面的答案。
 
-英语原文请[点击链接](http://www.innolution.com/blog/team-performance-measures)
+英语原文请[点击链接](https://www.innolution.com/blog/team-performance-measures)

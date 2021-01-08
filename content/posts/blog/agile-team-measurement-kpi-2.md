@@ -3,7 +3,7 @@ title: "敏捷软件开发绩效管理系列之度量指标列举"
 date: "2017-02-24"
 ---
 
-在[上一篇文章](http://bobjiang.com/agile-measurement-performance-management-agile-coach/)中，我提到以下几点：
+在[上一篇文章](https://bobjiang.com/agile-measurement-performance-management-agile-coach/)中，我提到以下几点：
 
 - 绩效管理（度量）的主要目的
 - 度量指标的分类
@@ -62,10 +62,10 @@ date: "2017-02-24"
 
 以下为广告。近期BoB的CSM敏捷认证课程安排如下：
 
-2017年3月16日17日 成都 [http://yihuode.io/activities/404](http://yihuode.io/activities/404)
+2017年3月16日17日 成都 [https://yihuode.io/activities/404](https://yihuode.io/activities/404)
 
-2017年3月23日24日 北京 [http://yihuode.io/activities/419](http://yihuode.io/activities/419)
+2017年3月23日24日 北京 [https://yihuode.io/activities/419](https://yihuode.io/activities/419)
 
-2017年4月16日17日 上海[ ](http://yihuode.io/activities/444)[http://yihuode.io/activities/444](http://yihuode.io/activities/444)
+2017年4月16日17日 上海[ ](https://yihuode.io/activities/444)[https://yihuode.io/activities/444](https://yihuode.io/activities/444)
 
-2017年4月24日25日 深圳 [http://yihuode.io/activities/436](http://yihuode.io/activities/436)
+2017年4月24日25日 深圳 [https://yihuode.io/activities/436](https://yihuode.io/activities/436)

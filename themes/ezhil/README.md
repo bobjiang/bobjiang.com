@@ -37,7 +37,7 @@ For more information read the [official setup guide](https://gohugo.io/overview/
 ## Configuration
 
 ```toml
-baseURL = "http://example.org/"
+baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "My personal blog"
 theme = "ezhil"

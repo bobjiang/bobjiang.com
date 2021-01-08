@@ -10,7 +10,7 @@ tags: []
 
 [![design_thinking_洞察_构思_原型.001](/wp-content/uploads/2014/08/design_thinking_洞察_构思_原型.001.jpg)](/wp-content/uploads/2014/08/design_thinking_洞察_构思_原型.001.jpg)
 
-本文译自http://dthsg.com/what-is-design-thinking/
+本文译自https://dthsg.com/what-is-design-thinking/
 
 ## 设计思维是以人为本的
 

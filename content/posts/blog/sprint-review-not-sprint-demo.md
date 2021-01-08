@@ -19,7 +19,7 @@ _译者注：本文虽然是在辩解“sprint评审会议”和“sprint演示�
 
 下图会澄清我是如何看待sprint评审会议活动。
 
-[![Visual AGILExicon image for Sprint Review](http://www.innolution.com/uploads/misc/Sprint_Review.jpg)](http://www.innolution.com/val/modal/sprint-review-activity)
+[![Visual AGILExicon image for Sprint Review](https://www.innolution.com/uploads/misc/Sprint_Review.jpg)](https://www.innolution.com/val/modal/sprint-review-activity)
 
 在图的中间，你会看到sprint评审会议图标。这个活动的关键是**检视与调整**sprint过程中产出的产品增量。这个图标的下边你会注意到一种举办sprint评审会议的方法。
 
@@ -33,4 +33,4 @@ _译者注：本文虽然是在辩解“sprint评审会议”和“sprint演示�
 
 应该叫做sprint评审会议，而不是sprint演示会议，对于这个观点，您同意吗？请留下您的建议。
 
-原文链接：You can view the [original content here](http://innolution.com/blog/its-a-sprint-review-not-a-sprint-demo). 原文作者：[Ken Rubin](http://innolution.com/about-us/kenneth-s.-rubin) 译者：[姜信宝Bob Jiang](http://bobjiang.com/about_bob_jiang/ "About Bob Jiang")
+原文链接：You can view the [original content here](https://innolution.com/blog/its-a-sprint-review-not-a-sprint-demo). 原文作者：[Ken Rubin](https://innolution.com/about-us/kenneth-s.-rubin) 译者：[姜信宝Bob Jiang](https://bobjiang.com/about_bob_jiang/ "About Bob Jiang")

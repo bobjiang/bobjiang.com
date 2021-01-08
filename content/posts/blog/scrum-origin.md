@@ -17,4 +17,4 @@ Scrum丰富的历史可以追溯到1986年《哈佛商业评论》中的一篇�
 
 * * *
 
-翻译自《Essential Scrum》，作者[Kenny Rubin](http://bobjiang.github.io/blog/2012/12/18/scrum-origin/www.linkedin.com/pub/dir/Kenny/Rubin)
+翻译自《Essential Scrum》，作者[Kenny Rubin](https://bobjiang.github.io/blog/2012/12/18/scrum-origin/www.linkedin.com/pub/dir/Kenny/Rubin)

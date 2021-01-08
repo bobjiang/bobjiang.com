@@ -15,7 +15,7 @@ coverImage: "489956c3-1adb-4db7-b39f-b968681fa99e-1.jpg"
 -  5人以上团体购票，请联系 姜信宝 jiangxb@gmail.com 13910939018
 - 支付方式：
 
-**支付宝转账：13810098755（jaylian@yeah.net） 廉雨 微信红包：加 13810098755（jetlian12）廉雨** 海丁网线上支付 [http://t.cn/R7sh7gh](http://t.cn/R7sh7gh)
+**支付宝转账：13810098755（jaylian@yeah.net） 廉雨 微信红包：加 13810098755（jetlian12）廉雨** 海丁网线上支付 [https://t.cn/R7sh7gh](https://t.cn/R7sh7gh)
 
 - 支付说明：
 
@@ -119,7 +119,7 @@ coverImage: "489956c3-1adb-4db7-b39f-b968681fa99e-1.jpg"
 
 姜信宝
 
-敏捷教练，旨在帮助企业改进工作流程以取得更好的商业价值。 作为一名认证的Scrum专家（CSP，CSM），他曾在爱立信为公司提供敏捷转型的支持，为北京移动提供过敏捷辅导，现在他正在京东商城进行精益敏捷的转型。在此期间，他曾担任过ScrumMaster、团队成员和项目经理等不同角色，深谙敏捷转型的艰辛与不易。另外他还是《Scrum精髓》一书的译者。 Bob是国内敏捷社区的主要推动者，从2011年起他组织并参与了敏捷之旅、ScrumGathering China 、敏捷中国、QCon等大会。另外他还是Agile1001公开课（http://agile1001.org）的联合发起人，微信公众号是Agile1001。他的博客是http://bobjiang.com
+敏捷教练，旨在帮助企业改进工作流程以取得更好的商业价值。 作为一名认证的Scrum专家（CSP，CSM），他曾在爱立信为公司提供敏捷转型的支持，为北京移动提供过敏捷辅导，现在他正在京东商城进行精益敏捷的转型。在此期间，他曾担任过ScrumMaster、团队成员和项目经理等不同角色，深谙敏捷转型的艰辛与不易。另外他还是《Scrum精髓》一书的译者。 Bob是国内敏捷社区的主要推动者，从2011年起他组织并参与了敏捷之旅、ScrumGathering China 、敏捷中国、QCon等大会。另外他还是Agile1001公开课（https://agile1001.org）的联合发起人，微信公众号是Agile1001。他的博客是https://bobjiang.com
 
 申健
 
@@ -131,7 +131,7 @@ coverImage: "489956c3-1adb-4db7-b39f-b968681fa99e-1.jpg"
 
 一千零一夜
 
-敏捷一千零一夜是个年轻但却专精的团队，专注于各种案例故事分享，重点覆盖敏捷开发、精益创业、产品创新、组织变革等话题。团队详情请参考： http://agile1001.org/?page\_id=18
+敏捷一千零一夜是个年轻但却专精的团队，专注于各种案例故事分享，重点覆盖敏捷开发、精益创业、产品创新、组织变革等话题。团队详情请参考： https://agile1001.org/?page\_id=18
 
 王栋
 
@@ -185,9 +185,9 @@ Agile Tour（以下称为敏捷之旅）是一个国际非盈利性组织，于
 
 从2009年至今，敏捷之旅在中国申办过的城市已经扩展到了成都、北京、上海、杭州、深圳、广州、西安、青岛、大连、福州、天津、厦门、广州、太原、南京、苏州、大连、香港、长沙、郑州 二十个城市。
 
-新浪微博：[@敏捷之旅北京](http://weibo.com/agiletourbj) 微信公众号：敏捷驴友汇 （agiletourchina） 敏捷之旅网站：[http://www.agiletour.cn/](http://www.agiletour.cn/) 活动微信群，大家扫码入群：
+新浪微博：[@敏捷之旅北京](https://weibo.com/agiletourbj) 微信公众号：敏捷驴友汇 （agiletourchina） 敏捷之旅网站：[https://www.agiletour.cn/](https://www.agiletour.cn/) 活动微信群，大家扫码入群：
 
-![](http://images.cnitblog.com/blog/81288/201412/121750280568790.jpg)
+![](https://images.cnitblog.com/blog/81288/201412/121750280568790.jpg)
 
 交通详情：
 
@@ -197,7 +197,7 @@ Agile Tour（以下称为敏捷之旅）是一个国际非盈利性组织，于
 
 ### **金牌赞助商**
 
-![](http://www.headin.cn/Upload/SNS/Activity/Description/cb5bb573-5570-451f-aeaf-d96fcb31a88b.png)Unlimax成立于2008年，是Atlassian白金级和企业级专家合作伙伴。自成立至今，Unlimax致力于通过Atlassian工具和顾问咨询服务，帮助客户实践卓有成效的Scrum敏捷项目管理和Kanban精益项目管理。
+![](https://www.headin.cn/Upload/SNS/Activity/Description/cb5bb573-5570-451f-aeaf-d96fcb31a88b.png)Unlimax成立于2008年，是Atlassian白金级和企业级专家合作伙伴。自成立至今，Unlimax致力于通过Atlassian工具和顾问咨询服务，帮助客户实践卓有成效的Scrum敏捷项目管理和Kanban精益项目管理。
 
 ### 场地赞助商
 
@@ -205,4 +205,4 @@ Agile Tour（以下称为敏捷之旅）是一个国际非盈利性组织，于
 
 ### 图书礼品赞助商
 
-###  ![](http://www.headin.cn/Upload/SNS/Activity/Description/8acf3d8d-039b-4a4e-a2c9-b3815ffd81b2.png)![](http://www.headin.cn/Upload/SNS/Activity/Description/92c59ab4-7f5e-4c3d-b68b-a181ddb8091f.png)![](http://www.headin.cn/Upload/SNS/Activity/Description/fa074d99-8bb4-4582-957d-3ccdfd8748ec.png)![](http://www.headin.cn/Upload/SNS/Activity/Description/a85107df-eb3a-4ed2-a7b0-eeacc4024244.png)![](http://www.headin.cn/Upload/SNS/Activity/Description/6114530a-50a8-467e-91c3-93b010529b5b.jpg)
+###  ![](https://www.headin.cn/Upload/SNS/Activity/Description/8acf3d8d-039b-4a4e-a2c9-b3815ffd81b2.png)![](https://www.headin.cn/Upload/SNS/Activity/Description/92c59ab4-7f5e-4c3d-b68b-a181ddb8091f.png)![](https://www.headin.cn/Upload/SNS/Activity/Description/fa074d99-8bb4-4582-957d-3ccdfd8748ec.png)![](https://www.headin.cn/Upload/SNS/Activity/Description/a85107df-eb3a-4ed2-a7b0-eeacc4024244.png)![](https://www.headin.cn/Upload/SNS/Activity/Description/6114530a-50a8-467e-91c3-93b010529b5b.jpg)

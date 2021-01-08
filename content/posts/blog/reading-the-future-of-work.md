@@ -4,7 +4,7 @@ date: "2016-10-14"
 URL: /reading-the-future-of-work/
 ---
 
-[![the-future-of-work](/wp-content/uploads/2016/10/download.jpeg)](http://bobjiang.com/reading-the-future-of-work/download/#main)
+[![the-future-of-work](/wp-content/uploads/2016/10/download.jpeg)](https://bobjiang.com/reading-the-future-of-work/download/#main)
 
 作者: [【美】Jacob Morgan](https://book.douban.com/search/Jacob%20Morgan) 出版社: 人民邮电出版社 出版年: 2015-11-1 页数: 228 定价: CNY 49.00 装帧: 平装 ISBN: 9787115406446
 
@@ -52,7 +52,7 @@ URL: /reading-the-future-of-work/
 
 ### 新的沟通和协作方法
 
-电子邮件俨然是当下互联网沟通和协作的主要方法，不过还是有很多其他更好的工具，比如[Slack](http://slack.com), [Teambition](http://www.teambition.com), github等等。
+电子邮件俨然是当下互联网沟通和协作的主要方法，不过还是有很多其他更好的工具，比如[Slack](https://slack.com), [Teambition](https://www.teambition.com), github等等。
 
 ### 从知识型员工转变为学习型员工
 
@@ -96,4 +96,4 @@ URL: /reading-the-future-of-work/
 
 对于未来的工作，你有哪些想法呢？如果想要了解小团队、敏捷如何一起工作，可以来我的ScrumMaster认证课程一起聊聊，具体课程信息如下：
 
-[2016年10月27日-28日 北京](http://yihuode.io/activities/357)
+[2016年10月27日-28日 北京](https://yihuode.io/activities/357)

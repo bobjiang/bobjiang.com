@@ -45,10 +45,10 @@ tags: [SAFe, Scrum, scrum guide]
 2. **在SAFe描述中重命名Scrum Master的角色，以排除其与Scrum有关的实际Scrum Master角色的关联。** *
 
 （\*）如上所示，SAFe中的[产品负责人](/remove-scrum-from-safe-po/)和[开发团队](/remove-scrum-from-safe-devteam/)角色与真正的Scrum角色存在严重偏差。但是，只有[Scrum Master](/remove-scrum-from-safe-sm/)角色与[Scrum](/remove-scrum-from-safe-scrum/)不可分割。
-为了在该异议下“签名”并在下面显示您的姓名，请[访问原文链接](http://remove-scrum-from-safe.tilda.ws/Objection#rec151801408)。
+为了在该异议下“签名”并在下面显示您的姓名，请[访问原文链接](https://remove-scrum-from-safe.tilda.ws/Objection#rec151801408)。
 
 
 本文翻译自如下网站，如果译文和原稿有任何差异，请参考原文。
 in case of any discrepancies between the translation and the original, the original version should be considered as the correct one
-[Remove References To Scrum From SAFe!原文链接](http://remove-scrum-from-safe.tilda.ws/)
+[Remove References To Scrum From SAFe!原文链接](https://remove-scrum-from-safe.tilda.ws/)
 

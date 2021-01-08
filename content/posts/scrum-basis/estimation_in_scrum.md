@@ -29,7 +29,7 @@ tags: [Scrum]
 
 1. 首先估算需要开发团队所有成员参加，每个人手里有一套上图的扑克
 2. 取出一个产品列表条目，产品负责人进行描述
-3. 每个团队成员根据自己的理解，拿出一张代表估算值的扑克并扣着放在桌面上。（这个过程不要讨论，不要说话，不要把你的结果告诉其他人，具体原因参见百度百科“[锚效应](http://baike.baidu.com/link?url=3iKvloFmsvMtKlbr6a7DRTz9GLihVcb7Yroj37_tqxwjqGnnKD9Qj0TZcnRBX3h4bNCIf07RrykWYNzfcfr2Nq)”）
+3. 每个团队成员根据自己的理解，拿出一张代表估算值的扑克并扣着放在桌面上。（这个过程不要讨论，不要说话，不要把你的结果告诉其他人，具体原因参见百度百科“[锚效应](https://baike.baidu.com/link?url=3iKvloFmsvMtKlbr6a7DRTz9GLihVcb7Yroj37_tqxwjqGnnKD9Qj0TZcnRBX3h4bNCIf07RrykWYNzfcfr2Nq)”）
 4. 所有成员出牌完成后，大家同时亮出自己的结果
 5. 接下来邀请估算最小的成员解释一下原因，还要邀请估算最大的成员解释一下原因。讨论过程中注意遵守团队礼节。
 6. 解释完毕后，重复步骤3到步骤5，直至最后大家的估算结果一致。

@@ -3,7 +3,7 @@ title: "如何学会欣赏"
 date: "2017-04-09"
 ---
 
-2017年4月1日，是第九届[一块](http://www.ikuai.org/)的年会，我非常幸运地参加了这次“傻气与勇气”并存的年会。本次年会的主题是“用AI与未知共舞”。其中的AI是爱的谐音，也是Appreciation Inquiry的缩写。即用欣赏式探询与未知共舞。
+2017年4月1日，是第九届[一块](https://www.ikuai.org/)的年会，我非常幸运地参加了这次“傻气与勇气”并存的年会。本次年会的主题是“用AI与未知共舞”。其中的AI是爱的谐音，也是Appreciation Inquiry的缩写。即用欣赏式探询与未知共舞。
 
 两天的（4月1日4月2日）时间里，80多名来自全国各地的小伙伴齐聚西安，共同探索未知。在活动的第二天，收集了大家很多有关AI的疑问。其中一个问题的研讨给我非常大的触动。这个问题就是“如何锻炼欣赏的肌肉力？”
 
@@ -27,7 +27,7 @@ date: "2017-04-09"
 
 接着Julia介绍了一个okness模型，如下图
 
-![](http://upload-images.jianshu.io/upload_images/1622292-06bdc38ca94d49cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/1622292-06bdc38ca94d49cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 Okness模型
 

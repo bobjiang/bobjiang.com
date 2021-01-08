@@ -48,7 +48,7 @@ CSO（Chief Software Officer）首席软件官于2019年11月26日签署了一�
 
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
-- [Bob的博客](http://www.bobjiang.com)、《Scrum精髓》译者
+- [Bob的博客](https://www.bobjiang.com)、《Scrum精髓》译者
 
 ## 版权声明
 

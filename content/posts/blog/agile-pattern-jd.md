@@ -21,7 +21,7 @@ date: "2015-12-19"
 
 下面分别介绍一下该模型当中用到的工具。
 
-以价值为核心 -- 工具实践是产品列表，[详细介绍请点击](http://bobjiang.com/agile-coach/product_backlog_user_story.html)。
+以价值为核心 -- 工具实践是产品列表，[详细介绍请点击](https://bobjiang.com/agile-coach/product_backlog_user_story.html)。
 
 ![幻灯片15](/wp-content/uploads/2015/12/幻灯片15-300x225.png)
 
@@ -33,7 +33,7 @@ date: "2015-12-19"
 
 [![幻灯片19](/wp-content/uploads/2015/12/幻灯片19-300x225.png)](/wp-content/uploads/2015/12/幻灯片19.png)
 
-基本点三（反馈） -- 工具实践是[每日站会](http://bobjiang.com/scrum/scrum-introduction/scrum_meeting.html)、[Sprint评审会](http://bobjiang.com/scrum/scrum-introduction/scrum_meeting.html)、[Sprint回顾会](http://bobjiang.com/scrum/scrum-introduction/scrum_meeting.html)。
+基本点三（反馈） -- 工具实践是[每日站会](https://bobjiang.com/scrum/scrum-introduction/scrum_meeting.html)、[Sprint评审会](https://bobjiang.com/scrum/scrum-introduction/scrum_meeting.html)、[Sprint回顾会](https://bobjiang.com/scrum/scrum-introduction/scrum_meeting.html)。
 
 [![幻灯片21](/wp-content/uploads/2015/12/幻灯片21-300x225.png)](/wp-content/uploads/2015/12/幻灯片21.png)
 
@@ -47,6 +47,6 @@ date: "2015-12-19"
 
 如果您想要了解细节，可以和我联系：
 
-如果您需要敏捷培训，可以[参考这里](http://bobjiang.com/trainings)。
+如果您需要敏捷培训，可以[参考这里](https://bobjiang.com/trainings)。
 
 [![幻灯片25](/wp-content/uploads/2015/12/幻灯片25.png)](/wp-content/uploads/2015/12/幻灯片25.png)

@@ -7,7 +7,7 @@ URL: /tipping-point-reading/
 
 ## 简介
 
-作者: [【加】马尔科姆•格拉德威尔（Malcolm Gladwell）](http://book.douban.com/search/) 出版社: 中信出版社 副标题: 如何引发流行 译者: [钱清](http://book.douban.com/search/%E9%92%B1%E6%B8%85) / [覃爱冬](http://book.douban.com/search/%E8%A6%83%E7%88%B1%E5%86%AC) 出版年: 2014-4 页数: 288 定价: 36.00元 装帧: 精装 丛书: [格拉德威尔经典系列](http://book.douban.com/series/23756) ISBN: 9787508635736
+作者: [【加】马尔科姆•格拉德威尔（Malcolm Gladwell）](https://book.douban.com/search/) 出版社: 中信出版社 副标题: 如何引发流行 译者: [钱清](https://book.douban.com/search/%E9%92%B1%E6%B8%85) / [覃爱冬](https://book.douban.com/search/%E8%A6%83%E7%88%B1%E5%86%AC) 出版年: 2014-4 页数: 288 定价: 36.00元 装帧: 精装 丛书: [格拉德威尔经典系列](https://book.douban.com/series/23756) ISBN: 9787508635736
 
 《引爆点-如何引发流行》这本书中的核心观点：流行的三法则（即引爆观点）
 
@@ -47,4 +47,4 @@ URL: /tipping-point-reading/
 
 ## 环境威力法则（Power of Context）
 
-书中提到两个重要的事情：[破窗理论](http://baike.baidu.com/link?url=WmUhhukWFRFEhLpQyDKBwDOadt4qY5J9L0CRwBw-eQ38d0gQJmsnozyZ4P_3T39qCl1S8es4Ii5g4P3bSH2yPq)和[邓巴数字](http://baike.baidu.com/view/1560858.htm?fromtitle=%E9%82%93%E5%B7%B4%E6%95%B0%E5%AD%97&fromid=2854929&type=syn)。
+书中提到两个重要的事情：[破窗理论](https://baike.baidu.com/link?url=WmUhhukWFRFEhLpQyDKBwDOadt4qY5J9L0CRwBw-eQ38d0gQJmsnozyZ4P_3T39qCl1S8es4Ii5g4P3bSH2yPq)和[邓巴数字](https://baike.baidu.com/view/1560858.htm?fromtitle=%E9%82%93%E5%B7%B4%E6%95%B0%E5%AD%97&fromid=2854929&type=syn)。

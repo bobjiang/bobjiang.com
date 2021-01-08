@@ -55,6 +55,6 @@ tags: [ball point game , game , scrum , 抛球游戏]
 
 [![deming](/wp-content/uploads/2014/01/deming-300x262.jpg)](/wp-content/uploads/2014/01/deming.jpg)
 
-我在QCon 2013北京上带领大家做的[抛球游戏](http://bobjiang.com/2013/08/27/ball-point-game/)。
+我在QCon 2013北京上带领大家做的[抛球游戏](https://bobjiang.com/2013/08/27/ball-point-game/)。
 
-抛球游戏的创始人链接[bor!sgloger](http://borisgloger.com/wp-content/uploads/2013/10/BallPointGame.pdf)。
+抛球游戏的创始人链接[bor!sgloger](https://borisgloger.com/wp-content/uploads/2013/10/BallPointGame.pdf)。

@@ -14,7 +14,7 @@ tags: [敏捷, agile]
 通常我会在课程上做几个简单的调查：
 
 1. 有多少人是开发者？ -- 不会超过1/3
-2. 有多少人看过[敏捷宣言](http://agilemanifesto.org)？ -- 令人惊讶，比例低到吓人
+2. 有多少人看过[敏捷宣言](https://agilemanifesto.org)？ -- 令人惊讶，比例低到吓人
 
 尽管有很多学员说我们已经在实践敏捷（其实他们的原话是，在**推**敏捷），但没有看过敏捷宣言。这个着实让我意外。
 
@@ -48,7 +48,7 @@ tags: [敏捷, agile]
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
 - 敏捷一千零一夜社区合伙人  
 - 《Scrum精髓》译者
-- [Bob的博客](http://www.bobjiang.com)
+- [Bob的博客](https://www.bobjiang.com)
 - Github: bobjiang
 - Twitter: @bobjiang123
 - [Solidity中文文档](https://solidity-cn.readthedocs.io/zh/develop/)

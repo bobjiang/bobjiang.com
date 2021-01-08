@@ -7,7 +7,7 @@ URL: /scale-agile-framework-2014/
 
 这几天Ron Jeffries写了两篇《SAFe good but not good enough》和《Issues with SAFe》，引爆了敏捷社区关于大规模敏捷框架（SAFe）的讨论。
 
-我的意见是不管SAFe好不好用，只要是解决了客户的问题就是值得认可的。另外如果真要说是不是大规模敏捷框架，那么就要回归[敏捷的4条价值观](http://agilemanifesto.org/iso/zhchs/)：
+我的意见是不管SAFe好不好用，只要是解决了客户的问题就是值得认可的。另外如果真要说是不是大规模敏捷框架，那么就要回归[敏捷的4条价值观](https://agilemanifesto.org/iso/zhchs/)：
 
 > 个体和互动 高于 流程和工具
 > 
@@ -99,7 +99,7 @@ The value of SAFE is to make the management feel safe(the acronym can not be a c
 
 **傅庆冬 下午10:38**
 
-[www.scaledagileframework.com](http://www.scaledagileframework.com/)上给出了多个成功案例，有公司名称，有具体数据
+[www.scaledagileframework.com](https://www.scaledagileframework.com/)上给出了多个成功案例，有公司名称，有具体数据
 
  
 
@@ -143,4 +143,4 @@ XP,Scrum,之所以能為許多人所接受，是因為XP,Scrum 能提出完全�
 
 最后非常赞许晓斌的这句，作为敏捷教练，作为咨询顾问，时刻应该关注的是客户问题的核心，而不是我的核心。
 
-找到一篇InfoQ的稿子，比较客观，[链接在这里](http://www.infoq.com/cn/news/2013/08/safe)。
+找到一篇InfoQ的稿子，比较客观，[链接在这里](https://www.infoq.com/cn/news/2013/08/safe)。

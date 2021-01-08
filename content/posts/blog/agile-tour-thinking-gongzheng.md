@@ -32,24 +32,24 @@ BOB老师，您好
 
 ## 感谢我们的金牌赞助商
 
-![史上最不靠谱的敏捷聚会 (公益活动,敏捷之旅)](http://zcr9.ncfstatic.com/attachment/201510/29/22/56322c2b383b01a_t4_2041x3261_thumb_670x0.jpg "史上最不靠谱的敏捷聚会 (公益活动,敏捷之旅)")![史上最不靠谱的敏捷聚会 (公益活动,敏捷之旅)](http://zcr9.ncfstatic.com/attachment/201510/29/22/56322c7f361d41a_t4_3119x2127_thumb_670x0.jpg "史上最不靠谱的敏捷聚会 (公益活动,敏捷之旅)")
+![史上最不靠谱的敏捷聚会 (公益活动,敏捷之旅)](https://zcr9.ncfstatic.com/attachment/201510/29/22/56322c2b383b01a_t4_2041x3261_thumb_670x0.jpg "史上最不靠谱的敏捷聚会 (公益活动,敏捷之旅)")![史上最不靠谱的敏捷聚会 (公益活动,敏捷之旅)](https://zcr9.ncfstatic.com/attachment/201510/29/22/56322c7f361d41a_t4_3119x2127_thumb_670x0.jpg "史上最不靠谱的敏捷聚会 (公益活动,敏捷之旅)")
 
 ## 其他赞助商
 
 **场地赞助商**
 
-[![](http://res.yihuo.de/FuvnjvnwW9NuvWsmJN1rdGPuZVod)](http://www.glodon.com/)
+[![](https://res.yihuo.de/FuvnjvnwW9NuvWsmJN1rdGPuZVod)](https://www.glodon.com/)
 
 **礼品赞助商**
 
-[![](http://res.yihuo.de/FjJ35ymZiFdwTIuMdE2glsfYVgB1)](http://www.shui.cn/)[![](http://res.yihuo.de/FraFYobIO0pqJl_w7217UpQFum5c)](http://www.shinescrum.com/)[![](http://res.yihuo.de/FsuyaNmCjo4bOaFrgBb9t6-Kqwdo)](http://www.qiniu.com/)[![](http://res.yihuo.de/FsFNJfkOm7LFuCBT8zixiU5xCAMx)](http://www.msup.com.cn/)[![](http://res.yihuo.de/FvebgbxLlqJCZMTDwBm1N2DRUm5j)](http://www.china-pub.com/)  
+[![](https://res.yihuo.de/FjJ35ymZiFdwTIuMdE2glsfYVgB1)](https://www.shui.cn/)[![](https://res.yihuo.de/FraFYobIO0pqJl_w7217UpQFum5c)](https://www.shinescrum.com/)[![](https://res.yihuo.de/FsuyaNmCjo4bOaFrgBb9t6-Kqwdo)](https://www.qiniu.com/)[![](https://res.yihuo.de/FsFNJfkOm7LFuCBT8zixiU5xCAMx)](https://www.msup.com.cn/)[![](https://res.yihuo.de/FvebgbxLlqJCZMTDwBm1N2DRUm5j)](https://www.china-pub.com/)  
 
 **图书赞助商**
 
-[清华大学出版社](http://www.tup.tsinghua.edu.cn/ "清华大学出版社")
+[清华大学出版社](https://www.tup.tsinghua.edu.cn/ "清华大学出版社")
 
-[图灵教育出版社](http://www.ituring.com.cn/ "图灵教育出版社")
+[图灵教育出版社](https://www.ituring.com.cn/ "图灵教育出版社")
 
-[博文视点出版社](http://www.broadview.com.cn/ "博文视点出版社")
+[博文视点出版社](https://www.broadview.com.cn/ "博文视点出版社")
 
-[人民邮电出版社](http://www.ptpress.com.cn/ "人民邮电出版社")
+[人民邮电出版社](https://www.ptpress.com.cn/ "人民邮电出版社")

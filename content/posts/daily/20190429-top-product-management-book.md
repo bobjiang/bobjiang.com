@@ -28,7 +28,7 @@ tags: [product management]
 原作名: Inspired: How To Create Products Customers Love
 译者: 七印部落 
 内容简介：
-> 为什么市场上那么多软件产品无人问津，成功的产品凤毛麟角？怎样发掘有价值的产品？拿什么说服开发团队接受你的产品设计？如何将敏捷方法融入产品开发？过去二十多年，Marty Cagan作为高级产品经理人为多家一流企业工作过，包括惠普、网景、美国在线、eBay。他亲历了个人电脑 、互联网、 电子商务的起落沉浮。《启示录：打造用户喜爱的产品》从人员、流程、产品三个角度介绍了现代软件（互联网）产品管理的实践经验和理念。七印部落正在翻译作者的博客和授课视频，欢迎访问微博：http://weibo.com/7seals
+> 为什么市场上那么多软件产品无人问津，成功的产品凤毛麟角？怎样发掘有价值的产品？拿什么说服开发团队接受你的产品设计？如何将敏捷方法融入产品开发？过去二十多年，Marty Cagan作为高级产品经理人为多家一流企业工作过，包括惠普、网景、美国在线、eBay。他亲历了个人电脑 、互联网、 电子商务的起落沉浮。《启示录：打造用户喜爱的产品》从人员、流程、产品三个角度介绍了现代软件（互联网）产品管理的实践经验和理念。七印部落正在翻译作者的博客和授课视频，欢迎访问微博：https://weibo.com/7seals
 
 ## 结网@改变世界的互联网产品经理
 作者: 王坚 
@@ -132,7 +132,7 @@ tags: [product management]
 
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
-- [Bob的博客](http://www.bobjiang.com)、《Scrum精髓》译者
+- [Bob的博客](https://www.bobjiang.com)、《Scrum精髓》译者
 - 欢迎加入`自由职业者俱乐部` 微信群，请加微信：
 - hiblocknet  ； 添加微信后，发送消息 `dream`
 

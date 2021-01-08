@@ -76,8 +76,8 @@ coverImage: "shangyemoshi.jpg"
 
 # 商业模式画布模板
 
-![](http://cf.jd.com/download/attachments/43702708/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83.png?version=1&modificationDate=1423451325000&api=v2 "精益与敏捷 > 商业模式画布 > 商业模式画布.png")
+![](https://cf.jd.com/download/attachments/43702708/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83.png?version=1&modificationDate=1423451325000&api=v2 "精益与敏捷 > 商业模式画布 > 商业模式画布.png")
 
 # 自提柜如何盈利的商业模式画布
 
-![](http://cf.jd.com/download/attachments/43702708/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83%202.jpg?version=1&modificationDate=1423452305000&api=v2 "精益与敏捷 > 商业模式画布 > 商业模式画布 2.jpg")
+![](https://cf.jd.com/download/attachments/43702708/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E7%94%BB%E5%B8%83%202.jpg?version=1&modificationDate=1423452305000&api=v2 "精益与敏捷 > 商业模式画布 > 商业模式画布 2.jpg")

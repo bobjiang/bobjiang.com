@@ -35,6 +35,6 @@ Norman Kerth 在《Project Retrospectives》一书中曾提到回顾会议的pri
 
 我最常使用这个原则的方法是：每次回顾会议开始的时候，团队全体成员集体朗读一遍。确信大家都理解之后才进行下一个环节。
 
-————————————————————— 最后广告时间 -- Scrum联盟的CSM敏捷认证课程 [2017年4月16日-17日 上海](http://yihuode.io/activities/444) [2017年4月24日-25日 深圳](http://yihuode.io/activities/436) [2017年5月25日-26日 北京](http://yihuode.io/activities/419)
+————————————————————— 最后广告时间 -- Scrum联盟的CSM敏捷认证课程 [2017年4月16日-17日 上海](https://yihuode.io/activities/444) [2017年4月24日-25日 深圳](https://yihuode.io/activities/436) [2017年5月25日-26日 北京](https://yihuode.io/activities/419)
 
-[什么是CSM](http://www.jianshu.com/p/bobjiang.com/what-is-csm/)
+[什么是CSM](https://www.jianshu.com/p/bobjiang.com/what-is-csm/)

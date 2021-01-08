@@ -43,4 +43,4 @@ URL: /agile-pmbok-2013/
 
 转载请注明来源
 
-[原文来自VersionOne](http://www.versionone.com/pdf/Translating_PMBOK_Concepts.pdf)
+[原文来自VersionOne](https://www.versionone.com/pdf/Translating_PMBOK_Concepts.pdf)

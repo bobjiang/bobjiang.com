@@ -4,13 +4,13 @@ date: "2013-11-24"
 URL: /user-story-5C-lifecycle/
 ---
 
-在写完[产品Backlog与用户故事的一些原则](http://bobjiang.com/agile-coach/product_backlog_user_story.html)之后，Daniel Teng同学建议补充
+在写完[产品Backlog与用户故事的一些原则](https://bobjiang.com/agile-coach/product_backlog_user_story.html)之后，Daniel Teng同学建议补充
 
 产品Backlog需要是ODDE的，以及user story的5C原则。
 
 **ODDE**
 
-[![odde](/wp-content/uploads/2013/11/odde.jpg)](http://bobjiang.com/blog/wp-content/uploads/2013/11/odde.jpg)
+[![odde](/wp-content/uploads/2013/11/odde.jpg)](https://bobjiang.com/blog/wp-content/uploads/2013/11/odde.jpg)
 
 - Ordered(排序的)
 
@@ -18,7 +18,7 @@ URL: /user-story-5C-lifecycle/
 
 - Detailed Appropriated(详略得当的)
 
-参考[前一篇](http://bobjiang.com/agile-coach/product_backlog_user_story.html)中Mike Cohn提到的DEEP原则
+参考[前一篇](https://bobjiang.com/agile-coach/product_backlog_user_story.html)中Mike Cohn提到的DEEP原则
 
 - Dynamic(动态的)
 
@@ -26,11 +26,11 @@ URL: /user-story-5C-lifecycle/
 
 - Estimated(做过估算的)
 
-[参考前一篇](http://bobjiang.com/agile-coach/product_backlog_user_story.html)中Mike Cohn提到的DEEP原则
+[参考前一篇](https://bobjiang.com/agile-coach/product_backlog_user_story.html)中Mike Cohn提到的DEEP原则
 
 **5C**
 
-[参考前一篇](http://bobjiang.com/agile-coach/product_backlog_user_story.html)中Jeffries的3C，在此基础上补充2个C。并且总结为user story的生命周期。
+[参考前一篇](https://bobjiang.com/agile-coach/product_backlog_user_story.html)中Jeffries的3C，在此基础上补充2个C。并且总结为user story的生命周期。
 
 card->conversation->confirmation->construction->consequence->card...
 

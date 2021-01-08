@@ -4,7 +4,7 @@ date: "2013-08-27"
 URL: /lean-startup-reading-2013/
 ---
 
-![](http://bobjiang.github.io/images/lean_startup.png)
+![](https://bobjiang.github.io/images/lean_startup.png)
 
 我最喜欢的一句话
 
@@ -25,7 +25,7 @@ URL: /lean-startup-reading-2013/
 
 关于增长假设，书中提到两个比较好的验证方法：
 
-1. [同期群分析](http://en.wikipedia.org/wiki/Cohort_study)
+1. [同期群分析](https://en.wikipedia.org/wiki/Cohort_study)
 2. 对比测试
 
 在各种验证假设后，得到的报告、报表中，衡量指标要符合三个“可”的标准

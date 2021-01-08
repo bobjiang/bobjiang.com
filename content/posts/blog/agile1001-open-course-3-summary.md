@@ -3,7 +3,7 @@ title: "总结 - Agile1001公开课 第三期【北京】敏捷需求捕获By用
 date: "2014-01-19"
 ---
 
-2014.1.19 王立杰老师为大家带来了一场敏捷需求的公开课（蛇年的最后一场）。这次非常感谢联众游戏为我们提供场地赞助。（如有企业或个人能提供场地赞助，请[联系我](http://bobjiang.com/about_bob_jiang/)或王立杰老师）
+2014.1.19 王立杰老师为大家带来了一场敏捷需求的公开课（蛇年的最后一场）。这次非常感谢联众游戏为我们提供场地赞助。（如有企业或个人能提供场地赞助，请[联系我](https://bobjiang.com/about_bob_jiang/)或王立杰老师）
 
 [![IMG_1636_副本](/wp-content/uploads/2014/01/IMG_1636_副本-296x300.jpg)](/wp-content/uploads/2014/01/IMG_1636_副本.jpg)
 
@@ -11,7 +11,7 @@ date: "2014-01-19"
 
 [![IMG_1649_副本](/wp-content/uploads/2014/01/IMG_1649_副本-300x187.jpg)](/wp-content/uploads/2014/01/IMG_1649_副本.jpg)
 
-关于用户故事的3C【DanielTeng扩充为5C】和INVEST原则，也可以参考我之前[总结的一篇博文](http://bobjiang.com/2013/11/24/product_backlog_user_story/)。
+关于用户故事的3C【DanielTeng扩充为5C】和INVEST原则，也可以参考我之前[总结的一篇博文](https://bobjiang.com/2013/11/24/product_backlog_user_story/)。
 
 会后大家对于这次公开课的反馈：
 
@@ -53,8 +53,8 @@ date: "2014-01-19"
 
 **Mary 23:55** 对于用户故事的故算方面是可以改变我们工作的一些思维模式，这点最重要了。大多数人对估算都有些敬畏。
 
-这次公开课的宣传信息：[Agile1001公开课 第三期【北京】敏捷需求捕获By用户故事](http://bobjiang.com/2014/01/16/agile1001-requirement-user-story/)
+这次公开课的宣传信息：[Agile1001公开课 第三期【北京】敏捷需求捕获By用户故事](https://bobjiang.com/2014/01/16/agile1001-requirement-user-story/)
 
 \-----------------------------------------------------------------------
 
-[![qrcode_for_gh_1a45f645cae5_258 (1)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg) **微信公众号**: 敏捷那些事儿（agileplus） Agile1001公开课，每月一次，旨在推广和传播敏捷开发思想和Scrum，希望更多的开发者受益。欢迎关注。课程信息会定期发布，敬请关注。[公开课汇总链接](http://bobjiang.com/agile1001-open-course/)。
+[![qrcode_for_gh_1a45f645cae5_258 (1)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg) **微信公众号**: 敏捷那些事儿（agileplus） Agile1001公开课，每月一次，旨在推广和传播敏捷开发思想和Scrum，希望更多的开发者受益。欢迎关注。课程信息会定期发布，敬请关注。[公开课汇总链接](https://bobjiang.com/agile1001-open-course/)。

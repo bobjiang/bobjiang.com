@@ -33,7 +33,7 @@ tags: []
 ## 复杂冲突团队方法
 开放空间是另外一个很复杂的引导方法（或心态），[参考资料](https://www.amazon.cn/dp/B00VKIJG4W)。书很薄，容易阅读，但是要掌握还是很不容易的。首先从心态上要能接受各种变化，其次结果也往往会和预期不一样。
 
-最后附上一篇 [开放空间与世界咖啡馆 的对比](http://www.epochtimes.com/gb/8/3/1/n2028560.htm)。
+最后附上一篇 [开放空间与世界咖啡馆 的对比](https://www.epochtimes.com/gb/8/3/1/n2028560.htm)。
 
 # 思考
 
@@ -61,4 +61,4 @@ tags: []
 
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
-- [Bob的博客](http://www.bobjiang.com)、《Scrum精髓》译者
+- [Bob的博客](https://www.bobjiang.com)、《Scrum精髓》译者

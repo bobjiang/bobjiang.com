@@ -25,7 +25,7 @@ ScrumMaster的技能要求：
 ## 培训
 作为一名ScrumMaster，需要具备基本的培训技能。培训技能，我个人理解至少有2个阶段。
 
-**第一阶段，演讲** -- 敢于在陌生人面前进行分享。同时还要是逻辑清晰，有理有据，能说服人。训练自己的演讲和领导能力，可以参考 [Toastmasters](http://www.toastmasters.org/)
+**第一阶段，演讲** -- 敢于在陌生人面前进行分享。同时还要是逻辑清晰，有理有据，能说服人。训练自己的演讲和领导能力，可以参考 [Toastmasters](https://www.toastmasters.org/)
 
 **第二阶段，培训方式** -- 常见的培训、分享方式是，整理ppt，对着电脑进行分享。还有一种培训手法叫做《Training from the Back of Room》，即最大限度的使每个学员从彼此学习到新的知识。这本书中文名《[4C法颠覆培训课堂：65种反转培训策略](https://item.jd.com/11744034.html)》
 
@@ -65,4 +65,4 @@ ScrumMaster是一个全新的职位，他不做实际的开发工作，他的工
 
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
-- [Bob的博客](http://www.bobjiang.com)、《Scrum精髓》译者
+- [Bob的博客](https://www.bobjiang.com)、《Scrum精髓》译者

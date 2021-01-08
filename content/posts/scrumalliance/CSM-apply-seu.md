@@ -31,5 +31,5 @@ CSM的课程及证书已经赋予你16个SEU的学分，可以用于后续申请
 - Country:  China
 - Zip:         100024
 - Phone Number: +86-13910939018
-- URL:     http://www.bobjiang.com 
+- URL:     https://www.bobjiang.com 
 - Email address:    bob@centerforagiletransformation.com

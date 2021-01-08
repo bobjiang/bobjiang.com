@@ -29,7 +29,7 @@ date: "2016-08-30"
 
 \----------------------------------------
 
-Scrum Gathering中国，10月21日22日在杭州举办，目前（8月31日前）门票价格为2500元（原价3500元），报名链接[http://scrumgathering.io/register.html](http://scrumgathering.io/register.html)
+Scrum Gathering中国，10月21日22日在杭州举办，目前（8月31日前）门票价格为2500元（原价3500元），报名链接[https://scrumgathering.io/register.html](https://scrumgathering.io/register.html)
 
 Scrum Gathering为敏捷实践者提供一次聚会的机会，分享关于Scrum和敏捷的实践以及知识，体验scrum 和敏捷的热情。在为期2天的盛会中，你将遇见志趣相投的Scrum实践者、讲师、教练和拥趸，你也将听到惊艳的主题演讲，参与开放空间活动，升华你对Scrum及敏捷的理解。
 
@@ -39,13 +39,13 @@ Scrum Gathering为敏捷实践者提供一次聚会的机会，分享关于Scrum
 
 1.《系统化思维导论》这本书买了一段时间，才翻出细细地来看。说实话，这本书没看懂，只能从整体上进行理解。问题是如何产生的，系统是什么，如何去观察系统，系统与行为之间的关系。这是我得到的几个问题，至于答案，还在不断摸索中。也希望有读过这本书的朋友，可以一起交流。欢迎给我写信。
 
-2.《即兴的智慧》书中的十个练习看似简单，但是要做到不仅需要勇气，也需要不断地实践。练习一：Say Yes!；练习二：别准备；练习三：即刻行动；练习四：马上动手；练习五：尽力就好；练习六：细心观察；练习七：面对事实；练习八：别忘了目标；练习九：不要错过上帝的馈赠（类似欣赏式探询）；练习十：求求你，犯个错吧。详细的读书笔记参考：[http://bobjiang.com/improv-wisdom-2015/](http://bobjiang.com/improv-wisdom-2015/)
+2.《即兴的智慧》书中的十个练习看似简单，但是要做到不仅需要勇气，也需要不断地实践。练习一：Say Yes!；练习二：别准备；练习三：即刻行动；练习四：马上动手；练习五：尽力就好；练习六：细心观察；练习七：面对事实；练习八：别忘了目标；练习九：不要错过上帝的馈赠（类似欣赏式探询）；练习十：求求你，犯个错吧。详细的读书笔记参考：[https://bobjiang.com/improv-wisdom-2015/](https://bobjiang.com/improv-wisdom-2015/)
 
 课程
 
 \----------------------------------------
 
-Certified ScrumMaster中文认证课程 - 9月23日24日上海 [http://yihuode.io/activities/346](http://yihuode.io/activities/346)
+Certified ScrumMaster中文认证课程 - 9月23日24日上海 [https://yihuode.io/activities/346](https://yihuode.io/activities/346)
 
 **价格**：早鸟价：6000元（9月10日前有效）；三人同行8折优惠（5600元）；普通7000元
 

@@ -48,7 +48,7 @@ QCon北京2013大会 大会时间：2013年4月25-27日 大会地点：中国·�
 
 知识漏斗 vs 知识影响力
 
-![](http://bobjiang.github.io/images/knowledge_impact.jpg)
+![](https://bobjiang.github.io/images/knowledge_impact.jpg)
 
 - 谜题（Mystery）vs 自我学习1
 - 启发式探索（Heuristic）vs 自我理解
@@ -59,12 +59,12 @@ QCon北京2013大会 大会时间：2013年4月25-27日 大会地点：中国·�
 
 学习验证画布
 
-![](http://bobjiang.github.io/images/learning_canvas.jpg)
+![](https://bobjiang.github.io/images/learning_canvas.jpg)
 
 ## 参考资料
 
-[自我介绍@QCon](http://www.qconbeijing.com/speaker.php?id=206)
+[自我介绍@QCon](https://www.qconbeijing.com/speaker.php?id=206)
 
-**有关QCon：** [QCon](http://www.qconbeijing.com/)是由[InfoQ](http://www.infoq.com/cn/)主办的全球顶级技术盛会，每年在伦敦、北京、东京、纽约、圣保罗、杭州、旧金山召开。自2007年3月份首次举办以来，已经有包括传统制造、金融、电信、互联网、航空航天等领域的近万名架构师、项目经理、团队领导者和高级开发人员参加过QCon大会。
+**有关QCon：** [QCon](https://www.qconbeijing.com/)是由[InfoQ](https://www.infoq.com/cn/)主办的全球顶级技术盛会，每年在伦敦、北京、东京、纽约、圣保罗、杭州、旧金山召开。自2007年3月份首次举办以来，已经有包括传统制造、金融、电信、互联网、航空航天等领域的近万名架构师、项目经理、团队领导者和高级开发人员参加过QCon大会。
 
 秉承”促进软件开发领域知识与创新的传播”原则，QCon各项议题专为中高端技术人员设计，内容源于实践并面向社区。演讲嘉宾依据各重点和热点话题，分享技术趋势和最佳实践；作为主办方，InfoQ努力为参会者提供良好的学习和交流环境。

@@ -30,4 +30,4 @@ Scrum教练静修活动通知：重大消息，早鸟名额只剩下少量的几
 
 报名链接：[https://www.regonline.com/Register/Checkin.aspx?EventID=1722484](https://www.regonline.com/Register/Checkin.aspx?EventID=1722484)
 
-这里是2014年亚太区Scrum教练静修的结果，里面充满有意思和有意义的结果： [http://coachesretreatthailand.ning.com/](http://coachesretreatthailand.ning.com/)
+这里是2014年亚太区Scrum教练静修的结果，里面充满有意思和有意义的结果： [https://coachesretreatthailand.ning.com/](https://coachesretreatthailand.ning.com/)

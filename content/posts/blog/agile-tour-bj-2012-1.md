@@ -18,10 +18,10 @@ date: "2013-08-27"
 
 本次敏捷之旅北京站的活动要感谢
 
-1. 主要赞助商：[OutSofting](http://www.outsofting.com/)
-2. 场地赞助商：[清华大学出版社](http://www.tup.com.cn/)
-3. 媒体支持：[海丁网](http://headin.cn/)和[InfoQ中文网](http://www.infoq.com/cn)
+1. 主要赞助商：[OutSofting](https://www.outsofting.com/)
+2. 场地赞助商：[清华大学出版社](https://www.tup.com.cn/)
+3. 媒体支持：[海丁网](https://headin.cn/)和[InfoQ中文网](https://www.infoq.com/cn)
 
 * * *
 
-敏捷之旅北京的后续报道 报道1 - [来自mebusw的CSDN blog](http://blog.csdn.net/mebusw/article/details/8250491)
+敏捷之旅北京的后续报道 报道1 - [来自mebusw的CSDN blog](https://blog.csdn.net/mebusw/article/details/8250491)

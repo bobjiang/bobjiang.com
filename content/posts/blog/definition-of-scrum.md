@@ -29,8 +29,8 @@ Scrum是一个框架，而不是一个流程，也不是一个方法，更不是
 
 ### 解决复杂的适应性问题
 
-Scrum最适合解决复杂问题，比如软件开发这类复杂问题。另外还有适应性问题，即强调灵活性，需要团队可以快速响应变化。这是敏捷的本质，可以参考之前的博文“[为什么敏捷是Agile，而不是Cgile或其他词](http://www.jianshu.com/p/c600afcf29aa)”。
+Scrum最适合解决复杂问题，比如软件开发这类复杂问题。另外还有适应性问题，即强调灵活性，需要团队可以快速响应变化。这是敏捷的本质，可以参考之前的博文“[为什么敏捷是Agile，而不是Cgile或其他词](https://www.jianshu.com/p/c600afcf29aa)”。
 
-更多的解读，大家可以参加[CSM敏捷认证培训](http://bobjiang.com/csm/)了解详情。
+更多的解读，大家可以参加[CSM敏捷认证培训](https://bobjiang.com/csm/)了解详情。
 
-参考材料：[Scrum指南](http://scrumguides.org/)
+参考材料：[Scrum指南](https://scrumguides.org/)

@@ -4,7 +4,7 @@ date: "2015-11-13"
 coverImage: "Screen-Shot-2015-11-13-at-10.36.34-AM.png"
 ---
 
-传统软件开发（或者说瀑布式软件开发）方法，对于需求的看法是 -- 尽可能详细的了解需求、分析需求以形成详尽的需求文档，然后就把文档交付给开发部门。敏捷软件开发中则是完全不一样的做法。首先[敏捷需求是ODDE](http://bobjiang.com/agile-coach/user_story_odde_5c.html)的，其中有一个点很重要就是Detailed Rightly (Appropriated) -- 详略得当。
+传统软件开发（或者说瀑布式软件开发）方法，对于需求的看法是 -- 尽可能详细的了解需求、分析需求以形成详尽的需求文档，然后就把文档交付给开发部门。敏捷软件开发中则是完全不一样的做法。首先[敏捷需求是ODDE](https://bobjiang.com/agile-coach/user_story_odde_5c.html)的，其中有一个点很重要就是Detailed Rightly (Appropriated) -- 详略得当。
 
 ## 什么是详略得当
 
@@ -20,7 +20,7 @@ coverImage: "Screen-Shot-2015-11-13-at-10.36.34-AM.png"
 
 ### 粗粒度
 
-粗粒度指的是这些条目的细节还不清楚，团队有可能没有达成共识。粗粒度一般是接下来2-3个迭代要做的条目，并且会在[产品列表梳理会](http://bobjiang.com/scrum/scrum-introduction/scrum_product_backlog_refinement.html)上，对粗粒度的条目进行拆分、澄清，从而有可能变成细粒度的条目。
+粗粒度指的是这些条目的细节还不清楚，团队有可能没有达成共识。粗粒度一般是接下来2-3个迭代要做的条目，并且会在[产品列表梳理会](https://bobjiang.com/scrum/scrum-introduction/scrum_product_backlog_refinement.html)上，对粗粒度的条目进行拆分、澄清，从而有可能变成细粒度的条目。
 
 ### 下一版本
 

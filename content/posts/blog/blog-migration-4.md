@@ -57,7 +57,7 @@ hugo和主题都准备好后，目录结构如下：
 
 github上需要创建一个新的仓库 （假设你已经有了github账号）。然后把本地的博客目录中，除了 `public/` 目录的内容推送到代码仓库中。
 
-1. 访问 [github](http://githug.com/)，登录（注册）账号
+1. 访问 [github](https://githug.com/)，登录（注册）账号
 2. 新建一个仓库，如下图，点击 `New Repository`
 
 ![new github repository](/images/github-new-repository.png)
@@ -234,7 +234,7 @@ jobs:
 
 经过本次梳理后，写博客完全是本地操作且可以本地调试。
 写博客在 hugo 项目的 content 目录内写 markdown 文件
-调试可以用 hugo server 本地访问 http://localhost:1313/
+调试可以用 hugo server 本地访问 https://localhost:1313/
 
 效果满意后，可以把 content 目录内的改动 推送到 github 仓库
 后面就是自动化准备环境编译、部署（github action）到谷歌云存储。

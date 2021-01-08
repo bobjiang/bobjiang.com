@@ -5,7 +5,7 @@ date: "2014-01-13"
 
 [![retrospective-infoq](/wp-content/uploads/2013/12/retrospective-infoq.jpg)](/wp-content/uploads/2013/12/retrospective-infoq.jpg)
 
-_译者注：回顾会议是敏捷的核心，在[敏捷原则](http://agilemanifesto.org/iso/zhchs/principles.html)最后一条中提到“团队定期地反思如何能提高成效，并依此调整自身的举止表现。” 对于团队如此，个人何尝不是呢。作为一个上进的人，需要时刻反思如何改进自己，调整自己的行为，向着自己的目标前进_。
+_译者注：回顾会议是敏捷的核心，在[敏捷原则](https://agilemanifesto.org/iso/zhchs/principles.html)最后一条中提到“团队定期地反思如何能提高成效，并依此调整自身的举止表现。” 对于团队如此，个人何尝不是呢。作为一个上进的人，需要时刻反思如何改进自己，调整自己的行为，向着自己的目标前进_。
 
 回顾会议变得很无聊，或者只产生几点改进意见、做的好的地方，这是很普遍的。下面介绍一个对我的团队很有效的方法。这个方法不是说比其他方法更好。只是为回顾会议提供一个新的尝试。
 
@@ -29,4 +29,4 @@ _译者注：回顾会议是敏捷的核心，在[敏捷原则](http://agilemani
 - 一开始，要告诉每个人我们的目的是什么。比如，在回顾会议之前，每人必须提出至少一个正面和负面的意见。这好像有点强迫，但这样可以告诉团队如何形成习惯。
 - 树立榜样。一旦你发现团队中有好的或不好的地方，立刻在墙上贴一个便签。发现了问题之后，马上贴上去，这很重要。
 
-http://www.scrumalliance.org/community/articles/2014/january/retrospective-wall-board
+https://www.scrumalliance.org/community/articles/2014/january/retrospective-wall-board

@@ -8,7 +8,7 @@ url: /product_backlog_user_story/
 
 [![user_story](/wp-content/uploads/2013/11/user_story.jpg)](/wp-content/uploads/2013/11/user_story.jpg)
 
-首先在[Mike Cohn](http://www.mountaingoatsoftware.com/)《Succeeding with Agile》中提到，关于产品Backlog的DEEP原则
+首先在[Mike Cohn](https://www.mountaingoatsoftware.com/)《Succeeding with Agile》中提到，关于产品Backlog的DEEP原则
 
 - 详略得当（Detailed Appropriately）
 
@@ -78,4 +78,4 @@ _可测试_的故事指的是一种非此即彼的方式—相关联的测试要
 
  
 
-补充一个“[用户故事的ODDE与5C](http://bobjiang.com/agile-coach/user_story_odde_5c.html)”
+补充一个“[用户故事的ODDE与5C](https://bobjiang.com/agile-coach/user_story_odde_5c.html)”

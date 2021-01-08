@@ -18,7 +18,7 @@ Gitcoin is aiming to become the most community friendly open source project on t
 ## Why I choose this Ambassador
 I start to notice Gitcoin from March 2018, and am inspired not only by the mission, to build a community for developers to collaborate and monetize their skills during open source projects, but also by the spirit #givefirst from the main founder -- Kevin Owocki. 
 
-I am a Certified Scrum Trainer, aka Scrum envangerlist in the world from [ScrumAlliance](http://scrumalliance.org), and I love to help others (including people and organization) to find a better way for work and life. 
+I am a Certified Scrum Trainer, aka Scrum envangerlist in the world from [ScrumAlliance](https://scrumalliance.org), and I love to help others (including people and organization) to find a better way for work and life. 
 
 So I decided to join Gitcoin Ambassador program to help developers from open source project, to make a better world.
 

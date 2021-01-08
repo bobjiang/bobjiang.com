@@ -61,4 +61,4 @@ url: /scrummaster-and-coaching-part3/
 
 * * *
 
-原文链接：http://www.se-thoughtograph.blogspot.in/2012/10/the-power-of-inquiry-coaching-tips-for\_30.html
+原文链接：https://www.se-thoughtograph.blogspot.in/2012/10/the-power-of-inquiry-coaching-tips-for\_30.html

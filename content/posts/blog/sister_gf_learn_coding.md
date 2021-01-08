@@ -5,7 +5,7 @@ URL: /learn-coding-little-sister/
 tags: [女朋友, 学编程]
 ---
 
-English original：[How my sister n my girlfriend learned to code](http://blog.songz.me/how-my-sister-and-girlfriend-learned-coding-in-2-months/)，翻译：Ekaterina@yeeyan
+English original：[How my sister n my girlfriend learned to code](https://blog.songz.me/how-my-sister-and-girlfriend-learned-coding-in-2-months/)，翻译：Ekaterina@yeeyan
 
 就像我在上一篇博文中提到的，Eva和Fong（译者注：根据博主的上一篇博文，Eva是博主的姐姐，Fong是博主的妹子）来到旧金山跟我学编程。在这篇博文中，我将记录下我教她们的方式，我构建这种学习过程的理由，以及这种学习方式奏效的原因。虽然以时间顺序列出她们在这段时间做的或学习的每一件事再容易不过，但是这毫无用处，而且读者们也会遗漏重点。了解学习过程中的细节并且明白它起作用的原因至关重要。所以我会从基本原则开始讲。本文较长，请做好准备。
 

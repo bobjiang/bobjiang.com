@@ -20,13 +20,13 @@ date: "2017-01-25"
 
 \----------------------------------------
 
-2017年6月3日在越南岘港举办敏捷之旅全球大会，本次大会将会聚集全球各地2016敏捷之旅最佳话题。详情参考：[http://conference.agile-world.com/](http://conference.agile-world.com/)
+2017年6月3日在越南岘港举办敏捷之旅全球大会，本次大会将会聚集全球各地2016敏捷之旅最佳话题。详情参考：[https://conference.agile-world.com/](https://conference.agile-world.com/)
 
 社区
 
 \----------------------------------------
 
-2017年Agile1001（敏捷一千零一夜）有更多的玩法。想要加入我们，可以点击链接查看2017的课程内容。[www.hdb.com/party/fcopb.html](http://www.hdb.com/party/fcopb.html)
+2017年Agile1001（敏捷一千零一夜）有更多的玩法。想要加入我们，可以点击链接查看2017的课程内容。[www.hdb.com/party/fcopb.html](https://www.hdb.com/party/fcopb.html)
 
 2月份Agile1001的活动如下：
 
@@ -62,13 +62,13 @@ Execute 执行 - 让做重要的事情变成习惯，很容易的执行。
 
 \----------------------------------------
 
-2017年2月16日17日 成都 [http://yihuode.io/activities/404](http://yihuode.io/activities/404)
+2017年2月16日17日 成都 [https://yihuode.io/activities/404](https://yihuode.io/activities/404)
 
-2017年3月23日24日 北京 [http://yihuode.io/activities/419](http://yihuode.io/activities/419)
+2017年3月23日24日 北京 [https://yihuode.io/activities/419](https://yihuode.io/activities/419)
 
-2017年4月20日21日 深圳 [http://yihuode.io/activities/436](http://yihuode.io/activities/436)
+2017年4月20日21日 深圳 [https://yihuode.io/activities/436](https://yihuode.io/activities/436)
 
-2017年5月25日26日 北京 [http://yihuode.io/activities/420](http://yihuode.io/activities/420)
+2017年5月25日26日 北京 [https://yihuode.io/activities/420](https://yihuode.io/activities/420)
 
 关于我
 
@@ -86,7 +86,7 @@ Certified LeSS Practitioner，《Scrum精髓》的译者
 
 Agile1001 (敏捷一千零一夜)联合创始人
 
-我的博客 [http://www.bobjiang.com](http://www.bobjiang.com/)
+我的博客 [https://www.bobjiang.com](https://www.bobjiang.com/)
 
 邮件： [bob@bobjiang.com](mailto:bob@bobjiang.com)
 

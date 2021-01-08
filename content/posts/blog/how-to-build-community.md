@@ -58,7 +58,7 @@ tags: [community, 社区建设]
 我亲身经历的社区有：
 
 - [敏捷社区](https://github.com/agiletour-china)
-- [HiBlock区块链技术社区](http://hiblock.net)
+- [HiBlock区块链技术社区](https://hiblock.net)
 
 那么社区从本质上来讲，就像一个集市，人群来来往往。有需求的人自然会选择加入，强烈需求就可能会加入组织者，一起贡献力量。作为发起人，更多需要考虑的是如何组织好社区。
 
@@ -78,7 +78,7 @@ tags: [community, 社区建设]
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
 - 敏捷一千零一夜社区合伙人  
 - 《Scrum精髓》译者
-- [Bob的博客](http://www.bobjiang.com)
+- [Bob的博客](https://www.bobjiang.com)
 - Github: bobjiang
 - Twitter: @bobjiang123
 - [Solidity中文文档](https://solidity-cn.readthedocs.io/zh/develop/)

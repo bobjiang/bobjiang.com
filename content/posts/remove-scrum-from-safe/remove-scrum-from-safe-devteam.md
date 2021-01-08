@@ -34,8 +34,8 @@ tags: [SAFe, Scrum, scrum guide, scrum master]
 
 这是一种Scrum反模式，因此开发团队缺乏决策自主权。这通常导致对整体结果缺乏责任感（自主性）。最后，它带来了仅仅对于编码和测试的狭隘关注，并导致缺乏团队合作和实现业务目标的动力。
 
-[本文链接](http://remove-scrum-from-safe.tilda.ws/DevTeam)
+[本文链接](https://remove-scrum-from-safe.tilda.ws/DevTeam)
 
 本文翻译自如下网站，如果译文和原稿有任何差异，请参考原文。
 in case of any discrepancies between the translation and the original, the original version should be considered as the correct one
-[Remove References To Scrum From SAFe!原文链接](http://remove-scrum-from-safe.tilda.ws/)
+[Remove References To Scrum From SAFe!原文链接](https://remove-scrum-from-safe.tilda.ws/)

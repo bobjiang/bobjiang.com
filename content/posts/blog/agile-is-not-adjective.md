@@ -21,7 +21,7 @@ date: "2017-03-21"
 
 其次敏捷是一个动词。作为动词，敏捷的含义让我们感觉是快。这里往往有误解，认为敏捷就是效率高、速度快！
 
-敏捷不是速度快！！！请参考我之前的博文《[敏捷不是快](http://bobjiang.com/agile-is-not-quick/)》
+敏捷不是速度快！！！请参考我之前的博文《[敏捷不是快](https://bobjiang.com/agile-is-not-quick/)》
 
 另外我对敏捷的定义是“一个持续学习的过程”。在这个定义中，也没有任何一个字眼说敏捷就是速度快、效率高！
 
@@ -29,8 +29,8 @@ date: "2017-03-21"
 
 最后广告时间 -- CSM敏捷认证课程
 
-[2017年4月16日-17日 上海](http://yihuode.io/activities/444)
+[2017年4月16日-17日 上海](https://yihuode.io/activities/444)
 
-[2017年4月24日-25日 深圳](http://yihuode.io/activities/436)
+[2017年4月24日-25日 深圳](https://yihuode.io/activities/436)
 
-[2017年5月25日-26日 北京](http://yihuode.io/activities/419)
+[2017年5月25日-26日 北京](https://yihuode.io/activities/419)

@@ -107,6 +107,6 @@ date: "2013-09-25"
 
 **第六章**： 目的：超越自身的渴望 目的驱动的3大领域：目标，誓言，政策
 
-[驱动力的动画解释](http://www.youtube.com/watch?feature=player_embedded&v=u6XAPnuFjJc)（来自丹尼尔平克的博客）
+[驱动力的动画解释](https://www.youtube.com/watch?feature=player_embedded&v=u6XAPnuFjJc)（来自丹尼尔平克的博客）
 
-[购买本书](http://www.amazon.cn/%E9%A9%B1%E5%8A%A8%E5%8A%9B-%E4%B8%B9%E5%B0%BC%E5%B0%94%E2%80%A2%E5%B9%B3%E5%85%8B/dp/B007EHJ6WA/ref=sr_1_1?ie=UTF8&qid=1380167180&sr=8-1&keywords=%E9%A9%B1%E5%8A%A8%E5%8A%9B)
+[购买本书](https://www.amazon.cn/%E9%A9%B1%E5%8A%A8%E5%8A%9B-%E4%B8%B9%E5%B0%BC%E5%B0%94%E2%80%A2%E5%B9%B3%E5%85%8B/dp/B007EHJ6WA/ref=sr_1_1?ie=UTF8&qid=1380167180&sr=8-1&keywords=%E9%A9%B1%E5%8A%A8%E5%8A%9B)

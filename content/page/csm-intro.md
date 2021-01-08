@@ -141,7 +141,7 @@ Scrum会议包含：Sprint计划会、每日站会、Sprint评审会、Sprint回
 15年以上的软件开发和项目管理经验，多年不同行业的敏捷转型培训与辅导的经验（传统通讯行业、电商行业、保险行业、银行等）。曾经服务过的客户有京东、爱立信、北电网络、亚信、GE医疗、HP、诺基亚、爱立信、中国移动研究院、京东、海尔、徽商银行、花旗银行等
 
 中国敏捷社区的守望者，从2011年起组织参与了敏捷之旅、ScrumGathering、敏捷中国、MSUP等大会
-博客 http://bobjiang.com 
+博客 https://bobjiang.com 
 
 敏捷变革中心 CAT（Center for Agile Transformation）  
 

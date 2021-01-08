@@ -22,7 +22,7 @@ Agiletour（以下称为敏捷之旅）是一个国际非盈利性组织，于20
 
 ## 英文官方网站
 
-- [敏捷之旅英文官方网站](http://at2020.agiletour.org/)
+- [敏捷之旅英文官方网站](https://at2020.agiletour.org/)
 
 ## 招募
 

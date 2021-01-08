@@ -55,4 +55,4 @@ tags: [ball point game]
 
 * * *
 
-参考链接：[QCon Beijing 2013 敏捷嘉年华](http://www.qconbeijing.com/news.php?id=1)
+参考链接：[QCon Beijing 2013 敏捷嘉年华](https://www.qconbeijing.com/news.php?id=1)

@@ -24,12 +24,12 @@ Gitcoin第八轮支持活动
 
 正是这种认识使我们决定在Gitcoin Grants第8轮中尝试一些独特的事情（毕竟这是一个幸运的数字）。使人们团结在一起，共同学习并维护公共物品。
 
-因此，我们很高兴宣布[Gitcoin Grants Round 8（GR8）Hackathon](http://gitcoin.co/hackathon/gr8)，以及我们最大的配对资金池，其中有超过50万美元来自我们的新资助者联盟资助的6个类别。我们希望随着牛市的回归，我们可以使开源创作者获得最高100万美元的资金，并吸引更多的二次自由职业者。
+因此，我们很高兴宣布[Gitcoin Grants Round 8（GR8）Hackathon](https://gitcoin.co/hackathon/gr8)，以及我们最大的配对资金池，其中有超过50万美元来自我们的新资助者联盟资助的6个类别。我们希望随着牛市的回归，我们可以使开源创作者获得最高100万美元的资金，并吸引更多的二次自由职业者。
 
 如果您有兴趣参加此活动，则需要以下所有链接：
 
--   [创建一个Grant](http://gitcoin.co/grants/new)。您要在Web 3中进行构建吗？您的工作很有价值。资助+加入社区！ 
--   [注册到Hack](http://gitcoin.co/hackathon/gr8)：使用1inch，Balancer，Ceramic，Gnosis，Keep，Panvala，Nexus Mutual和其他10个版本进行构建 
+-   [创建一个Grant](https://gitcoin.co/grants/new)。您要在Web 3中进行构建吗？您的工作很有价值。资助+加入社区！ 
+-   [注册到Hack](https://gitcoin.co/hackathon/gr8)：使用1inch，Balancer，Ceramic，Gnosis，Keep，Panvala，Nexus Mutual和其他10个版本进行构建 
 -   [加入我们（虚拟）庆祝Web 3](https://www.airmeet.com/e/48458de0-247a-11eb-928f-8f3ac926165c)。在2周内始终开放的GR8 Airmeet中进行20多次活动
 
 如果您不确定要做什么，或者只是想与我们[discord](https://discord.gg/T3gmxVj2)，请加入[Gitcoin的全新Discord](https://discord.gg/T3gmxVj2)，在此回合中，受赠者，贡献者和黑客将在这里闲逛！  
@@ -131,7 +131,7 @@ GR8黑客马拉松
 公共物品好 ![](https://lh5.googleusercontent.com/DRBgyAZ_UJzHlg0mOduWWfVzV0uOOFx26MNu4fjpwmByUNaNXfAoZ2_JXGH8Q2xCuBGpmvZb70-NOU-TiNsCcRaOjmjvJDlQT4N9cHfG8WnBWfuYEkNxZA_dqlxh5AeCG4B1fecb)
 =====================================================================================================================================================================================
 
-我们也要特别感谢[Funders](http://1kx.network/) League，特别是我们的一些最新成员：[1kx](http://1kx.network/)，[1inch](http://1inch.exchange/)，[Badge Finance](https://badger.finance/)，[Binance](https://binancex.dev/)和[Harvest Finance](http://harvest.finance/)，它们使我们成为十几个主要支持者。
+我们也要特别感谢[Funders](https://1kx.network/) League，特别是我们的一些最新成员：[1kx](https://1kx.network/)，[1inch](https://1inch.exchange/)，[Badge Finance](https://badger.finance/)，[Binance](https://binancex.dev/)和[Harvest Finance](https://harvest.finance/)，它们使我们成为十几个主要支持者。
 
 这是完整的Funders League成员列表（按加入日期）：
 

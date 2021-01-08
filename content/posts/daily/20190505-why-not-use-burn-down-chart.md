@@ -34,7 +34,7 @@ Scrum指南尝试只保留最重要最基本的核心元素。那么燃尽图的
 
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
-- [Bob的博客](http://www.bobjiang.com)、《Scrum精髓》译者
+- [Bob的博客](https://www.bobjiang.com)、《Scrum精髓》译者
 - 欢迎加入`自由职业者俱乐部` 微信群，请加微信：
 - hiblocknet  ； 添加微信后，发送消息 `dream`
 

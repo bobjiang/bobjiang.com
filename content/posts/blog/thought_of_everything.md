@@ -20,4 +20,4 @@ URL: /thought-of-everything/
 
 完全确定性是不可能的。应该避免寻求或者期待完美的确定性。
 
-# 这段翻译自Mike Cohn的博客，[英文版请点击](http://www.mountaingoatsoftware.com/blog/how-to-be-sure-youve-thought-of-everything)
+# 这段翻译自Mike Cohn的博客，[英文版请点击](https://www.mountaingoatsoftware.com/blog/how-to-be-sure-youve-thought-of-everything)

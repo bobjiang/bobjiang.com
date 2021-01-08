@@ -18,7 +18,7 @@ URL: /scrum-with-passion-presenting/
 
 十月在迈阿密我们给当地的敏捷讲师带来一场精彩的高绩效团队的大会。在筛选过程中，我们确保按照如下推荐清单进行选择。（SPR，简单，有力，相关性）
 
-11月13日，我有机会参加了Ryan Avery的“如何成为一个伟大的演讲者”，这是他在北京之旅的一部分。([www.howtobeaspeaker.com](http://www.howtobeaspeaker.com/))并且我记录了一些笔记。这些是下次我会给Scrum听众分享的内容：
+11月13日，我有机会参加了Ryan Avery的“如何成为一个伟大的演讲者”，这是他在北京之旅的一部分。([www.howtobeaspeaker.com](https://www.howtobeaspeaker.com/))并且我记录了一些笔记。这些是下次我会给Scrum听众分享的内容：
 
 ### 演讲应该是简单，有力和相关的。
 
@@ -40,13 +40,13 @@ URL: /scrum-with-passion-presenting/
 - 不要把它当做演讲，而是来自心底的信息。
 - 自信地演讲。用主动语态而非被动。
 
-让我们看一下Simon Sinek的演讲[http://www.ted.com/talks/simon\_sinek\_how\_great\_leaders\_inspire\_action.html](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action.html). 研究一下这个黄金环的概念：有3个问题：_why_, _how_, and _what_. 大多数人以_what_开始，接着是_how_ 最后是 _why_. 成功人士反之，从_why 开始，_接着是_how_ 和 _what._
+让我们看一下Simon Sinek的演讲[https://www.ted.com/talks/simon\_sinek\_how\_great\_leaders\_inspire\_action.html](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action.html). 研究一下这个黄金环的概念：有3个问题：_why_, _how_, and _what_. 大多数人以_what_开始，接着是_how_ 最后是 _why_. 成功人士反之，从_why 开始，_接着是_how_ 和 _what._
 
-![rrimage1.jpg](http://www.scrumalliance.org/getattachment/Community/Articles/Newly-Submitted/Presenting-Scrum-with-Passion-(1)/rrimage1.jpg.aspx "rrimage1.jpg")
+![rrimage1.jpg](https://www.scrumalliance.org/getattachment/Community/Articles/Newly-Submitted/Presenting-Scrum-with-Passion-(1)/rrimage1.jpg.aspx "rrimage1.jpg")
 
 Ryan用了一个简单的图，来说明不同焦点的方法。成功人士关注一个具体的要点（三角形的顶点），接着展开从而达到要点。
 
-![rrimage2.jpg](http://www.scrumalliance.org/getattachment/Community/Articles/Newly-Submitted/Presenting-Scrum-with-Passion-(1)/rrimage2.jpg.aspx "rrimage2.jpg")
+![rrimage2.jpg](https://www.scrumalliance.org/getattachment/Community/Articles/Newly-Submitted/Presenting-Scrum-with-Passion-(1)/rrimage2.jpg.aspx "rrimage2.jpg")
 
 以我在迈阿密会议的为例（why为导向，开始的话）：
 

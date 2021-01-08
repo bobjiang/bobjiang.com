@@ -67,9 +67,9 @@ Sprint Backlog - 由Sprint中承诺的故事和相应的任务组成。在Sprint
 
 产品增量 - 每个Sprint结束的时候，团队可以交付的产品增量。这应该是潜在可发布的，指的是产品质量达到发布的标准。是否发布由产品负责人做最后的决定。
 
-\[1\] 敏捷宣言 - http://agilemanifesto.org
+\[1\] 敏捷宣言 - https://agilemanifesto.org
 
-\[2\] Scrum价值观 - http://scrumalliance.org
+\[2\] Scrum价值观 - https://scrumalliance.org
 
 Scrum入门基础系列：
 

@@ -15,10 +15,10 @@ As the figure above, it occurs during sprint for product backlog refinement meet
 
 There are 4 types of activities during refinement as illustrated in above figure.
 
-1. Add a Product Backlog Item (PBI) - a new PBI could emerge during sprint, then team should add it into Product Backlog (PB). By the way, for this new PBI, it should follow [INVEST rule](http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/).
+1. Add a Product Backlog Item (PBI) - a new PBI could emerge during sprint, then team should add it into Product Backlog (PB). By the way, for this new PBI, it should follow [INVEST rule](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/).
 2. Delete a PBI - if market changes, perhaps one PBI is required to remove because it cannot meet users' needs.
 3. Modify or update a PBI, another 4 kinds of behaviours:
-    - Split a large user story or epic into some small user stories. Please refer to [split user story methods](http://www.agileforall.com/2012/01/new-story-splitting-resource/) by Richard Lawrence.
+    - Split a large user story or epic into some small user stories. Please refer to [split user story methods](https://www.agileforall.com/2012/01/new-story-splitting-resource/) by Richard Lawrence.
     - Re-order the PBIs according to new market chance.
     - Re-estimate new PBI or new splitted small PBIs
     - Update acceptance criteria

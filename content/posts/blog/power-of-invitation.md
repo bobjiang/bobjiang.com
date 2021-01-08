@@ -93,4 +93,4 @@ tags: [敏捷转型]
 
 译者：年志君  
 审校：Bob Jiang  
-[英文原文](http://agilitrix.com/2018/12/how-to-overcome-resistance-in-your-agile-transformation-the-power-of-invitation/)
+[英文原文](https://agilitrix.com/2018/12/how-to-overcome-resistance-in-your-agile-transformation-the-power-of-invitation/)

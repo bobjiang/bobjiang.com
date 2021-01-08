@@ -27,4 +27,4 @@ date: "2014-12-16"
 
     如果您还在用老的方式在创业、创新，寄希望有一个“好”点子砸到你的头上，然后一举成功，那你还没有开始就已经Out了。意启致力于帮助传统行业的创业团队利用颠覆性方法和流程加速孵化。目前意启正在帮助甜甜圈和会把奶牛帮两个传统行业的初创企业加速成长。同时，意启还学到的和体验到的总结并推出系列课程。意启目前关注的颠覆性方法和流程包括：Growth Hacking、病毒性传播、傆型(Pretotyping)、增长引擎、精益创业、引导技术、设计思维(Design Thinking)等。
 
-12月20日，我们不见不散：[报名地址](http://www.headin.cn/Themes/Activity/Details/?activityId=5466c604c3378ff3a4de7665)
+12月20日，我们不见不散：[报名地址](https://www.headin.cn/Themes/Activity/Details/?activityId=5466c604c3378ff3a4de7665)

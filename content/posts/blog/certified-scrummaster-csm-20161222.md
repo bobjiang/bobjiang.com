@@ -9,13 +9,13 @@ date: "2016-12-22"
 
 **最近的课程：**
 
-2017年1月12日13日 成都 [http://yihuode.io/activities/404](http://yihuode.io/activities/404)
+2017年1月12日13日 成都 [https://yihuode.io/activities/404](https://yihuode.io/activities/404)
 
-2017年3月23日24日 北京 [http://yihuode.io/activities/419](http://yihuode.io/activities/419)
+2017年3月23日24日 北京 [https://yihuode.io/activities/419](https://yihuode.io/activities/419)
 
-2017年5月25日26日 北京 [http://yihuode.io/activities/420](http://yihuode.io/activities/420)
+2017年5月25日26日 北京 [https://yihuode.io/activities/420](https://yihuode.io/activities/420)
 
-![](http://res.yihuode.io/FoxkV5HL1o5wgBuwsIGak_MAlnxc)
+![](https://res.yihuode.io/FoxkV5HL1o5wgBuwsIGak_MAlnxc)
 
 **价格**：早鸟价：6300元（3月13日前有效）；三人同行每人可享6000元；普通7000元；费用包含报名费、考试费，不含差旅住宿费。
 
@@ -23,7 +23,7 @@ date: "2016-12-22"
 
 **说明**：京东员工、敏捷社区志愿者有特别折扣，详情联系讲师（邮件或微信）
 
-![](http://res.yihuode.io/Fty7OW26L4wXneBrOHQqW33dbUV3)
+![](https://res.yihuode.io/Fty7OW26L4wXneBrOHQqW33dbUV3)
 
 ### 课程简介
 
@@ -72,13 +72,13 @@ date: "2016-12-22"
 
 Scrum作为敏捷软件开发的一种框架，很简单，但实现起来并不容易。本模块将会分析Scrum价值观，Scrum的基础以及Scrum的概述。
 
-![](http://res.yihuode.io/FllqlSLE80o3II-dUMXqc8RkLihC)
+![](https://res.yihuode.io/FllqlSLE80o3II-dUMXqc8RkLihC)
 
 #### 模块2：Scrum角色
 
 Scrum中包含3个角色：ScrumMaster，产品负责人和开发团队。为什么是这3个角色，为什么没有项目经理，一线经理负责什么。这些问题将会在本模块进行解读。
 
-![](http://res.yihuode.io/FnVjD39VI5v45XoRv14s7h7m3Hn6)
+![](https://res.yihuode.io/FnVjD39VI5v45XoRv14s7h7m3Hn6)
 
 ##### 2.1 开发团队
 
@@ -88,7 +88,7 @@ Scrum中的开发团队是自组织的、跨职能的团队，是小的团队，
 
 ScrumMaster是一个全新的角色，他不是项目经理。在Scrum团队中ScrumMaster常常看起来很“闲”，没什么事情做。这是一种错觉，也是一种误解。ScrumMaster可以作为教练，辅导团队Scrum转型；ScrumMaster也可以作为牧羊犬，保护团队不受外界干扰，可以在Sprint内专注于完成Sprint目标；ScrumMaster还可以作为引导师，使团队的会议变得更聚焦、更简单；ScrumMaster还是变革大师，不仅帮助自己团队Scrum转型，还要帮助组织进行转型。
 
-![](http://res.yihuode.io/FqPVxob8i1_kBLSJur5FnGWd9YbF)
+![](https://res.yihuode.io/FqPVxob8i1_kBLSJur5FnGWd9YbF)
 
 ##### 2.3 产品负责人
 
@@ -98,7 +98,7 @@ ScrumMaster是一个全新的角色，他不是项目经理。在Scrum团队中S
 
 产品列表是团队工作的输入，是至关重要的一环。好的产品列表是ODDE的。如何创建一个好的产品列表，如何拆分产品列表中的条目，都有哪些内容可以放在产品列表中，产品列表的一些常见臭味。以上这些话题将在这个模块中进行深入的探讨。
 
-![](http://res.yihuode.io/FmNKcrDgdH7m6jDDpZSRmMDxVsHW)
+![](https://res.yihuode.io/FmNKcrDgdH7m6jDDpZSRmMDxVsHW)
 
 #### 模块4：敏捷估算与规划
 
@@ -110,17 +110,17 @@ Scrum会议包含：Sprint计划会、每日站会、Sprint评审会、Sprint回
 
 ### 学员评价
 
-![](http://res.yihuode.io/FvPdNTprooPiRKnm-BBgFTMaCQ-c)![](http://res.yihuode.io/FlNdmyzBHncH2dRfoHKNKosn7qk8)
+![](https://res.yihuode.io/FvPdNTprooPiRKnm-BBgFTMaCQ-c)![](https://res.yihuode.io/FlNdmyzBHncH2dRfoHKNKosn7qk8)
 
 ### 课堂风采
 
-![](http://res.yihuode.io/FqXL_iI2q3b8J7zQ9aZjwDEpNiYd)![](http://res.yihuode.io/FuZBEu7hkJBjf23B9cQRMWVM8eoO)
+![](https://res.yihuode.io/FqXL_iI2q3b8J7zQ9aZjwDEpNiYd)![](https://res.yihuode.io/FuZBEu7hkJBjf23B9cQRMWVM8eoO)
 
 ### 其他问题
 
 可以给讲师写邮件（[bobjiang@bobjiang.com](mailto:bobjiang@bobjiang.com)） 或者加微信
 
-![](http://res.yihuode.io/FmYXhl_c0hY6FmnPeuhvc4fJlHeb)
+![](https://res.yihuode.io/FmYXhl_c0hY6FmnPeuhvc4fJlHeb)
 
 #### 付款信息
 
@@ -128,13 +128,13 @@ Scrum会议包含：Sprint计划会、每日站会、Sprint评审会、Sprint回
 
 #### 什么是CSM（Certified ScrumMaster）
 
-请点击[参考链接](http://bobjiang.com/what-is-csm/)
+请点击[参考链接](https://bobjiang.com/what-is-csm/)
 
 ### 讲师简介
 
 ## 姜信宝 Bob Jiang
 
-## ![](http://res.yihuode.io/Ftp29o4NVFnuKJSXK2j9WvVfyEQk)
+## ![](https://res.yihuode.io/Ftp29o4NVFnuKJSXK2j9WvVfyEQk)
 
 中国北方第一位CST（Certified Scrum Trainer）
 
@@ -146,6 +146,6 @@ Certified LeSS Practitioner，《Scrum精髓》译者
 
 中国敏捷社区的守望者，从2011年起组织参与了敏捷之旅、ScrumGathering、敏捷中国、MSUP等大会
 
-敏捷一千零一夜Agile1001（http://agile1001.org）的联合发起人
+敏捷一千零一夜Agile1001（https://agile1001.org）的联合发起人
 
-博客 [http://bobjiang.com](http://bobjiang.com/)
+博客 [https://bobjiang.com](https://bobjiang.com/)

@@ -54,7 +54,7 @@ Bob在开车，直行道前进中。这时Bob'在右侧强行加塞。
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
 - 敏捷一千零一夜社区合伙人  
 - 《Scrum精髓》译者
-- [Bob的博客](http://www.bobjiang.com)
+- [Bob的博客](https://www.bobjiang.com)
 - Github: bobjiang
 - Twitter: @bobjiang123
 - [Solidity中文文档](https://solidity-cn.readthedocs.io/zh/develop/)

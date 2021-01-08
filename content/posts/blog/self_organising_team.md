@@ -6,13 +6,13 @@ URL: /why-we-need-self-organizing-team/
 tags: [自组织]
 ---
 
-作者 [Sigi Kaltenecker and Peter Hundermark](http://www.infoq.com/cn/author/Sigi-Kaltenecker-and-Peter-Hundermark) ，译者 **[曹知渊](http://www.infoq.com/cn/author/%E6%9B%B9%E7%9F%A5%E6%B8%8A)** 发布于 2014年9月19日 _|_ [1 讨论](http://www.infoq.com/cn/articles/why-need-self-organizing-teams?from=timeline&isappinstalled=0#theCommentsSection)
+作者 [Sigi Kaltenecker and Peter Hundermark](https://www.infoq.com/cn/author/Sigi-Kaltenecker-and-Peter-Hundermark) ，译者 **[曹知渊](https://www.infoq.com/cn/author/%E6%9B%B9%E7%9F%A5%E6%B8%8A)** 发布于 2014年9月19日 _|_ [1 讨论](https://www.infoq.com/cn/articles/why-need-self-organizing-teams?from=timeline&isappinstalled=0#theCommentsSection)
 
 **“最优秀的架构、需求和设计都出自自组织团队（self-organising）之手”**，敏捷宣言（Agile Manifesto）如是说。这提出了一系列问题：什么是自组织团队？为什么我们需要他们？自组织团队有什么不一样？有什么办法可以使这种团队模式脱颖而出？
 
 令人惊讶的是，关于自组织团队的定义以及如何高效地支撑他们的资料很少。组织发展咨询师Sigi Kaltenecker和敏捷教练Peter Hundermark正在编写一本小册子，名字叫《领导自组织团队》，这本书将由InfoQ于2014年年底出版。
 
-书中的一系列文章中将向读者阐述这个主题，本文是其中的第二篇。第一篇的题目是[《什么是自组织团队？》](http://www.infoq.com/articles/what-are-self-organising-teams)，本文的关注点是“为什么我们需要自组织团队？”，而第三篇和最后一篇文章的主题则是《如何领导自组织团队》。
+书中的一系列文章中将向读者阐述这个主题，本文是其中的第二篇。第一篇的题目是[《什么是自组织团队？》](https://www.infoq.com/articles/what-are-self-organising-teams)，本文的关注点是“为什么我们需要自组织团队？”，而第三篇和最后一篇文章的主题则是《如何领导自组织团队》。
 
 ## 为什么我们需要自组织团队？
 
@@ -42,7 +42,7 @@ tags: [自组织]
 
 根据当代的一些研究，比如德勤领先创新中心的变化指数（The Shift Index），五个雇员中只有一个会全身心投入工作，75%的雇员缺乏动力和激情，只有15%的团队才能完全展现他们的潜力。此外，越来越多的人患上“变革疲劳症”（译者注：对组织的不断调整表现出冷漠和消极），因为很多变革动议最终都无法达到预想的目的。通常这种动议得到的回应是，“千万别再搞了”，而不是成员的积极投入。虽然没有广泛的数据支持这一点，但是各种采样调研显示，60%到80%比例的项目都终结于此。
 
-![](http://infoqstatic.com/resource/articles/why-need-self-organizing-teams/zh/resources/0907051.png)
+![](https://infoqstatic.com/resource/articles/why-need-self-organizing-teams/zh/resources/0907051.png)
 
 这种令人沮丧的失败率有很多原因：缺乏透明性、同时实施太多的变革、变革推动者太弱势、缺乏反馈机制，最后但同样重要的是，太过沉湎于项目计划细节、预设的里程碑和明确的结果。不幸的是，我们身边的这些动荡，在无情地嘲弄着我们的那些计划和预测。正如Meg Wheatley试图唤醒我们的话：“我们不能再用旧世界的地图去征服新世界了。”
 
@@ -86,7 +86,7 @@ tags: [自组织]
 
 这样，在前一种已经固化的业务流程中，它的管理者必须自己一手设计出一个高绩效的团队。他必须有能力设定明确的目标，建立决策模式，调配资源。糟糕的是这种机械化模式所倡导的原则和价值观至今仍然大行其道。他们还是用旧学院式的实践原则领导着很多企业——甚至更糟，在大学中依然教授着这些理念。尽管我们身边不断出现新的挑战，传统的MBA仍被认为是担任经理人的关键资本。
 
-\_\_在业务管理中，应对当前的挑战真正需要的是哪些东西？\_\_Jeremy Hope和Robin Fraser是颇具影响力的机构——超越预算圆桌会议（Beyond Budgeting Round Table，参考[这里](http://wiki.mbalib.com/wiki/%E8%B6%85%E8%B6%8A%E9%A2%84%E7%AE%97%E5%9C%86%E6%A1%8C%E4%BC%9A%E8%AE%AE)）的创始人，他们说：“对于今天的大多数组织来说，决定它们是否能成功的因素已经变了，它们的策略也在改变中，但是它们的管理流程、领导风格和文化远远地落在后面。”
+\_\_在业务管理中，应对当前的挑战真正需要的是哪些东西？\_\_Jeremy Hope和Robin Fraser是颇具影响力的机构——超越预算圆桌会议（Beyond Budgeting Round Table，参考[这里](https://wiki.mbalib.com/wiki/%E8%B6%85%E8%B6%8A%E9%A2%84%E7%AE%97%E5%9C%86%E6%A1%8C%E4%BC%9A%E8%AE%AE)）的创始人，他们说：“对于今天的大多数组织来说，决定它们是否能成功的因素已经变了，它们的策略也在改变中，但是它们的管理流程、领导风格和文化远远地落在后面。”
 
 这引出了问题，面向未来的领导力模型应该是什么样子的？面对当前挑战需要哪些能力？为什么我们认为高效地领导一个自组织团队是二十一世纪成功的关键？支持而不是阻碍自组织团队，这需要什么样的价值观、技能和技术？在上个十年中，针对这些问题我们得到了很多答案。从各种现代著作，以及从我们自己的咨询经验中，我们看出了一些共同的观点：
 
@@ -125,8 +125,8 @@ tags: [自组织]
 ## 参考资料
 
 1. Ackoff, Russell L. (1986). Management in Small Doses. Wiley.
-2. Beyond Budgeting Round Table | [Beyond Budgeting Institute](http://www.bbrt.org/beyond-budgeting/beybud.html) (2013).
-3. Deloitte Center for the Edge | [The Shift Index](http://www.deloitte.com/view/en_US/us/About/Catalyst-for-Innovation/Center-for-the-Edge/the-shift-index/index.htm) (2013).
+2. Beyond Budgeting Round Table | [Beyond Budgeting Institute](https://www.bbrt.org/beyond-budgeting/beybud.html) (2013).
+3. Deloitte Center for the Edge | [The Shift Index](https://www.deloitte.com/view/en_US/us/About/Catalyst-for-Innovation/Center-for-the-Edge/the-shift-index/index.htm) (2013).
 4. Denning, Stephen (2010). The Leader´s Guide to Radical Management: Re-inventing the Workplace for the 21st Century. Jossey-Bass.
 5. Doppler, Klaus & Lauterburg, Christoph (9th Edition, 2000). Change Management: Den Unternehmenswandel gestalten. Campus Verlag. \[in German\].
 6. Drucker, Peter (2001). Management Challenges for the 21st Century. HarperBusiness.
@@ -137,8 +137,8 @@ tags: [自组织]
 
 ## 关于作者
 
-![](http://infoqstatic.com/resource/articles/why-need-self-organizing-teams/zh/resources/0907052.jpg)**Sigi Kaltenecker**是维也纳Loop Consultancy公司的联合总经理，他致力于帮助个人、集团和组织成功应对他们面临的专业挑战。他是一名经过认证的Scrum Master，Kanban培训专家以及[PAM](http://www.p-a-m.org/)的联合编辑。Sigi和他人合著的英文书“Kanban in IT: Creating a culture of continuous improvement”将会在2015年出版。你可以通过@sigikaltenecker来联系他。
+![](https://infoqstatic.com/resource/articles/why-need-self-organizing-teams/zh/resources/0907052.jpg)**Sigi Kaltenecker**是维也纳Loop Consultancy公司的联合总经理，他致力于帮助个人、集团和组织成功应对他们面临的专业挑战。他是一名经过认证的Scrum Master，Kanban培训专家以及[PAM](https://www.p-a-m.org/)的联合编辑。Sigi和他人合著的英文书“Kanban in IT: Creating a culture of continuous improvement”将会在2015年出版。你可以通过@sigikaltenecker来联系他。
 
-![](http://infoqstatic.com/resource/articles/why-need-self-organizing-teams/zh/resources/0907053.jpg)**Peter Hundermark**是一名经过认证的Scrum教练、培训师，同时还是[Scrum Sense](http://scrumsense.com/)Kanban教练。他专注于组织发展，变革管理和领导力培养，将敏捷带给各个行业。他是“Do Better Scrum”的作者。你可以通过@peterhundermark来联系他。
+![](https://infoqstatic.com/resource/articles/why-need-self-organizing-teams/zh/resources/0907053.jpg)**Peter Hundermark**是一名经过认证的Scrum教练、培训师，同时还是[Scrum Sense](https://scrumsense.com/)Kanban教练。他专注于组织发展，变革管理和领导力培养，将敏捷带给各个行业。他是“Do Better Scrum”的作者。你可以通过@peterhundermark来联系他。
 
-**查看参考原文：**[http://www.infoq.com/articles/why-need-self-organizing-teams](http://www.infoq.com/articles/why-need-self-organizing-teams)
+**查看参考原文：**[https://www.infoq.com/articles/why-need-self-organizing-teams](https://www.infoq.com/articles/why-need-self-organizing-teams)

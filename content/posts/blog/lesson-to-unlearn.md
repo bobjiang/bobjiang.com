@@ -107,5 +107,5 @@ tags: [格雷厄姆]
 
 这不仅是个人学习的一课，还是社会学习的一课，当我们这样做时，我们会为释放的能量感到惊讶。
 
-[原文链接](http://www.paulgraham.com/lesson.html)
+[原文链接](https://www.paulgraham.com/lesson.html)
 

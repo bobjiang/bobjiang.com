@@ -21,7 +21,7 @@ date: "2013-11-26"
 
 ### 提出什么行动计划？
 
-我们读过Jeff Sutherland的论文[http://jeffsutherland.com/ScrumMetricsHICSS2013BWSubmissionFinal.pdf](http://jeffsutherland.com/ScrumMetricsHICSS2013BWSubmissionFinal.pdf) 并且非常喜欢关于改变每日站会的提议。Jeff提议在每日站会上检查Sprint Backlog中每个故事的功能，而不是每个团队成员的。作为教练，我留意到这篇论文，或许团队有兴趣学习一下。事实上，团队很高兴有这个提议，于是团队落实了行动计划，以在下一个迭代来验证这个变化。
+我们读过Jeff Sutherland的论文[https://jeffsutherland.com/ScrumMetricsHICSS2013BWSubmissionFinal.pdf](https://jeffsutherland.com/ScrumMetricsHICSS2013BWSubmissionFinal.pdf) 并且非常喜欢关于改变每日站会的提议。Jeff提议在每日站会上检查Sprint Backlog中每个故事的功能，而不是每个团队成员的。作为教练，我留意到这篇论文，或许团队有兴趣学习一下。事实上，团队很高兴有这个提议，于是团队落实了行动计划，以在下一个迭代来验证这个变化。
 
 ### 这个改变是如何执行的？
 
@@ -53,9 +53,9 @@ date: "2013-11-26"
 - 团队B1有7个成员和1个ScrumMaster
 - 团队C1有4个成员和1个ScrumMaster
 
-根据上述数据，我们可以分析有多少人直接参与。总有有26个人：4个PO，18个团队成员和3个ScrumMasters。每个人的问题是：假定每日站会的这个改变，最符合下面哪条[Scrum价值](http://www.scrumalliance.org/why-scrum/core-scrum-values-roles)：_专注，勇气，或者承诺_？调查结果如下图：
+根据上述数据，我们可以分析有多少人直接参与。总有有26个人：4个PO，18个团队成员和3个ScrumMasters。每个人的问题是：假定每日站会的这个改变，最符合下面哪条[Scrum价值](https://www.scrumalliance.org/why-scrum/core-scrum-values-roles)：_专注，勇气，或者承诺_？调查结果如下图：
 
-![ledesma-chart.jpg](http://www.scrumalliance.org/getattachment/f03b50bd-a7ab-4c24-8102-1709e0472aa1/ledesma-chart.jpg.aspx "ledesma-chart.jpg")
+![ledesma-chart.jpg](https://www.scrumalliance.org/getattachment/f03b50bd-a7ab-4c24-8102-1709e0472aa1/ledesma-chart.jpg.aspx "ledesma-chart.jpg")
 
 ### 我的反思
 
@@ -63,4 +63,4 @@ date: "2013-11-26"
 
 尝试改变，观察结果，从结果中获得认知，再次改变！如果有些事搞砸了，尽早的失败比以后的失败要更重要！
 
-原文链接：[http://www.scrumalliance.org/community/articles/2013/november/change-your-daily-scrum-meeting](http://www.scrumalliance.org/community/articles/2013/november/change-your-daily-scrum-meeting)
+原文链接：[https://www.scrumalliance.org/community/articles/2013/november/change-your-daily-scrum-meeting](https://www.scrumalliance.org/community/articles/2013/november/change-your-daily-scrum-meeting)

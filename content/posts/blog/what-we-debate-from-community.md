@@ -10,7 +10,7 @@ tags: []
 
 ## 面向对象类图设计
 
-![](http://upload-images.jianshu.io/upload_images/1622292-d5ebd2d8f961d502.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/1622292-d5ebd2d8f961d502.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 类图设计
 
@@ -71,6 +71,6 @@ tags: []
 - 引用原概念，然后发表自己的观点
 - 创建新概念，在原概念启发后可以有自己的知识体系
 
-比如敏捷已经有[敏捷宣言](http://www.jianshu.com/p/agilemanifesto.org)，那么我不会去修改敏捷宣言。而有可能创建新的[宝宝说](http://www.jianshu.com/p/baobaotalk.com)。
+比如敏捷已经有[敏捷宣言](https://www.jianshu.com/p/agilemanifesto.org)，那么我不会去修改敏捷宣言。而有可能创建新的[宝宝说](https://www.jianshu.com/p/baobaotalk.com)。
 
 对于今天的分享，您有不同观点？欢迎回复留言讨论。

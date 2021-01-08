@@ -3,7 +3,7 @@ title: "《Scrum精髓》试读版下载"
 date: "2016-10-20"
 ---
 
-[![essential_Scrum_cn](/wp-content/uploads/2014/12/essential_Scrum_cn.jpg)](http://bobjiang.com/essential_scrum_cn/)
+[![essential_Scrum_cn](/wp-content/uploads/2014/12/essential_Scrum_cn.jpg)](https://bobjiang.com/essential_scrum_cn/)
 
 **编辑推荐:**
 

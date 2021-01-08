@@ -5,7 +5,7 @@ date: "2013-08-27"
 
 整体印象：2012年目标完成的比较差，如下图：
 
-![](http://bobjiang.github.io/images/Bob-2012-perf.jpg)
+![](https://bobjiang.github.io/images/Bob-2012-perf.jpg)
 
 我的2012总结分为以下几个方面：
 

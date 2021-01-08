@@ -4,7 +4,7 @@ date: "2014-03-10"
 coverImage: "IMG_1910.jpg"
 ---
 
-刚刚过去的周日，即3月9日，王立杰老师和我一起办了一场[敏捷实战工作坊](http://agile1001.org/?p=43)。这里是一个学员的[总结](http://agile1001.org/?p=63)。回来后，我也在反思究竟什么样子的工作坊是大家想要的呢？
+刚刚过去的周日，即3月9日，王立杰老师和我一起办了一场[敏捷实战工作坊](https://agile1001.org/?p=43)。这里是一个学员的[总结](https://agile1001.org/?p=63)。回来后，我也在反思究竟什么样子的工作坊是大家想要的呢？
 
 我的观点是：有种、有趣、有料。（希望罗振宇同学不会告我侵权）
 
@@ -16,7 +16,7 @@ coverImage: "IMG_1910.jpg"
 
 相信大家在参加培训或工作坊的时候，不愿意听长篇大论或干巴巴的数据。我也深有同感。如果一个老师在开场5分钟内不讲一个故事，我基本会走神。接下来会睡觉看手机。所以真正好的工作坊需要时刻能抓住听众的注意力，而有趣则是关键。何为有趣呢？让我们来看看维基百科是如何定义有趣的。
 
-> **Fun** is the enjoyment of [pleasure](http://en.wikipedia.org/wiki/Pleasure "Pleasure"), particularly in [leisure](http://en.wikipedia.org/wiki/Leisure "Leisure") activities. Fun is an experience - short-term, often unexpected, informal, not cerebral and generally purposeless.
+> **Fun** is the enjoyment of [pleasure](https://en.wikipedia.org/wiki/Pleasure "Pleasure"), particularly in [leisure](https://en.wikipedia.org/wiki/Leisure "Leisure") activities. Fun is an experience - short-term, often unexpected, informal, not cerebral and generally purposeless.
 
 有趣是一种愉悦的享受，尤其是业余活动。有趣是一种体验——短暂的、通常是出乎意料的、不理智的或无目的的。
 

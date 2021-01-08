@@ -8,7 +8,7 @@ tags: [Scrum, Scrum指南]
 Scrum 官方权威指南
 ===========
 
-[收听有声版](http://xima.tv/w4r7H4) | [官网下载PDF](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Chinese-Simplified.pdf)
+[收听有声版](https://xima.tv/w4r7H4) | [官网下载PDF](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Chinese-Simplified.pdf)
 
 由Scrum创始人 Ken Schwaber 和 Jeff Sutherland 开发并维护
 

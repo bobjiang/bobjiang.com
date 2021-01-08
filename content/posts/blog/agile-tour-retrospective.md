@@ -3,7 +3,7 @@ title: "敏捷之旅志愿者回顾会议纪要"
 date: "2014-01-04"
 ---
 
-[![retrospective-infoq](/wp-content/uploads/2013/12/retrospective-infoq.jpg)](/wp-content/uploads/2013/12/retrospective-infoq.jpg) 本次回顾会议，采用的是焦点汇谈法（ORID），具体方法介绍[参考链接](http://bobjiang.com/2013/11/12/orid_agile_retrospective/)。
+[![retrospective-infoq](/wp-content/uploads/2013/12/retrospective-infoq.jpg)](/wp-content/uploads/2013/12/retrospective-infoq.jpg) 本次回顾会议，采用的是焦点汇谈法（ORID），具体方法介绍[参考链接](https://bobjiang.com/2013/11/12/orid_agile_retrospective/)。
 
 **下面是会议之前收到的一些反馈：**
 

@@ -65,4 +65,4 @@ Sailesh离开了会议室。Jim找我聊了一会儿。我们谈到两个选择�
 
 * * *
 
-原文链接 [http://se-thoughtograph.blogspot.in/2012/10/scrum-masters-and-coaching.html](http://se-thoughtograph.blogspot.in/2012/10/scrum-masters-and-coaching.html)
+原文链接 [https://se-thoughtograph.blogspot.in/2012/10/scrum-masters-and-coaching.html](https://se-thoughtograph.blogspot.in/2012/10/scrum-masters-and-coaching.html)

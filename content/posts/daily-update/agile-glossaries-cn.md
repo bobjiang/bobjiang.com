@@ -29,7 +29,7 @@ tags: [agile, glossary, scrum, kanban]
 经验式过程（Empirical Process）的三个支柱之一；适应是一种反馈，用来对正在开发的产品或产品开发过程进行调整。另外可以参阅“经验式过程”、“检视”和“透明”。
 
 ### Agile 敏捷 
-1. 敏捷宣言中表示的一组特定的加个管和原则。参见[敏捷宣言网站](http://agilemanifesto.org/)。
+1. 敏捷宣言中表示的一组特定的加个管和原则。参见[敏捷宣言网站](https://agilemanifesto.org/)。
 2. 泛指，用于指代一组相关的增量式迭代开发方法。Scrum是一种敏捷开发方法。另请参阅“极限编程”、“看板”和Scrum。
 
 ### Artifact 工件 

@@ -60,7 +60,7 @@
 	{{- if .IsHome }}
 	<script type="application/ld+json">
 		{
-		  "@context": "http://schema.org",
+		  "@context": "https://schema.org",
 		  "@type": "WebSite",
 		  "name": {{ .Site.Title }},
 		  "author": {
@@ -75,7 +75,7 @@
 	<script type="application/ld+json">
 		{{- if eq .Section "posts" -}}
 		{
-		  "@context": "http://schema.org",
+		  "@context": "https://schema.org",
 		  "@type": "BlogPosting",
 		  "headline": {{ .Title }},
 		  "genre": "{{ range .Params.categories }}{{ . }}{{ end }}",
@@ -102,7 +102,7 @@
 		}
 		{{- else }}
 		{
-		  "@context": "http://schema.org",
+		  "@context": "https://schema.org",
 		  "@type": "WebSite",
 		  "name": {{ .Title }},
 		  "author": {

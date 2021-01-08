@@ -18,7 +18,7 @@ date: "2016-12-29"
 
 \----------------------------------------
 
-[敏捷学习指南-带你从入门到深入](http://bobjiang.com/agile-coach-learning-path/)。11月我发表于CSDN极客头条的一篇文章，敏捷从入门到深入一条可能的路。
+[敏捷学习指南-带你从入门到深入](https://bobjiang.com/agile-coach-learning-path/)。11月我发表于CSDN极客头条的一篇文章，敏捷从入门到深入一条可能的路。
 
 社区
 
@@ -26,11 +26,11 @@ date: "2016-12-29"
 
 敏捷之旅陆续在国内多个城市举办，大部分都已经举行过了。
 
-敏捷之旅北京也在12月18日完美收官，2017年Agile1001（敏捷一千零一夜）有更多的玩法。想要加入我们，可以点击链接查看2017的课程内容。[www.hdb.com/party/fcopb.html](http://www.hdb.com/party/fcopb.html)
+敏捷之旅北京也在12月18日完美收官，2017年Agile1001（敏捷一千零一夜）有更多的玩法。想要加入我们，可以点击链接查看2017的课程内容。[www.hdb.com/party/fcopb.html](https://www.hdb.com/party/fcopb.html)
 
-2017年1月15日 在北京，一起体验视觉记录吧。[http://www.hdb.com/party/pze3b.html](http://www.hdb.com/party/pze3b.html)
+2017年1月15日 在北京，一起体验视觉记录吧。[https://www.hdb.com/party/pze3b.html](https://www.hdb.com/party/pze3b.html)
 
-2017年1月8日 在上海，设计思维体验工作坊。 [http://www.hdb.com/party/xor3b.html](http://www.hdb.com/party/xor3b.html)
+2017年1月8日 在上海，设计思维体验工作坊。 [https://www.hdb.com/party/xor3b.html](https://www.hdb.com/party/xor3b.html)
 
 荐书
 
@@ -62,11 +62,11 @@ date: "2016-12-29"
 
 \----------------------------------------
 
-2017年1月12日13日 成都 [http://yihuode.io/activities/404](http://yihuode.io/activities/404)
+2017年1月12日13日 成都 [https://yihuode.io/activities/404](https://yihuode.io/activities/404)
 
-2017年3月23日24日 北京 [http://yihuode.io/activities/419](http://yihuode.io/activities/419)
+2017年3月23日24日 北京 [https://yihuode.io/activities/419](https://yihuode.io/activities/419)
 
-2017年5月25日26日 北京 [http://yihuode.io/activities/420](http://yihuode.io/activities/420)
+2017年5月25日26日 北京 [https://yihuode.io/activities/420](https://yihuode.io/activities/420)
 
 关于我
 
@@ -84,7 +84,7 @@ Certified LeSS Practitioner，《Scrum精髓》的译者
 
 Agile1001 (敏捷一千零一夜)联合创始人
 
-我的博客 [http://www.bobjiang.com](http://www.bobjiang.com)
+我的博客 [https://www.bobjiang.com](https://www.bobjiang.com)
 
 邮件： [bob@bobjiang.com](mailto:bob@bobjiang.com)
 

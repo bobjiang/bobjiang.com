@@ -23,6 +23,6 @@ date: "2016-07-11"
 
 如果您有不同意见或想法，欢迎和我交流沟通。扫我加微信哦~
 
-[![bobjiang_wechat](/wp-content/uploads/2015/11/bobjiang_wechat.jpg)](http://bobjiang.com/index.php/2015/11/10/essential-scrum-gift/bobjiang_wechat/#main)
+[![bobjiang_wechat](/wp-content/uploads/2015/11/bobjiang_wechat.jpg)](https://bobjiang.com/index.php/2015/11/10/essential-scrum-gift/bobjiang_wechat/#main)
 
-8月4日-8月5日[Certified ScrumMaster (CSM中文认证课)](http://yihuode.io/activities/315)，如果感兴趣也可以和我联系。
+8月4日-8月5日[Certified ScrumMaster (CSM中文认证课)](https://yihuode.io/activities/315)，如果感兴趣也可以和我联系。

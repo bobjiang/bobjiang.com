@@ -11,7 +11,7 @@ URL: /agile-risk-management-activities/
 
 ## 敏捷是风险管理AGILE IS RISK MANAGEMENT
 
-我在写[Essential Scrum](http://www.innolution.com/essential-scrum)（译者注：此书已有中文版《[Scrum精髓](http://bobjiang.com/essential-scrum/)》）一书时，我不断地问自己，“风险管理需要单独一章吗？”实际上我给出版商最初的大纲里有风险总结的章节。 book, I kept asking myself, “Do I need a separate chapter for Risk Management?” In fact the original outline I gave my publisher identified a Risk Summary chapter.
+我在写[Essential Scrum](https://www.innolution.com/essential-scrum)（译者注：此书已有中文版《[Scrum精髓](https://bobjiang.com/essential-scrum/)》）一书时，我不断地问自己，“风险管理需要单独一章吗？”实际上我给出版商最初的大纲里有风险总结的章节。 book, I kept asking myself, “Do I need a separate chapter for Risk Management?” In fact the original outline I gave my publisher identified a Risk Summary chapter.
 
 最后，我决定拿掉风险的概念，这样敏捷的基础是有关风险、随机性、易变性和可变性的讨论，这些内容已经交织在其他章节。关于风险管理单独一章，即使是风险总结的章节，可能都会给出错误的信息——敏捷开发需要一套严格定义好的、文档驱动的和重量级风险管理流程，因为在传统项目管理流程中通常都有风险管理的定义。但敏捷中没有。In the end, I decided that the concept of dealing with risk is so fundamental to agile that the discussion of risk, randomness, volatility, variability, and uncertainty was already woven into the other chapters. It also became clear to me that a separate chapter on risk management, even just a summary chapter, might actually send the wrong message—the message that agile development requires a formally defined, document-driven, heavyweight risk management process as is typically defined in traditional project management circles. It doesn’t.
 
@@ -19,9 +19,9 @@ URL: /agile-risk-management-activities/
 
 我不是说在某些领域（如起搏器或其他救生设备）我们不用比其他领域（如创建简单的网站）更加关注识别风险和降低风险。我们应该关注的。然而，记住许多重要系统的风险可以通过正确应用敏捷原则内化的风险管理来解决。I’m not suggesting that in some domains (e.g., developing pace makers or other life saving devices) we shouldn’t put more of a focus on risk identification and mitigation than in other domains (e.g., creating simple websites). We should. However, keep in mind that many of the risks on mission-critical systems can be addressed using the risk management that is inherent in the proper application of agile principles.
 
-最近我做了一个名为敏捷是风险管理的演讲详细描述了这个话题（还有这个系列博客）。你可以从[这里下载演讲稿](http://www.innolution.com/resources/presentations/agile-is-risk-management-april-2014)。I recently delivered a presentation entitled Agile IS Risk Management that explores this topic in detail (as well as the material in the rest of this blog). You can [download that presentation here](http://www.innolution.com/resources/presentations/agile-is-risk-management-april-2014).
+最近我做了一个名为敏捷是风险管理的演讲详细描述了这个话题（还有这个系列博客）。你可以从[这里下载演讲稿](https://www.innolution.com/resources/presentations/agile-is-risk-management-april-2014)。I recently delivered a presentation entitled Agile IS Risk Management that explores this topic in detail (as well as the material in the rest of this blog). You can [download that presentation here](https://www.innolution.com/resources/presentations/agile-is-risk-management-april-2014).
 
-[![Agile IS Risk Management Thumbnail](http://www.innolution.com/uploads/presentations/agile-is-risk-management-thumbnail.jpg)](http://www.innolution.com/resources/presentations/agile-is-risk-management-april-2014)
+[![Agile IS Risk Management Thumbnail](https://www.innolution.com/uploads/presentations/agile-is-risk-management-thumbnail.jpg)](https://www.innolution.com/resources/presentations/agile-is-risk-management-april-2014)
 
 ## 敏捷风险管理的三个方法THREE APPROACHES TO AGILE RISK MANAGEMENT
 
@@ -33,6 +33,6 @@ URL: /agile-risk-management-activities/
 
 很好的讨论这三个方法对一篇博客来讲太长了，那么我会写一个系列博客来说明不确定性以及这三个方法。下一篇博客会定义不确定性的心智模型，这为其他话题的讨论提供了基础。Since a good discussion of all three approaches would be unreasonably long for a single blog posting, I will create a series of blog postings to address the topic of uncertainty and to detail these three approaches. The next blog in this series will define a mental model for uncertainty that will provide a foundation for discussing the other topics.
 
-英文链接：[Three Key Agile Risk Management Activities ](http://www.innolution.com/blog/three-key-agile-risk-management-activities)   
-原文作者：[Ken Rubin](http://innolution.com/about-us/kenneth-s.-rubin)   
+英文链接：[Three Key Agile Risk Management Activities ](https://www.innolution.com/blog/three-key-agile-risk-management-activities)   
+原文作者：[Ken Rubin](https://innolution.com/about-us/kenneth-s.-rubin)   
 译者：[姜信宝Bob Jiang](/me/)

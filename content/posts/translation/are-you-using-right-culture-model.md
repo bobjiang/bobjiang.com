@@ -10,7 +10,7 @@ tags: [culture, model]
 译者 | 陈旭，BoB
 授权出品 | 敏捷变革中心
 
-[阅读原文](http://agilitrix.com/2019/02/are-you-using-the-right-culture-model/)
+[阅读原文](https://agilitrix.com/2019/02/are-you-using-the-right-culture-model/)
 
 以下为译文：
 
@@ -66,12 +66,12 @@ Sahota文化模型[注5]通过识别塑造文化的内联元素提供对文化�
 
 # 原文链接
 
-- [如何让你的文化有效](http://agilitrix.com/2011/03/how-to-make-your-culture-work/)[注1]
+- [如何让你的文化有效](https://agilitrix.com/2011/03/how-to-make-your-culture-work/)[注1]
 - [竞争价值框架相比与施耐德模式的优势](https://trailridgeconsulting.com/blog/culture-model-schneider-cvf/)[注2]
-- [拉卢文化模式的解释](http://agilitrix.com/2015/01/laloux-culture-model/)[注3]
-- [如何改变您的组织文化](http://agilitrix.com/2018/07/change-organizational-culture/)[注4]
-- [Sahota文化模型](http://agilitrix.com/2016/04/culture-centre-organization/)[注5]
-- [如何在各种文化背景下成功敏捷](http://agilitrix.com/2018/09/how-to-be-successful-agile-any-culture-with-bubble/)[注6]
+- [拉卢文化模式的解释](https://agilitrix.com/2015/01/laloux-culture-model/)[注3]
+- [如何改变您的组织文化](https://agilitrix.com/2018/07/change-organizational-culture/)[注4]
+- [Sahota文化模型](https://agilitrix.com/2016/04/culture-centre-organization/)[注5]
+- [如何在各种文化背景下成功敏捷](https://agilitrix.com/2018/09/how-to-be-successful-agile-any-culture-with-bubble/)[注6]
 
 # 行动
 

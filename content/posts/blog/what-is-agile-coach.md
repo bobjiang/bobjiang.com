@@ -29,7 +29,7 @@ tags: []
 
 ## 什么是教练
 
-国际教练联盟（International Coach Federation) 定义教练：“ 专业教练作为一个长期伙伴，旨在帮助客户成为生活和事业上的赢家。教练帮助他们提升个人表现，提高生活质量。教练经过专业的[训练](http://baike.baidu.com/subview/863276/11138814.htm)，来聆听，观察，并按客户个人需求而定制Coaching方式。他们激发客户自身寻求解决办法和[对策](http://baike.baidu.com/view/204812.htm)的[能力](http://baike.baidu.com/subview/41286/8049822.htm)，因为他们相信客户是生来就富于创意与智慧的。教练的[职责](http://baike.baidu.com/view/66458.htm)是提供支持，以增强客户已有的技能，资源和[创造力](http://baike.baidu.com/subview/115802/5077896.htm)。”（摘自[百度百科](http://baike.baidu.com/item/%E6%95%99%E7%BB%83/5462026)）
+国际教练联盟（International Coach Federation) 定义教练：“ 专业教练作为一个长期伙伴，旨在帮助客户成为生活和事业上的赢家。教练帮助他们提升个人表现，提高生活质量。教练经过专业的[训练](https://baike.baidu.com/subview/863276/11138814.htm)，来聆听，观察，并按客户个人需求而定制Coaching方式。他们激发客户自身寻求解决办法和[对策](https://baike.baidu.com/view/204812.htm)的[能力](https://baike.baidu.com/subview/41286/8049822.htm)，因为他们相信客户是生来就富于创意与智慧的。教练的[职责](https://baike.baidu.com/view/66458.htm)是提供支持，以增强客户已有的技能，资源和[创造力](https://baike.baidu.com/subview/115802/5077896.htm)。”（摘自[百度百科](https://baike.baidu.com/item/%E6%95%99%E7%BB%83/5462026)）
 
 \------------------华丽丽的分割线------------------
 
@@ -53,7 +53,7 @@ tags: []
 
 \------------------华丽丽的分割线------------------
 
-熟悉Scrum的朋友应该知道有一个角色叫ScrumMaster，那么ScrumMaster和敏捷教练又有什么区别呢？（摘自[David Ko的博客](http://kojenchieh.pixnet.net/blog/post/423373439-%E6%95%8F%E6%8D%B7%E6%95%99%E7%B7%B4%E5%92%8C-scrum-master-%E6%9C%89%E4%BB%80%E9%BA%BC%E4%B8%8D%E5%90%8C%3F)）
+熟悉Scrum的朋友应该知道有一个角色叫ScrumMaster，那么ScrumMaster和敏捷教练又有什么区别呢？（摘自[David Ko的博客](https://kojenchieh.pixnet.net/blog/post/423373439-%E6%95%8F%E6%8D%B7%E6%95%99%E7%B7%B4%E5%92%8C-scrum-master-%E6%9C%89%E4%BB%80%E9%BA%BC%E4%B8%8D%E5%90%8C%3F)）
 
 **Scrum Master**
 
@@ -89,4 +89,4 @@ tags: []
 
 How agile coaches help us win the agile coach role @ Spotify
 
-[http://www.slideshare.net/BrendanSpotify/how-agile-coaches-help-us-win-the-agile-coach-role-spotify](http://www.slideshare.net/BrendanSpotify/how-agile-coaches-help-us-win-the-agile-coach-role-spotify)
+[https://www.slideshare.net/BrendanSpotify/how-agile-coaches-help-us-win-the-agile-coach-role-spotify](https://www.slideshare.net/BrendanSpotify/how-agile-coaches-help-us-win-the-agile-coach-role-spotify)

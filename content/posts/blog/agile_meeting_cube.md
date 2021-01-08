@@ -34,4 +34,4 @@ date: "2014-10-30"
 
 [agile-meetings-cube-CN\_PDF](/wp-content/uploads/2014/10/agile-meetings-cube-CN_PDF.pdf)
 
-原文链接： [http://blog.crisp.se/2014/10/16/peterantman/the-agile-meetings-cube](http://blog.crisp.se/2014/10/16/peterantman/the-agile-meetings-cube) 感谢Crispe公司的Peter Antman
+原文链接： [https://blog.crisp.se/2014/10/16/peterantman/the-agile-meetings-cube](https://blog.crisp.se/2014/10/16/peterantman/the-agile-meetings-cube) 感谢Crispe公司的Peter Antman

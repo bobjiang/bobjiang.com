@@ -7,7 +7,7 @@ date: "2016-11-08"
 
 [https://jinshuju.net/f/Hgohvn/results](https://jinshuju.net/f/Hgohvn/results)
 
-[敏捷之旅北京](http://www.agiletour-beijing.com/)
+[敏捷之旅北京](https://www.agiletour-beijing.com/)
 
 # 什么是敏捷之旅( agiletour)
 

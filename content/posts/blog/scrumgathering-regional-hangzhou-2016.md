@@ -19,7 +19,7 @@ tags: [大会, 杭州, RSG]
 
 另外Hussman还按照敏捷宣言的格式（xxx over yyy）提出了一番产品开发的宣言。如下：
 
-[![wechatimg3](/wp-content/uploads/2016/10/WechatIMG3.jpeg)](http://bobjiang.com/scrumgathering-regional-hangzhou-2016/wechatimg3/#main) [![wechatimg4](/wp-content/uploads/2016/10/WechatIMG4.jpeg)](http://bobjiang.com/scrumgathering-regional-hangzhou-2016/wechatimg4/#main)
+[![wechatimg3](/wp-content/uploads/2016/10/WechatIMG3.jpeg)](https://bobjiang.com/scrumgathering-regional-hangzhou-2016/wechatimg3/#main) [![wechatimg4](/wp-content/uploads/2016/10/WechatIMG4.jpeg)](https://bobjiang.com/scrumgathering-regional-hangzhou-2016/wechatimg4/#main)
 
 上午后来和春山、大卫张、Bill等一起讨论中兴敏捷转型中的一些困惑。有很多的感触。尤其还学到了领导力相关的模型。（个人和组织层面看问题）更细节的信息，可以当面约聊哈。
 

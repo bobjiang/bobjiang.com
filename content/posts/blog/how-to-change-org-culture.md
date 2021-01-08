@@ -106,4 +106,4 @@ Sahota文化模型通过识别形成文化的相互关联的元素，提供了�
 审校：Bob Jiang
 
 [查看原文](https://mp.weixin.qq.com/s/ZVUH4K2VCxpsM9MyqFJmZA)    
-[英文原文](http://agilitrix.com/2018/07/change-organizational-culture/)
+[英文原文](https://agilitrix.com/2018/07/change-organizational-culture/)

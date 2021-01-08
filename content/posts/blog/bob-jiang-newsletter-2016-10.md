@@ -7,11 +7,11 @@ date: "2016-10-24"
 
 1\. 参加Julia的学习设计与引导工作坊，自我感觉是打通了体验式学习设计的任督二脉。
 
-2\. 参加了[ScrumGathering杭州](http://scrumgathering.io/)，又见到很多老朋友，认识许多新朋友。
+2\. 参加了[ScrumGathering杭州](https://scrumgathering.io/)，又见到很多老朋友，认识许多新朋友。
 
 细节可以参看下面。
 
-10月27日28日在北京的CSM敏捷认证课程还有少量名额，有兴趣的小伙伴可以[点击报名](http://yihuode.io/activities/357) （[http://yihuode.io/activities/357](http://yihuode.io/activities/357)）。
+10月27日28日在北京的CSM敏捷认证课程还有少量名额，有兴趣的小伙伴可以[点击报名](https://yihuode.io/activities/357) （[https://yihuode.io/activities/357](https://yihuode.io/activities/357)）。
 
 内容大纲
 
@@ -24,7 +24,7 @@ date: "2016-10-24"
 
 \----------------------------------------
 
-ScrumGathering杭州报道 - 这次RSG（Regional ScrumGathering）我收获最大的一句话“音乐家制作音乐的目标不是为了写出更多的音乐，而是为了音乐可以影响到更多的人。那么对于软件开发呢？”来自David Hussman的类比。更多RSG报道可以参考[我的杭州RSG流水账](http://bobjiang.com/scrumgathering-regional-hangzhou-2016/) ([http://bobjiang.com/scrumgathering-regional-hangzhou-2016/](http://bobjiang.com/scrumgathering-regional-hangzhou-2016/))。
+ScrumGathering杭州报道 - 这次RSG（Regional ScrumGathering）我收获最大的一句话“音乐家制作音乐的目标不是为了写出更多的音乐，而是为了音乐可以影响到更多的人。那么对于软件开发呢？”来自David Hussman的类比。更多RSG报道可以参考[我的杭州RSG流水账](https://bobjiang.com/scrumgathering-regional-hangzhou-2016/) ([https://bobjiang.com/scrumgathering-regional-hangzhou-2016/](https://bobjiang.com/scrumgathering-regional-hangzhou-2016/))。
 
 学习设计与引导工作坊 - 学习是如何发生的，学习者有哪些类型，如何在培训中照顾到每一种类型的学习者，在课程中现场演练实操并且获得多个视角的反馈。语言文字很难表达课程的细节，有兴趣的朋友，可以约我单聊。
 
@@ -44,7 +44,7 @@ ScrumGathering杭州报道 - 这次RSG（Regional ScrumGathering）我收获最�
 
 本书也探讨了未来的组织结构，如去管理层、合弄制（Holacracy）、扁平化管理等，但明显篇幅不够，细节不足。另外作为一本科普书籍，也没有给出作为个人（或管理者、组织）如何应对未来的工作。
 
-本书结构清晰，从三个维度来进行分析：员工、管理者和组织。更多可以[点击链接](http://bobjiang.com/reading-the-future-of-work/)（[http://bobjiang.com/reading-the-future-of-work/](http://bobjiang.com/reading-the-future-of-work/)）。
+本书结构清晰，从三个维度来进行分析：员工、管理者和组织。更多可以[点击链接](https://bobjiang.com/reading-the-future-of-work/)（[https://bobjiang.com/reading-the-future-of-work/](https://bobjiang.com/reading-the-future-of-work/)）。
 
 课程
 
@@ -66,7 +66,7 @@ Certified ScrumMaster中文认证课程 - 11月17日18日 厦门  [https://jins
 
 Certified LeSS Practitioner，《Scrum精髓》的译者。
 
-我的博客 [http://www.bobjiang.com](http://www.bobjiang.com/)
+我的博客 [https://www.bobjiang.com](https://www.bobjiang.com/)
 
 邮件： [bob@bobjiang.com](mailto:bob@bobjiang.com)
 

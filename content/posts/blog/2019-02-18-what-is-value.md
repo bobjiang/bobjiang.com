@@ -69,7 +69,7 @@ tags: []
 - 敏捷一千零一夜社区合伙人  
 - 敏捷之旅核心组织者  
 - 《Scrum精髓》译者
-- [Bob的博客](http://www.bobjiang.com)
+- [Bob的博客](https://www.bobjiang.com)
 - Github: bobjiang
 - Twitter: @bobjiang123
 - [Solidity中文文档](https://solidity-cn.readthedocs.io/zh/develop/)

@@ -17,7 +17,7 @@ date: "2013-12-31"
 - Scrum中的角色有哪些
 - ……
 
-我是姜信宝 （Bob Jiang），我的博客http://bobjiang.com 我喜欢新鲜事物，喜欢读书，喜欢分享。愿意和大家共同进步。 正在翻译Kenneth S. Rubin的《Essential Scrum》 联系我：jiangxb@gmail.com 新浪微博: @姜信宝Bob **微信公众号**: 敏捷那些事儿
+我是姜信宝 （Bob Jiang），我的博客https://bobjiang.com 我喜欢新鲜事物，喜欢读书，喜欢分享。愿意和大家共同进步。 正在翻译Kenneth S. Rubin的《Essential Scrum》 联系我：jiangxb@gmail.com 新浪微博: @姜信宝Bob **微信公众号**: 敏捷那些事儿
 
 敏捷公益课，每月一次，旨在推广和传播敏捷开发思想，希望更多的开发者受益。欢迎报名。课程信息会定期发布，敬请关注。
 

@@ -7,7 +7,7 @@ date: "2013-12-29"
 
 **2013年读书汇总（基本保证每月一本书，并记录读书笔记）：** 有部分的读书笔记没有发布在博客上，只在印象笔记中有。2014年会每篇笔记都发布在博客上。
 
-2013.12 [谁说我们不能一起做决定——参与式决策引导宝典](http://bobjiang.com/2013/12/29/participatory_decision_making/) 2013.11 This is Lean 2013.10 如何说孩子才会听怎么听孩子才肯说 2013.9 [驱动力](http://bobjiang.com/2013/09/26/drive/) 2013.8 [GameStorming](http://bobjiang.com/2013/08/29/game-storming/) 2013.7 一分钟演讲人 2013.6 [AgileCoaching](http://bobjiang.com/2013/08/27/agile-coaching/) 2013.5 [精益创业](http://bobjiang.com/2013/08/27/lean-startup/) 2013.4 自控力
+2013.12 [谁说我们不能一起做决定——参与式决策引导宝典](https://bobjiang.com/2013/12/29/participatory_decision_making/) 2013.11 This is Lean 2013.10 如何说孩子才会听怎么听孩子才肯说 2013.9 [驱动力](https://bobjiang.com/2013/09/26/drive/) 2013.8 [GameStorming](https://bobjiang.com/2013/08/29/game-storming/) 2013.7 一分钟演讲人 2013.6 [AgileCoaching](https://bobjiang.com/2013/08/27/agile-coaching/) 2013.5 [精益创业](https://bobjiang.com/2013/08/27/lean-startup/) 2013.4 自控力
 
 \-----------------------------------------------------------------------
 

@@ -38,8 +38,8 @@ tags: [SAFe, Scrum, scrum guide, product owner]
 1. 开发团队有责任确保交付高质量的增量。
 2. 在这种情况下，PO控制着开发团队的工作成果，从而像经理一样被定位在更高的位置。它通常会引入合同游戏（contract game），并导致团队功能障碍，破坏团队合作精神。
 
-[本文链接](http://remove-scrum-from-safe.tilda.ws/PO)
+[本文链接](https://remove-scrum-from-safe.tilda.ws/PO)
 
 本文翻译自如下网站，如果译文和原稿有任何差异，请参考原文。
 in case of any discrepancies between the translation and the original, the original version should be considered as the correct one
-[Remove References To Scrum From SAFe!原文链接](http://remove-scrum-from-safe.tilda.ws/)
+[Remove References To Scrum From SAFe!原文链接](https://remove-scrum-from-safe.tilda.ws/)

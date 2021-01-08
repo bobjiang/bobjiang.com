@@ -5,11 +5,11 @@ coverImage: "Screen-Shot-2014-06-15-at-6.17.59-AM.png"
 URL: /regional-scrumgathering-china-summary-2/
 ---
 
-上篇总结了大会[第一天的内容](http://bobjiang.com/2014/06/11/regional-scrumgathering-china-summary-content/)，接下来总结一下大会第二天的内容。
+上篇总结了大会[第一天的内容](https://bobjiang.com/2014/06/11/regional-scrumgathering-china-summary-content/)，接下来总结一下大会第二天的内容。
 
-**主题演讲：经济合理的Scrum** （[下载地址](http://www.innolution.com/resources/presentations/scrum-gathering-shanghai-2014-economically-sensible-scrum)）
+**主题演讲：经济合理的Scrum** （[下载地址](https://www.innolution.com/resources/presentations/scrum-gathering-shanghai-2014-economically-sensible-scrum)）
 
-Ken Rubin的主题演讲，我跟的时间最长，并且PPT是我来负责翻译的（非常感谢徐毅帮忙校对）。开篇Ken用一个自己和儿子在餐馆的对话引出价值的思考，从而引出主题演讲的大纲（经济合理的Scrum），即如何用Scrum产生更好的经济价值。演讲中主要意思是说虽然很多组织在采用Scrum，但他们并不成功，因为没有很好的理解敏捷核心原则。那么敏捷的核心原则是什么？PPT第11页提到，敏捷的核心原则为：可变性和不确定性、预测和适应、经证实的认知、在制品（WIP）、进度和执行（注1：在《[Scrum精髓](http://www.essentialscrum.cn)》第三章敏捷原则中详细介绍了以上的原则）（注2：Ken结合敏捷的12条原则和Reinertsen的产品开发流的原则，重新梳理了敏捷原则）。 Ken在提完这些敏捷核心原则后，也紧跟潮流提到了反脆弱以及反脆弱就是敏捷的好处。（即组织采用敏捷之后可以从混乱当中受益） 这个演讲分为三大部分：
+Ken Rubin的主题演讲，我跟的时间最长，并且PPT是我来负责翻译的（非常感谢徐毅帮忙校对）。开篇Ken用一个自己和儿子在餐馆的对话引出价值的思考，从而引出主题演讲的大纲（经济合理的Scrum），即如何用Scrum产生更好的经济价值。演讲中主要意思是说虽然很多组织在采用Scrum，但他们并不成功，因为没有很好的理解敏捷核心原则。那么敏捷的核心原则是什么？PPT第11页提到，敏捷的核心原则为：可变性和不确定性、预测和适应、经证实的认知、在制品（WIP）、进度和执行（注1：在《[Scrum精髓](https://www.essentialscrum.cn)》第三章敏捷原则中详细介绍了以上的原则）（注2：Ken结合敏捷的12条原则和Reinertsen的产品开发流的原则，重新梳理了敏捷原则）。 Ken在提完这些敏捷核心原则后，也紧跟潮流提到了反脆弱以及反脆弱就是敏捷的好处。（即组织采用敏捷之后可以从混乱当中受益） 这个演讲分为三大部分：
 
 - 开发过程中忽视或误用敏捷核心原则
 - 未能在价值链从头到尾运用敏捷原则
@@ -31,6 +31,6 @@ Ken Rubin的主题演讲，我跟的时间最长，并且PPT是我来负责翻�
 
 执行所有的Scrum实践和证实过的方法，不能保证成功（必要但不充分）。要想成功，运用Scrum需要基于敏捷核心原则，以及采纳允许合理折衷的经济框架。
 
-《Scrum精髓》[我要购买](http://item.jd.com/11462889.html)
+《Scrum精髓》[我要购买](https://item.jd.com/11462889.html)
 
 [![Screen Shot 2014-06-07 at 10.17.28 AM](/wp-content/uploads/2013/11/Screen-Shot-2014-06-07-at-10.17.28-AM.png)](/wp-content/uploads/2013/11/Screen-Shot-2014-06-07-at-10.17.28-AM.png)

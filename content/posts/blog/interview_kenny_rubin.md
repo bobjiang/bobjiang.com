@@ -4,7 +4,7 @@ date: "2013-11-13"
 URL: /interview-ken-rubin-2013/
 ---
 
-[![Essential Scrum](/wp-content/uploads/2013/11/Essential-Scrum-229x300.jpg)](http://www.innolution.com/essential-scrum)
+[![Essential Scrum](/wp-content/uploads/2013/11/Essential-Scrum-229x300.jpg)](https://www.innolution.com/essential-scrum)
 
 **1. 最想问不同的企业文化和价值观，以及商业定位对于敏捷的适用性有什么具体的影响？**
 
@@ -46,4 +46,4 @@ Scrum provides managers, stakeholders, product owners, and others with many more
 
 Scrum比顺序开发的项目提供给经理、利益相关人、产品负责人及其他人更多的检查点。在每个短的迭代结束时，有一个有意义的检查点（sprint review会议）允许每个人在演示、可工作的特性达成一致决策。当人们有更多可行动的、检视与适应的检查点机会时，他们会更好的处理复杂环境。因此我相信Agile项目比传统项目实际更加可控。
 
-[《Essential Scrum》英文网站](http://www.innolution.com/essential-scrum)
+[《Essential Scrum》英文网站](https://www.innolution.com/essential-scrum)

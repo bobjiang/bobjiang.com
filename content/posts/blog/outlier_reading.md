@@ -4,7 +4,7 @@ date: "2015-06-18"
 URL: /reading-outlier-2015/
 ---
 
-作者: [马尔科姆•格拉德威尔](http://book.douban.com/search/%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A7%86%E2%80%A2%E6%A0%BC%E6%8B%89%E5%BE%B7%E5%A8%81%E5%B0%94) 出版社: 中信出版社 副标题: 不一样的成功启示录 译者: [苗飞](http://book.douban.com/search/%E8%8B%97%E9%A3%9E) 出版年: 2014-5-1 页数: 264 定价: 36.00元 装帧: 精装 丛书: [格拉德威尔经典系列](http://book.douban.com/series/23756) ISBN: 9787508643946
+作者: [马尔科姆•格拉德威尔](https://book.douban.com/search/%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A7%86%E2%80%A2%E6%A0%BC%E6%8B%89%E5%BE%B7%E5%A8%81%E5%B0%94) 出版社: 中信出版社 副标题: 不一样的成功启示录 译者: [苗飞](https://book.douban.com/search/%E8%8B%97%E9%A3%9E) 出版年: 2014-5-1 页数: 264 定价: 36.00元 装帧: 精装 丛书: [格拉德威尔经典系列](https://book.douban.com/series/23756) ISBN: 9787508643946
 
 昨天花了一天的时间看完了《异类》这本书，有不少收获。总结一下：
 

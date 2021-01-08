@@ -17,7 +17,7 @@ e.g an agile mind
 
 From above information, there is a word "quick" in both definition. So many people believes Agile is "agile", which means "quick".
 
-[Manifesto for Agile Software Development](http://agilemanifesto.org/) came out in 2001 by 17 software prioneers.
+[Manifesto for Agile Software Development](https://agilemanifesto.org/) came out in 2001 by 17 software prioneers.
 
 From Manifesto for Agile Software Development (Agile Manifesto), there is no "quick". 
 

@@ -8,7 +8,7 @@ tags: [congruence, 一致性沟通, 温伯格]
 超越指责（Beyond Blaming）
 ====
 
-©1996年 Jean McLendon 和 Gerald M.Weinberg ，[www.satir.org](http://www.satir.org/)和[www.geraldmweinberg.com](http://www.geraldmweinberg.com/)
+©1996年 Jean McLendon 和 Gerald M.Weinberg ，[www.satir.org](https://www.satir.org/)和[www.geraldmweinberg.com](https://www.geraldmweinberg.com/)
 
 *英格兰虽然目前处于非常繁荣的状态，但仍表现出民族衰败的一些症状。向英国人提出任何原则或任何手段，无论多么令人钦佩，您都会发现，英国人的全部努力都是针对于发现困难，缺陷或不可能的地方。如果您对他说剥土豆的机器，他会说这是不可能的。如果在他眼前将马铃薯剥皮，他会宣布马铃薯无用，因为它不会切成菠萝。将相同的原理或同一台机器展示给美国人或我们的一个殖民者，您会发现他的脑海全是在寻找该原理的一些新应用，以及对该仪器的一些新用途。" -- 查尔斯-巴贝奇（Charles Babbage），1852年*
 
@@ -255,5 +255,5 @@ tags: [congruence, 一致性沟通, 温伯格]
     温伯格，总经理（1975）。通用系统思维导论。纽约：Wiley-Interscience。\
     温伯格，CM（1991）。质量软件管理：系统思考。纽约：多塞特郡大厦。
 
-[英文原文](http://www.humansystemsinaction.com/beyondblaming/)  
+[英文原文](https://www.humansystemsinaction.com/beyondblaming/)  
 译者：姜信宝

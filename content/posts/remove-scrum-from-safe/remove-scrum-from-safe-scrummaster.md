@@ -61,8 +61,8 @@ tags: [SAFe, Scrum, scrum guide, scrum master]
 
 换句话说，SAFe描述中将“Scrum Master”称为一个角色，但**从Scrum角色中移除了许多重要的责任**，从而完全消除了他们提高这些角色真正含义的需要。这些是Scrum Master行为的反模式，剥夺了实现Scrum Master目标和完美愿景的可能性。
 
-[本文链接](http://remove-scrum-from-safe.tilda.ws/SM)
+[本文链接](https://remove-scrum-from-safe.tilda.ws/SM)
 
 本文翻译自如下网站，如果译文和原稿有任何差异，请参考原文。
 in case of any discrepancies between the translation and the original, the original version should be considered as the correct one
-[Remove References To Scrum From SAFe!原文链接](http://remove-scrum-from-safe.tilda.ws/)
+[Remove References To Scrum From SAFe!原文链接](https://remove-scrum-from-safe.tilda.ws/)

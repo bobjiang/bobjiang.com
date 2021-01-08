@@ -71,6 +71,6 @@ coverImage: "shutterstock_6321103.jpg"
 
 12. 玩好！
 
-原文链接：[http://www.gv.com/lib/12-things-product-managers-should-do-in-their-first-30-days-at-a-new-company](http://www.gv.com/lib/12-things-product-managers-should-do-in-their-first-30-days-at-a-new-company)
+原文链接：[https://www.gv.com/lib/12-things-product-managers-should-do-in-their-first-30-days-at-a-new-company](https://www.gv.com/lib/12-things-product-managers-should-do-in-their-first-30-days-at-a-new-company)
 
 感谢我的同事彭晓溪进行翻译~

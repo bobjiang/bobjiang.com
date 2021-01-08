@@ -7,7 +7,7 @@ tags: [feature team]
 
 # 为什么敏捷中不提倡子团队
 
-Scrum中的开发团队，鼓励是 [feature team 特性团队](http://www.featureteams.org/)。下面我们来分析一下原因。
+Scrum中的开发团队，鼓励是 [feature team 特性团队](https://www.featureteams.org/)。下面我们来分析一下原因。
 
 ## 为什么是特性团队
 
@@ -61,7 +61,7 @@ A feature team is “a long-lived, cross-functional, cross-component team that c
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
 - 敏捷一千零一夜社区合伙人  
 - 《Scrum精髓》译者
-- [Bob的博客](http://www.bobjiang.com)
+- [Bob的博客](https://www.bobjiang.com)
 - Github: bobjiang
 - Twitter: @bobjiang123
 - [Solidity中文文档](https://solidity-cn.readthedocs.io/zh/develop/)

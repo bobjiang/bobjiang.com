@@ -4,4 +4,4 @@
 
 - [Bob Jiang博客搬家博文](https://www.bobjiang.com/blog-migration-4/)
 
-感谢朋友 [老胡](http://blog.dteam.top/) 及其团队提供的hugo支持。
+感谢朋友 [老胡](https://blog.dteam.top/) 及其团队提供的hugo支持。

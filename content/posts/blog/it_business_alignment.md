@@ -5,16 +5,16 @@ coverImage: "IT业务整合.jpg"
 URL: /it-mgmt-2014/
 ---
 
-作者 [Ben Linders](http://www.infoq.com/cn/author/Ben-Linders) ，译者 **[姜信宝](http://www.infoq.com/cn/author/%E5%A7%9C%E4%BF%A1%E5%AE%9D)** 发布于 2014年9月30日 _|_ [讨论](http://www.infoq.com/cn/news/2014/09/agile-business-alignment#theCommentsSection)
+作者 [Ben Linders](https://www.infoq.com/cn/author/Ben-Linders) ，译者 **[姜信宝](https://www.infoq.com/cn/author/%E5%A7%9C%E4%BF%A1%E5%AE%9D)** 发布于 2014年9月30日 _|_ [讨论](https://www.infoq.com/cn/news/2014/09/agile-business-alignment#theCommentsSection)
 
-- [分享到：](http://www.infoq.com/cn/news/2014/09/agile-business-alignment#)[微博](http://www.infoq.com/cn/news/2014/09/agile-business-alignment# "分享到微博")[微信](http://www.infoq.com/cn/news/2014/09/agile-business-alignment# "分享到微信")[Facebook](http://www.infoq.com/cn/news/2014/09/agile-business-alignment# "分享到Facebook")[Twitter](http://www.infoq.com/cn/news/2014/09/agile-business-alignment# "分享到Twitter")[有道云笔记](http://www.infoq.com/cn/news/2014/09/agile-business-alignment# "分享到有道云笔记")[邮件分享](http://www.infoq.com/cn/news/2014/09/agile-business-alignment# "分享到邮件分享")
+- [分享到：](https://www.infoq.com/cn/news/2014/09/agile-business-alignment#)[微博](https://www.infoq.com/cn/news/2014/09/agile-business-alignment# "分享到微博")[微信](https://www.infoq.com/cn/news/2014/09/agile-business-alignment# "分享到微信")[Facebook](https://www.infoq.com/cn/news/2014/09/agile-business-alignment# "分享到Facebook")[Twitter](https://www.infoq.com/cn/news/2014/09/agile-business-alignment# "分享到Twitter")[有道云笔记](https://www.infoq.com/cn/news/2014/09/agile-business-alignment# "分享到有道云笔记")[邮件分享](https://www.infoq.com/cn/news/2014/09/agile-business-alignment# "分享到邮件分享")
     
-- [稍后阅读](http://www.infoq.com/cn/news/2014/09/agile-business-alignment#)
-- [我的阅读清单](http://www.infoq.com/cn/showbookmarks.action)
+- [稍后阅读](https://www.infoq.com/cn/news/2014/09/agile-business-alignment#)
+- [我的阅读清单](https://www.infoq.com/cn/showbookmarks.action)
 
 在敏捷项目中，产品负责人往往被看做是业务和IT联系首要保障的人。但对于有效的IT业务整合，仅有产品负责人是不够的。来自业务、需求和组织的供应方的人们，做些什么可以提高IT和业务整合的效果呢？
 
-在[敏捷和软件架构研讨会2014](http://www.asas2014.nl/)上，来自Ordina的Klasien Postma介绍了“敏捷项目不能产生有效的IT业务整合"。在她的演讲中，Klasien说明人们如何采用精益思想去决定哪个架构文档是必须的，以及当文档是必须的时候，讨论为什么在许多项目中往往是IT团队采用敏捷实践，并且在关于如何提高敏捷项目中业务、需求和供应方的参与方面给出了一些建议。
+在[敏捷和软件架构研讨会2014](https://www.asas2014.nl/)上，来自Ordina的Klasien Postma介绍了“敏捷项目不能产生有效的IT业务整合"。在她的演讲中，Klasien说明人们如何采用精益思想去决定哪个架构文档是必须的，以及当文档是必须的时候，讨论为什么在许多项目中往往是IT团队采用敏捷实践，并且在关于如何提高敏捷项目中业务、需求和供应方的参与方面给出了一些建议。
 
 Klasien介绍了她的工作经验，她在司法委员会和荷兰税务机关这两个政府部门当中担任过不同的架构师角色。她观察到这些组织中的一些趋势，包括向更少的部门集中化，通过共享服务中心实现专业化，以及更加注重IT管理。
 
@@ -39,10 +39,10 @@ Klasien在她的的演讲中提供了一些建议，不同的利益相关人可�
 
 Klasien说，对于业务IT整合，建立在平等上的合作是最重要的。要把业务现实有效地融入到IT解决方案中，需要让思路脱离固有的模型和预定义的模式。
 
-**查看英文原文：**[How Agile Can Yield Effective IT Business Alignment](http://www.infoq.com/news/2014/09/agile-business-alignment)
+**查看英文原文：**[How Agile Can Yield Effective IT Business Alignment](https://www.infoq.com/news/2014/09/agile-business-alignment)
 
 * * *
 
-感谢[杨赛](http://www.infoq.com/cn/author/%E6%9D%A8%E8%B5%9B)对本文的审校。
+感谢[杨赛](https://www.infoq.com/cn/author/%E6%9D%A8%E8%B5%9B)对本文的审校。
 
-给InfoQ中文站投稿或者参与内容翻译工作，请邮件至[editors@cn.infoq.com](mailto:editors@cn.infoq.com)。也欢迎大家通过新浪微博（[@InfoQ](http://www.weibo.com/infoqchina)）或者腾讯微博（[@InfoQ](http://t.qq.com/infoqchina)）关注我们，并与我们的编辑和其他读者朋友交流。
+给InfoQ中文站投稿或者参与内容翻译工作，请邮件至[editors@cn.infoq.com](mailto:editors@cn.infoq.com)。也欢迎大家通过新浪微博（[@InfoQ](https://www.weibo.com/infoqchina)）或者腾讯微博（[@InfoQ](https://t.qq.com/infoqchina)）关注我们，并与我们的编辑和其他读者朋友交流。

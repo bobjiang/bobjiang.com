@@ -11,13 +11,13 @@ tags: [agile, blockchain]
 
 ## The origin
 
-Many say blockchain is just a decentralized ledger, it is true, but not the essential part for blockchain. I (BoB) as an experienced agile guru (Certified Scrum Trainer from [scrumalliance.org](http://scrumalliance.org/)), would anatomize blockchain with you together and compare agile and blockchain, and try to find the fundamental for both.
+Many say blockchain is just a decentralized ledger, it is true, but not the essential part for blockchain. I (BoB) as an experienced agile guru (Certified Scrum Trainer from [scrumalliance.org](https://scrumalliance.org/)), would anatomize blockchain with you together and compare agile and blockchain, and try to find the fundamental for both.
 
 In the beginning, let's start from the history to understand how they come.
 
 ### what is agile
 
-In 2001, there are 17 software pioneers gathering in snowbird to discuss the light software development methods. Finally they conclude Agile Manifesto with agile principles as well. More details, see also [Agile Manifesto](http://agilemanifesto.org/).
+In 2001, there are 17 software pioneers gathering in snowbird to discuss the light software development methods. Finally they conclude Agile Manifesto with agile principles as well. More details, see also [Agile Manifesto](https://agilemanifesto.org/).
 
 > We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:  
 Individuals and interactions over processes and tools  
@@ -93,7 +93,7 @@ So for blockchain, in the beginning, it should be online, but at last, it must b
 
 ### Company vs. Community
 
-Agile is adopted by companies, specially by huge companies, it is because for huge companies they realized to adapt the change quickly to win the market, this is a core competency. So many agile gurus (like speakers, trainers) emerged, like me [BoB Jiang](http://bobjiang.com/).
+Agile is adopted by companies, specially by huge companies, it is because for huge companies they realized to adapt the change quickly to win the market, this is a core competency. So many agile gurus (like speakers, trainers) emerged, like me [BoB Jiang](https://bobjiang.com/).
 
 But for blockchain, it is community based from the scatch. Maybe just a few people have an idea, and have some codes in repository, some people gathered around the repository/idea, and provide more codes. 
 

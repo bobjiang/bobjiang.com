@@ -17,7 +17,7 @@ date: "2014-12-16"
 
 我们专注于各种案例故事分享，重点覆盖敏捷开发、精益创业、产品创新、组织变革等话题，每月至少一次公开课。
 
-![](http://img.blog.csdn.net/20141211204709781?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXV6ZWdhbw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![](https://img.blog.csdn.net/20141211204709781?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXV6ZWdhbw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 ²  **敏捷一千零一夜Team介绍：**
 
@@ -25,15 +25,15 @@ date: "2014-12-16"
 
 《敏捷无敌》作者 ，《敏捷开发一千零一夜》主编，多年研发管理与敏捷实施经验，专注于精益创业与产品创新、敏捷组织转型、研发效率提升。曾为百度、Nokia、VMWare、爱立信、朗讯、E人E本等多家公司做过各种敏捷培训和咨询；曾经在 “Scrum Gathering、 AgileChina、 Agiletour、51CTO、TiD”等大会做过多次演讲，荣膺2014 TiD大会10大最受欢迎讲师。
 
-![](http://img.blog.csdn.net/20141211204733057?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXV6ZWdhbw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![](https://img.blog.csdn.net/20141211204733057?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXV6ZWdhbw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 **姜信宝，**
 
 喜欢新鲜事物，喜欢读书，喜欢分享，愿意和大家共同进步。
 
-Agile1001公开课联合发起人之一。（http://agile1001.org)
+Agile1001公开课联合发起人之一。（https://agile1001.org)
 
-我的博客：http://bobjiang.com
+我的博客：https://bobjiang.com
 
 《Essential Scrum》译者（原作者：Kenneth S. Rubin）
 
@@ -43,13 +43,13 @@ CSP,CSM,PMP
 
 热衷和推广敏捷，是中国敏捷社区的主要推动者之一。
 
-![](http://img.blog.csdn.net/20141211204745459?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXV6ZWdhbw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![](https://img.blog.csdn.net/20141211204745459?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXV6ZWdhbw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 **杜伟忠，**
 
 多年软件研发和管理经验，主要专注于精益与敏捷落地实践。曾多次在QCon、TOP100、敏捷大会上做分享。
 
-![](http://img.blog.csdn.net/20141211204825062?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXV6ZWdhbw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![](https://img.blog.csdn.net/20141211204825062?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXV6ZWdhbw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 **谢 钊，**
 
@@ -69,6 +69,6 @@ CSP,CSM,PMP
 
 积极、主动、乐观；学习、交流、提升、分享！
 
-![](http://img.blog.csdn.net/20141211204818172?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXV6ZWdhbw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![](https://img.blog.csdn.net/20141211204818172?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXV6ZWdhbw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
-有钱就是这么任性，报名地址：[请点我](http://www.headin.cn/Themes/Activity/Details/?activityId=5466c604c3378ff3a4de7665)
+有钱就是这么任性，报名地址：[请点我](https://www.headin.cn/Themes/Activity/Details/?activityId=5466c604c3378ff3a4de7665)

@@ -3,11 +3,11 @@ title: "读书笔记《人人都能用英语》"
 date: "2016-10-14"
 ---
 
-![](http://zhibimo.com/uploads/books/covers/everyone-can-use-english/preview_cover.jpg)
+![](https://zhibimo.com/uploads/books/covers/everyone-can-use-english/preview_cover.jpg)
 
-[人人都能用英语](http://zhibimo.com/read/xiaolai/everyone-can-use-english/)
+[人人都能用英语](https://zhibimo.com/read/xiaolai/everyone-can-use-english/)
 
-学不明白就别学了，用得上就直接用好了——这就是方法。 — [李笑来](http://zhibimo.com/books/xiaolai)
+学不明白就别学了，用得上就直接用好了——这就是方法。 — [李笑来](https://zhibimo.com/books/xiaolai)
 
 这本书是看完《把时间当做朋友》，看到李笑来的推荐后快速翻阅的。虽然短小，也有一些收获。
 

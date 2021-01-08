@@ -15,7 +15,7 @@ Agile Tour（以下称为敏捷之旅）是一个国际非盈利性组织，于2
 
 主要工作经历：2005年毕业后从事冶金行业自动化工控程序设计，后在国产数据库公司人大金仓工作，2009年进入电商行业，加入B2B & B2C 综合电商千寻网，2010年加入京东，见证了京东POP平台从无到有的过程，参与过POP商品、类目、订单等多个系统的建设，并带领团队完成京东机票系统第一版的设计和上线，2011年负责京东开放服务（JOS），现负责京东服务市场，京东服务定制（众包模式）等业务
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtvIEiaYMM5zwiaRdG9XeHaHxTiaicCvS9cjuA4F81cSxqOIozF59M8kQYAA/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtvIEiaYMM5zwiaRdG9XeHaHxTiaicCvS9cjuA4F81cSxqOIozF59M8kQYAA/640?tp=webp)
 
 姓名： 张明
 
@@ -25,15 +25,15 @@ Agile Tour（以下称为敏捷之旅）是一个国际非盈利性组织，于2
 
 个人简介： 认证Scrum专家（CSM）2006年毕业后在方正从事银行系统程序设计研发，而后参与过民航系统、通信系统的多个领域的设计研发工作，2011年进加入联动优势电商公司，负责第三方支付平台搭建，参与过账户核心系统改造、风控防钓鱼、预授权支付、快捷支付、付款平台等多个系统的建设，并带领团队完成基础支付平台、付款平台等系统设计研发和上线，负责电商公司基础支付组，参与支付平台系统优化改造。目前在项目中正推行敏捷，希望能和大家进一步交流学习。同时，也是另一个NGO组织（960灾难逃生救助公益组织）的参与者和发起人之一
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtpjnsuiaI0sFrFNv7tibjQnvKvurDu8q2qLpm4BQQXGgrmm1GBS40yE6g/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtpjnsuiaI0sFrFNv7tibjQnvKvurDu8q2qLpm4BQQXGgrmm1GBS40yE6g/640?tp=webp)
 
 姜信宝 （Bob Jiang）
 
 敏捷教练，旨在帮助企业改进工作流程以取得更好的商业价值。 作为一名认证的Scrum专家（CSP，CSM），他曾在爱立信为公司提供敏捷转型的支持，为北京移动提供过敏捷辅导，现在他正在京东商城进行精益敏捷的转型。在此期间，他曾担任过ScrumMaster、团队成员和项目经理等不同角色，深谙敏捷转型的艰辛与不易。另外他还是《Scrum精髓》一书的译者。
 
-Bob是国内敏捷社区的主要推动者，从2011年起他组织并参与了敏捷之旅、ScrumGathering China 、敏捷中国、QCon等大会。另外他还是Agile1001公开课（http://agile1001.org）的联合发起人，微信公众号是Agile1001。他的博客是http://bobjiang.com
+Bob是国内敏捷社区的主要推动者，从2011年起他组织并参与了敏捷之旅、ScrumGathering China 、敏捷中国、QCon等大会。另外他还是Agile1001公开课（https://agile1001.org）的联合发起人，微信公众号是Agile1001。他的博客是https://bobjiang.com
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtLPiaKQZTIDssG7XVRMD8LMvoAu0WDTzibJko3DP06lWbQSicCpjpLl8tw/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtLPiaKQZTIDssG7XVRMD8LMvoAu0WDTzibJko3DP06lWbQSicCpjpLl8tw/640?tp=webp)
 
 廉雨
 
@@ -49,13 +49,13 @@ Bob是国内敏捷社区的主要推动者，从2011年起他组织并参与了�
 
 13年开始接触敏捷，并在团队中推广敏捷。在敏捷组织中收获很多，向更多敏捷前辈学习。
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtPIN5Jmda48d24CS9nm72X5scDRbKicCNYyHmoOibbgyuYiaaqZiaFD4icsA/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtPIN5Jmda48d24CS9nm72X5scDRbKicCNYyHmoOibbgyuYiaaqZiaFD4icsA/640?tp=webp)
 
 熊志男
 
 我是一名测试老人，敏捷新人。传统的测试工程师正在被边缘化，通过学习和实践敏捷，我对于测试的理解也逐渐从“和开发对着干”发展到“无意与开发为敌”，再到今天的“打入开发内部”，真正融入团队中，抛开以往头衔和职位对于自己的限制，为团队中每个成员服务，也为自己服务。
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrt8j7IuIvK9jLGGbflibeDtSzhpiaphlVYjWulB8Eb8BDjMlF0sSyV8Xfg/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrt8j7IuIvK9jLGGbflibeDtSzhpiaphlVYjWulB8Eb8BDjMlF0sSyV8Xfg/640?tp=webp)
 
 刘芸
 
@@ -65,7 +65,7 @@ Bob是国内敏捷社区的主要推动者，从2011年起他组织并参与了�
 
 电子工业出版社博文视点策划编辑，专注于IT专业技术图书的策划出版服务。IT相关技术爱好者，曾编辑出版过《京东技术解密》、《Swift语言快速入门》、《敏捷方法论》等多领域图书。
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtdOcbFtwZkOI7eXVqMYbGdbqZBMa9xltdAicVr4DNcS8kB249gUwDFtA/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtdOcbFtwZkOI7eXVqMYbGdbqZBMa9xltdAicVr4DNcS8kB249gUwDFtA/640?tp=webp)
 
 谢钊
 
@@ -89,7 +89,7 @@ l 业余爱好：
 
 Mail：zxie2008@gmail.com；微信：iamxiezha
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtckToyuASG4Es0L5J1eiah17JVze9iaxiaC0bWic2I3lcCiaicicUmhhOfJIMg/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtckToyuASG4Es0L5J1eiah17JVze9iaxiaC0bWic2I3lcCiaicicUmhhOfJIMg/640?tp=webp)
 
 姓名：喻泽高（安静的发狂者）
 
@@ -99,7 +99,7 @@ Mail：zxie2008@gmail.com；微信：iamxiezha
 
 个人简介： 高级软件工程师，多年VOIP从业经验，丰富的移动互联网即时通信应用开发经验，专注移动互联网音视频通信领域，目前就职于联想北京研究院视频通信技术研究室，负责联想明星产品“友约”的后台架构设计和实现。认证Scrum专家（CSM），推崇敏捷方法和自组织团队，并在团队中推广，颇有收获，非常期待能与大家交流学习。
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtb5SqWQaBdYXNM5tvC1HnZIWdaWHeEd2l3HfGnyqJmPaicUEhNlnm1DQ/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtb5SqWQaBdYXNM5tvC1HnZIWdaWHeEd2l3HfGnyqJmPaicUEhNlnm1DQ/640?tp=webp)
 
 王一男
 
@@ -109,7 +109,7 @@ Mail：zxie2008@gmail.com；微信：iamxiezha
 
 在2014年TID（中国质量竞争力）大会上被评为最受欢迎讲师，演讲题目：《敏捷项目度量》、《Atlassian工具集在敏捷项目管理的应用实践》
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtUdmK7fOljvb4RDUlbvCnTdLeVMiav6o6qS0DmTMEVEIVkicB1Qs0ZCJA/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtUdmK7fOljvb4RDUlbvCnTdLeVMiav6o6qS0DmTMEVEIVkicB1Qs0ZCJA/640?tp=webp)
 
 姓名：Melody LIU（刘玉青）
 
@@ -127,7 +127,7 @@ Mail：zxie2008@gmail.com；微信：iamxiezha
 
 2014年11月，加入敏捷之旅大家庭，希望跟大家一起探讨敏捷之路，深入学习敏捷精益思想，并应用到实际工作中。
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtQ7PCenkg2C2uiaMfdTNmK9yOPlozt9ZrIEFhicX9eickre3JXyV84nRdw/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtQ7PCenkg2C2uiaMfdTNmK9yOPlozt9ZrIEFhicX9eickre3JXyV84nRdw/640?tp=webp)
 
 周园
 
@@ -153,7 +153,7 @@ Mail：zxie2008@gmail.com；微信：iamxiezha
 
 微信：153110172
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtcvkMQ6Lic4XSChugtkhfTf0DJLYjibj1sP6TpdEmaF3VLsoZeYN8F8qw/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtcvkMQ6Lic4XSChugtkhfTf0DJLYjibj1sP6TpdEmaF3VLsoZeYN8F8qw/640?tp=webp)
 
 姓名： 金世亮
 
@@ -169,7 +169,7 @@ Mail：zxie2008@gmail.com；微信：iamxiezha
 
 07年毕业从事码农工作，10年成长为TeamLeader（主要做ERP软件），12年来到京东，目前从事项目管理工作，做过仓储，大家电相关项目，目前主要从事自提柜项目集管理工作
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtbKhwFcdBZy42yKX0ImbPjHLIDPMjCdODuwlLxZwq0Abe5aoe7dQCMA/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtbKhwFcdBZy42yKX0ImbPjHLIDPMjCdODuwlLxZwq0Abe5aoe7dQCMA/640?tp=webp)
 
 Isly (杨薇瞾)
 
@@ -177,7 +177,7 @@ Isly (杨薇瞾)
 
 PS: 此来自喵星球的萌汉子绝对是人见人爱花见花开，上得了厅堂，下得了厨房，温柔起来似水，爷们儿起来似钢，仗义起来可以为伙伴两肋插刀。
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtibCHfYJy8z6LfWUDicCEDNKCDy2iaDAXphDDzHUajE5EYH1NIX9ibRViayA/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BXibfbN8uxI82FrU1TxQNmrtibCHfYJy8z6LfWUDicCEDNKCDy2iaDAXphDDzHUajE5EYH1NIX9ibRViayA/640?tp=webp)
 
 姓名:高玉峰 Zack
 
@@ -193,4 +193,4 @@ PS: 此来自喵星球的萌汉子绝对是人见人爱花见花开，上得了�
 
 一直致力于将团队打造成敏捷团队,过程比较辛苦,但是也有很多的快乐和心得,希望与大家一起,共同推动敏捷,共同为敏捷贡献自己的力量
 
-![](http://mmbiz.qpic.cn/mmbiz/elvgQGicib2BVlrDP3zwtne86XveFb93O8oZA0Eiblba8NGEibZsZbxLXQSP0QRgGoHcn9LRol62MshLt13sMwLiaJw/640?tp=webp)
+![](https://mmbiz.qpic.cn/mmbiz/elvgQGicib2BVlrDP3zwtne86XveFb93O8oZA0Eiblba8NGEibZsZbxLXQSP0QRgGoHcn9LRol62MshLt13sMwLiaJw/640?tp=webp)

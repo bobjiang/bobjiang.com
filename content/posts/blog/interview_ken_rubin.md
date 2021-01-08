@@ -4,7 +4,7 @@ date: "2014-10-20"
 URL: /interview-ken-rubin-2/
 ---
 
-原文链接：http://www.infoq.com/cn/news/2014/10/scrum-interview-ken-rubin
+原文链接：https://www.infoq.com/cn/news/2014/10/scrum-interview-ken-rubin
 
 **Bob: 多数Scrum书籍是写给开发团队看的。为什么经理或高层也应该看《Scrum精髓》呢？这可是500页的一本书啊！**
 
@@ -40,10 +40,10 @@ URL: /interview-ken-rubin-2/
 
 **Kenny Rubin** 是Innolution公司的管理负责人，该公司是一个敏捷培训公司，主要是帮助组织以一种有效和经济合理的方式来开发产品。作为一名认证的敏捷教练，Rubin已经在敏捷和Scrum、Smalltalk开发、管理面向对象的项目和转型管理方面训练了超过18,000人。他曾在200家公司进行过培训，涵盖的范围从创业公司到财富榜前十的公司。
 
-Rubin是全球Scrum联盟的首席常务董事，该联盟是一个非营利性的组织，主要从事于进行成功运用Scrum的研究。除了创作《Essential Scrum：最流行敏捷过程的实用指南》这本书，他还是1995年出版的《Succeeding with Objects：项目管理的决策框架》的合著者。想了解更多他的背景请登录：http://www.innolution.com，你也可以在该网站上关注他的博客。Twitter的粉丝关注他请@krubinagile。
+Rubin是全球Scrum联盟的首席常务董事，该联盟是一个非营利性的组织，主要从事于进行成功运用Scrum的研究。除了创作《Essential Scrum：最流行敏捷过程的实用指南》这本书，他还是1995年出版的《Succeeding with Objects：项目管理的决策框架》的合著者。想了解更多他的背景请登录：https://www.innolution.com，你也可以在该网站上关注他的博客。Twitter的粉丝关注他请@krubinagile。
 
 * * *
 
-感谢[侯伯薇](http://www.infoq.com/cn/author/%E4%BE%AF%E4%BC%AF%E8%96%87)对本文的审校和[杨赛](http://www.infoq.com/cn/author/%E6%9D%A8%E8%B5%9B)对本文的策划。
+感谢[侯伯薇](https://www.infoq.com/cn/author/%E4%BE%AF%E4%BC%AF%E8%96%87)对本文的审校和[杨赛](https://www.infoq.com/cn/author/%E6%9D%A8%E8%B5%9B)对本文的策划。
 
-购买《[Scrum精髓](http://item.jd.com/11462889.html)》
+购买《[Scrum精髓](https://item.jd.com/11462889.html)》

@@ -129,7 +129,7 @@ url = "https://github.com/bobjiang/bobjiang.com"
 [[params.social]]
 name = "Mail"
 icon = "mail"
-url = "http://agileplus.plus/subscription/zKC_LCgUW"
+url = "https://agileplus.plus/subscription/zKC_LCgUW"
 
 # Enable tags.
 [taxonomies]

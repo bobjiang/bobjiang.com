@@ -17,7 +17,7 @@ tags: [Scrum, 瀑布开发]
 
 **产品开发和制造业的相似性**
 
-两者都遵循[既定的流程](http://www.innolution.com/resources/glossary/defined-process)
+两者都遵循[既定的流程](https://www.innolution.com/resources/glossary/defined-process)
 
 开发不是制造。开发为产品创造方法。
 
@@ -25,17 +25,17 @@ tags: [Scrum, 瀑布开发]
 
 开发是分阶段和顺序的。
 
-开发是[迭代和增量的](http://www.innolution.com/resources/glossary/iterative-and-incremental-process)
+开发是[迭代和增量的](https://www.innolution.com/resources/glossary/iterative-and-incremental-process)
 
 **流程和产品可变性的程度**
 
-试图消除流程和产品[可变性](http://www.innolution.com/resources/glossary/variability)
+试图消除流程和产品[可变性](https://www.innolution.com/resources/glossary/variability)
 
-通过[检视](http://www.innolution.com/resources/glossary/inspection), [适应](http://www.innolution.com/resources/glossary/adaptation), 和[透明性](http://www.innolution.com/resources/glossary/transparency)来平衡可变性。
+通过[检视](https://www.innolution.com/resources/glossary/inspection), [适应](https://www.innolution.com/resources/glossary/adaptation), 和[透明性](https://www.innolution.com/resources/glossary/transparency)来平衡可变性。
 
 **不确定性管理**
 
-先消除[结果不确定性](http://www.innolution.com/resources/glossary/end-uncertainty)，在消除[方法不确定性](http://www.innolution.com/resources/glossary/means-uncertainty)
+先消除[结果不确定性](https://www.innolution.com/resources/glossary/end-uncertainty)，在消除[方法不确定性](https://www.innolution.com/resources/glossary/means-uncertainty)
 
 同时减少两个不确定性。
 
@@ -55,7 +55,7 @@ tags: [Scrum, 瀑布开发]
 
 开发当前已知的并预测未知。
 
-赞成适应的、[探索](http://www.innolution.com/resources/glossary/exploration)的方法。
+赞成适应的、[探索](https://www.innolution.com/resources/glossary/exploration)的方法。
 
 **变更、涌现**
 
@@ -65,13 +65,13 @@ tags: [Scrum, 瀑布开发]
 
 **预测性和适应性**
 
-高度[预测性](http://www.innolution.com/resources/glossary/predictive-process)
+高度[预测性](https://www.innolution.com/resources/glossary/predictive-process)
 
 平衡预言性的前期工作和适应性的及时工作。
 
 **假设（未经验证的知识）**
 
-容忍长时间的[假设](http://www.innolution.com/resources/glossary/assumption)
+容忍长时间的[假设](https://www.innolution.com/resources/glossary/assumption)
 
 快速验证重要的假设。
 
@@ -79,35 +79,35 @@ tags: [Scrum, 瀑布开发]
 
 关键学习发生在主要的分析、设计、编码、测试循环之后。
 
-充分利用多个并发的[学习环优势](http://www.innolution.com/resources/glossary/learning-loop)
+充分利用多个并发的[学习环优势](https://www.innolution.com/resources/glossary/learning-loop)
 
 **快速反馈**
 
 容忍交完的认知。
 
-组织好工作流以获得[快速反馈](http://www.innolution.com/resources/glossary/fast-feedback)
+组织好工作流以获得[快速反馈](https://www.innolution.com/resources/glossary/fast-feedback)
 
 **批量大小（在下个活动开始前完成了多少工作）**
 
 批量较大，通常100%一股脑式的。适用于规模经济。
 
-使用较小的、经济合理的[批量大小](http://www.innolution.com/resources/glossary/batch-size)
+使用较小的、经济合理的[批量大小](https://www.innolution.com/resources/glossary/batch-size)
 
 **库存、在制品**
 
-[库存](http://www.innolution.com/resources/glossary/inventory)不是信仰体系的一部分，因此不是重点。
+[库存](https://www.innolution.com/resources/glossary/inventory)不是信仰体系的一部分，因此不是重点。
 
-识别并管理库存以达到较好的[流动](http://www.innolution.com/resources/glossary/flow)
+识别并管理库存以达到较好的[流动](https://www.innolution.com/resources/glossary/flow)
 
 **人员浪费和工作浪费**
 
 分配人员以达到较高水平的利用率。
 
-关注于[空闲工作](http://www.innolution.com/resources/glossary/idle-work)，而不是[空闲人员](http://www.innolution.com/resources/glossary/idle-workers)
+关注于[空闲工作](https://www.innolution.com/resources/glossary/idle-work)，而不是[空闲人员](https://www.innolution.com/resources/glossary/idle-workers)
 
 **延误成本**
 
-几乎不考虑[延误成本](http://www.innolution.com/resources/glossary/cost-of-delay)
+几乎不考虑[延误成本](https://www.innolution.com/resources/glossary/cost-of-delay)
 
 一直考虑延误成本。
 
@@ -145,6 +145,6 @@ tags: [Scrum, 瀑布开发]
 
 仪式性(良好定义的流程和检查点)对于有效执行很重要。
 
-采用最少的、够用的[仪式](http://www.innolution.com/resources/glossary/ceremony)
+采用最少的、够用的[仪式](https://www.innolution.com/resources/glossary/ceremony)
 
-原文链接：[http://www.innolution.com/blog/plan-driven-vs-agile-principles](http://www.innolution.com/blog/plan-driven-vs-agile-principles)
+原文链接：[https://www.innolution.com/blog/plan-driven-vs-agile-principles](https://www.innolution.com/blog/plan-driven-vs-agile-principles)

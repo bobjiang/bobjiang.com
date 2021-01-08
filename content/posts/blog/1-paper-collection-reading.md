@@ -48,7 +48,7 @@ date: "2017-03-23"
 
 下图是工作坊中大家介绍的例子，大家自我介绍完后都觉得这样进行介绍太轻松了。
 
-![](http://upload-images.jianshu.io/upload_images/1622292-343fd0faeca8749e.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/1622292-343fd0faeca8749e.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 用一张纸进行自我介绍的示例图
 

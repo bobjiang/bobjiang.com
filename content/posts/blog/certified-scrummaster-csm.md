@@ -3,7 +3,7 @@ title: "Certified ScrumMaster (CSM中文认证课)-20160804-20160805-北京"
 date: "2016-07-09"
 ---
 
-报名请[点击链接](http://yihuode.io/activities/315)
+报名请[点击链接](https://yihuode.io/activities/315)
 
 **时间:** 2016年8月4日 - 2016年8月5日
 
@@ -13,13 +13,13 @@ date: "2016-07-09"
 
 **特别说明**：京东员工、敏捷社区志愿者有特别折扣，详情联系讲师（邮件或微信）
 
-![](http://res.yihuode.io/FomBwO6E22wD2ti3Pha5f4-kHUKf)
+![](https://res.yihuode.io/FomBwO6E22wD2ti3Pha5f4-kHUKf)
 
 ### 以往学员是如何评价的
 
-![](http://res.yihuode.io/FlLjKycAxftBPkVX9VPZHjN-dO_l)
+![](https://res.yihuode.io/FlLjKycAxftBPkVX9VPZHjN-dO_l)
 
-![](http://res.yihuode.io/FsRgdx1G6Q3l9U_XoNZkQUK0O2Pm)![](http://res.yihuode.io/FtVkCDHneA8toYd2ckSwOZYmEyQb)
+![](https://res.yihuode.io/FsRgdx1G6Q3l9U_XoNZkQUK0O2Pm)![](https://res.yihuode.io/FtVkCDHneA8toYd2ckSwOZYmEyQb)
 
 ## **课程特色**
 
@@ -82,7 +82,7 @@ date: "2016-07-09"
 
 可以给讲师写邮件（[bobjiang@bobjiang.com](mailto:bobjiang@bobjiang.com)） 或者加微信
 
-![](http://res.yihuode.io/FmYXhl_c0hY6FmnPeuhvc4fJlHeb)
+![](https://res.yihuode.io/FmYXhl_c0hY6FmnPeuhvc4fJlHeb)
 
 ## 讲师简介
 
@@ -92,7 +92,7 @@ date: "2016-07-09"
 
 京东敏捷教练、金牌讲师；旨在帮助企业改进工作方法以取得更好的商业价值
 
-《Scrum精髓》译者；博客[http://www.bobjiang.com](http://www.bobjiang.com/)
+《Scrum精髓》译者；博客[https://www.bobjiang.com](https://www.bobjiang.com/)
 
 中国敏捷社区核心成员、守望者。2011年起积极参与或者组织了国内各类敏捷大会活动，
 

@@ -18,7 +18,7 @@ I would like to share my story about acting small with think big.
 
 Here is my CST journey.
 
-Maybe you know, Certified Scrum Trainer (CST) is certified by [ScrumAlliance](http://scrumalliance.org), which is hard to get it. I am so honored to be one of CSTs, to promote Scrum all over the world. See more details, visit [ScrumAlliance](http://scrumalliance.org).
+Maybe you know, Certified Scrum Trainer (CST) is certified by [ScrumAlliance](https://scrumalliance.org), which is hard to get it. I am so honored to be one of CSTs, to promote Scrum all over the world. See more details, visit [ScrumAlliance](https://scrumalliance.org).
 
 In 2014, I got to know CST and the business model, and then I had a goal to be a CST. In the following 3 years, all my small actions towards this big goal. E.g I tought multiple-day Scrum class, and I involved more agile community activities. Also I gave speeches in many conferences.
 

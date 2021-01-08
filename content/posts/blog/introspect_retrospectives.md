@@ -28,7 +28,7 @@ URL: /introspec-retrospective-2013/
 
 为了避免主观或定型的发言，建议团队使用一个打分系统（从1-最低到10-最高）。调查结束后，团队就会得到一个当前迭代的平衡计分卡，因此很容易找出表现最好和最差的地方。
 
-![Retrospection Score Card](http://www.scrumalliance.org/getattachment/b50df3c0-1ce3-46da-9854-1fb005ca665c/Retrospection-Score-Card.png.aspx)
+![Retrospection Score Card](https://www.scrumalliance.org/getattachment/b50df3c0-1ce3-46da-9854-1fb005ca665c/Retrospection-Score-Card.png.aspx)
 
 ### 下面我们看一下
 
@@ -38,7 +38,7 @@ URL: /introspec-retrospective-2013/
 
 这些分数给了团队开会和讨论的结构化的方法。然而，做为ScrumMaster，定期监控会议的价值也是非常重要的。因此我建议你维护一个所有迭代对比的趋势报告。如下图：
 
-![Retrospective Trending](http://www.scrumalliance.org/getattachment/7f4431c7-cf59-410a-906f-35460679c259/Retrospective-Trending.png.aspx)
+![Retrospective Trending](https://www.scrumalliance.org/getattachment/7f4431c7-cf59-410a-906f-35460679c259/Retrospective-Trending.png.aspx)
 
 通过分析过去几个迭代的进展，你应该可以识别出以下点（**译者注：参考上图的Trend列**）：
 
@@ -48,8 +48,8 @@ URL: /introspec-retrospective-2013/
 
 在某些点，可以考虑从计分卡中移除“顶峰期”并引入新的主题，从而可以保持关注于低谷期和平台期。这会帮助你从不同的方面评估立足点以及帮助突破团队内单调的风险。
 
-![Project Health Chart](http://www.scrumalliance.org/getattachment/30b9de84-6fbd-4b29-a566-0968634632b6/Project-Health-Chart.png.aspx)
+![Project Health Chart](https://www.scrumalliance.org/getattachment/30b9de84-6fbd-4b29-a566-0968634632b6/Project-Health-Chart.png.aspx)
 
 正确使用回顾会议时，它可以洞察团队的健康度并突出改进的范围。如果不满意你的回顾会议，那么改变它！
 
-原文链接：[http://www.scrumalliance.org/community/articles/2013/december/introspect-the-retrospectives](http://www.scrumalliance.org/community/articles/2013/december/introspect-the-retrospectives)
+原文链接：[https://www.scrumalliance.org/community/articles/2013/december/introspect-the-retrospectives](https://www.scrumalliance.org/community/articles/2013/december/introspect-the-retrospectives)

@@ -33,7 +33,7 @@ date: "2013-12-19"
 
 [![3](/wp-content/uploads/2013/12/3-150x150.jpg)](/wp-content/uploads/2013/12/3.jpg)
 
-伍斌(Ben)，独立匠艺程序员。专注于ATDD/BDD、重构、及遗留代码解耦的学习和实践。译有《测试驱动数据库开发》一书，正撰写《编码操练：驯服烂代码》和《编码操练：ATDD/BDD验收测试驱动开发》两书，。北京邮电大学软件工程硕士，北京工业大学计算机专业学士。20年工作经验，其中1年软件开发咨询、11年程序员、3年测试、3年项目管理；所从事的项目的主要行业为通信领域，曾在Nortel Networks（北电网络）作为软件工程师和Scrummaster工作近6年。于2013年4月6日独立创办非盈利公益软件编程匠艺兴趣社——“bjdp.org北京设计模式学习组”，每月1次带领程序员进行线下结对编程操练，至今已活动10次。 个人网站：[http://www.wubinben.com/](http://www.wubinben.com/)。
+伍斌(Ben)，独立匠艺程序员。专注于ATDD/BDD、重构、及遗留代码解耦的学习和实践。译有《测试驱动数据库开发》一书，正撰写《编码操练：驯服烂代码》和《编码操练：ATDD/BDD验收测试驱动开发》两书，。北京邮电大学软件工程硕士，北京工业大学计算机专业学士。20年工作经验，其中1年软件开发咨询、11年程序员、3年测试、3年项目管理；所从事的项目的主要行业为通信领域，曾在Nortel Networks（北电网络）作为软件工程师和Scrummaster工作近6年。于2013年4月6日独立创办非盈利公益软件编程匠艺兴趣社——“bjdp.org北京设计模式学习组”，每月1次带领程序员进行线下结对编程操练，至今已活动10次。 个人网站：[https://www.wubinben.com/](https://www.wubinben.com/)。
 
 演讲主题：**TDD/ATDD/BDD:** **如何解决代码总难改、文档总过时、成果总离谱这三大顽疾**
 
@@ -45,7 +45,7 @@ date: "2013-12-19"
 
 演讲主题：**看板游戏**
 
-GetKanban (http://getkanban.com/)游戏是利用一套实体看板工具，让大家理解软件研发流程里看板的方法和管理机制。在看板之父David J Aderson的经典看板培训课上，这是一个必做的练习。这套游戏被David J. Aderson的学员们誉为手把手学会看板的最有效、最模拟、最互动、最好玩的方式。 通过这个游戏，你能够学会：
+GetKanban (https://getkanban.com/)游戏是利用一套实体看板工具，让大家理解软件研发流程里看板的方法和管理机制。在看板之父David J Aderson的经典看板培训课上，这是一个必做的练习。这套游戏被David J. Aderson的学员们誉为手把手学会看板的最有效、最模拟、最互动、最好玩的方式。 通过这个游戏，你能够学会：
 
 •软件开发领域Kanban的工作流程
 
@@ -141,7 +141,7 @@ This is an interactive and fun session where attendees will understand:
 
 [![11](/wp-content/uploads/2013/12/11-150x150.png)](/wp-content/uploads/2013/12/11.png)
 
-姜信宝 （Bob Jiang），个人博客 http://bobjiang.com。
+姜信宝 （Bob Jiang），个人博客 https://bobjiang.com。
 
 我喜欢新鲜事物，喜欢读书，喜欢分享。愿意和大家共同进步。
 
@@ -169,7 +169,7 @@ This is an interactive and fun session where attendees will understand:
 
 10年IT项目实施及项目管理经验，历经对日、欧美、国内项目的实施及项目管理工作，服务过的公司包括海辉、软通动力两家上市公司。在此过程中，参与完成多种类型项目管理规范流程的建立，同时为多个客户企业提供项目管理框架建设、培训和项目管理监督。擅长项目管理、业务分析、需求管理、企业知识管理、产品规划等。
 
-个人履历：[http://iamxiezhao.chinavalue.net/](http://iamxiezhao.chinavalue.net/)
+个人履历：[https://iamxiezhao.chinavalue.net/](https://iamxiezhao.chinavalue.net/)
 
 积极、主动、乐观
 
@@ -203,8 +203,8 @@ This is an interactive and fun session where attendees will understand:
 
 从2010年开始，国内敏捷社区的一批先行者，包括知名的敏捷培训师和教练，开始在全国范围内组织敏捷之旅系列活动，以让更多的城市和更多的朋友借此平台，了解敏捷，结交朋友，交流互动，从而形成一个全国范围内的社区平台。2010年的敏捷之旅，全国共有8个城市参与举办；2011年，14个城市。
 
-新浪微博：[@敏捷之旅北京](http://weibo.com/agiletourbj)
+新浪微博：[@敏捷之旅北京](https://weibo.com/agiletourbj)
 
 微信公众号：敏捷联合社区
 
-敏捷之旅网站：[http://www.agiletour.cn/](http://www.agiletour.cn/)
+敏捷之旅网站：[https://www.agiletour.cn/](https://www.agiletour.cn/)

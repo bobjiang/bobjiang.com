@@ -31,9 +31,9 @@ date: "2014-01-12"
 
 **ppt可以从以下途径下载**
 
-- [http://www.slideshare.net/bob\_jiang/agile1001-open-course-1](http://www.slideshare.net/bob_jiang/agile1001-open-course-1) （需要翻墙）
-- [http://www.360doc.com/showWeb/0/0/344800686.aspx](http://www.360doc.com/showWeb/0/0/344800686.aspx)
-- [http://www.docin.com/p-754177054.html](http://www.docin.com/p-754177054.html)
+- [https://www.slideshare.net/bob\_jiang/agile1001-open-course-1](https://www.slideshare.net/bob_jiang/agile1001-open-course-1) （需要翻墙）
+- [https://www.360doc.com/showWeb/0/0/344800686.aspx](https://www.360doc.com/showWeb/0/0/344800686.aspx)
+- [https://www.docin.com/p-754177054.html](https://www.docin.com/p-754177054.html)
 
 **合影**
 
@@ -41,4 +41,4 @@ date: "2014-01-12"
 
 \-----------------------------------------------------------------------
 
-[![qrcode_for_gh_1a45f645cae5_258 (1)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg) **微信公众号**: 敏捷那些事儿（agileplus） Agile1001公开课，每月一次，旨在推广和传播敏捷开发思想和Scrum，希望更多的开发者受益。欢迎关注。课程信息会定期发布，敬请关注。[公开课汇总链接](http://bobjiang.com/agile1001-open-course/)。
+[![qrcode_for_gh_1a45f645cae5_258 (1)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg) **微信公众号**: 敏捷那些事儿（agileplus） Agile1001公开课，每月一次，旨在推广和传播敏捷开发思想和Scrum，希望更多的开发者受益。欢迎关注。课程信息会定期发布，敬请关注。[公开课汇总链接](https://bobjiang.com/agile1001-open-course/)。

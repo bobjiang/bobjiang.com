@@ -42,7 +42,7 @@ ICF定义教练：
 
 能做好这几点已经很不易。如果想找一些具体的观察点，可以参考：
 
-[ScrumMaster检查清单](http://scrummasterchecklist.org/)
+[ScrumMaster检查清单](https://scrummasterchecklist.org/)
 
 # 思考
 做事需要有清单，不论对于ScrumMaster还是对于Product Owner。清单可以让我们的工作、生活变得简单。清单可以作为第一步，后续需要不断优化清单。
@@ -65,4 +65,4 @@ ICF定义教练：
 
 - 中国北方的第一位CST（Certified Scrum Trainer）  
 - [敏捷变革中心](https://www.c4at.cn/)（Center for Agile Transformation）合伙人  
-- [Bob的博客](http://www.bobjiang.com)、《Scrum精髓》译者
+- [Bob的博客](https://www.bobjiang.com)、《Scrum精髓》译者

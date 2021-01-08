@@ -15,7 +15,7 @@ tags: [版本规划, 敏捷计划]
 
  
 
-1\. 产品backlog需要符合[INVEST标准](http://bobjiang.com/2013/11/24/product_backlog_user_story/)（参见我的一篇博客）。为了达到这个标准，需要产品负责人（PO）和团队一起（早期有可能是团队代表或核心人）对产品backlog进行优先级排序，估算（有故事点估算、团队估算、三角估算等方法）等梳理工作。
+1\. 产品backlog需要符合[INVEST标准](https://bobjiang.com/2013/11/24/product_backlog_user_story/)（参见我的一篇博客）。为了达到这个标准，需要产品负责人（PO）和团队一起（早期有可能是团队代表或核心人）对产品backlog进行优先级排序，估算（有故事点估算、团队估算、三角估算等方法）等梳理工作。
 
  
 
@@ -45,4 +45,4 @@ tags: [版本规划, 敏捷计划]
 
 \-----------------------------------------------------------------------
 
-[![qrcode_for_gh_1a45f645cae5_258 (1)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg) **微信公众号**: 敏捷那些事儿（agileplus） Agile1001公开课，每月一次，旨在推广和传播敏捷开发思想和Scrum，希望更多的开发者受益。欢迎关注。课程信息会定期发布，敬请关注。[公开课汇总链接](http://bobjiang.com/agile1001-open-course/)。
+[![qrcode_for_gh_1a45f645cae5_258 (1)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg)](/wp-content/uploads/2013/12/qrcode_for_gh_1a45f645cae5_258-1.jpg) **微信公众号**: 敏捷那些事儿（agileplus） Agile1001公开课，每月一次，旨在推广和传播敏捷开发思想和Scrum，希望更多的开发者受益。欢迎关注。课程信息会定期发布，敬请关注。[公开课汇总链接](https://bobjiang.com/agile1001-open-course/)。

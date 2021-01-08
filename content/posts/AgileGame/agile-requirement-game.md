@@ -27,6 +27,6 @@ tags: [敏捷需求]
 
 8. 开发团队完成后，大家一起评审结果。
 
-原文：[http://www.bigvisible.com/2010/11/spec-writing-game/](http://www.bigvisible.com/2010/11/spec-writing-game/)
+原文：[https://www.bigvisible.com/2010/11/spec-writing-game/](https://www.bigvisible.com/2010/11/spec-writing-game/)
 
 游戏中用到的图形可以参考附件：![Specification Exercise_oppgaveomkravformidling1](/images/drawing-game.png)

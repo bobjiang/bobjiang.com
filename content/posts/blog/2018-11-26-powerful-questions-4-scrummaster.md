@@ -8,7 +8,7 @@ tags: [powerful question, scrummaster]
 ## questions
 A good question is a window to the heaven. During working hard on a solution or problem, if we can ask a good question, we could get insights always. 
 
-For a ScrumMaster, who is a new role from [Scrum](http://scrumguides.org), he should have good question skills, and always challege team by question them.
+For a ScrumMaster, who is a new role from [Scrum](https://scrumguides.org), he should have good question skills, and always challege team by question them.
 
 E.g ScrumMaster could leave the situation to the team.
 

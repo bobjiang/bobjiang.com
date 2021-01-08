@@ -120,7 +120,7 @@ github今天花的时间最多，从贡献度上可以看出来。
 社区这里除了上述的[敏捷家社区](https://www.agileplus.co)，我还在积极的组织和参与区块链技术社区：
 
 - [Hiblock官网](https://www.hiblock.net/) 
-- [Rebase社区](http://rebase.network/) 
+- [Rebase社区](https://rebase.network/) 
 
 “折腾”的2020年就这么过去了，又迎来的新的一年2021.
 大家一起加油呀~

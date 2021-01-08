@@ -167,14 +167,14 @@ Scrum板如下图，是一个白板，用于可视化团队在迭代内的进度
 
 ## 敏捷的本质
 
-敏捷的核心本质就是敏捷宣言，全名是“[敏捷软件开发宣言](http://agilemanifesto.org/iso/zhchs/manifesto.html)”。请认真仔细反复阅读。
+敏捷的核心本质就是敏捷宣言，全名是“[敏捷软件开发宣言](https://agilemanifesto.org/iso/zhchs/manifesto.html)”。请认真仔细反复阅读。
 
 ### 敏捷宣言
 ![](/images/agile-patterns/Slide19.png)
 
 ### 敏捷原则
 
-[敏捷原则中文版](http://agilemanifesto.org/iso/zhchs/principles.html)
+[敏捷原则中文版](https://agilemanifesto.org/iso/zhchs/principles.html)
 
 ![](/images/agile-patterns/Slide20.png)
 
