@@ -1,10 +1,11 @@
 baseURL = "https://www.bobjiang.com/"
 languageCode = "zh-cn"
 DefaultContentLanguage = "zh-cn"
-title = "Bob Jiang | 敏捷教练 | Scrum Master"
+title = "Bob Jiang | Scrum Master | 敏捷教练"
 theme = "ezhil"
 uglyURLs = true
-enableRobotsTXT = true
+enableRobotsTXT = false
+copyright = "© Copyright Bob Jiang"
 
 # Enable syntax highlighting.
 pygmentsstyle = "github"
@@ -17,10 +18,10 @@ googleAnalytics = "UA-36175470-1"
 # disqusShortname = "localhost"
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
-paginate = 5
+paginate = 10
 
 # Number of characters to show in summary.
-summaryLength = 20
+summaryLength = 140
 
 [sitemap]
   changefreq = "weekly"
@@ -28,13 +29,13 @@ summaryLength = 20
 
 [params]
     # 定义首页的description(在meta标签中，不宜太长，控制在100字以内)
-    description = "Bob Jiang 个人博客，敏捷教练，Certified Scrum Trainer，专注于敏捷培训、Scrum培训、敏捷实践、Scrum实战、组织级敏捷、系统思考、大规模敏捷、DevOps；个人成长；财务自由"
+    description = "Bob Jiang 是一名资深的敏捷教练，Certified Scrum Trainer，专注于敏捷培训、Scrum培训、敏捷实践、敏捷管理、敏捷领导力、组织级敏捷、系统思考、大规模敏捷、DevOps。"
 
     # 定义ICP备案信息
     icpLicense = ""
 
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "敏捷培训 | Scrum培训 | 组织创新"
+    subtitle = "敏捷培训 | Scrum培训 | 敏捷认证 | 敏捷开发 | 敏捷管理 | 敏捷实践"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
