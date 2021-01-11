@@ -5,8 +5,6 @@ url: /what-is-scrum/
 tags: [Scrum, Scrum framework, Scrum Master]
 ---
 
-# 7分钟揭晓Scrum的秘密（Scrum框架）
-
 ## 什么是Scrum
 
 > Scrum 是用于开发和持续支持复杂产品的一个框架。其中包括 Scrum 的角色、事件、工件，以及把它们组织在一起的规则...  
@@ -19,7 +17,7 @@ tags: [Scrum, Scrum framework, Scrum Master]
 
 > Scrum 是一个过程框架，自上世纪 90 年代初以来，它就已经被应用于管理复杂产品的开发上。Scrum并不是构建产品的一种过程或一项技术，倒不如说，它是一个框架， 在此框架 中您可以使用各种不同的过程和技术。Scrum 让您的产品管理和开发实践的相对成效更加清楚地显现出来，因此您可以去改进它们。
 
--- [Scrum指南](https://scrumguides.org/)
+- [Scrum指南](https://scrumguides.org/)
 
 从[Scrum指南](https://scrumguides.org/)中我们可以快速总结如下：
 
@@ -87,7 +85,7 @@ Scrum的5个价值观为：
 > 当承诺、勇气、专注、开放和尊重五大价值观为 Scrum 团队所践行与内化时，Scrum 的透明、检视和适应三大支柱成为现实，并且在每个人之间构建信任。Scrum 团队成员通过 Scrum 事件、角色和工件来学习和探索这些价值观。
 > Scrum 的成功应用取决于人们变得更为精通践行五项价值观。人们致力于实现 Scrum 团队 的目标。Scrum 团队成员有勇气去做正确的事并处理那些棘手的问题。每个人专注于 Sprint 和 Scrum 团队目标的工作。Scrum 团队及其利益攸关者同意将所有工作 和执行工作的挑战进行公开。Scrum 团队成员相互敬重，彼此成为更有能力和独立的人。
 
--- [Scrum指南](https://scrumguides.org/)
+[Scrum指南](https://scrumguides.org/)
 
 # 总结
 
