@@ -4,7 +4,7 @@ DefaultContentLanguage = "zh-cn"
 title = "Bob Jiang | Scrum Master | 敏捷教练"
 theme = "ezhil"
 uglyURLs = true
-enableRobotsTXT = false
+enableRobotsTXT = true
 copyright = "© Copyright Bob Jiang"
 
 # Enable syntax highlighting.
