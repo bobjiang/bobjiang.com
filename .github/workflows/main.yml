@@ -41,3 +41,4 @@ jobs:
           # e.g. "oss-cn-shanghai.aliyuncs.com"
           endpoint: oss-cn-beijing.aliyuncs.com
           folder: .
+
