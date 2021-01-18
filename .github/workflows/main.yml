@@ -39,6 +39,6 @@ jobs:
         access-key-id: ${{ secrets.OSS_KEY_ID }}
         access-key-secret: ${{ secrets.OSS_KEY_SECRET }}
     - name: 复制文件到阿里云OSS
-      run: ossutil cp -rf .vuepress/dist oss://bobjiangcom1/
+      run: ossutil cp -rf ./public/ oss://bobjiangcom1/
     - name: 设置永久缓存
       run: ossutil set-meta oss://bobjiangcom1/assets cache-control:"max-age=31536000" --update -rf
