@@ -40,5 +40,5 @@ jobs:
           bucket: bobjiangcom1
           # e.g. "oss-cn-shanghai.aliyuncs.com"
           endpoint: oss-cn-beijing.aliyuncs.com
-          folder: .
+          folder: ./public/
 
