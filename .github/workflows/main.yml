@@ -38,8 +38,6 @@ jobs:
         endpoint: oss-cn-beijing.aliyuncs.com
         access-key-id: ${{ secrets.OSS_KEY_ID }}
         access-key-secret: ${{ secrets.OSS_KEY_SECRET }}
-    - name: 删除冗余文件
-      run: ossutil rm oss://bobjiangcom1/assets -rf
     - name: 复制文件到阿里云OSS
       run: ossutil cp -rf .vuepress/dist oss://bobjiangcom1/
     - name: 设置永久缓存
