@@ -30,15 +30,14 @@ jobs:
 
     - name: Build
       run: hugo --minify
+      
  
-    # 设置阿里云OSS的 id/secret，存储到 github 的 secrets 中
-    - name: setup aliyun oss
-      uses: manyuanrong/setup-ossutil@master
+    - name: upload files to aliyun OSS
+      uses: fangbinwei/aliyun-oss-website-action@v1
       with:
-        endpoint: oss-cn-beijing.aliyuncs.com
-        access-key-id: ${{ secrets.OSS_KEY_ID }}
-        access-key-secret: ${{ secrets.OSS_KEY_SECRET }}
-    - name: 复制文件到阿里云OSS
-      run: ossutil cp -rf ./public/ oss://bobjiangcom1/
-    - name: 设置永久缓存
-      run: ossutil set-meta oss://bobjiangcom1/assets cache-control:"max-age=31536000" --update -rf
+          accessKeyId: ${{ secrets.OSS_KEY_ID }}
+          accessKeySecret: ${{ secrets.OSS_KEY_SECRET }}
+          bucket: bobjiangcom1
+          # e.g. "oss-cn-shanghai.aliyuncs.com"
+          endpoint: oss-cn-beijing.aliyuncs.com
+          folder: .
