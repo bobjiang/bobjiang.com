@@ -13,7 +13,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # Your Google analytics code.
-googleAnalytics = "UA-36175470-1"
+# googleAnalytics = "UA-36175470-1"
 # Your Disqus sortname.
 # disqusShortname = "localhost"
 
