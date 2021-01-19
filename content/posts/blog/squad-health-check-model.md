@@ -1,8 +1,8 @@
 ---
-title: "Spotify的大规模敏捷之路—使用一种新型的矩阵组织：部落、分队、分会和协会"
+title: "Spotify 团队健康检查模型"
 date: "2021-01-19"
-coverImage: "scaling-agile-spotify.png"
 URL: /2014/09/19/sqad_health_check_model/
+description: "团队是否是健康的？如何定义一个团队的健康度，本文是Spotify内部的一个示例，可以作为自己团队健康检查的一个起点。欢迎分享和使用。"
 tags: [Spotify, 健康度检查]
 ---
 

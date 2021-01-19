@@ -2,6 +2,7 @@
 title: "Spotify的大规模敏捷之路—使用一种新型的矩阵组织：部落、分队、分会和协会"
 date: "2021-01-19"
 URL: /2014/02/07/scaling-agile-spotify-with-tribes-squads-chapters-guilds/
+description: "Spotify 规模化敏捷的实践，不仅有组织结构的描述，还有具体实践。如果想要学习 Spotify 的敏捷，这是第一篇地点。随手分享给你的朋友 ：）"
 tags: [Spotify, 规模敏捷]
 ---
 
