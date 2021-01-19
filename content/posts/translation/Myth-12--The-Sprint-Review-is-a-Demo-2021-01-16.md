@@ -1,6 +1,6 @@
 ---
 Title: Sprint评审的误区 | 真不是演示会 demo show
-Date: 2021-01-16
+Date: 2021-01-18
 URL: /resources/blog/myth-12-sprint-review-demo/
 description: "Sprint评审会不是演示会，不是演示会，不是演示会。演示会（demo）仅仅用于演示，而忽略了适应和调整。请采用正确的术语来帮助团队建立正确的Scrum框架使用方法。"
 ---
