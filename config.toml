@@ -96,6 +96,11 @@ name = "线上课"
 url = "https://appmopev1px9533.h5.xiaoeknow.com/v1/course/column/p_5f27d789e4b0822d26880e60?type=3"
 weight = 7
 
+[[menu.main]]
+name = "CSM"
+url = "https://appmopev1px9533.h5.xiaoeknow.com/mp_more/eyJpZCI6IjI4OTk1MjkifQ"
+weight = 8
+
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
 [[params.social]]
