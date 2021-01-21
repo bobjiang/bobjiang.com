@@ -45,6 +45,8 @@
 	{{- end }}
 	{{- end }}
 
+	<link rel="canonical" href="{{ .Permalink }}" />
+
 	{{ if and (isset .Site.Params "social") (isset .Site.Params "feathericonscdn") (eq .Site.Params.featherIconsCDN true) -}}
 	<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
 	{{- else if (isset .Site.Params "social") -}}
