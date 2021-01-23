@@ -5,6 +5,8 @@ title = "Bob Jiang 敏捷培训 敏捷认证Scrum Master "
 theme = "ezhil"
 uglyURLs = true
 enableRobotsTXT = true
+canonifyURLs = true
+Author = "Bob Jiang"
 copyright = "© Copyright Bob Jiang"
 
 # Enable syntax highlighting.
