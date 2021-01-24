@@ -1,6 +1,6 @@
 ---
 title: "提问的艺术 - 敏捷教练技巧"
-date: "2021-01-22"
+date: "2021-01-23"
 url: /powerful-question-Scrum-Master-coaching-tips/
 description: "提问的艺术 - 本文通过一个虚构的故事讲述了Scrum Master工作中提问的技巧和艺术。然后详细阐述了什么是有力的提问和无力的提问并给出了具体例子及进行了对比，最后还为Scrum Master和敏捷教练提供了一个有力的提问检查表给大家使用。"
 tags: [提问的艺术, 提问的技巧, 有力的提问, 提问的力量, 敏捷教练技巧, Scrum Master窍门]
