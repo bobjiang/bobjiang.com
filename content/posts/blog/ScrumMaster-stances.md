@@ -1,7 +1,7 @@
 ---
 Title: 详细介绍Scrum Master八大职责（Scrum Master能力说明）
 Date: 2021-01-27
-URL: /scrum-master-8-skills/
+URL: /8-stances-of-scrum-master/
 description: "Scrum Master这个角色的职责很多人一直在困惑着，本文从八个方面详细介绍了Scrum Master的职责。作为Scrum提出的全新角色，他和传统的角色不一样，主要包含了以下职责：服务型领导，引导者，管理者，教练，导师，教师，清道夫，变革大师。本文还阐述了几种常见的Scrum Master职责的误区，看看你中招了吗？"
 tags: [scrum master职责, Scrum Master, 变革大师, 管理者, 教练, 引导者]
 ---
