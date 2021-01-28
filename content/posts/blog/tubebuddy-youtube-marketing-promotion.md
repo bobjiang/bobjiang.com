@@ -2,6 +2,7 @@
 title: Tubebuddy - 必备的Youtube营销工具 | Youtube推广工具 | Youtube利器
 date: "2020-04-05"
 url: /tubebuddy-youtube-marketing-tool/
+description: "youtube发布视频有一个必备工具，tubebuddy。本文详细介绍了如何使用tubebuddy帮助你进行选题，以及youtube视频的优化，youtube视频的营销以及推广。"
 tags: [tubebuddy, youtube, youtube营销, youtube营销工具, youtube推广工具, youtube关键词工具, youtube分析工具]
 ---
 
