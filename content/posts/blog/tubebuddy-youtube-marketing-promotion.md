@@ -51,7 +51,7 @@ tubebuddy有2个主要的访问入口：
 ## 为你的 youtube 视频吸引更多的流量 Youtube利器
 ![tubebuddy entry 1](/images/tubebuddy-entry-1.png)
 
-首先看看从右上角 tubebuddy 的入口，可以访问三个主要功能：
+首先看看从右上角 [tubebuddy](https://www.tubebuddy.com/bobjiang) 的入口，可以访问三个主要功能：
 
 - 选择发布时间
 - 视频优化
@@ -72,7 +72,7 @@ tubebuddy有2个主要的访问入口：
 点击 `SEO studio` 之后，如下图
 
 **第一步**
-例如，我要制作一个 tubebuddy 的视频，输入 tubebuddy，点击开始
+例如，我要制作一个 [tubebuddy](https://www.tubebuddy.com/bobjiang) 的视频，输入 tubebuddy，点击开始
 ![tubebuddy SEO studio](/images/tubebuddy-seo-studio1.png)
 
 **第二步**
@@ -96,7 +96,7 @@ tubebuddy有2个主要的访问入口：
 点击 `keywords explorer`如下图：
 ![tubebuddy Keywords Explorer](/images/tubebuddy-keywords-explorer1.png)
 
-假设这里我要搜索 tubebuddy 这个关键词
+假设这里我要搜索 [tubebuddy](https://www.tubebuddy.com/bobjiang) 这个关键词
 
 下图中搜索结果有4个关键区域：
 
@@ -134,7 +134,7 @@ tubebuddy有2个主要的访问入口：
 然后可以根据这些建议，有针对性的对自己的视频进行优化。
 
 ### tubebuddy 批量操作
-tubebuddy 还可以帮你进行批量操作。如批量复制 卡片或结束画面。
+[tubebuddy](https://www.tubebuddy.com/bobjiang) 还可以帮你进行批量操作。如批量复制 卡片或结束画面。
 点击一个视频的 tubebuddy 按钮，如下图：
 ![tubebuddy bulk](/images/tubebuddy-bulk.png)
 
