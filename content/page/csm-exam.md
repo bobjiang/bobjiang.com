@@ -3,7 +3,7 @@ title: "权威的国际敏捷认证Certified Scrum Master (CSM)考试流程"
 date: 2017-02-16T11:23:03+08:00
 type: "page"
 url: /csm-exam.html
-description: "CSM, Scrum联盟的权威敏捷认证"
+description: "Certified Scrum Master (CSM)是Scrum联盟的权威敏捷认证，全球认可的敏捷开发认证。全球拥有超过100万的敏捷认证会员。本文介绍什么是CSM，和其他敏捷认证的对比以及敏捷认证的常见问题。"
 ---
 
 ![csm banner](/images/csm-banner.png)

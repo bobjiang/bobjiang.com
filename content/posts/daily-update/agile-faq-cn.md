@@ -74,6 +74,5 @@ Sprint进行到一半的时候（比如两周的Sprint，过去了一周），�
 
 ## 赞助
 有了你的赞助，Bob会继续更新本页面，以及[敏捷词汇表](/agile-glossaries-cn/)
-以太赞助：0x521aacB43d89E1b8FFD64d9eF76B0a1074dEdaF8  
 ![](/images/wechat-payment.png)  
 ![](/images/alipay-payment.png)
